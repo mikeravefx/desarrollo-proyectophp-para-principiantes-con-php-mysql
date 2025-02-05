@@ -1,0 +1,107 @@
+Return-path: <sanper67@yahoo.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Mon, 21 Apr 2014 20:25:41 -0430
+Received: from nm32.bullet.mail.ne1.yahoo.com ([98.138.229.25]:26665)
+	by host.racksystem2.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <sanper67@yahoo.com>)
+	id 1WcOzr-001ilC-Pm
+	for gabrielagarcia@courierpack.com.ve; Mon, 21 Apr 2014 20:25:41 -0430
+Received: from [127.0.0.1] by nm32.bullet.mail.ne1.yahoo.com with NNFMP; 22 Apr 2014 00:55:38 -0000
+Received: from [98.138.100.116] by nm32.bullet.mail.ne1.yahoo.com with NNFMP; 22 Apr 2014 00:52:45 -0000
+Received: from [98.138.226.160] by tm107.bullet.mail.ne1.yahoo.com with NNFMP; 22 Apr 2014 00:52:45 -0000
+Received: from [127.0.0.1] by omp1061.mail.ne1.yahoo.com with NNFMP; 22 Apr 2014 00:52:45 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 154356.45823.bm@omp1061.mail.ne1.yahoo.com
+Received: (qmail 56700 invoked by uid 60001); 22 Apr 2014 00:52:45 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1398127965; bh=Ryuoeery+s4aZtPjyqY5OiWKuOCIzauuLFW5sstQkKc=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=J/6nUcgFlMtZBi2G5s7PFwdAyEbn1ibJIrRWOEZy0pnSUGnmWBnh5+3LoO9R79smnlQnySyG0Ui5m2eHnafRx9mHIFKvihGBMLKB2JSGi4/l7lVc4OpBKmJFO+N9vwfPtP3MQRtECL7WtJjADHzm379z8EP5wPOJsVKFlcDWX84=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type;
+  b=qV5QrodnQhjqegr82jHM1iNJNI2zCr6jfTUPlwZoRH1zgtQOfDUAuYtyoSrfR1qReJ8inN67uPL08QMco2SpqdeebrY1nQP1UjQM6DC5JdpKgF1+WInAXsM3Ub1BNKeGVjivXCVXjhW6288n8aOxD+MbVYBi7ChRHJtWRko8VcM=;
+X-YMail-OSG: BPrNgOAVM1kt2kFLIaN5RTXQAmXUroYiEacUNxrNFApdfKW
+ 0Gtk_jikT4vii66fs1_hZS_Kc_y8q0d3NZOfs4xyVPn0keYmjsRhYXUHOAbr
+ t1we7iSAFJNdNUegzVDRMvaiIMLhb_OMvv9I_NuHI8hF1xUtAWHf4qlfI9Xb
+ gg9VtSbRlI.xn0d26.o5j_mD5Qo01Lu.WsYYsRna4g0swvKfxVh2rUtKiAVe
+ z8S6L5HVptXlErIhW4fI4SAmfr1xKWhN8UvunKliWFRG3RWtoDV2YGrv5XiO
+ YvQv6qUvr627AoskbO.5GXGOQE2D_vVnmDu3lYCQ3FxmijrLrJxfENMlTe6t
+ QDvpQo6byL6zlD0R_xZe0kFXCCW1KlaH7Ol88fKeQomEA.YzwiS5_9jmk9r2
+ qy39aUhMZSLVdQu1Vpemmh9xL5UuYV6WOg.j4q.OjtTSWhM3AsPzFZ3krqt3
+ StAFfgsOue1WlNy0aLYhUtrjMxrCY87VZQhk6xlM0_Nl0umf7nGkp.7GROSG
+ 4mvh.A.cVdLdYLHcHqGLWx406503vGPjzpAm737yjRGe1AOpHKLh4y7PZFKs
+ -
+Received: from [186.166.78.68] by web122904.mail.ne1.yahoo.com via HTTP; Mon, 21 Apr 2014 17:52:44 PDT
+X-Rocket-MIMEInfo: 002.001,wqBCdWVuYXMgbm9jaGVzLiBMZXMgZXNjcmlibyBwYXJhIHNvbGljaXRhciBpbmZvcm1hY2nDs24gZGUgbGEgZmVjaGEgZGUgZW52aW8gZGUgbWkgdGVsZXZpc29yLiBEZXBvc2l0ZSBlbCBkaW5lcm8gZWwgMTAgZGUgYWJyaWwsIG1hcyBhdW4gZWwgbWlzbW8gZMOtYSBsZXMgcmVtaXTDrSBlbiBhcmNoaXZvIGFkanVudG8gbGEgY29waWEgZGVsIGRlcG9zaXRvIHkgaGFzdGEgbGEgZmVjaGEgbm8gaGUgcmVjaWJpZG8gaW5mb3JtYWNpw7NuIGFsIHJlc3BlY3RvLiBJZ3VhbG1lbnRlIGVuwqBkaWNobyBjb3JyZW8BMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.185.657
+References: <1397170061.22447.YahooMailNeo@web122902.mail.ne1.yahoo.com>
+Message-ID: <1398127964.16870.YahooMailNeo@web122904.mail.ne1.yahoo.com>
+Date: Mon, 21 Apr 2014 17:52:44 -0700 (PDT)
+From: yrma santana <sanper67@yahoo.com>
+Reply-To: yrma santana <sanper67@yahoo.com>
+Subject: =?iso-8859-1?Q?Re=3A_Dep=F3sito_Banesco?=
+To: Courrierpack <info@courierpack.com.ve>,
+  "gabrielagarcia@courierpack.com.ve" <gabrielagarcia@courierpack.com.ve>,
+  "info@courierpack.com.ve" <info@courierpack.com.ve>
+In-Reply-To: <1397170061.22447.YahooMailNeo@web122902.mail.ne1.yahoo.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1919040978-2130644724-1398127964=:16870"
+X-Spam-Status: No, score=0.4
+X-Spam-Score: 4
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Buenas noches. Les escribo para solicitar información de
+   la fecha de envio de mi televisor. Deposite el dinero el 10 de abril, mas
+   aun el mismo día les remití en archivo adjunto la copia del deposito y hasta
+    la fecha no he recibido información al respecto. Igualmente en dicho correo
+    aparecen los datos exigidos por ustedes para concretar dicho envio. Esperando
+    respuesta. [...] 
+ 
+ Content analysis details:   (0.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (sanper67[at]yahoo.com)
+  0.7 SPF_NEUTRAL            SPF: sender does not match SPF record (neutral)
+  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+                             (yrma santana <sanper67[at]yahoo.com>
+ )
+ -0.7 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (sanper67[at]yahoo.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--1919040978-2130644724-1398127964=:16870
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+=A0Buenas noches. Les escribo para solicitar informaci=F3n de la fecha de e=
+nvio de mi televisor. Deposite el dinero el 10 de abril, mas aun el mismo d=
+=EDa les remit=ED en archivo adjunto la copia del deposito y hasta la fecha=
+ no he recibido informaci=F3n al respecto. Igualmente en=A0dicho correo apa=
+recen los datos exigidos por ustedes para concretar dicho envio. Esperando =
+respuesta.=0A=0AYrma Santana
+--1919040978-2130644724-1398127964=:16870
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:12pt"><div>&nbsp;Buenas noches. Les escribo para solicitar informac=
+i=F3n de la fecha de envio de mi televisor. Deposite el dinero el 10 de abr=
+il, mas aun el mismo d=EDa les remit=ED en archivo adjunto la copia del dep=
+osito y hasta la fecha no he recibido informaci=F3n al respecto. Igualmente=
+ en&nbsp;dicho correo aparecen los datos exigidos por ustedes para concreta=
+r dicho envio. Esperando respuesta.</div><div><br></div><div>Yrma Santana</=
+div></div></body></html>
+--1919040978-2130644724-1398127964=:16870--

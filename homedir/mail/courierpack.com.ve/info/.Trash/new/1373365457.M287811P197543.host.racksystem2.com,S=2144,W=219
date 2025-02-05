@@ -1,0 +1,46 @@
+Return-path: <leal.said@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Mon, 08 Jul 2013 23:58:44 -0430
+Received: from mail-lb0-f171.google.com ([209.85.217.171]:54813)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <leal.said@gmail.com>)
+	id 1UwPXf-003lzf-W5
+	for info@courierpack.com.ve; Mon, 08 Jul 2013 23:58:44 -0430
+Received: by mail-lb0-f171.google.com with SMTP id 13so4320892lba.2
+        for <info@courierpack.com.ve>; Mon, 08 Jul 2013 21:28:42 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=K9yOce39XC04XNkLqnjcR4U3kCJrmREKeWI34OHc73w=;
+        b=Cg1xT6hlEaEGFBd9ifrFUfrqGV0ON4uN8p4jh6s8NyyBsmuN3S5pOmnMxJhYvOb/5U
+         iK9GNW6RMoNvW8wVofjnkNmSbSfy/x5YbQf8F25Ogjf1Y34HOWaWF5GLtP8fdzuYV4Qz
+         W8Qq/NG7Egzafh6IcVVFb2t8OHjzVuDEeutxfVtcVPYJMizs3OlPG0H/IW0ILRi0qhJr
+         oJshLYgLZsoXhgUxhig9MsbWtT6mK8ivhGcHqi6QBaRE6TFLSrgJj6YS3xRyijsR1HWy
+         wcjP0kN9Fd+8AD8L/PCC8KFw7nZtwU2hOphT+2AASh6y+ZgmJFtxaNRL16Upgv7z3vXc
+         kjGA==
+MIME-Version: 1.0
+X-Received: by 10.152.121.106 with SMTP id lj10mr12225851lab.27.1373344122416;
+ Mon, 08 Jul 2013 21:28:42 -0700 (PDT)
+Received: by 10.114.187.69 with HTTP; Mon, 8 Jul 2013 21:28:42 -0700 (PDT)
+Date: Mon, 8 Jul 2013 23:58:42 -0430
+Message-ID: <CALNqoCiUnnck2FBYVqZ4pxrESjvetqJzWoKONh8r_9La_3djSw@mail.gmail.com>
+Subject: informacion
+From: said leal <leal.said@gmail.com>
+To: info@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=089e01227af692325f04e10c9843
+
+--089e01227af692325f04e10c9843
+Content-Type: text/plain; charset=ISO-8859-1
+
+hola buenas el motivo de est mensaje es para saber si estan interezado en
+comprar cupos cadivi electronicos
+
+muchas gracias espero su repuesta....
+
+--089e01227af692325f04e10c9843
+Content-Type: text/html; charset=ISO-8859-1
+
+<div dir="ltr">hola buenas el motivo de est mensaje es para saber si estan interezado en comprar cupos cadivi electronicos<br><br>muchas gracias espero su repuesta....<br></div>
+
+--089e01227af692325f04e10c9843--

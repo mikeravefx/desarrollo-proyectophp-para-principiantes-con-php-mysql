@@ -1,0 +1,47 @@
+Return-path: <donotreply@wordpress.com>
+Envelope-to: ig_losroques@courierpack.com.ve
+Delivery-date: Tue, 24 Sep 2013 17:19:53 -0430
+Received: from smtp2.dfw.wordpress.com ([192.0.80.173]:58190)
+	by host.racksystem2.com with esmtp (Exim 4.80)
+	(envelope-from <donotreply@wordpress.com>)
+	id 1VOaUS-000gnT-8E
+	for ig_losroques@courierpack.com.ve; Tue, 24 Sep 2013 17:19:52 -0430
+Received: from smtp2.dfw.wordpress.com (localhost.localdomain [127.0.0.1])
+	by smtp2.dfw.wordpress.com (Postfix) with ESMTP id 55085740B23
+	for <ig_losroques@courierpack.com.ve>; Tue, 24 Sep 2013 21:49:50 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=wordpress.com; h=date:to
+	:from:subject:message-id:mime-version:content-transfer-encoding:
+	content-type; s=my5; bh=KIiBzgx1ekmAJzTTDNOGYxE/LOs=; b=usOaXcTQ
+	BfB+qKfH3NgwmHmWKY3jvuo1EllUIQDwN7rH1+ORq85F4B2RQBKGkwu9W7lqrVFq
+	C3745GUZTJoC5VgrdOz30S21q4zKnufc8aeyClhoNJ8CF5n2/5jFUAXPMLdLwPS6
+	0nfY6RarvYMPkIngrdlqxB0rldhziI5NSCg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=wordpress.com; h=date:to:from
+	:subject:message-id:mime-version:content-transfer-encoding:
+	content-type; q=dns; s=my5; b=MDuJe5PCzGqxWpNTpzSZJfKvAwzWaeDChz
+	aWq0f6ERqxfv6m6tL2lxJSSpIYlbpMrBZt47PlhkFEWamGQysPfZWWj/22CkPW7R
+	yEk2gWEEO4riMPbGFi4BBe/pg2C0xt8m1UpLHhlJNbotCR8KOVmbMphDqvzNX86L
+	yCazq5yZg=
+Received: from wordpress.com (unknown [66.135.48.199])
+	by smtp2.dfw.wordpress.com (Postfix) with ESMTP id 43B1D740B17
+	for <ig_losroques@courierpack.com.ve>; Tue, 24 Sep 2013 21:49:50 +0000 (UTC)
+Date: Tue, 24 Sep 2013 21:49:50 +0000
+To: ig_losroques@courierpack.com.ve
+From: "WordPress.com" <donotreply@wordpress.com>
+Subject: =?UTF-8?Q?[iglosroques]_Nueva_direcci=C3=B3n_de_correo_electr=C3=B3nico_d?=
+ =?UTF-8?Q?e_administrador?=
+Message-ID: <9a978f296b340393f3d0ac4be1050953@wordpress.com>
+X-Priority: 3
+X-Automattic-Destination: aWdfbG9zcm9xdWVzQGNvdXJpZXJwYWNrLmNvbS52ZQ==
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+
+Estimado usuario,=0A=0AHas solicitado cambiar tu direcci=C3=B3n de correo e=
+lectr=C3=B3nico de =0Aadministraci=C3=B3n para tu sitio.=0ASi esto es corre=
+cto haz clic en el siguiente enlace para cambiarla:=0Ahttp://iglosroques.wo=
+rdpress.com/wp-admin/adminemail/b9e365668e67502055720ac41d9ad76d/=0A=0APued=
+es ignorar y borrar este correo electr=C3=B3nico con seguridad si no=0Aquie=
+res llevar a cabo esta acci=C3=B3n.=0A=0AEste correo electr=C3=B3nico se ha=
+ enviado a ig_losroques@courierpack.com.ve=0A=0AGracias,=0ADesde WordPress.=
+com=0Ahttp://wordpress.com/ 
+

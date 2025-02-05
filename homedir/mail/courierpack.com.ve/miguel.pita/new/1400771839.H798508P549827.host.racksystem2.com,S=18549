@@ -1,0 +1,483 @@
+Return-path: <luisa.bonilla.28@gmail.com>
+Envelope-to: Miguel.pita@courierpack.com.ve
+Delivery-date: Thu, 22 May 2014 10:47:19 -0430
+Received: from mail-wi0-f174.google.com ([209.85.212.174]:49350)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <luisa.bonilla.28@gmail.com>)
+	id 1WnUk8-002J21-97; Thu, 22 May 2014 10:47:19 -0430
+Received: by mail-wi0-f174.google.com with SMTP id r20so9491267wiv.1
+        for <multiple recipients>; Thu, 22 May 2014 08:17:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=3T4/X8fUmmzPkdtQQgW/7UdLCtBW+05DCnSvUgnIq00=;
+        b=cii0YwtxdASjs1OxQFhPGztSBD7wlxETKWQi5Trh2dWExYwtYvUvRyFZT2Kv++9Y25
+         PGM2+Wt15+LAYEXEg0j1LU+w3FbYniQvGyWzsIcBYnSVagF4Ytlbqc46IuSenT9bulBU
+         4PbwJQm+NyRmbDP5/l5C3wmxTAgtMjVJEojSsEqu9f9DYkMz+4xUXlKp3rbM0eHhUFyg
+         oOIArr01WPGwQHBjC2ubLntcxQYrb1qMCzee/x7Op0rfHTWwuO1L1DdQjummmoKGQY/R
+         SrEe9bun0Hm5B/frJILdUGX5K67JFtjzBHlut6ir1eaBHmCDn/9XZGCuP31Ztobgf+yS
+         9smw==
+MIME-Version: 1.0
+X-Received: by 10.180.13.208 with SMTP id j16mr16835926wic.58.1400771835271;
+ Thu, 22 May 2014 08:17:15 -0700 (PDT)
+Received: by 10.216.165.194 with HTTP; Thu, 22 May 2014 08:17:15 -0700 (PDT)
+In-Reply-To: <CADeDWa5UpR0iH69E7Fs_WpXD1Vf=m53nK+g9EebwuQsC9GN1wQ@mail.gmail.com>
+References: <697207084-1400094010-cardhu_decombobulator_blackberry.rim.net-1057624647-@b3.c4.bise6.blackberry>
+	<CADeDWa53sHJmq_RLbwqWLRAKsZeg5r-ADz-NgbyXxKXax-P3AA@mail.gmail.com>
+	<64935219-1400096905-cardhu_decombobulator_blackberry.rim.net-939025306-@b3.c4.bise6.blackberry>
+	<CADeDWa4Sg0d9SOD77RwZBYx7_kPbUnS_=eUBs5eBGnds9B2A2w@mail.gmail.com>
+	<1384293270-1400097205-cardhu_decombobulator_blackberry.rim.net-603026066-@b3.c4.bise6.blackberry>
+	<CADeDWa5UpR0iH69E7Fs_WpXD1Vf=m53nK+g9EebwuQsC9GN1wQ@mail.gmail.com>
+Date: Thu, 22 May 2014 10:47:15 -0430
+Message-ID: <CADeDWa6h5QaMeXRTJfGYBdNmVvbMOC2UH9-AZ1-RFKQ6ateXbA@mail.gmail.com>
+Subject: Re: CPK
+From: Luisa Bonilla <luisa.bonilla.28@gmail.com>
+To: info@courierpack.com.ve, Gabrielagarcia@courierpack.com, 
+	Miguel.pita@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=001a11c24440a7244304f9fe9be5
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Buenos Días. Ya recibi el paquete, todo perfeto. Muchas gracias.
+    Saludos, [...] 
+ 
+ Content analysis details:   (0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (luisa.bonilla.28[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (luisa.bonilla.28[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--001a11c24440a7244304f9fe9be5
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Buenos D=C3=ADas.
+
+Ya recibi el paquete, todo perfeto. Muchas gracias.
+
+Saludos,
+
+
+El 15 de mayo de 2014, 12:00, Luisa Bonilla
+<luisa.bonilla.28@gmail.com>escribi=C3=B3:
+
+> Estimados,
+>
+> Anexo copia de la transferencia y les dejo la informaci=C3=B3n solicitada=
+.
+>
+> Datos de la Compra
+>
+> Nombre del cliente registrado: LUISA BONILLA
+> Producto(s) Cancelados: FLETE POR SUETER
+> Fecha de Deposito: 15/05/14
+> Monto Depositado: Bs. 550.00
+> Envio Incluido en el Pago (Si/No): SI
+> Banco en donde se deposit=C3=B3 BANESCO
+> Tipo de Deposito: TRANSFERENCIA BANACARIA
+> Nro de Referencia/Comprobante 285753888
+>
+> Datos para el Envio
+>
+> Direccion de Envio: Av. Libertador, edif. centro parima, piso 10, ofic.
+> 1003-1004, Chacao.
+> Ciudad y Estado: MIRANDA, CARACAS
+> Municipio: CHACAO                  Parroquia: CHACAO
+> Codigo Postal: 1060
+> Persona que Recibe: Luisa Bonilla
+> Cedula E-84.322.143
+> Telefono de Contacto: 0424-1565277
+>
+> Horario: De Lunes a Viernes de 08am a 5pm
+>
+> --
+> *Saludos Cordiales,*
+> *Att. Luisa Bonilla.*
+>
+> El 14 de mayo de 2014, 15:23, CourierPack <info@courierpack.com.ve>escrib=
+i=C3=B3:
+>
+> Perfecto Sra Luisa. Muchas gracias Feliz dia..
+>> Atencion al Cliente
+>>
+>> Courier Pack
+>> 5900 NW 99th Ave Unit # 6
+>> Doral, FL 33178
+>> ------------------------------
+>> *From: * Luisa Bonilla <luisa.bonilla.28@gmail.com>
+>> *Date: *Wed, 14 May 2014 15:19:53 -0430
+>> *To: *<info@courierpack.com.ve>
+>> *Subject: *Re: CPK
+>>
+>> Perfecto!
+>>
+>> El d=C3=ADa de ma=C3=B1ana les envio copia de la transferecia y toda la =
+informaci=C3=B3n
+>> que solicitan.
+>>
+>> Saludos.
+>>
+>> --
+>> *Saludos Cordiales,*
+>> *Att. Luisa Bonilla.*
+>>
+>> El 14 de mayo de 2014, 15:18, CourierPack <info@courierpack.com.ve>escri=
+bi=C3=B3:
+>>
+>>> Sra Luisa, en el precio esta el envio a su ubicacion. Y si. Aceptamos
+>>> transferencias
+>>> Atencion al Cliente
+>>>
+>>> Courier Pack
+>>> 5900 NW 99th Ave Unit # 6
+>>> Doral, FL 33178
+>>> ------------------------------
+>>> *From: * Luisa Bonilla <luisa.bonilla.28@gmail.com>
+>>> *Date: *Wed, 14 May 2014 15:03:47 -0430
+>>> *To: *<info@courierpack.com.ve>; <Gabrielagarcia@courierpack.com>; <
+>>> Miguel.pita@courierpack.com.ve>
+>>> *Subject: *Re: CPK
+>>>
+>>> Hola buenas tardes.
+>>>
+>>> Quisiera confirmar si aceptan tranferencias bancarias desde banesco y s=
+i
+>>> los Bs. 550.00 incluyen el envio del paquete a mi oficina en Chacao.
+>>>
+>>> Quedo a la espera de su confirmaci=C3=B3n.
+>>>
+>>> Gracias.
+>>>
+>>> --
+>>> *Saludos Cordiales,*
+>>> *Att. Luisa Bonilla.*
+>>>
+>>>
+>>> El 14 de mayo de 2014, 14:30, CourierPack <info@courierpack.com.ve>escr=
+ibi=C3=B3:
+>>>
+>>>> Buenas Tardes  Sra. Luisa Bonilla Por este medio se le informa que su
+>>>> carga se encuentra en nuestros almaneces disponible para su envio y en=
+trega
+>>>> .
+>>>>
+>>>> Aprovechamos para indicar que el costo por el servicio de flete es de
+>>>> Bs. 550**,
+>>>> Conjuntamente se le indica el detalle bancario
+>>>>
+>>>> Titular: Gabriela Garcia
+>>>> Cuenta Corriente:  0134.0066.12.066.306.9613
+>>>> Banco: Banesco
+>>>> C.I.: 18.539.138
+>>>>
+>>>>
+>>>> Atencion telefonica  de Lunes a Viernes  de 10am a 4 pm
+>>>>
+>>>> Esta es nuestra informaci=C3=B3n de contacto:
+>>>> Tel=C3=A9fono: 0424.108.27.57 / 0414.900.75.90
+>>>> E-mail: Gabrielagarcia@courierpack.com.ve
+>>>> Miguel.pita@courierpack.com.ve
+>>>> Persona Contacto: Gabriela Garcia/ Miguel Pita
+>>>>
+>>>>
+>>>> Una vez realizado el pago, enviar  un correo a esta direcci=C3=B3n
+>>>> Gabrielagarcia@courierpack.com
+>>>> Miguel.pita@courierpack.com.ve con la siguiente informaci=C3=B3n:
+>>>>
+>>>> Datos de la Compra
+>>>>
+>>>> Nombre del cliente registrado _______________
+>>>> Producto(s) Cancelados _______________
+>>>> Fecha de Deposito ________
+>>>> Monto Depositado _______
+>>>> Envio Incluido en el Pago (Si/No)_______
+>>>> Banco en donde se deposit=C3=B3__________
+>>>> Tipo de Deposito _____________
+>>>> Nro de Referencia/Comprobante ___________
+>>>>
+>>>> Datos para el Envio
+>>>>
+>>>> Direccion de Envio Envio: ___________
+>>>> Ciudad y Estado_____________
+>>>> Municipio __________                  Parroquia ____________
+>>>> Codigo Postal ___________
+>>>> Persona que Recibe ____________
+>>>> Cedula ___________
+>>>> Telefono de Contacto ____________
+>>>>
+>>>> En CPK  estamos para servirte. Cualquier duda no dejes de consultarnos
+>>>> por las canales antes presentados.
+>>>>
+>>>> Atencion al Cliente
+>>>>
+>>>> Courier Pack
+>>>> 5900 NW 99th Ave Unit # 6
+>>>> Doral, FL 33178
+>>>
+>>>
+>>>
+>>>
+>>>
+>>
+>>
+>>
+>>
+>
+>
+> --
+> *Saludos Cordiales,*
+> *Att. Luisa Bonilla.*
+>
+
+
+
+--=20
+*Saludos Cordiales,*
+*Att. Luisa Bonilla.*
+
+--001a11c24440a7244304f9fe9be5
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Buenos D=C3=ADas.<div><br></div><div>Ya recibi el paquete,=
+ todo perfeto. Muchas gracias.</div><div><br></div><div>Saludos,=C2=A0</div=
+></div><div class=3D"gmail_extra"><br><br><div class=3D"gmail_quote">El 15 =
+de mayo de 2014, 12:00, Luisa Bonilla <span dir=3D"ltr">&lt;<a href=3D"mail=
+to:luisa.bonilla.28@gmail.com" target=3D"_blank">luisa.bonilla.28@gmail.com=
+</a>&gt;</span> escribi=C3=B3:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div dir=3D"ltr">Estimados,<div><br></div><d=
+iv>Anexo copia de la transferencia y les dejo la informaci=C3=B3n solicitad=
+a.</div>
+<div><br></div><div><p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"=
+><span style=3D"font-size:10pt;line-height:107%;font-family:Arial,sans-seri=
+f">Datos de la Compra</span><span style=3D"font-size:10pt;line-height:107%;=
+font-family:Arial,sans-serif"><br>
+
+
+<br>
+<span style=3D"background-repeat:initial initial">Nombre
+del cliente registrado: LUISA BONILLA<br>
+<span style=3D"background-repeat:initial initial">Producto(s)
+Cancelados: FLETE POR SUETER<br>
+<span style=3D"background-repeat:initial initial">Fecha
+de Deposito: 15/05/14 <br>
+<span style=3D"background-repeat:initial initial">Monto
+Depositado: Bs. 550.00<br>
+<span style=3D"background-repeat:initial initial">Envio
+Incluido en el Pago (Si/No): SI<br>
+<span style=3D"background-repeat:initial initial">Banco
+en donde se deposit=C3=B3 BANESCO<br>
+<span style=3D"background-repeat:initial initial">Tipo
+de Deposito: TRANSFERENCIA BANACARIA<br>
+<span style=3D"background-repeat:initial initial">Nro de
+Referencia/Comprobante 285753888<br>
+<br>
+<span style=3D"background-repeat:initial initial">Datos
+para el Envio</span><br>
+<br>
+<span style=3D"background-repeat:initial initial">Direccion
+de Envio: Av. Libertador, edif. centro parima, piso 10, ofic. 1003-1004, Ch=
+acao.<br>
+<span style=3D"background-repeat:initial initial">Ciudad
+y Estado: MIRANDA, CARACAS<br>
+<span style=3D"background-repeat:initial initial">Municipio:
+CHACAO =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0Parroq=
+uia:
+CHACAO<br>
+<span style=3D"background-repeat:initial initial">Codigo
+Postal: 1060<br>
+<span style=3D"background-repeat:initial initial">Persona
+que Recibe: Luisa Bonilla<br>
+<span style=3D"background-repeat:initial initial">Cedula
+E-84.322.143<br>
+<span style=3D"background-repeat:initial initial">Telefono
+de Contacto: 0424-1565277</span></span></span></span></span></span></span><=
+/span></span></span></span></span></span></span></span></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:10pt;line-height:107%;font-=
+family:Arial,sans-serif">Horario: De Lunes a Viernes de 08am a
+5pm</span></p></div><div class=3D"gmail_extra"><br></div><div class=3D"gmai=
+l_extra"><div class=3D""><span style=3D"color:rgb(80,0,80)">--=C2=A0</span>=
+<br style=3D"color:rgb(80,0,80)"><div style=3D"color:rgb(80,0,80)"><b><font=
+ color=3D"#3333ff" face=3D"garamond, serif">Saludos Cordiales,</font></b></=
+div>
+
+<div style=3D"color:rgb(80,0,80)"><font color=3D"#3333ff" face=3D"garamond,=
+ serif"><b>Att. Luisa<span style=3D"font-style:italic">=C2=A0</span>Bonilla=
+.</b></font></div><br></div><div class=3D"gmail_quote">El 14 de mayo de 201=
+4, 15:23, CourierPack <span dir=3D"ltr">&lt;<a href=3D"mailto:info@courierp=
+ack.com.ve" target=3D"_blank">info@courierpack.com.ve</a>&gt;</span> escrib=
+i=C3=B3:<div>
+<div class=3D"h5"><br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border-=
+left-width:1px;border-left-color:rgb(204,204,204);border-left-style:solid;p=
+adding-left:1ex"><u></u><div>Perfecto Sra Luisa. Muchas gracias Feliz dia..=
+ <div>
+
+<div>Atencion al Cliente<br><br>Courier Pack <br>5900 NW 99th Ave Unit # 6<=
+br>Doral, FL 33178</div><hr><div><b>From: </b> Luisa Bonilla &lt;<a href=3D=
+"mailto:luisa.bonilla.28@gmail.com" target=3D"_blank">luisa.bonilla.28@gmai=
+l.com</a>&gt;
+</div></div><div><b>Date: </b>Wed, 14 May 2014 15:19:53 -0430</div><div><b>=
+To: </b>&lt;<a href=3D"mailto:info@courierpack.com.ve" target=3D"_blank">in=
+fo@courierpack.com.ve</a>&gt;</div><div><b>Subject: </b>Re: CPK</div><div>
+
+<div><div><br></div><div dir=3D"ltr">Perfecto!=C2=A0<div><br></div><div>El =
+d=C3=ADa de ma=C3=B1ana les envio copia de la transferecia y toda la inform=
+aci=C3=B3n que solicitan.</div><div><br></div><div>Saludos.</div><div><br><=
+/div><div class=3D"gmail_extra">
+
+--=C2=A0<br><div>
+<b><font color=3D"#3333ff" face=3D"garamond, serif">Saludos Cordiales,</fon=
+t></b></div><div><font color=3D"#3333ff" face=3D"garamond, serif"><b>Att. L=
+uisa<span style=3D"font-style:italic">=C2=A0</span>Bonilla.</b></font></div=
+><br><div class=3D"gmail_quote">
+
+
+El 14 de mayo de 2014, 15:18, CourierPack <span dir=3D"ltr">&lt;<a href=3D"=
+mailto:info@courierpack.com.ve" target=3D"_blank">info@courierpack.com.ve</=
+a>&gt;</span> escribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"=
+margin:0px 0px 0px 0.8ex;border-left-width:1px;border-left-color:rgb(204,20=
+4,204);border-left-style:solid;padding-left:1ex">
+
+
+<u></u><div>Sra Luisa, en el precio esta el envio a su ubicacion. Y si. Ace=
+ptamos transferencias <div><div>Atencion al Cliente<br><br>Courier Pack <br=
+>5900 NW 99th Ave Unit # 6<br>Doral, FL 33178</div></div><hr><div>
+<b>From: </b> Luisa Bonilla &lt;<a href=3D"mailto:luisa.bonilla.28@gmail.co=
+m" target=3D"_blank">luisa.bonilla.28@gmail.com</a>&gt;
+</div><div><b>Date: </b>Wed, 14 May 2014 15:03:47 -0430</div><div><b>To: </=
+b>&lt;<a href=3D"mailto:info@courierpack.com.ve" target=3D"_blank">info@cou=
+rierpack.com.ve</a>&gt;; &lt;<a href=3D"mailto:Gabrielagarcia@courierpack.c=
+om" target=3D"_blank">Gabrielagarcia@courierpack.com</a>&gt;; &lt;<a href=
+=3D"mailto:Miguel.pita@courierpack.com.ve" target=3D"_blank">Miguel.pita@co=
+urierpack.com.ve</a>&gt;</div>
+
+
+<div><b>Subject: </b>Re: CPK</div><div><div><div><br></div><div dir=3D"ltr"=
+>Hola buenas tardes.<div><br></div><div>Quisiera confirmar si aceptan tranf=
+erencias bancarias desde banesco y si los Bs. 550.00 incluyen el envio del =
+paquete a mi oficina en Chacao.</div>
+
+
+<div><br></div><div>Quedo a la espera de su confirmaci=C3=B3n.</div>
+<div><br></div><div>Gracias.</div><div><br></div><div>--=C2=A0<br><div><b><=
+font color=3D"#3333ff" face=3D"garamond, serif">Saludos Cordiales,</font></=
+b></div><div><font color=3D"#3333ff" face=3D"garamond, serif"><b>Att. Luisa=
+<span style=3D"font-style:italic">=C2=A0</span>Bonilla.</b></font></div>
+
+
+
+</div><div class=3D"gmail_extra"><br><br><div class=3D"gmail_quote">El 14 d=
+e mayo de 2014, 14:30, CourierPack <span dir=3D"ltr">&lt;<a href=3D"mailto:=
+info@courierpack.com.ve" target=3D"_blank">info@courierpack.com.ve</a>&gt;<=
+/span> escribi=C3=B3:<br>
+
+
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border-=
+left-width:1px;border-left-color:rgb(204,204,204);border-left-style:solid;p=
+adding-left:1ex">Buenas Tardes =C2=A0Sra. Luisa Bonilla Por este medio se l=
+e informa que su carga se encuentra en nuestros almaneces disponible para s=
+u envio y entrega .<br>
+
+
+
+
+<br>
+Aprovechamos para indicar que el costo por el servicio de flete es de Bs. 5=
+50**,<br>
+Conjuntamente se le indica el detalle bancario=C2=A0<br>
+<br>
+Titular: Gabriela Garcia=C2=A0<br>
+Cuenta Corriente: =C2=A00134.0066.12.066.306.9613=C2=A0<br>
+Banco: Banesco<br>
+C.I.: 18.539.138=C2=A0<br>
+<br>
+<br>
+Atencion telefonica =C2=A0de Lunes a Viernes =C2=A0de 10am a 4 pm<br>
+<br>
+Esta es nuestra informaci=C3=B3n de contacto:<br>
+Tel=C3=A9fono: 0424.108.27.57 / 0414.900.75.90<br>
+E-mail: <a href=3D"mailto:Gabrielagarcia@courierpack.com.ve" target=3D"_bla=
+nk">Gabrielagarcia@courierpack.com.ve</a><br>
+<a href=3D"mailto:Miguel.pita@courierpack.com.ve" target=3D"_blank">Miguel.=
+pita@courierpack.com.ve</a><br>
+Persona Contacto: Gabriela Garcia/ Miguel Pita<br>
+<br>
+<br>
+Una vez realizado el pago, enviar =C2=A0un correo a esta direcci=C3=B3n <a =
+href=3D"mailto:Gabrielagarcia@courierpack.com" target=3D"_blank">Gabrielaga=
+rcia@courierpack.com</a><br>
+<a href=3D"mailto:Miguel.pita@courierpack.com.ve" target=3D"_blank">Miguel.=
+pita@courierpack.com.ve</a> con la siguiente informaci=C3=B3n:<br>
+<br>
+Datos de la Compra<br>
+<br>
+Nombre del cliente registrado _______________<br>
+Producto(s) Cancelados _______________<br>
+Fecha de Deposito ________<br>
+Monto Depositado _______<br>
+Envio Incluido en el Pago (Si/No)_______<br>
+Banco en donde se deposit=C3=B3__________<br>
+Tipo de Deposito _____________<br>
+Nro de Referencia/Comprobante ___________<br>
+<br>
+Datos para el Envio<br>
+<br>
+Direccion de Envio Envio: ___________<br>
+Ciudad y Estado_____________<br>
+Municipio __________ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0Parroquia ____________<br>
+Codigo Postal ___________<br>
+Persona que Recibe ____________<br>
+Cedula ___________<br>
+Telefono de Contacto ____________<br>
+<br>
+En CPK =C2=A0estamos para servirte. Cualquier duda no dejes de consultarnos=
+ por las canales antes presentados.<br>
+<br>
+Atencion al Cliente<br>
+<br>
+Courier Pack<br>
+5900 NW 99th Ave Unit # 6<br>
+Doral, FL 33178</blockquote></div><br><br clear=3D"all"><div><br></div>
+</div></div>
+
+</div></div></div></blockquote></div><br><br clear=3D"all"><div><br></div><=
+br>
+</div></div>
+
+</div></div></div></blockquote></div></div></div><div><div class=3D"h5"><br=
+><br clear=3D"all"><div><br></div>-- <br><div><b><font color=3D"#3333ff" fa=
+ce=3D"garamond, serif">Saludos Cordiales,</font></b></div>
+<div><font color=3D"#3333ff" face=3D"garamond, serif"><b>Att. Luisa<span st=
+yle=3D"font-style:italic"> </span>Bonilla.</b></font></div>
+</div></div></div></div>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br><div><b><fon=
+t color=3D"#3333ff" face=3D"garamond, serif">Saludos Cordiales,</font></b><=
+/div>
+<div><font color=3D"#3333ff" face=3D"garamond, serif"><b>Att. Luisa<span st=
+yle=3D"font-style:italic"> </span>Bonilla.</b></font></div>
+</div>
+
+--001a11c24440a7244304f9fe9be5--

@@ -1,0 +1,12 @@
+Mar 14 20:28:39.750440 check[713022]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/courierp/.razor/razor-agent.log
+Mar 14 20:28:41.054230 check[713022]: [ 3] mail 1 is not known spam.
+Mar 14 23:39:29.751992 check[756312]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/courierp/.razor/razor-agent.log
+Mar 14 23:39:30.268570 check[756312]: [ 3] mail 1 is not known spam.
+Mar 17 10:24:19.783162 check[559174]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/courierp/.razor/razor-agent.log
+Mar 17 10:54:37.272517 check[626999]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/courierp/.razor/razor-agent.log
+Mar 17 10:58:37.947008 check[626999]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/courierp/.razor/razor-agent.log
+Mar 17 14:17:48.172833 check[688511]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/courierp/.razor/razor-agent.log
+Mar 18 00:32:13.876491 check[213044]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/courierp/.razor/razor-agent.log
+Mar 18 00:32:15.185086 check[213044]: [ 3] mail 1 is not known spam.
+Mar 18 09:21:17.334538 check[123539]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/courierp/.razor/razor-agent.log
+Mar 18 09:23:21.319010 check[123539]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/courierp/.razor/razor-agent.log

@@ -1,0 +1,986 @@
+Return-path: <bounces+8667-56c1-info=courierpack.com.ve@email.change.org>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Wed, 19 Feb 2014 11:29:01 -0430
+Received: from o2.email.change.org ([208.115.214.114]:24625)
+	by host.racksystem2.com with smtp (Exim 4.82)
+	(envelope-from <bounces+8667-56c1-info=courierpack.com.ve@email.change.org>)
+	id 1WG9Xd-002t3j-Nr
+	for info@courierpack.com.ve; Wed, 19 Feb 2014 11:28:57 -0430
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=change.org; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding:list-unsubscribe; 
+	s=smtpapi; bh=3ogFswABZnFY+5YXkZ6sw1o7VWM=; b=ZLnbG+XTY+Ti9eq28K
+	weaqjahpzrHHafBMZq6kcYpYoSmirmnUfOTFpnGGM5qhzjsHgz6n6reHjHv/0uSf
+	8bgoMY1er3Gy1ZrISLVW6Ojkypfw8iARk4iIQGK8StkG0ZiKLKuTglOIAcpY1H9X
+	BhV6j42T/0sohTD/u4vL4NhpU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=change.org; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding:list-unsubscribe; 
+	q=dns; s=smtpapi; b=GSJKf+eTz2ILsb3NqgJ3OT6zM380zFsXXVq90Ne/cKk4
+	ON6rLf10f7BX7yse6544IPAc/r0Z+Ju9qFpkQLGWoYpkf7gOH5yKR8I51bcuoRhe
+	m7J7l52LK3fGBr9dK7yOHBs/0VWHPtTcg8Mwajct7k+8uRMrRnlXUaeabC/gnHg=
+Received: by filter-153.sjc1.sendgrid.net with SMTP id filter-153.7197.5304D4A63
+        Wed, 19 Feb 2014 15:58:30 +0000 (UTC)
+Received: from change.org (unknown [166.78.37.145])
+	by ismtpd-015 (SG) with ESMTP id 1444adea822.3932.4e1845
+	for <info@courierpack.com.ve>; Wed, 19 Feb 2014 15:58:29 +0000 (GMT)
+Date: Wed, 19 Feb 2014 15:58:29 +0000
+From: Alejandra Poyer <mail@change.org>
+Reply-To: Alejandra Poyer <alejandrapoyer@gmail.com>
+To: info@courierpack.com.ve
+Message-ID: <5304d4a555278_57fc78607c1818d1@production-change-main-resque-07.mail>
+Subject: =?UTF-8?Q?Acabo_de_firmar_=22Emilio_Alvarez_Icaza:_Activen_la?=
+ =?UTF-8?Q?_Carta_Democr=C3=A1tica_Inter-Americana_de_la_OEA=22?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5304d4a54c498_57fc78607c18172c";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <http://www.change.org/es/unsubscribe>
+X-SG-EID: 4vnO0cQGJAH4PeEE7NRApccnRF5oP2UNbzfvmVCfR8owjUtYXdon4klToK8WT6ym+e9aZ+sssbPDJ8POeHmZv73/U2u3rVfNqp08tPzRQI2mvqydahoSewu2yQYLxN3Y3BXQO/dwtNnWaomtlfHvJpV3u88NI0zLhBfpURDFUcg=
+X-SG-ID: mJfmtnDhlbXd9jBRnW0Uoy8GoLeQsEG7seT3fiWN5Ns=
+X-Spam-Status: No, score=-5.4
+X-Spam-Score: -53
+X-Spam-Bar: -----
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hey, I just signed the petition "Emilio Alvarez Icaza: Activen
+    la Carta DemocrÃ¡tica Inter-Americana de la OEA" and wanted to see if you
+    could help by adding your name. Our goal is to reach 100,000 signatures and
+    we need more support. You can read more and sign the petition here: [...]
+    
+ 
+ Content analysis details:   (-5.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -2.1 RCVD_IN_IADB_OPTIN     RBL: IADB: All mailing list mail is opt-in
+                             [208.115.214.114 listed in iadb.isipp.com]
+ -0.4 RCVD_IN_IADB_LISTED    RBL: Participates in the IADB system
+ -2.2 RCVD_IN_IADB_VOUCHED   RBL: ISIPP IADB lists as vouched-for sender
+ -0.0 RCVD_IN_IADB_SPF       RBL: IADB: Sender publishes SPF record
+ -0.2 RCVD_IN_IADB_RDNS      RBL: IADB: Sender has reverse DNS record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.6 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+----==_mimepart_5304d4a54c498_57fc78607c18172c
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey,
+
+I just signed the petition "Emilio Alvarez Icaza: Activen la Carta Democr=
+=C3=A1tica Inter-Americana de la OEA" and wanted to see if you could help b=
+y adding your name.
+
+Our goal is to reach 100,000 signatures and we need more support. You can r=
+ead more and sign the petition here:
+
+https://www.change.org/petitions/emilio-alvarez-icaza-activen-la-carta-demo=
+cr%C3%A1tica-inter-americana-de-la-oea?recruiter=3D80566163&utm_source=3Dsh=
+are_petition&utm_medium=3Demail&utm_campaign=3Dpetition_invitation
+
+Thanks!
+Alejandra
+
+
+Est=C3=A1s recibiendo este mensaje porque Alejandra Poyer te ha enviado un =
+correo electr=C3=B3nico a trav=C3=A9s de la herramienta de compartir petici=
+ones en Change.org. Change.org no ha guardado tu direcci=C3=B3n de correo. =
+Si crees que has recibido este correo por error puedes responder a Alejandr=
+a Poyer en alejandrapoyer@gmail.com.
+
+
+----==_mimepart_5304d4a54c498_57fc78607c18172c
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<meta content=3D"width=3Ddevice-width, initial-scale=3D1.0" name=3D"viewpor=
+t">
+<title>Change.org Responsive Template Baseline</title>
+<style type=3D"text/css">.ExternalClass {
+  width: 100%;
+  line-height: 100%; }
+  .ExternalClass * {
+    line-height: 100%; }
+  .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClas=
+s td, .ExternalClass div {
+    line-height: 100%; }
+  .ExternalClass h1 a {
+    color: #1d1d1d !important;
+    text-decoration: none; }
+    .ExternalClass h1 a:link, .ExternalClass h1 a:visited {
+      color: #1d1d1d !important; }
+      .ExternalClass h1 a:link:hover, .ExternalClass h1 a:visited:hover {
+        color: #318eac !important; }
+    .ExternalClass h1 a:hover, .ExternalClass h1 a:active {
+      color: #318eac !important; }
+  .ExternalClass .button a, .ExternalClass .button a:link {
+    padding: 10px !important;
+    color: #f9f9f9 !important;
+    text-decoration: none !important;
+    background-color: #ed2d23; }
+  .ExternalClass .button a:link, .ExternalClass .button a:visited {
+    color: #f9f9f9 !important;
+    background-color: #ed2d23; }
+    .ExternalClass .button a:link:hover, .ExternalClass .button a:visited:h=
+over {
+      color: white !important; }
+  .ExternalClass .button a:hover, .ExternalClass .button a:active {
+    color: white !important;
+    background: #ff3101; }
+  .ExternalClass .secondary-button a, .ExternalClass .secondary-button a:li=
+nk, .ExternalClass .secondary-button a:visited {
+    padding: 10px !important;
+    color: #287089 !important;
+    text-decoration: none !important;
+    background-color: #f4f4f4; }
+  .ExternalClass .secondary-button a:hover {
+    color: #318eac !important; }
+  .ExternalClass .secondary-button a:hover, .ExternalClass .secondary-butto=
+n a:active {
+    color: #318eac !important;
+    background: #f4f4f4; }
+  .ExternalClass p.paragraph a, .ExternalClass p.paragraph a:link {
+    color: #287089 !important;
+    text-decoration: underline !important; }
+  .ExternalClass p.paragraph a:visited {
+    color: #1a4654 !important; }
+    .ExternalClass p.paragraph a:visited:hover {
+      color: #318eac !important; }
+  .ExternalClass p.paragraph a:hover, .ExternalClass p.paragraph a:active {
+    color: #318eac !important; }
+  .ExternalClass p.small a, .ExternalClass p.small a:link {
+    color: #777777 !important;
+    text-decoration: underline !important; }
+  .ExternalClass p.small a:visited {
+    color: #777777 !important; }
+    .ExternalClass p.small a:visited:hover {
+      color: #318eac !important; }
+  .ExternalClass p.small a:hover, .ExternalClass p.small a:active {
+    color: #318eac !important; }
+  .ExternalClass table {
+    border-collapse: collapse !important; }
+    .ExternalClass table td {
+      border-collapse: collapse !important; }
+
+table {
+  border-collapse: collapse !important;
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  /* Re: http://www.campaignmonitor.com/blog/post/3392/1px-borders-padding-=
+on-table-cells-in-outlook-07/ */ }
+  table td {
+    border-collapse: collapse !important; }
+
+p {
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0; }
+
+h1 a:link {
+  color: #1d1d1d !important; }
+
+.button a:link {
+  color: #f9f9f9 !important;
+  padding: 10px !important;
+  text-decoration: none; }
+
+.secondary-button a:link {
+  color: #287089 !important; }
+
+.starter-image {
+  border-radius: 50%; }
+
+@media only screen and (max-device-width: 480px) {
+  *[class=3D"responsive-full-width"] {
+    width: 320px !important; }
+
+  *[class~=3D"responsive-content-width"] {
+    width: 300px !important; }
+
+  *[class~=3D"responsive-content-width-inside"] {
+    width: 270px !important; }
+
+  *[class~=3D"button-line"] {
+    width: 0px !important; }
+    *[class~=3D"button-line"] > table {
+      width: 0px !important; }
+
+  table[class=3D"featured-image"] {
+    width: 270px !important; }
+    table[class=3D"featured-image"] td, table[class=3D"featured-image"] img=
+ {
+      width: 270px !important; }
+
+  *[class=3D"responsive-hide"] {
+    display: none !important; }
+
+  div[class~=3D'phone-show'], div[class~=3D'phone-show'] * {
+    display: block !important; }
+
+  h1 {
+    font-size: 24px;
+    line-height: 27px; }
+
+  table[class~=3D"secondary-button"] tr td div[class~=3D"secondary-button"]=
+ {
+    background-color: #ed2d23 !important;
+    padding: 10px 0 !important;
+    color: #f9f9f9 !important;
+    text-decoration: none !important; }
+    table[class~=3D"secondary-button"] tr td div[class~=3D"secondary-button=
+"] a {
+      background-color: #ed2d23 !important;
+      display: block !important;
+      color: #f9f9f9 !important;
+      text-decoration: none !important;
+      font-weight: normal !important;
+      font-size: 16px !important; }
+      table[class~=3D"secondary-button"] tr td div[class~=3D"secondary-butt=
+on"] a:link, table[class~=3D"secondary-button"] tr td div[class~=3D"seconda=
+ry-button"] a:visited {
+        color: #f9f9f9 !important; }
+      table[class~=3D"secondary-button"] tr td div[class~=3D"secondary-butt=
+on"] a:hover, table[class~=3D"secondary-button"] tr td div[class~=3D"second=
+ary-button"] a:active {
+        color: white !important; } }
+@media only screen and (max-width: 480px) {
+  *[class=3D"responsive-full-width"] {
+    width: 320px !important; }
+
+  *[class~=3D"responsive-content-width"] {
+    width: 300px !important; }
+
+  *[class~=3D"responsive-content-width-inside"] {
+    width: 270px !important; }
+
+  *[class~=3D"button-line"] {
+    width: 0px !important; }
+    *[class~=3D"button-line"] > table {
+      width: 0px !important; }
+
+  table[class=3D"featured-image"] {
+    width: 270px !important; }
+    table[class=3D"featured-image"] td, table[class=3D"featured-image"] img=
+ {
+      width: 270px !important; }
+
+  *[class=3D"responsive-hide"] {
+    display: none !important; }
+
+  div[class~=3D'phone-show'], div[class~=3D'phone-show'] * {
+    display: block !important; }
+
+  h1 {
+    font-size: 24px;
+    line-height: 27px; }
+
+  table[class~=3D"secondary-button"] tr td div[class~=3D"secondary-button"]=
+ {
+    background-color: #ed2d23 !important;
+    padding: 10px 0 !important;
+    color: #f9f9f9 !important;
+    text-decoration: none !important; }
+    table[class~=3D"secondary-button"] tr td div[class~=3D"secondary-button=
+"] a {
+      background-color: #ed2d23 !important;
+      display: block !important;
+      color: #f9f9f9 !important;
+      text-decoration: none !important;
+      font-weight: normal !important;
+      font-size: 16px !important; }
+      table[class~=3D"secondary-button"] tr td div[class~=3D"secondary-butt=
+on"] a:link, table[class~=3D"secondary-button"] tr td div[class~=3D"seconda=
+ry-button"] a:visited {
+        color: #f9f9f9 !important; }
+      table[class~=3D"secondary-button"] tr td div[class~=3D"secondary-butt=
+on"] a:hover, table[class~=3D"secondary-button"] tr td div[class~=3D"second=
+ary-button"] a:active {
+        color: white !important; } }
+</style>
+</head>
+<body align=3D"center" width=3D"100%" style=3D"width: 100%; -webkit-text-si=
+ze-adjust: 100%; -ms-text-size-adjust: 100%; background-color: #f4f4f4; mar=
+gin: 0; padding: 0;" bgcolor=3D"#f4f4f4">
+<style type=3D"text/css">
+h1 a:active { color: #318eac !important; }
+h1 a:active { color: #318eac !important; }
+h1 a:visited { color: #1d1d1d !important; }
+h1 a:visited { color: #1d1d1d !important; }
+h1 a:visited:hover { color: #318eac !important; }
+h1 a:visited:hover { color: #318eac !important; }
+h1 a:hover { color: #318eac !important; }
+h1 a:hover { color: #318eac !important; }
+h1 a:hover { color: #318eac !important; }
+h1 a:hover { color: #318eac !important; }
+table.button td .button a:visited { color: #f9f9f9 !important; }
+table.button td .button a:hover { color: white !important; background: #ff3=
+101 !important; }
+table.button td .button a:active { color: white !important; background: #ff=
+3101 !important; }
+table.secondary-button td div a:visited { color: #287089 !important; }
+table.secondary-button td div a:hover { color: #318eac !important; backgrou=
+nd: #f4f4f4 !important; }
+table.secondary-button td div a:active { color: #318eac !important; backgro=
+und: #f4f4f4 !important; }
+p.paragraph a:active { color: #318eac !important; }
+p.paragraph a:visited { color: #1a4654 !important; }
+p.paragraph a:visited:hover { color: #318eac !important; }
+p.paragraph a:hover { color: #318eac !important; }
+p.small a:active { color: #318eac !important; }
+p.small a:visited { color: #777777 !important; }
+p.small a:visited:hover { color: #318eac !important; }
+p.small a:hover { color: #318eac !important; }
+</style>
+<table align=3D"center" bgcolor=3D"#F3F4F4" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"border-collapse: collapse !important; mso-table-=
+lspace: 0pt !important; mso-table-rspace: 0pt !important; border: 0;"><tr>
+<td style=3D"border-collapse: collapse !important; border: 0;">
+
+          <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"responsive-full-width" width=3D"650" style=3D"border-colla=
+pse: collapse !important; mso-table-lspace: 0pt !important; mso-table-rspac=
+e: 0pt !important; border: 0;"><tr>
+<td style=3D"border-collapse: collapse !important; border: 0;">
+                <table align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"responsive-content-width" width=3D"520" style=3D"bor=
+der-collapse: collapse !important; mso-table-lspace: 0pt !important; mso-ta=
+ble-rspace: 0pt !important; border: 0;">
+<tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                      <img class=3D"spacer block" height=3D"20" src=3D"http=
+://change-production.s3.amazonaws.com/photos/email/Templates/spacer1.gif" w=
+idth=3D"1" style=3D"border-radius: 2px; outline: none; text-decoration: non=
+e; -ms-interpolation-mode: bicubic; display: block; line-height: 1px; font-=
+size: 1px;">
+</td>
+
+                  </tr>
+<tr>
+<td style=3D"border-collapse: collapse !important; border: 0;">
+                      <table align=3D"center" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" class=3D"responsive-content-width" width=3D"520" style=
+=3D"border-collapse: collapse !important; mso-table-lspace: 0pt !important;=
+ mso-table-rspace: 0pt !important; border: 0;">
+<tr>
+<td style=3D"border-collapse: collapse !important; border: 0;">
+                            <table align=3D"left" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse !important; mso=
+-table-lspace: 0pt !important; mso-table-rspace: 0pt !important; border: 0;=
+"><tr>
+<td style=3D"border-collapse: collapse !important; border: 0;">
+                                  <a href=3D"http://change.org">
+                                    <img alt=3D"Change.org" class=3D"logo b=
+lock" height=3D"24" src=3D"http://change-production.s3.amazonaws.com/photos=
+/email/Templates/change-org-logo-240x49.png" width=3D"120" style=3D"border-=
+radius: 2px; outline: none; text-decoration: none; -ms-interpolation-mode: =
+bicubic; display: block; height: 24px; width: 120px; border: none;"></a>
+
+                                </td>
+
+                              </tr></table>
+<table align=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" sty=
+le=3D"border-collapse: collapse !important; mso-table-lspace: 0pt !importan=
+t; mso-table-rspace: 0pt !important; border: 0;">
+<tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                                  <img class=3D"spacer block" height=3D"7" =
+src=3D"http://change-production.s3.amazonaws.com/photos/email/Templates/spa=
+cer1.gif" width=3D"1" style=3D"border-radius: 2px; outline: none; text-deco=
+ration: none; -ms-interpolation-mode: bicubic; display: block; line-height:=
+ 1px; font-size: 1px;">
+</td>
+
+
+                              </tr>
+<tr>
+<td style=3D"border-collapse: collapse !important; border: 0;">
+ <div class=3D"faint" style=3D"font-size: 13px; line-height: 17px; color: #=
+777777; font-family: 'Helvetica Neue', Helvetica, sans-serif; mso-line-heig=
+ht-rule: exactly;">
+        Compartida contigo
+                                  </div>
+
+
+                                </td>
+
+                              </tr>
+</table>
+</td>
+
+                        </tr>
+<tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                            <img class=3D"spacer block" height=3D"5" src=3D=
+"http://change-production.s3.amazonaws.com/photos/email/Templates/spacer1.g=
+if" width=3D"1" style=3D"border-radius: 2px; outline: none; text-decoration=
+: none; -ms-interpolation-mode: bicubic; display: block; line-height: 1px; =
+font-size: 1px;">
+</td>
+
+                        </tr>
+<tr>
+<td align=3D"left" bgcolor=3D"#D2D2D2" class=3D"rule" height=3D"1" width=3D=
+"520" style=3D"border-collapse: collapse !important; line-height: 1px; font=
+-size: 1px; height: 1px; background-color: #c8c8c8; margin: 0; padding: 0; =
+border: 0;">
+                            <img class=3D"rule block" height=3D"1" src=3D"h=
+ttp://change-production.s3.amazonaws.com/photos/email/Templates/spacer1.gif=
+" width=3D"1" style=3D"border-radius: 2px; outline: none; text-decoration: =
+none; -ms-interpolation-mode: bicubic; display: block; line-height: 1px; fo=
+nt-size: 1px; height: 1px; background-color: #c8c8c8; margin: 0; padding: 0=
+;">
+</td>
+                        </tr>
+</table>
+</td>
+
+                  </tr>
+<tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                      <img class=3D"spacer block" height=3D"30" src=3D"http=
+://change-production.s3.amazonaws.com/photos/email/Templates/spacer1.gif" w=
+idth=3D"1" style=3D"border-radius: 2px; outline: none; text-decoration: non=
+e; -ms-interpolation-mode: bicubic; display: block; line-height: 1px; font-=
+size: 1px;">
+</td>
+
+                  </tr>
+<tr>
+<td style=3D"border-collapse: collapse !important; border: 0;">
+                      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"border-collapse: collapse !important; mso-table-lspace: 0pt !im=
+portant; mso-table-rspace: 0pt !important; border: 0;"><tr>
+<td align=3D"left" style=3D"border-collapse: collapse !important; border: 0=
+;">
+
+
+            <p class=3D"paragraph" style=3D"font-family: 'Helvetica Neue', =
+Helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #1d1d1d; =
+mso-line-height-rule: exactly; margin: 0 0 10px;">
+              =C2=A1Hola!
+            </p>
+
+            <p class=3D"paragraph" style=3D"font-family: 'Helvetica Neue', =
+Helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #1d1d1d; =
+mso-line-height-rule: exactly; margin: 0 0 10px;">
+              Acabo de firmar esta petici=C3=B3n y quer=C3=ADa pedirte tu a=
+poyo. Cuanta m=C3=A1s gente se una a la campa=C3=B1a, m=C3=A1s posibilidade=
+s tendr=C3=A1 de conseguir su objetivo.
+              <a href=3D'http://www.change.org/es/peticiones/emilio-alvarez=
+-icaza-activen-la-carta-democr%C3%A1tica-inter-americana-de-la-oea?recruite=
+r=3D80566163&utm_source=3Dshare_petition&utm_medium=3Demail&utm_campaign=3D=
+petition_invitation' style=3D'color: #28708a'><strong>=C2=BFTe animas y fir=
+mas?</strong></a>
+            </p>
+            <p class=3D"paragraph" style=3D"font-family: 'Helvetica Neue', =
+Helvetica, sans-serif; font-size: 15px; line-height: 20px; color: #1d1d1d; =
+mso-line-height-rule: exactly; margin: 0 0 15px;">
+              Gracias,
+              <br>
+              Alejandra
+            </p>
+
+                          </td>
+
+                        </tr></table>
+</td>
+
+                  </tr>
+<tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                      <img class=3D"spacer block" height=3D"20" src=3D"http=
+://change-production.s3.amazonaws.com/photos/email/Templates/spacer1.gif" w=
+idth=3D"1" style=3D"border-radius: 2px; outline: none; text-decoration: non=
+e; -ms-interpolation-mode: bicubic; display: block; line-height: 1px; font-=
+size: 1px;">
+</td>
+
+                  </tr>
+<tr>
+<td style=3D"border-collapse: collapse !important; border: 0;">
+
+                      <table bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"letter-canvas responsive-content-width" w=
+idth=3D"520" style=3D"border-collapse: collapse !important; mso-table-lspac=
+e: 0pt !important; mso-table-rspace: 0pt !important; background-color: whit=
+e; border: 1px solid #e6e6e6;"><tr>
+<td align=3D"center" style=3D"border-collapse: collapse !important; border:=
+ 0;">
+
+                            <table align=3D"center" bgcolor=3D"#FFFFFF" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"responsive-content-w=
+idth-inside" width=3D"490" style=3D"border-collapse: collapse !important; m=
+so-table-lspace: 0pt !important; mso-table-rspace: 0pt !important; border: =
+0;">
+<tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                                  <img class=3D"spacer block" height=3D"15"=
+ src=3D"http://change-production.s3.amazonaws.com/photos/email/Templates/sp=
+acer1.gif" width=3D"1" style=3D"border-radius: 2px; outline: none; text-dec=
+oration: none; -ms-interpolation-mode: bicubic; display: block; line-height=
+: 1px; font-size: 1px;">
+</td>
+
+                              </tr>
+<tr>
+<td style=3D"border-collapse: collapse !important; border: 0;">
+
+
+                                  <table align=3D"center" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"featured-image" width=3D"490" styl=
+e=3D"border-collapse: collapse !important; mso-table-lspace: 0pt !important=
+; mso-table-rspace: 0pt !important; border: 0;"><tr>
+<td align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"490" style=3D"border-collapse: collapse !important; border: 0;">
+                                        <a href=3D"http://www.change.org/es=
+/peticiones/emilio-alvarez-icaza-activen-la-carta-democr%C3%A1tica-inter-am=
+ericana-de-la-oea?recruiter=3D80566163&utm_source=3Dshare_petition&utm_medi=
+um=3Demail&utm_campaign=3Dpetition_invitation">
+                                          <img class=3D"block" src=3D"//d22=
+r54gnmuhwmk.cloudfront.net/photos/5/xu/zg/UZXUZgwsWcGbdGY-556x313-cropped.j=
+pg" width=3D"490" style=3D"border-radius: 2px; outline: none; text-decorati=
+on: none; -ms-interpolation-mode: bicubic; display: block; border: none;"><=
+/a>
+                                      </td>
+                                    </tr></table>
+<table style=3D"border-collapse: collapse !important; mso-table-lspace: 0pt=
+ !important; mso-table-rspace: 0pt !important; border: 0;"><tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                                        <img class=3D"spacer block" height=
+=3D"10" src=3D"http://change-production.s3.amazonaws.com/photos/email/Templ=
+ates/spacer1.gif" width=3D"1" style=3D"border-radius: 2px; outline: none; t=
+ext-decoration: none; -ms-interpolation-mode: bicubic; display: block; line=
+-height: 1px; font-size: 1px;">
+</td>
+
+                                    </tr></table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"responsive-content-width-inside" width=3D"490" style=3D"border-colla=
+pse: collapse !important; mso-table-lspace: 0pt !important; mso-table-rspac=
+e: 0pt !important; border: 0;"><tr>
+<td align=3D"left" style=3D"border-collapse: collapse !important; border: 0=
+;">
+                                        <h1 style=3D"color: #1d1d1d; font-f=
+amily: 'Helvetica Neue', Helvetica, sans-serif; font-size: 28px; line-heigh=
+t: 32px; font-weight: normal; text-decoration: none; margin: 0; padding: 0;=
+">
+                                          <a href=3D"http://www.change.org/=
+es/peticiones/emilio-alvarez-icaza-activen-la-carta-democr%C3%A1tica-inter-=
+americana-de-la-oea?recruiter=3D80566163&utm_source=3Dshare_petition&utm_me=
+dium=3Demail&utm_campaign=3Dpetition_invitation" style=3D"color: #1d1d1d !i=
+mportant; text-decoration: none;">
+                                            Emilio Alvarez Icaza: Activen l=
+a Carta Democr=C3=A1tica Inter-Americana de la OEA
+                                          </a>
+                                        </h1>
+                                      </td>
+                                    </tr></table>
+<table style=3D"border-collapse: collapse !important; mso-table-lspace: 0pt=
+ !important; mso-table-rspace: 0pt !important; border: 0;"><tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                                        <img class=3D"spacer block" height=
+=3D"15" src=3D"http://change-production.s3.amazonaws.com/photos/email/Templ=
+ates/spacer1.gif" width=3D"1" style=3D"border-radius: 2px; outline: none; t=
+ext-decoration: none; -ms-interpolation-mode: bicubic; display: block; line=
+-height: 1px; font-size: 1px;">
+</td>
+
+                                    </tr></table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"responsive-content-width-inside" width=3D"490" style=3D"border-colla=
+pse: collapse !important; mso-table-lspace: 0pt !important; mso-table-rspac=
+e: 0pt !important; border: 0;"><tr>
+<td align=3D"left" style=3D"border-collapse: collapse !important; border: 0=
+;">
+                                        <table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" style=3D"border-collapse: collapse !important; mso-tab=
+le-lspace: 0pt !important; mso-table-rspace: 0pt !important; border: 0;">
+<tr>
+<td style=3D"border-collapse: collapse !important; border: 0;">
+                                              <span class=3D"faint" style=
+=3D"font-size: 13px; line-height: 17px; color: #777777; font-family: 'Helve=
+tica Neue', Helvetica, sans-serif; mso-line-height-rule: exactly;">
+                                                Creada por Darwin Rodriguez
+                                              </span>
+                                            </td>
+                                          </tr>
+<tr>
+<td style=3D"border-collapse: collapse !important; border: 0;">
+                                              <span class=3D"faint" style=
+=3D"font-size: 13px; line-height: 17px; color: #777777; font-family: 'Helve=
+tica Neue', Helvetica, sans-serif; mso-line-height-rule: exactly;">
+                                                New York, NY
+                                              </span>
+                                            </td>
+                                          </tr>
+</table>
+</td>
+                                    </tr></table>
+<table style=3D"border-collapse: collapse !important; mso-table-lspace: 0pt=
+ !important; mso-table-rspace: 0pt !important; border: 0;"><tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                                        <img class=3D"spacer block" height=
+=3D"20" src=3D"http://change-production.s3.amazonaws.com/photos/email/Templ=
+ates/spacer1.gif" width=3D"1" style=3D"border-radius: 2px; outline: none; t=
+ext-decoration: none; -ms-interpolation-mode: bicubic; display: block; line=
+-height: 1px; font-size: 1px;">
+</td>
+
+                                    </tr></table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"responsive-content-width-inside" width=3D"490" style=3D"border-colla=
+pse: collapse !important; mso-table-lspace: 0pt !important; mso-table-rspac=
+e: 0pt !important; border: 0;"><tr>
+<td class=3D"button-line" width=3D"30%" style=3D"border-collapse: collapse =
+!important; border: 0;">
+                                        <table style=3D"border-collapse: co=
+llapse !important; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt =
+!important; border: 0;"><tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                                              <img class=3D"spacer block" h=
+eight=3D"5" src=3D"http://change-production.s3.amazonaws.com/photos/email/T=
+emplates/spacer1.gif" width=3D"1" style=3D"border-radius: 2px; outline: non=
+e; text-decoration: none; -ms-interpolation-mode: bicubic; display: block; =
+line-height: 1px; font-size: 1px;">
+</td>
+
+                                          </tr></table>
+<table width=3D"90%" style=3D"border-collapse: collapse !important; mso-tab=
+le-lspace: 0pt !important; mso-table-rspace: 0pt !important; border: 0;"><t=
+r>
+
+                                              <img class=3D"rule block" hei=
+ght=3D"1" src=3D"http://change-production.s3.amazonaws.com/photos/email/Tem=
+plates/spacer1.gif" width=3D"1" style=3D"border-radius: 2px; outline: none;=
+ text-decoration: none; -ms-interpolation-mode: bicubic; display: block; li=
+ne-height: 1px; font-size: 1px; height: 1px; background-color: #c8c8c8; mar=
+gin: 0; padding: 0;">
+</td>
+                                          </tr></table>
+</td>
+                                      <td style=3D"border-collapse: collaps=
+e !important; border: 0;">
+                                        <table align=3D"center" border=3D"0=
+" cellpadding=3D"10" cellspacing=3D"0" class=3D"button" color=3D"#FFFFFF" w=
+idth=3D"100%" style=3D"border-collapse: collapse !important; mso-table-lspa=
+ce: 0pt !important; mso-table-rspace: 0pt !important; border: 0;"><tr>
+<td align=3D"center" bgcolor=3D"#EC3025" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" color=3D"#FFFFFF" style=3D"border-collapse: collapse !import=
+ant; -webkit-border-radius: 2px; -moz-border-radius: 2px; display: block; f=
+ont-family: 'Helvetica Neue', Helvetica, sans-serif; border-radius: 2px; ba=
+ckground-color: #ed2d23; padding: 5px; border: 0;">
+                                              <div class=3D"button" style=
+=3D"color: #f9f9f9 !important; text-decoration: none; font-size: 16px; line=
+-height: 18px;">
+                                                <a alt=3D"Firma la petici=
+=C3=B3n de Darwin" href=3D"http://www.change.org/es/peticiones/emilio-alvar=
+ez-icaza-activen-la-carta-democr%C3%A1tica-inter-americana-de-la-oea?recrui=
+ter=3D80566163&utm_source=3Dshare_petition&utm_medium=3Demail&utm_campaign=
+=3Dpetition_invitation" style=3D"-webkit-border-radius: 2px; -moz-border-ra=
+dius: 2px; display: block; font-family: 'Helvetica Neue', Helvetica, sans-s=
+erif; font-weight: bold !important; border-radius: 2px; font-size: 16px; li=
+ne-height: 18px; color: #f9f9f9 !important; text-decoration: none !importan=
+t; background-color: #ed2d23; padding: 5px;">
+                                                  Firma la petici=C3=B3n de=
+ Darwin
+                                                </a>
+                                              </div>
+                                          </tr></table>
+</td>
+                                      <td class=3D"button-line" width=3D"30=
+%" style=3D"border-collapse: collapse !important; border: 0;">
+                                        <table style=3D"border-collapse: co=
+llapse !important; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt =
+!important; border: 0;"><tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                                              <img class=3D"spacer block" h=
+eight=3D"5" src=3D"http://change-production.s3.amazonaws.com/photos/email/T=
+emplates/spacer1.gif" width=3D"1" style=3D"border-radius: 2px; outline: non=
+e; text-decoration: none; -ms-interpolation-mode: bicubic; display: block; =
+line-height: 1px; font-size: 1px;">
+</td>
+
+                                          </tr></table>
+<table align=3D"right" width=3D"90%" style=3D"border-collapse: collapse !im=
+portant; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !important=
+; border: 0;"><tr>
+                                              <img class=3D"rule block" hei=
+ght=3D"1" src=3D"http://change-production.s3.amazonaws.com/photos/email/Tem=
+plates/spacer1.gif" width=3D"1" style=3D"border-radius: 2px; outline: none;=
+ text-decoration: none; -ms-interpolation-mode: bicubic; display: block; li=
+ne-height: 1px; font-size: 1px; height: 1px; background-color: #c8c8c8; mar=
+gin: 0; padding: 0;">
+</td>
+                                          </tr></table>
+</td>
+                                    </tr></table>
+<table style=3D"border-collapse: collapse !important; mso-table-lspace: 0pt=
+ !important; mso-table-rspace: 0pt !important; border: 0;"><tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                                        <img class=3D"spacer block" height=
+=3D"30" src=3D"http://change-production.s3.amazonaws.com/photos/email/Templ=
+ates/spacer1.gif" width=3D"1" style=3D"border-radius: 2px; outline: none; t=
+ext-decoration: none; -ms-interpolation-mode: bicubic; display: block; line=
+-height: 1px; font-size: 1px;">
+</td>
+
+                                    </tr></table>
+</td>
+
+                              </tr>
+<tr>
+<td align=3D"left" bgcolor=3D"#FFFFFF" style=3D"border-collapse: collapse !=
+important; border: 0;">
+                                  <div class=3D"paragraph" style=3D"font-fa=
+mily: 'Helvetica Neue', Helvetica, sans-serif; font-size: 15px; line-height=
+: 20px; color: #1d1d1d; mso-line-height-rule: exactly; margin: 0 0 15px;">
+<p style=3D"color: #1d1d1d; font-family: "Helvetica Neue", Helvetica, sans-=
+serif; font-size: 15px; line-height: 20px; mso-line-height-rule: exactly; m=
+argin: 0 0 15px;">El gobierno Venezolano esta tomando acciones que no son p=
+ropias de un gobierno democr&aacute;tico. Al momento, este sistema tiene co=
+ntrolados y censurados &nbsp;los medios de comunicaci&oacute;n en el pa&iac=
+ute;s mientras agrede y amedranta a los venezolanos.&nbsp;</p>
+<p class=3D"MsoNormal">The Venezuelan government is acting undemocratically=
+. Currently, the system controls and censors the media in the country, whil=
+e assaults and intimidates Venezuelans.</p>
+<p class=3D"MsoNormal">Le gouvernement v&eacute;n&eacute;zu&eacute;lien pre=
+nd des mesures qui ne sont pas caract&eacute;ristiques d'une d&eacute;mocra=
+tie. Actuellement, cet gouvernement censure les moyens de communication du =
+pays pendent qu&rsquo;il agresse et intimide les V&eacute;n&eacute;zu&eacut=
+e;liens.</p>
+<p class=3D"MsoNormal">O governo venezuelano est&aacute; tomando a&ccedil;&=
+otilde;es que n&atilde;o s&atilde;o caracter&iacute;sticas dum governo demo=
+cr&aacute;tico. O governo controla e censura os meios de comunica&ccedil;&a=
+tilde;o no pa&iacute;s enquanto assalta e amedronta a l&oacute;s venezuelan=
+os .</p>
+<p class=3D"MsoNormal">En primer lugar quiero mencionar que no soy abogado =
+ni tengo instrucci&oacute;n en materia legal. Esta petici&oacute;n esta bas=
+ada en mi interpretaci&oacute;n de hechos ocurridos en Venezuela, bajo el g=
+obierno de Nicolas Maduro, como una violaci&oacute;n a los derechos humanos=
+ y constitucionales de los Venezolanos; y a la Carta Democr&aacute;tica de =
+la OEA.&nbsp;</p>
+<p class=3D"MsoNormal">Basado en la interpretaci&oacute;n de los art&iacute=
+;culos:</p>
+<p class=3D"MsoNormal">1: El cual indica que los ciudadanos&nbsp;tienen der=
+echo a la democracia y que el gobierno tiene la obligaci&oacute;n de promov=
+erla y defenderla.</p>
+<p class=3D"MsoNormal">3: &nbsp;El cual define los derechos Humanos como el=
+emento esencial de la democracia.</p>
+<p class=3D"MsoNormal">4: &nbsp;Donde se establecen a la liberta de expresi=
+&oacute;n y prensa como componente fundamental del ejercicio de la democrac=
+ia.</p>
+<p class=3D"MsoNormal">7: "La democracia es indispensable para el ejercicio=
+ efectivo de las libertades fundamentales y los derechos humanos, en su car=
+&aacute;cter universal, indivisible e interdependiente, consagrados en las =
+respectivas constituciones de los Estados y en los instrumentos interameric=
+anos e internacionales de derechos humanos".</p>
+<p class=3D"MsoNormal">8:&nbsp;"Cualquier persona o grupo de personas que c=
+onsideren que sus derechos humanos han sido violados pueden interponer denu=
+ncias o peticiones ante el sistema interamericano de promoci&oacute;n y pro=
+tecci&oacute;n de los derechos humanos conforme a los procedimientos establ=
+ecidos en el mismo.&nbsp;Los Estados Miembros reafirman su intenci&oacute;n=
+ de fortalecer el sistema interamericano de protecci&oacute;n de los derech=
+os humanos para la consolidaci&oacute;n de la democracia en el Hemisferio".=
+</p>
+<p class=3D"MsoNormal">20: "En caso de que en un Estado Miembro se produzca=
+ una alteraci&oacute;n del orden constitucional que afecte gravemente su or=
+den democr&aacute;tico, cualquier Estado Miembro o el Secretario General po=
+dr&aacute; solicitar la convocatoria inmediata del Consejo Permanente para =
+realizar una apreciaci&oacute;n colectiva de la situaci&oacute;n y adoptar =
+las decisiones que estime conveniente".</p>
+<p class=3D"MsoNormal">Si presionamos a las instituciones internacionales q=
+ue est&aacute;n encargadas de velar por nuestros derechos humanos y democr&=
+aacute;ticos, nos haremos escuchar y seremos luchadores activos por la reco=
+nstrucci&oacute;n de Venezuela.</p>
+</div>
+
+
+                                </td>
+
+                              </tr>
+</table>
+</td>
+
+                        </tr></table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-col=
+lapse: collapse !important; mso-table-lspace: 0pt !important; mso-table-rsp=
+ace: 0pt !important; border: 0;"><tr>
+<td align=3D"center" class=3D"letter-appendix" style=3D"border-collapse: co=
+llapse !important; border: 0;">
+                            <table style=3D"border-collapse: collapse !impo=
+rtant; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !important; =
+border: 0;"><tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                                  <img class=3D"spacer block" height=3D"10"=
+ src=3D"http://change-production.s3.amazonaws.com/photos/email/Templates/sp=
+acer1.gif" width=3D"1" style=3D"border-radius: 2px; outline: none; text-dec=
+oration: none; -ms-interpolation-mode: bicubic; display: block; line-height=
+: 1px; font-size: 1px;">
+</td>
+
+                              </tr></table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"responsive-content-width secondary-button" width=3D"520" style=3D"bo=
+rder-collapse: collapse !important; mso-table-lspace: 0pt !important; mso-t=
+able-rspace: 0pt !important; border-spacing: 0; padding: 0; border: 0;"><tr>
+<td align=3D"center" style=3D"border-collapse: collapse !important; -webkit=
+-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; display: =
+block; font-family: 'Helvetica Neue', Helvetica, sans-serif; background-col=
+or: #f4f4f4; padding: 5px; border: 0;" bgcolor=3D"#f4f4f4">
+                                  <div class=3D"secondary-button" style=3D"=
+color: #287089 !important; text-decoration: underline; font-size: 15px; lin=
+e-height: 18px;">
+                                    <a href=3D"http://www.change.org/es/pet=
+iciones/emilio-alvarez-icaza-activen-la-carta-democr%C3%A1tica-inter-americ=
+ana-de-la-oea?recruiter=3D80566163&utm_source=3Dshare_petition&utm_medium=
+=3Demail&utm_campaign=3Dpetition_invitation" style=3D"-webkit-border-radius=
+: 2px; -moz-border-radius: 2px; display: block; font-family: 'Helvetica Neu=
+e', Helvetica, sans-serif; font-weight: bold; border-radius: 2px; font-size=
+: 15px; line-height: 18px; color: #28708a; text-decoration: underline; back=
+ground-color: #f4f4f4; padding: 5px;">
+                                      Firma la petici=C3=B3n de Darwin
+                                    </a>
+                                  </div>
+
+                                </td>
+
+                              </tr></table>
+</td>
+
+                        </tr></table>
+</td>
+
+                  </tr>
+<tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                      <img class=3D"spacer block" height=3D"40" src=3D"http=
+://change-production.s3.amazonaws.com/photos/email/Templates/spacer1.gif" w=
+idth=3D"1" style=3D"border-radius: 2px; outline: none; text-decoration: non=
+e; -ms-interpolation-mode: bicubic; display: block; line-height: 1px; font-=
+size: 1px;">
+</td>
+
+                  </tr>
+<tr>
+<td align=3D"left" bgcolor=3D"#D2D2D2" class=3D"rule" height=3D"1" width=3D=
+"520" style=3D"border-collapse: collapse !important; line-height: 1px; font=
+-size: 1px; height: 1px; background-color: #c8c8c8; margin: 0; padding: 0; =
+border: 0;">
+                      <img class=3D"rule block" height=3D"1" src=3D"http://=
+change-production.s3.amazonaws.com/photos/email/Templates/spacer1.gif" widt=
+h=3D"1" style=3D"border-radius: 2px; outline: none; text-decoration: none; =
+-ms-interpolation-mode: bicubic; display: block; line-height: 1px; font-siz=
+e: 1px; height: 1px; background-color: #c8c8c8; margin: 0; padding: 0;">
+</td>
+                  </tr>
+<tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                      <img class=3D"spacer block" height=3D"10" src=3D"http=
+://change-production.s3.amazonaws.com/photos/email/Templates/spacer1.gif" w=
+idth=3D"1" style=3D"border-radius: 2px; outline: none; text-decoration: non=
+e; -ms-interpolation-mode: bicubic; display: block; line-height: 1px; font-=
+size: 1px;">
+</td>
+
+                  </tr>
+  <tr>
+  <td class=3D"footer" style=3D"border-collapse: collapse !important; borde=
+r: 0;">
+    <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"responsive-content-width" width=3D"520" style=3D"border-collapse=
+: collapse !important; mso-table-lspace: 0pt !important; mso-table-rspace: =
+0pt !important; border: 0;">
+      <tr>
+        <td align=3D"center" style=3D"border-collapse: collapse !important;=
+ border: 0;">
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"=
+responsive-content-width" width=3D"520" style=3D"border-collapse: collapse =
+!important; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !import=
+ant; border: 0;">
+            <tr>
+              <td align=3D"left" style=3D"border-collapse: collapse !import=
+ant; border: 0;">
+                <p class=3D"small" style=3D"font-family: 'Helvetica Neue', =
+Helvetica, sans-serif; font-size: 13px; color: #777777; line-height: 1.5em;=
+ mso-line-height-rule: exactly; margin: 0 0 1em;">
+                Est=C3=A1s recibiendo este mensaje porque Alejandra Poyer t=
+e ha enviado un correo a trav=C3=A9s de la herramienta para compartir petic=
+iones de Change.org. Change.org no ha guardado tu direcci=C3=B3n de correo.=
+ Si crees que has recibido este mensaje por error, por favor responde direc=
+tamente a Alejandra Poyer en alejandrapoyer@gmail.com.
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+<tr>
+<td class=3D"spacer" style=3D"border-collapse: collapse !important; line-he=
+ight: 1px; font-size: 1px; border: 0;">
+                      <img class=3D"spacer block" height=3D"20" src=3D"http=
+://change-production.s3.amazonaws.com/photos/email/Templates/spacer1.gif" w=
+idth=3D"1" style=3D"border-radius: 2px; outline: none; text-decoration: non=
+e; -ms-interpolation-mode: bicubic; display: block; line-height: 1px; font-=
+size: 1px;">
+</td>
+
+                  </tr>
+</table>
+</td>
+
+            </tr></table>
+
+</td>
+
+      </tr></table>
+
+
+<img src=3D"http://email.change.org/wf/open?upn=3D9hXar9nv9t8gdQ9knYmuEM7aT=
+Q0n-2Bbo-2B5msGb5Zykp6w71utlw3l-2F0t7JpFS7JPKUCnyaJBXC-2BK8OoOIu0rO24vWd6wG=
+gvoa3rvEKwmjbnlm9PXXEbYsQldd-2Fd4Y36YwIR0Jryb660a-2F2v6w6tVOK30UUj7vV031yhb=
+WUeZk0GG8KFPPMvDKLDCru5-2BVgpq1TbFtcPf4jf9lmlQUHKKlKx5q0BlPldzhdb8p2pghMyIS=
+TMy8x-2FhXP4y3WnLGiNam" alt=3D"" width=3D"1" height=3D"1" border=3D"0" styl=
+e=3D"height:1px !important;width:1px !important;border-width:0 !important;m=
+argin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important=
+;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !import=
+ant;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+
+----==_mimepart_5304d4a54c498_57fc78607c18172c--

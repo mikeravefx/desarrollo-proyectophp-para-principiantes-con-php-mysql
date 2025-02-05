@@ -1,0 +1,44 @@
+Return-path: <>
+Envelope-to: courierp@host.racksystem2.com
+Delivery-date: Wed, 30 Oct 2013 23:47:13 -0430
+Received: from mailnull by host.racksystem2.com with local (Exim 4.80)
+	id 1Vbjh3-001Xw3-DS
+	for courierp@host.racksystem2.com; Wed, 30 Oct 2013 23:47:13 -0430
+X-Failed-Recipients: info@courierpack.com.ve
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@host.racksystem2.com>
+To: courierp@host.racksystem2.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Vbjh3-001Xw3-DS@host.racksystem2.com>
+Date: Wed, 30 Oct 2013 23:47:13 -0430
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@courierpack.com.ve
+    No such person at this address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <courierp@host.racksystem2.com>
+Received: from courierp by host.racksystem2.com with local (Exim 4.80)
+	(envelope-from <courierp@host.racksystem2.com>)
+	id 1Vbjh3-001Xvt-42
+	for info@courierpack.com.ve; Wed, 30 Oct 2013 23:47:13 -0430
+To: info@courierpack.com.ve
+Subject: Requisicion del Email desde el Web Site
+X-PHP-Script: www.courierpack.com.ve/contacto.php for 192.168.5.243, 190.207.135.67
+From:  TAZZRAPTTOR@GMAIL.COM
+Reply-To:TAZZRAPTTOR@GMAIL.COM
+X-Mailer:PHP/5.2.17
+Mime-Version: 1.0
+Content-Type: text/plain
+Message-Id: <E1Vbjh3-001Xvt-42@host.racksystem2.com>
+Date: Wed, 30 Oct 2013 23:47:13 -0430
+
+JOSE CHITIVA Escribio :
+CORDIAL SALUDO. ME INTERESARIA SABER SI TIENEN OFICINAS EN BARQUISIMETO, EDO. LARA Y SI LAS TARIFAS REFLEJADAS EN US$ SON CONVERTIDAS EN Bs A PRECIO OFICIAL O DOLAR PARALELO       
+
+Mensaje Enviado el Dia:  30-10-13

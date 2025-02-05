@@ -1,0 +1,52 @@
+Return-path: <titerestinmarin@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Sat, 29 Dec 2012 21:23:25 -0430
+Received: from mail-ia0-f175.google.com ([209.85.210.175]:39393)
+	by host.caracasftp.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <titerestinmarin@gmail.com>)
+	id 1Tp85c-0000sy-WA
+	for info@courierpack.com.ve; Sat, 29 Dec 2012 21:23:25 -0430
+Received: by mail-ia0-f175.google.com with SMTP id z3so9548511iad.20
+        for <info@courierpack.com.ve>; Sat, 29 Dec 2012 17:53:23 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=ELHkShfkBAOyqryqj+GNAE1CZUs7TwjnC6srxHROScc=;
+        b=WWIqkRFh9x7NldDwmyEm/mYrKYmsMyLVyIPTZa1mtWHNWyVr2jkXu2ENUXdbKwbzdI
+         HlnnCmYq87g+hQBYB1lAPc8rr0ZcyIl0YIETCPEgue47YSLIgdZweDagMDQUE7Uu1rVT
+         nc7Ju0G6rWL4+hIWsY28hsDDkAKHstWumaaGfvPpoTKFZXqZAr2pP5NKVQ8NC+K67fbg
+         0/CCpd7/1VM8hkcjmW5u6qnKxU44XqKrTJxzUuZiFzxlrZxiRYDABwSkfrYOMD60xBL5
+         mxXO4V3yyaanomqe6pfXwbibtC3xNbz1pS0S3cBTB9pxJqwQMi6hUjMn+qoXGR5GRZf0
+         CsGQ==
+MIME-Version: 1.0
+Received: by 10.50.183.167 with SMTP id en7mr33111906igc.49.1356832403037;
+ Sat, 29 Dec 2012 17:53:23 -0800 (PST)
+Received: by 10.64.34.39 with HTTP; Sat, 29 Dec 2012 17:53:22 -0800 (PST)
+In-Reply-To: <66730298-1356832283-cardhu_decombobulator_blackberry.rim.net-1669917710-@b17.c10.bise6.blackberry>
+References: <1520606407-1356824719-cardhu_decombobulator_blackberry.rim.net-1398546973-@b17.c10.bise6.blackberry>
+	<CAE9zZVVmwPanUyqS+NN17k78+S=cmzQr_5JSPsHJfnMj1TWdBw@mail.gmail.com>
+	<6056620-1356826142-cardhu_decombobulator_blackberry.rim.net-416648021-@b17.c10.bise6.blackberry>
+	<CAE9zZVUjXKD5grBT-C27Mh643OQCqGzu7Aieed3RqbvKYEEyxA@mail.gmail.com>
+	<137145130-1356831452-cardhu_decombobulator_blackberry.rim.net-1541983779-@b17.c10.bise6.blackberry>
+	<CAE9zZVWxY5N2BpqpEPtdXADnPEP0+WKv4DBuGpAB4WXzWesE4A@mail.gmail.com>
+	<66730298-1356832283-cardhu_decombobulator_blackberry.rim.net-1669917710-@b17.c10.bise6.blackberry>
+Date: Sat, 29 Dec 2012 21:23:22 -0430
+Message-ID: <CAE9zZVXQVOQXMV-VEWGjyfmem01hN8je7tmDTGh0mvSJJJQfxg@mail.gmail.com>
+Subject: Re: Requisicion del Email desde el Web Site
+From: Omar Galbiati <titerestinmarin@gmail.com>
+To: info@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=14dae9340ca3671f2a04d208292b
+
+--14dae9340ca3671f2a04d208292b
+Content-Type: text/plain; charset=ISO-8859-1
+
+Muchas gracias, Miguel. Buenas noches.
+
+--14dae9340ca3671f2a04d208292b
+Content-Type: text/html; charset=ISO-8859-1
+
+Muchas gracias, Miguel. Buenas noches.<br>
+
+--14dae9340ca3671f2a04d208292b--

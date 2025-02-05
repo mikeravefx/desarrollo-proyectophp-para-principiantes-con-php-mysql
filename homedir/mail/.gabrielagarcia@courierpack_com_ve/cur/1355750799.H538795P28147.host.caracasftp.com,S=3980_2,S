@@ -1,0 +1,84 @@
+Return-path: <>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Mon, 17 Dec 2012 08:56:39 -0430
+Received: from smtp03.bis6.us.blackberry.com ([74.82.85.3]:31701)
+	by host.caracasftp.com with esmtp (Exim 4.80)
+	id 1TkaiI-0007Jf-5X
+	for gabrielagarcia@courierpack.com.ve; Mon, 17 Dec 2012 08:56:36 -0430
+Received: from antispam8.c0.bise6.blackberry ([192.168.0.23])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id qBHDQSLb001072
+	for <SRS0=Jd9BSc=KL=courierpack.com.ve=gabrielagarcia@srs.bis6.us.blackberry.com>; Mon, 17 Dec 2012 13:26:28 GMT
+X-SBRS: 5.6
+Received: from smtp02.bis6.us.blackberry.com ([74.82.85.2])
+  by antispam8.c0.bise6.blackberry with ESMTP; 17 Dec 2012 13:26:28 +0000
+Received: from localhost by smtp02.bis6.us.blackberry.com;
+  17 Dec 2012 13:26:28 +0000
+Message-Id: <0e2d79$qmcjv2@smtp2.c0.bise6.blackberry>
+Date: 17 Dec 2012 13:26:28 +0000
+To: SRS0=Jd9BSc=KL=courierpack.com.ve=gabrielagarcia@srs.bis6.us.blackberry.com
+From: "Mail Delivery System" <MAILER-DAEMON@smtp2.c0.bise6.blackberry>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="rPa/I.4qGnKB1FW.8lBS/.AZaNtJl"
+
+--rPa/I.4qGnKB1FW.8lBS/.AZaNtJl
+content-type: text/plain;
+    charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <ninoska20@yahoo.es> was undeliverable.
+The reason for the problem:
+5.3.0 - Other mail system problem 554-'delivery error: dd Sorry your messag=
+e to ninoska20@yahoo.es cannot be delivered. This account has been disabled=
+ or discontinued [#102]. - mta1030.mail.ukl.yahoo.com'
+
+--rPa/I.4qGnKB1FW.8lBS/.AZaNtJl
+content-type: message/delivery-status
+
+Reporting-MTA: dns; smtp02.bis6.us.blackberry.com
+
+Final-Recipient: rfc822;ninoska20@yahoo.es
+Action: failed
+Status: 5.0.0 (permanent failure)
+Remote-MTA: dns; [77.238.184.241]
+Diagnostic-Code: smtp; 5.3.0 - Other mail system problem 554-'delivery error: dd Sorry your message to ninoska20@yahoo.es cannot be delivered. This account has been disabled or discontinued [#102]. - mta1030.mail.ukl.yahoo.com' (delivery attempts: 0)
+
+--rPa/I.4qGnKB1FW.8lBS/.AZaNtJl
+content-type: message/rfc822
+
+Received: from unknown (HELO srs.bis6.us.blackberry.com) ([172.29.231.133])
+  by smtp02.bis6.us.blackberry.com with ESMTP; 17 Dec 2012 13:26:27 +0000
+Received: from b18.c2.bise6.blackberry ([192.168.0.118])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id qBHDQQjb011188
+	for <ninoska20@yahoo.es>; Mon, 17 Dec 2012 13:26:26 GMT
+Received: from 172.29.195.204 (cmp34.c2.bise6.blackberry [172.29.195.204])
+	by b18.c2.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id qBHDQP3e020035
+	for <ninoska20@yahoo.es>; Mon, 17 Dec 2012 13:26:25 GMT
+X-rim-org-msg-ref-id: 1742165441
+Message-ID: <1742165441-1355750781-cardhu_decombobulator_blackberry.rim.net-1524563039-@b25.c2.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: gabrielagarcia@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: Abandono voluntario
+To: ninoska20@yahoo.es
+From: "Gabriela G" <gabrielagarcia@courierpack.com.ve>
+Date: Mon, 17 Dec 2012 13:26:23 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+
+QnVlbmFzIETtYXMgc2Xxb3JhIE5pbm9za2EsIHVuYSB2ZXogbm90aWZpY2FkYSBsYSBsbGVnYWRh
+IGRlIGxhIG1lcmNhbmPtYSBhIG51ZXN0cm9zIGFsbWFjZW5lcyBkaXNwb25lIGRlIDEwIETtYXMg
+Y29udGludW9zIHBhcmEgcmVhbGl6YXIgbGEgY2FuY2VsYWNp824gZGVsIG1pc21vLCBkZSBsbyBj
+b250cmFyaW8gc3UgbWVyY2FuY+1hIHBhc2FyYSBoYWNlciB1biBhYmFuZG9ubyB2b2x1bnRhcmlv
+IHBhcmEgYXPtIHBvZGVyIHJlbmRpciBjdWVudGFzIGNvbiBmaXNjYWxlcyBkZWwgc2VuaWF0IHBv
+ciBtb3Rpdm9zIGRlIHRhcmlmYXMgbmFjaW9uYWxlcy4gRGlzcG9uZSB1c3RlZCBoYXN0YSBlbCBt
+aelyY29sZXMgMjAgZGUgZXN0ZSBtaXNtbyBtZXMgcGFyYSBoYWNlciBsYSBjYW5jZWxhY2nzbi4g
+U2luIG1hcyBuYWRhIHF1ZSBhY290YXIgbm9zIGRlc3BlZGltb3MuIA0KQ09VUklFUlBBQ0ssIG1h
+cmNhbmRvIGxhIGRpZmVyZW5jaWEgZW4gZW52aW8gaW50ZXJuYWNpb25hbA==
+
+
+--rPa/I.4qGnKB1FW.8lBS/.AZaNtJl--
+
+

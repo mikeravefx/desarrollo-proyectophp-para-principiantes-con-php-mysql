@@ -1,0 +1,31 @@
+[13-Jul-2009 21:53:42] PHP Parse error:  syntax error, unexpected '.', expecting ']' in /home/courierp/public_html/contacto.php on line 101
+[13-Jul-2009 22:42:28] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/courierp/public_html/contacto.php on line 95
+[15-Jul-2009 21:22:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'courierp'@'localhost' (using password: NO) in /home/courierp/public_html/estados.php on line 77
+[15-Jul-2009 21:22:04] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/courierp/public_html/estados.php on line 78
+[15-Jul-2009 21:22:04] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/courierp/public_html/estados.php on line 81
+[15-Jul-2009 21:22:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/courierp/public_html/estados.php on line 82
+[15-Jul-2009 21:22:04] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/courierp/public_html/estados.php on line 133
+[15-Jul-2009 21:22:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/courierp/public_html/estados.php on line 134
+[15-Jul-2009 21:22:04] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/courierp/public_html/estados.php on line 145
+[15-Jul-2009 21:22:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/courierp/public_html/estados.php on line 146
+[15-Jul-2009 21:22:04] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/courierp/public_html/estados.php on line 148
+[15-Jul-2009 21:22:51] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'courierp'@'localhost' (using password: NO) in /home/courierp/public_html/estados.php on line 77
+[15-Jul-2009 21:22:51] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/courierp/public_html/estados.php on line 78
+[15-Jul-2009 21:22:51] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/courierp/public_html/estados.php on line 81
+[15-Jul-2009 21:22:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/courierp/public_html/estados.php on line 82
+[15-Jul-2009 21:22:51] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/courierp/public_html/estados.php on line 133
+[15-Jul-2009 21:22:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/courierp/public_html/estados.php on line 134
+[15-Jul-2009 21:22:51] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/courierp/public_html/estados.php on line 145
+[15-Jul-2009 21:22:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/courierp/public_html/estados.php on line 146
+[15-Jul-2009 21:22:51] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/courierp/public_html/estados.php on line 148
+[15-Jul-2009 21:22:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'courierp'@'localhost' (using password: NO) in /home/courierp/public_html/estados.php on line 77
+[15-Jul-2009 21:22:53] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/courierp/public_html/estados.php on line 78
+[15-Jul-2009 21:22:53] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/courierp/public_html/estados.php on line 81
+[15-Jul-2009 21:22:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/courierp/public_html/estados.php on line 82
+[15-Jul-2009 21:22:53] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/courierp/public_html/estados.php on line 133
+[15-Jul-2009 21:22:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/courierp/public_html/estados.php on line 134
+[15-Jul-2009 21:22:53] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/courierp/public_html/estados.php on line 145
+[15-Jul-2009 21:22:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/courierp/public_html/estados.php on line 146
+[15-Jul-2009 21:22:53] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/courierp/public_html/estados.php on line 148
+[15-Jul-2009 23:49:19] PHP Parse error:  syntax error, unexpected '}' in /home/courierp/public_html/registrado.php on line 360
+[16-Jul-2009 00:35:19] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/courierp/public_html/registrado.php on line 419

@@ -1,0 +1,33 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /usr/local/apache/domlogs/courierpack.com.ve
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /usr/local/apache/domlogs/courierpack.com.ve-bytes_log
+documentroot: /home/courierp/public_html
+group: courierp
+hascgi: 1
+homedir: /home/courierp
+ifmoduleconcurrentphpc: {}
+
+ifmodulemodsuphpc: 
+  group: courierp
+ip: 82.98.147.48
+owner: root
+phpopenbasedirprotect: 1
+port: 80
+scriptalias: 
+  - 
+    path: /home/courierp/public_html/cgi-bin
+    url: /cgi-bin/
+  - 
+    path: /home/courierp/public_html/cgi-bin/
+    url: /cgi-bin/
+serveradmin: webmaster@courierpack.com.ve
+serveralias: www.courierpack.com.ve
+servername: courierpack.com.ve
+usecanonicalname: 'Off'
+user: courierp
+userdirprotect: ''

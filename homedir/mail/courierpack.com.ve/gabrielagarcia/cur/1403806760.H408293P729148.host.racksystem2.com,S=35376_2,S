@@ -1,0 +1,753 @@
+Return-path: <AmGp+RMmnSYuplYHf5BGB+Q==_1113068430680_B+6b4HhYEeO3WtSuUpLEfQ==@in.constantcontact.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Thu, 26 Jun 2014 13:49:20 -0430
+Received: from ccm171.constantcontact.com ([208.75.123.171]:41248)
+	by host.racksystem2.com with esmtp (Exim 4.82)
+	(envelope-from <AmGp+RMmnSYuplYHf5BGB+Q==_1113068430680_B+6b4HhYEeO3WtSuUpLEfQ==@in.constantcontact.com>)
+	id 1X0EGQ-0033Of-LQ
+	for gabrielagarcia@courierpack.com.ve; Thu, 26 Jun 2014 13:49:20 -0430
+Received: from p2-jbsvcs5178.ad.prodcc.net (p2-pen9.ad.prodcc.net [10.252.1.139])
+	by p2-mail194.ccm171.constantcontact.com (Postfix) with ESMTP id C531CA05831
+	for <gabrielagarcia@courierpack.com.ve>; Thu, 26 Jun 2014 14:19:13 -0400 (EDT)
+DKIM-Signature: v=1; q=dns/txt; a=rsa-sha256; c=relaxed/relaxed; s=1000073432; d=auth.ccsend.com; h=to:X-Feedback-ID:subject:mime-version:message-id:from:date:list-unsubscribe:reply-to; bh=9PO9Wq+05MaOW0AEMgZ3yFMNVEvd7ZDMfuX9rt7u2hs=; b=FrmE3ulVHKe51S6WVEXJlq1qlPIP6OfbM9q2yr/8bLjAUzHd875B2IzgnBQNi5Gw2KaRDy3gjQdr3PzejBpVQjSbdn+7NdQvQXQ27+SrcnZvX3whtV3py5rgd3hmzRkTqaDBthpSNkbvtdxXy9D7AlLzFGci1TkbRlRIYUf82/Y=
+Message-ID: <1117765178065.1113068430680.365.0.221418JL.1002@scheduler.constantcontact.com>
+Date: Thu, 26 Jun 2014 14:19:13 -0400 (EDT)
+From: Aduanair Cargo & Courier <info@aduanaircargo.com>
+Reply-To: info@aduanaircargo.com
+To: gabrielagarcia@courierpack.com.ve
+Subject: Nuevos Cambios Tarifas
+Cc: 
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_6606937_1606771656.1403806753787"
+List-Unsubscribe: http://visitor.constantcontact.com/do?p=un&m=001LZTdLs2ENyeXymXY2rlJdw%3D%3D&se=001o5GCUdmeBbs%3D&t=001EkZLEx15CcE%3D&llr=ykzyaumab
+X-Campaign-Activity-ID: 986a7e44-c9a7-498b-a995-81dfe41181f9
+X-Channel-ID: 07ee9be0-7858-11e3-b75a-d4ae5292c47d
+X-Mailer: Roving Constant Contact 2012 (http://www.constantcontact.com)
+X-Return-Path-Hint: AmGp+RMmnSYuplYHf5BGB+Q==_1113068430680_B+6b4HhYEeO3WtSuUpLEfQ==@in.constantcontact.com
+X-Roving-Campaignid: 1117765178065
+X-Roving-Id: 1113068430680.365
+X-Feedback-ID: 07ee9be0-7858-11e3-b75a-d4ae5292c47d:986a7e44-c9a7-498b-a995-81dfe41181f9:1113068430680:CTCT
+X-CTCT-ID: 073f9730-7858-11e3-b6cc-d4ae5292c47d
+X-Spam-Status: No, score=-2.8
+X-Spam-Score: -27
+X-Spam-Bar: --
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Tienes problemas para abrir este correo? Presiona aqui http://campaign.r20.constantcontact.com/render?ca=986a7e44-c9a7-498b-a995-81dfe41181f9&c=073f9730-7858-11e3-b6cc-d4ae5292c47d&ch=07ee9be0-7858-11e3-b75a-d4ae5292c47d
+    Hola! te recordamos que estas recibiendo este correo electrónico porque
+   has expresado tu interés en Aduanair Cargo & Courier. No olvides de agregar
+    info@aduanaircargo.com en tu lista de contactos para que así lo puedas recibir
+    en tu buzón principal. You may unsubscribe http://visitor.constantcontact.com/do?p=un&m=001LZTdLs2ENyeXymXY2rlJdw%3D%3D&ch=07ee9be0-7858-11e3-b75a-d4ae5292c47d&ca=986a7e44-c9a7-498b-a995-81dfe41181f9
+    if you no longer wish to receive our emails. [...] 
+ 
+ Content analysis details:   (-2.8 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_IADB_SENDERID  RBL: IADB: Sender publishes Sender ID record
+                             [208.75.123.171 listed in iadb.isipp.com]
+ -0.2 RCVD_IN_IADB_DK        RBL: IADB: Sender publishes Domain Keys record
+ -0.2 RCVD_IN_IADB_RDNS      RBL: IADB: Sender has reverse DNS record
+ -2.1 RCVD_IN_IADB_OPTIN     RBL: IADB: All mailing list mail is opt-in
+ -0.4 RCVD_IN_IADB_LISTED    RBL: Participates in the IADB system
+ -0.0 RCVD_IN_IADB_SPF       RBL: IADB: Sender publishes SPF record
+ -0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+                             domain
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: aduanaircargo.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+------=_Part_6606937_1606771656.1403806753787
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Tienes problemas para abrir este correo?
+Presiona aqui
+http://campaign.r20.constantcontact.com/render?ca=3D986a7e44-c9a7-498b-a995=
+-81dfe41181f9&c=3D073f9730-7858-11e3-b6cc-d4ae5292c47d&ch=3D07ee9be0-7858-1=
+1e3-b75a-d4ae5292c47d
+Hola! te recordamos que estas recibiendo este correo electr=F3nico porque h=
+as expresado
+tu inter=E9s en Aduanair Cargo & Courier. No olvides de agregar info@aduana=
+ircargo.com
+en tu lista de contactos para que as=ED lo puedas recibir en tu buz=F3n pri=
+ncipal. =20
+You may unsubscribe
+http://visitor.constantcontact.com/do?p=3Dun&m=3D001LZTdLs2ENyeXymXY2rlJdw%=
+3D%3D&ch=3D07ee9be0-7858-11e3-b75a-d4ae5292c47d&ca=3D986a7e44-c9a7-498b-a99=
+5-81dfe41181f9
+if you no longer wish to receive our emails.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+
+Aduanair Informa:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+
+Estimados Clientes:
+
+Debido a los nuevos cambios en la aduana en Venezuela, nos vemos en la nece=
+sidad
+ de re-ajustar la tarifa nuevamente:
+
+
+* $7.00 por libras/vol=FAmen
+* Min $70.00 de 1 a 10 libras
+* $10.00 adicional por Celulares y Tabletas*
+* Re-Empaque incluido GRATIS
+* Recogemos tu carga GRATIS en Miami-Dade
+
+Servicio A=E9reo dos (2) veces por semana!
+
+Si tiene alguna pregunta adicional, no dude en contactarnos a traves de nue=
+stros
+ correo: info@aduanaircargo.com [mailto:info@aduanaircargo.com] o llamarnos=
+ al (305)
+718-3636, estamos aqui para servirle.
+
+*Restricciones Aplican
+
+Atentamente,
+Aduanair Cargo & Courier
+5900 NW 99th Ave #6
+Doral, FL 33178
+(305) 718-3636
+info@aduanaircargo.com [mailto:info@aduanaircargo.com] | www.aduanaircargo.=
+com [http://r20.rs6.net/tn.jsp?f=3D001BpUdCVmDPxEXgGQ_51Qx9-jLma9STt_f-0OLg=
+3skjICpehySZX2dZU2nCUwPFH19UEG67hzoWml45K3xsS0AArgXgwCy2pZXKcak5b9Nl50ImIUz=
+pH93oJ-IcNiNtpeRmlLevqNm5nuZSE25XS648swVARV2x_xAcC3w0aePXz_4XQHF6q1WwJ3_3pc=
+rkKOHGo8NpFOugyGWnh7O6LVsE9jNv2GpLBqmpvFwAz7RlMK8BiZzLHK0Ej9rWMIweODaUWCAzq=
+L50MS3z1ImcoeDS1qjgSR06iSLZfnCTSA0m0Q=3D&c=3DmmrJHvXIs0-O90SYdTBuheXii4AyWn=
+wa1viyfiNwEO2jCrx_2p66fQ=3D=3D&ch=3D5DVeC1wRB3pz0T5LJPDMURyiVgslkLmxaYnZxDC=
+fKuFk5GToc1EzJg=3D=3D]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+
+Join Our Mailing List [http://visitor.r20.constantcontact.com/d.jsp?llr=3Dy=
+kzyaumab&p=3Doi&m=3D1113068430680&sit=3Dca6xchyhb&f=3D10de9bb2-f05b-43a9-82=
+a4-912bae3e5b54]
+
+Like us on Facebook [http://r20.rs6.net/tn.jsp?f=3D001BpUdCVmDPxEXgGQ_51Qx9=
+-jLma9STt_f-0OLg3skjICpehySZX2dZdHxLjJNnNEghNeT59hGKM8cURT5Ivb7nEJ6GNtxUT3c=
+QrB8SQG3KqwVJ1UA0oo79jeC7XP-J4KH-VFAQiEZzuZaSG6-mJD_Khu5Ezj3cQK_1mk-aSny1Gf=
+HSC_nU0skaBYFDL6AJBh6djqQL2eIod0=3D&c=3DmmrJHvXIs0-O90SYdTBuheXii4AyWnwa1vi=
+yfiNwEO2jCrx_2p66fQ=3D=3D&ch=3D5DVeC1wRB3pz0T5LJPDMURyiVgslkLmxaYnZxDCfKuFk=
+5GToc1EzJg=3D=3D]
+  Follow us on Twitter [http://r20.rs6.net/tn.jsp?f=3D001BpUdCVmDPxEXgGQ_51=
+Qx9-jLma9STt_f-0OLg3skjICpehySZX2dZdHxLjJNnNEgc4IDqSco5-vDPLCzY4HTQZz0LEkNo=
+JriizV4ITbUGLKj_83AFL4ytJG3PGAvutroaUBi_u-PYkVRezZkLaI9ywiKDzUDma-TpJIXxLdy=
+rFWpXPQ7HKPqrw=3D=3D&c=3DmmrJHvXIs0-O90SYdTBuheXii4AyWnwa1viyfiNwEO2jCrx_2p=
+66fQ=3D=3D&ch=3D5DVeC1wRB3pz0T5LJPDMURyiVgslkLmxaYnZxDCfKuFk5GToc1EzJg=3D=
+=3D]
+  Find us on Yelp [http://r20.rs6.net/tn.jsp?f=3D001BpUdCVmDPxEXgGQ_51Qx9-j=
+Lma9STt_f-0OLg3skjICpehySZX2dZfhp97OqiYRJgj3kj5m5HQTr6tUbDPVBzVdLFpuUmrC-A3=
+LC09KtvhSvaZ2tmjxloNv_2yvR8i_VBL8eGRhGLihjeaFcaBt0rauvKkAlRoq5v3_iiEqOz-EJ1=
+xuV65Mtuj7kAPumsh2CS3-BJLW5l1yX9yNhqHX_QFjDctbPoUlI&c=3DmmrJHvXIs0-O90SYdTB=
+uheXii4AyWnwa1viyfiNwEO2jCrx_2p66fQ=3D=3D&ch=3D5DVeC1wRB3pz0T5LJPDMURyiVgsl=
+kLmxaYnZxDCfKuFk5GToc1EzJg=3D=3D]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+
+Copyright =A9 2013. All Rights Reserved.
+SEO & EMarketing by: HERFA [http://r20.rs6.net/tn.jsp?f=3D001BpUdCVmDPxEXgG=
+Q_51Qx9-jLma9STt_f-0OLg3skjICpehySZX2dZU2nCUwPFH19UCK5gJEYUIqWz0gqVloT4Sj8F=
+2gpuUR5DnDchs4hSoJwERFKfaabgHFSM89zgjA0D1Hw5mPpzwsBYvN1R6KNGyqMUE4qgJkzdEFi=
+aVWmy0tziijjOCKzWU5yInv5lAl-SfI11_OqG-OGkvBufMv0hGQGb_9WydykaL5sRZxt9E7-GaF=
+86tnqDT8XJbS_s6TCABdHD2eT1IbeQl9Y-qoDqx2gL6mqLsCSPexJiak2WVE=3D&c=3DmmrJHvX=
+Is0-O90SYdTBuheXii4AyWnwa1viyfiNwEO2jCrx_2p66fQ=3D=3D&ch=3D5DVeC1wRB3pz0T5L=
+JPDMURyiVgslkLmxaYnZxDCfKuFk5GToc1EzJg=3D=3D]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+
+Forward this email
+http://ui.constantcontact.com/sa/fwtf.jsp?llr=3Dykzyaumab&m=3D1113068430680=
+&ea=3Dgabrielagarcia@courierpack.com.ve&a=3D1117765178065
+
+
+This email was sent to gabrielagarcia@courierpack.com.ve by info@aduanairca=
+rgo.com.
+
+Update Profile/Email Address
+http://visitor.constantcontact.com/do?p=3Doo&m=3D001LZTdLs2ENyeXymXY2rlJdw%=
+3D%3D&ch=3D07ee9be0-7858-11e3-b75a-d4ae5292c47d&ca=3D986a7e44-c9a7-498b-a99=
+5-81dfe41181f9
+
+
+Instant removal with SafeUnsubscribe(TM)
+http://visitor.constantcontact.com/do?p=3Dun&m=3D001LZTdLs2ENyeXymXY2rlJdw%=
+3D%3D&ch=3D07ee9be0-7858-11e3-b75a-d4ae5292c47d&ca=3D986a7e44-c9a7-498b-a99=
+5-81dfe41181f9
+
+
+Privacy Policy:
+http://ui.constantcontact.com/roving/CCPrivacyPolicy.jsp
+
+
+Online Marketing by
+Constant Contact(R)
+http://www.constantcontact.com/home.jsp?pn=3Dherfawebdesign&cc=3DPT_MINSQ
+
+
+Aduanair Cargo & Courier | 5900 NW 99th Ave #6 | Doral | FL | 33178
+------=_Part_6606937_1606771656.1403806753787
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+=20
+
+ <body topmargin=3D"0" leftmargin=3D"0" rightmargin=3D"0"><!--Copyright (c)=
+ 1996-2014 Constant Contact. All rights reserved.  Except as permitted unde=
+r a separate
+written agreement with Constant Contact, neither the Constant Contact softw=
+are, nor any content that appears on any Constant Contact site,
+including but not limited to, web pages, newsletters, or templates may be r=
+eproduced, republished, repurposed, or distributed without the
+prior written permission of Constant Contact.  For inquiries regarding repr=
+oduction or distribution of any Constant Contact material, please
+contact legal@constantcontact.com.--><div id=3D"rootDiv"><div align=3D"cent=
+er" style=3D"background-color:#ffffff;padding-bottom:10px;"><div align=3D"l=
+eft" style=3D"font-family:verdana,arial;font-size:8pt;color:#000000;width:6=
+00px;"><font face=3D"verdana,arial" size=3D"1" color=3D"#000000" style=3D"f=
+ont-family:verdana,arial;font-size:8pt;color:#000000;"><center><table bgcol=
+or=3D"#ffffff" width=3D"595" id=3D"VWPLINK"><tr><td style=3D"font-size: 8pt=
+; font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000;" widt=
+h=3D"100%" rowspan=3D"1" colspan=3D"1">Tienes problemas para abrir este cor=
+reo?
+<a track=3D"off" shape=3D"rect" href=3D"http://campaign.r20.constantcontact=
+.com/render?ca=3D986a7e44-c9a7-498b-a995-81dfe41181f9&c=3D073f9730-7858-11e=
+3-b6cc-d4ae5292c47d&ch=3D07ee9be0-7858-11e3-b75a-d4ae5292c47d" target=3D"_b=
+lank">Presiona aqui
+</a></td></tr></table></center></font></div></div><div align=3D"center" sty=
+le=3D"background-color:#ffffff;padding-bottom:10px;"><div align=3D"left" st=
+yle=3D"font-family:verdana,arial;font-size:8pt;color:#000000;width:600px;">=
+<font face=3D"verdana,arial" size=3D"1" color=3D"#000000" style=3D"font-fam=
+ily:verdana,arial;font-size:8pt;color:#000000;">Hola! te recordamos que est=
+as recibiendo este correo electr=F3nico porque has expresado tu inter=E9s e=
+n Aduanair Cargo & Courier. No olvides de agregar info@aduanaircargo.com en=
+ tu lista de contactos para que as=ED lo puedas recibir en tu buz=F3n princ=
+ipal.  <div>&nbsp;</div><div>You may <a style=3D"color:#0000ff;" shape=3D"r=
+ect" href=3D"http://visitor.constantcontact.com/do?p=3Dun&m=3D001LZTdLs2ENy=
+eXymXY2rlJdw%3D%3D&ch=3D07ee9be0-7858-11e3-b75a-d4ae5292c47d&ca=3D986a7e44-=
+c9a7-498b-a995-81dfe41181f9" target=3D"_blank">unsubscribe</a> if you no lo=
+nger wish to receive our emails.</div></font></div></div><div><table width=
+=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td align=3D=
+"center" valign=3D"top"><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"600"><tr><td align=3D"left" valign=3D"top"><table cellpaddi=
+ng=3D"0" cellspacing=3D"0" class=3D"shr-btn-tbl"><tr><td><img src=3D"http:/=
+/img.constantcontact.com/ui/images1/shr_drw_left.png" /></td><td><a href=3D=
+"http://s.rs6.net/t?e=3DkkCFGi_HpKw&c=3D1&r=3D1" title=3D"Share with Facebo=
+ok"><img src=3D"http://img.constantcontact.com/ui/images1/shr_drw_fb.png" s=
+tyle=3D"border:0;" /></a></td><td><a href=3D"http://s.rs6.net/t?e=3DkkCFGi_=
+HpKw&c=3D3&r=3D1" title=3D"Share with Twitter"><img src=3D"http://img.const=
+antcontact.com/ui/images1/shr_drw_twit.png" style=3D"border:0;" /></a></td>=
+<td><a href=3D"http://s.rs6.net/t?e=3DkkCFGi_HpKw&c=3D4&r=3D1" title=3D"Sha=
+re with LinkedIn"><img src=3D"http://img.constantcontact.com/ui/images1/shr=
+_drw_linked.png" style=3D"border:0;" /></a></td><td><img src=3D"http://img.=
+constantcontact.com/ui/images1/shr_drw_divider.png" style=3D"border:0;" /><=
+/td><td><a href=3D"http://s.rs6.net/t?e=3DkkCFGi_HpKw&c=3D5&r=3D1" title=3D=
+"More Share Options"><img src=3D"http://img.constantcontact.com/ui/images1/=
+shr_drw_more.png" style=3D"border:0;" /></a></td><td><img src=3D"http://img=
+.constantcontact.com/ui/images1/shr_drw_right.png" style=3D"border:0;" /></=
+td><td class=3D"like-this" style=3D"padding-left:5px;"><a href=3D"http://my=
+email.constantcontact.com/Nuevos-Cambios-Tarifas.html?soid=3D1113068430680&=
+aid=3DkkCFGi_HpKw#fblike" title=3D"Like This"><img src=3D"http://img.consta=
+ntcontact.com/ui/images1/shr_btn_like_sm.png" style=3D"border:0;" /></a></t=
+d></tr></table></td></tr></table></td></tr></table></div><img src=3D"http:/=
+/r20.rs6.net/on.jsp?ca=3D986a7e44-c9a7-498b-a995-81dfe41181f9&a=3D111306843=
+0680&d=3D1117765178065&r=3D3&o=3Dhttp://ui.constantcontact.com/images/p1x1.=
+gif&c=3D073f9730-7858-11e3-b6cc-d4ae5292c47d&ch=3D07ee9be0-7858-11e3-b75a-d=
+4ae5292c47d" height=3D"1" width=3D"1" />
+ <div align=3D"center">
+
+ <table style=3D"background-color:#ffffff;" bgcolor=3D"#ffffff" border=3D"0=
+" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td rowspan=3D"1" colspan=3D"1" align=3D"center">
+ <div style=3D"max-width:640px;margin-left:auto;margin-right:auto;" align=
+=3D"center">
+ <table style=3D"margin-left:auto;margin-right:auto;" border=3D"0" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td valign=3D"bottom" rowspan=3D"1" colspan=3D"1"><img height=3D"5" vspace=
+=3D"0" border=3D"0" hspace=3D"0" width=3D"1" alt=3D"" src=3D"http://img.con=
+stantcontact.com/letters/images/1101116784221/S.gif" /></td>
+ <td style=3D"width:640px;" valign=3D"top" rowspan=3D"1" colspan=3D"1" alig=
+n=3D"center">
+
+ <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+
+ <td style=3D"padding:0px 0px 0px 0px;" valign=3D"bottom" width=3D"70%" row=
+span=3D"1" colspan=3D"1" align=3D"center">
+
+=20
+
+=20
+
+=20
+
+ </td>
+
+ <td style=3D"padding:0px 0px 0px 0px;" valign=3D"top" width=3D"30%" rowspa=
+n=3D"1" colspan=3D"1" align=3D"center">
+
+=20
+
+ </td>
+
+ </tr>
+ </table>
+
+ </td>
+ <td valign=3D"bottom" rowspan=3D"1" colspan=3D"1"><img height=3D"5" vspace=
+=3D"0" border=3D"0" hspace=3D"0" width=3D"1" alt=3D"" src=3D"http://img.con=
+stantcontact.com/letters/images/1101116784221/S.gif" /></td>
+ </tr>
+ </table>
+ </div>
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"background-color:#FFFFFF;background-image:none;background-pos=
+ition:center top;background-repeat:repeat;ih-name:;" bgcolor=3D"#FFFFFF" ro=
+wspan=3D"1" colspan=3D"1" align=3D"center">
+ <div style=3D"max-width:640px;margin-left:auto;margin-right:auto;" align=
+=3D"center">
+ <table style=3D"margin-left:auto;margin-right:auto;" border=3D"0" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td valign=3D"bottom" rowspan=3D"1" colspan=3D"1"><img height=3D"5" vspace=
+=3D"0" border=3D"0" hspace=3D"0" width=3D"1" alt=3D"" src=3D"http://img.con=
+stantcontact.com/letters/images/1101116784221/S.gif" /></td>
+ <td style=3D"width:640px;" valign=3D"top" rowspan=3D"1" colspan=3D"1" alig=
+n=3D"center">
+
+ <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+
+ <td style=3D"padding:0px 0px 0px 0px;" valign=3D"top" width=3D"100%" rowsp=
+an=3D"1" colspan=3D"1" align=3D"center">
+
+ <table class=3D"" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpaddin=
+g=3D"0" id=3D"content_LETTER.BLOCK5"><tr><td style=3D"color:#000000;font-fa=
+mily:Calibri,Helvetica,Arial,sans-serif;font-size:11pt;padding:15px 12px 15=
+px 12px;" valign=3D"top" rowspan=3D"1" align=3D"center" colspan=3D"1">
+<div style=3D"text-align: center;" align=3D"center"><a class=3D"imgCaptionA=
+nchor" track=3D"on" href=3D"http://r20.rs6.net/tn.jsp?f=3D001BpUdCVmDPxEXgG=
+Q_51Qx9-jLma9STt_f-0OLg3skjICpehySZX2dZU2nCUwPFH19UEG67hzoWml45K3xsS0AArgXg=
+wCy2pZXKcak5b9Nl50ImIUzpH93oJ-IcNiNtpeRmlLevqNm5nuZSE25XS648swVARV2x_xAcC3w=
+0aePXz_4XQHF6q1WwJ3_3pcrkKOHGo8NpFOugyGWnh7O6LVsE9jNv2GpLBqmpvFwAz7RlMK8BiZ=
+zLHK0Ej9rWMIweODaUWCAzqL50MS3z1ImcoeDS1qjgSR06iSLZfnCTSA0m0Q=3D&c=3DmmrJHvX=
+Is0-O90SYdTBuheXii4AyWnwa1viyfiNwEO2jCrx_2p66fQ=3D=3D&ch=3D5DVeC1wRB3pz0T5L=
+JPDMURyiVgslkLmxaYnZxDCfKuFk5GToc1EzJg=3D=3D" shape=3D"rect" target=3D"_bla=
+nk"><img style=3D"display: block; max-width: 100%; height: auto;" vspace=3D=
+"0" border=3D"0" name=3D"ACCOUNT.IMAGE.27" hspace=3D"0" width=3D"616" src=
+=3D"http://ih.constantcontact.com/fs171/1113068430680/img/27.jpg" /></a></d=
+iv>
+</td></tr></table>
+
+ </td>
+
+ </tr>
+ </table>
+
+ </td>
+ <td valign=3D"bottom" rowspan=3D"1" colspan=3D"1"><img height=3D"5" vspace=
+=3D"0" border=3D"0" hspace=3D"0" width=3D"1" alt=3D"" src=3D"http://img.con=
+stantcontact.com/letters/images/1101116784221/S.gif" /></td>
+ </tr>
+ </table>
+ </div>
+ </td>
+ </tr>
+ <tr>
+ <td rowspan=3D"1" colspan=3D"1" align=3D"center">
+ <div style=3D"max-width:640px;margin-left:auto;margin-right:auto;" align=
+=3D"center">
+ <table style=3D"margin-left:auto;margin-right:auto;" border=3D"0" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td valign=3D"bottom" rowspan=3D"1" colspan=3D"1"><img height=3D"5" vspace=
+=3D"0" border=3D"0" hspace=3D"0" width=3D"1" alt=3D"" src=3D"http://img.con=
+stantcontact.com/letters/images/1101116784221/S.gif" /></td>
+ <td style=3D"width:640px;" valign=3D"top" rowspan=3D"1" colspan=3D"1" alig=
+n=3D"center">
+
+ <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+
+ <td style=3D"padding:10px 0px 0px 0px;" valign=3D"top" width=3D"100%" rows=
+pan=3D"1" colspan=3D"1" align=3D"center">
+
+=20
+
+ <a name=3D"LETTER.BLOCK7"></a><table border=3D"0" width=3D"100%" cellspaci=
+ng=3D"0" cellpadding=3D"0" id=3D"content_LETTER.BLOCK7"><tr><td style=3D"co=
+lor:#000000;font-family:Century Gothic,Calibri,Helvetica,Arial,sans-serif;f=
+ont-size:12pt;padding:12px 0px 0px 0px;" valign=3D"top" rowspan=3D"1" colsp=
+an=3D"1" align=3D"left"><span>&nbsp;</span></td><td style=3D"color:#000000;=
+font-family:Century Gothic,Calibri,Helvetica,Arial,sans-serif;font-size:12p=
+t;padding:12px 22px 0px 5px;" valign=3D"bottom" width=3D"100%" rowspan=3D"1=
+" colspan=3D"1" align=3D"left">
+<div style=3D"line-height: 1.1;"><b>Aduanair Informa:<br /></b></div>
+</td></tr></table>
+
+ <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" id=
+=3D"content_LETTER.BLOCK8"><tr><td style=3D"color:#000000;font-family:Calib=
+ri,Helvetica,Arial,sans-serif;font-size:11pt;padding:10px 22px 7px 27px;" v=
+align=3D"top" rowspan=3D"1" colspan=3D"1" align=3D"left">
+<p style=3D"margin-top: 0px; margin-bottom: 0px;"><span>Estimados Clientes:=
+    <img height=3D"119" vspace=3D"5" border=3D"0" name=3D"ACCOUNT.IMAGE.76"=
+ hspace=3D"5" width=3D"179" src=3D"http://ih.constantcontact.com/fs171/1113=
+068430680/img/76.jpg" align=3D"right"> </img></span></p>
+<p style=3D"margin-top: 0px; margin-bottom: 0px;"><span>&nbsp;&nbsp;</span>=
+</p>
+<p style=3D"margin-top: 0px; margin-bottom: 0px;"><span>Debido a los nuevos=
+ cambios en la aduana en Venezuela, nos vemos en la necesidad de re-ajustar=
+ la tarifa nuevamente: &nbsp;&nbsp;</span></p>
+<ul><li style=3D"margin-top: 0px; margin-bottom: 0px;"><span><strong>$7.00<=
+/strong> por libras/vol=FAmen</span></li><li style=3D"margin-top: 0px; marg=
+in-bottom: 0px;"><span>Min <strong>$70.00</strong> de 1 a 10 libras</span><=
+/li><li style=3D"margin-top: 0px; margin-bottom: 0px;"><span>$10.00 adicion=
+al por Celulares y Tabletas*</span></li><li style=3D"margin-top: 0px; margi=
+n-bottom: 0px;"><strong>Re-Empaque incluido GRATIS</strong></li><li style=
+=3D"margin-top: 0px; margin-bottom: 0px;"><span><strong>Recogemos tu carga =
+GRATIS en Miami-Dade</strong> &nbsp;</span></li></ul>
+<p style=3D"margin-top: 0px; margin-bottom: 0px;"><span><strong>Servicio A=
+=E9reo dos (2) veces por semana!</strong>&nbsp;&nbsp; &nbsp;</span></p>
+<p style=3D"margin-top: 0px; margin-bottom: 0px;"><span>&nbsp;</span></p>
+<p style=3D"margin-top: 0px; margin-bottom: 0px;"><span>Si tiene alguna pre=
+gunta adicional, no dude en contactarnos a traves de nuestros correo: <a st=
+yle=3D"color: blue; text-decoration: underline;" href=3D"mailto:info@aduana=
+ircargo.com" shape=3D"rect" linktype=3D"2" target=3D"_blank">info@aduanairc=
+argo.com</a> o llamarnos al (305) 718-3636, estamos aqui para servirle.</sp=
+an></p>
+<p style=3D"margin-top: 0px; margin-bottom: 0px;">&nbsp;</p>
+<p style=3D"margin-top: 0px; margin-bottom: 0px; text-align: right;" align=
+=3D"right"><span><span style=3D"font-size: 9pt;">*Restricciones Aplican</sp=
+an>&nbsp;</span></p>
+<div>Atentamente,<br /><br /><strong>Aduanair Cargo & Courier</strong><br /=
+>5900 NW 99th Ave #6<br />Doral, FL 33178<br /><br />(305) 718-3636<br /><b=
+r /><a style=3D"color: blue; text-decoration: underline;" href=3D"mailto:in=
+fo@aduanaircargo.com" shape=3D"rect" linktype=3D"2" target=3D"_blank">info@=
+aduanaircargo.com</a> | <a style=3D"color: blue; text-decoration: underline=
+;" track=3D"on" href=3D"http://r20.rs6.net/tn.jsp?f=3D001BpUdCVmDPxEXgGQ_51=
+Qx9-jLma9STt_f-0OLg3skjICpehySZX2dZU2nCUwPFH19UEG67hzoWml45K3xsS0AArgXgwCy2=
+pZXKcak5b9Nl50ImIUzpH93oJ-IcNiNtpeRmlLevqNm5nuZSE25XS648swVARV2x_xAcC3w0aeP=
+Xz_4XQHF6q1WwJ3_3pcrkKOHGo8NpFOugyGWnh7O6LVsE9jNv2GpLBqmpvFwAz7RlMK8BiZzLHK=
+0Ej9rWMIweODaUWCAzqL50MS3z1ImcoeDS1qjgSR06iSLZfnCTSA0m0Q=3D&c=3DmmrJHvXIs0-=
+O90SYdTBuheXii4AyWnwa1viyfiNwEO2jCrx_2p66fQ=3D=3D&ch=3D5DVeC1wRB3pz0T5LJPDM=
+URyiVgslkLmxaYnZxDCfKuFk5GToc1EzJg=3D=3D" shape=3D"rect" linktype=3D"1" tar=
+get=3D"_blank">www.aduanaircargo.com</a><br /></div>
+</td></tr></table>
+
+=20
+
+=20
+
+=20
+
+=20
+
+=20
+
+=20
+
+=20
+
+ </td>
+
+ </tr>
+ <tr>
+
+ <td style=3D"padding:0px 0px 15px 0px;" valign=3D"top" width=3D"100%" rows=
+pan=3D"1" colspan=3D"1" align=3D"center">
+
+=20
+
+=20
+
+=20
+
+=20
+
+ </td>
+
+ </tr>
+ </table>
+
+ </td>
+ <td valign=3D"bottom" rowspan=3D"1" colspan=3D"1"><img height=3D"5" vspace=
+=3D"0" border=3D"0" hspace=3D"0" width=3D"1" alt=3D"" src=3D"http://img.con=
+stantcontact.com/letters/images/1101116784221/S.gif" /></td>
+ </tr>
+ </table>
+ </div>
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"background-color:#000000;padding:0px 0px 0px 0px;" bgcolor=3D=
+"#000000" rowspan=3D"1" colspan=3D"1" align=3D"center">
+ <div style=3D"max-width:640px;margin-left:auto;margin-right:auto;" align=
+=3D"center">
+ <table style=3D"margin-left:auto;margin-right:auto;" border=3D"0" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td valign=3D"bottom" rowspan=3D"1" colspan=3D"1"><img height=3D"5" vspace=
+=3D"0" border=3D"0" hspace=3D"0" width=3D"1" alt=3D"" src=3D"http://img.con=
+stantcontact.com/letters/images/1101116784221/S.gif" /></td>
+ <td style=3D"width:640px;" valign=3D"top" rowspan=3D"1" colspan=3D"1" alig=
+n=3D"center">
+
+ <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+
+ <td style=3D"padding:3px 0px 0px 0px;" valign=3D"top" width=3D"100%" rowsp=
+an=3D"1" colspan=3D"1" align=3D"center">
+
+=20
+
+ </td>
+
+ </tr>
+ </table>
+
+ </td>
+ <td valign=3D"bottom" rowspan=3D"1" colspan=3D"1"><img height=3D"5" vspace=
+=3D"0" border=3D"0" hspace=3D"0" width=3D"1" alt=3D"" src=3D"http://img.con=
+stantcontact.com/letters/images/1101116784221/S.gif" /></td>
+ </tr>
+ </table>
+ </div>
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"background-color:#FFFFFF;padding:0px 0px 0px 0px;" bgcolor=3D=
+"#FFFFFF" rowspan=3D"1" colspan=3D"1" align=3D"center">
+ <div style=3D"max-width:640px;margin-left:auto;margin-right:auto;" align=
+=3D"center">
+ <table style=3D"margin-left:auto;margin-right:auto;" border=3D"0" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td valign=3D"bottom" rowspan=3D"1" colspan=3D"1"><img height=3D"5" vspace=
+=3D"0" border=3D"0" hspace=3D"0" width=3D"1" alt=3D"" src=3D"http://img.con=
+stantcontact.com/letters/images/1101116784221/S.gif" /></td>
+ <td style=3D"width:640px;" valign=3D"top" rowspan=3D"1" colspan=3D"1" alig=
+n=3D"center">
+
+ <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+
+ <td style=3D"padding:0px 0px 0px 0px;" valign=3D"top" width=3D"100%" rowsp=
+an=3D"1" colspan=3D"1" align=3D"center">
+
+ <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" id=
+=3D"content_LETTER.BLOCK21"><tr><td style=3D"color:#ffffff;font-family:Cali=
+bri,Helvetica,Arial,sans-serif;font-size:11pt;line-height:1.1;padding:10px =
+0px 0px 0px;" valign=3D"top" rowspan=3D"1" colspan=3D"1" align=3D"center">
+<table style=3D"margin:0px 0px 0px 0px;" border=3D"0" width=3D"150" cellspa=
+cing=3D"0" cellpadding=3D"0" align=3D"right"><tr><td style=3D"color:#000000=
+;font-family:Calibri,Helvetica,Arial,sans-serif;font-size:11pt;padding:5px =
+5px 5px 5px;" valign=3D"top" rowspan=3D"1" colspan=3D"1" align=3D"right">
+<div><a class=3D"imgCaptionAnchor" track=3D"on" href=3D"http://visitor.r20.=
+constantcontact.com/d.jsp?llr=3Dykzyaumab&p=3Doi&m=3D1113068430680&sit=3Dca=
+6xchyhb&f=3D10de9bb2-f05b-43a9-82a4-912bae3e5b54" shape=3D"rect" target=3D"=
+_blank"><img src=3D"https://imgssl.constantcontact.com/letters/images/11011=
+16784221/JMML_SG1_JMML05.png" style=3D"display: block;" width=3D"117" vspac=
+e=3D"0" border=3D"0" alt=3D"Join Our Mailing List" align=3D"right" optionna=
+me=3D"JMML_SG1" height=3D"35" hspace=3D"0" /></a></div>
+</td></tr></table>
+<table style=3D"margin:0px 0px 0px 0px;" border=3D"0" width=3D"150" cellspa=
+cing=3D"0" cellpadding=3D"0" align=3D"left"><tr><td style=3D"color:#000000;=
+font-family:Calibri,Helvetica,Arial,sans-serif;font-size:11pt;padding:5px 5=
+px 5px 5px;" valign=3D"top" rowspan=3D"1" colspan=3D"1" align=3D"left">
+<div><a track=3D"on" shape=3D"rect" href=3D"http://r20.rs6.net/tn.jsp?f=3D0=
+01BpUdCVmDPxEXgGQ_51Qx9-jLma9STt_f-0OLg3skjICpehySZX2dZdHxLjJNnNEghNeT59hGK=
+M8cURT5Ivb7nEJ6GNtxUT3cQrB8SQG3KqwVJ1UA0oo79jeC7XP-J4KH-VFAQiEZzuZaSG6-mJD_=
+Khu5Ezj3cQK_1mk-aSny1GfHSC_nU0skaBYFDL6AJBh6djqQL2eIod0=3D&c=3DmmrJHvXIs0-O=
+90SYdTBuheXii4AyWnwa1viyfiNwEO2jCrx_2p66fQ=3D=3D&ch=3D5DVeC1wRB3pz0T5LJPDMU=
+RyiVgslkLmxaYnZxDCfKuFk5GToc1EzJg=3D=3D" linktype=3D"facebook" target=3D"_b=
+lank"><img height=3D"36" border=3D"0" width=3D"36" alt=3D"Like us on Facebo=
+ok" title=3D"Like us on Facebook" src=3D"https://imgssl.constantcontact.com=
+/ui/images1/ic_fbk_36.png" align=3D"null" /></a>&nbsp;&nbsp; <a track=3D"on=
+" shape=3D"rect" href=3D"http://r20.rs6.net/tn.jsp?f=3D001BpUdCVmDPxEXgGQ_5=
+1Qx9-jLma9STt_f-0OLg3skjICpehySZX2dZdHxLjJNnNEgc4IDqSco5-vDPLCzY4HTQZz0LEkN=
+oJriizV4ITbUGLKj_83AFL4ytJG3PGAvutroaUBi_u-PYkVRezZkLaI9ywiKDzUDma-TpJIXxLd=
+yrFWpXPQ7HKPqrw=3D=3D&c=3DmmrJHvXIs0-O90SYdTBuheXii4AyWnwa1viyfiNwEO2jCrx_2=
+p66fQ=3D=3D&ch=3D5DVeC1wRB3pz0T5LJPDMURyiVgslkLmxaYnZxDCfKuFk5GToc1EzJg=3D=
+=3D" linktype=3D"twitter" target=3D"_blank"><img height=3D"36" border=3D"0"=
+ width=3D"36" alt=3D"Follow us on Twitter" title=3D"Follow us on Twitter" s=
+rc=3D"https://imgssl.constantcontact.com/ui/images1/ic_twit_36.png" align=
+=3D"null" /></a>&nbsp;&nbsp; <a track=3D"on" shape=3D"rect" href=3D"http://=
+r20.rs6.net/tn.jsp?f=3D001BpUdCVmDPxEXgGQ_51Qx9-jLma9STt_f-0OLg3skjICpehySZ=
+X2dZfhp97OqiYRJgj3kj5m5HQTr6tUbDPVBzVdLFpuUmrC-A3LC09KtvhSvaZ2tmjxloNv_2yvR=
+8i_VBL8eGRhGLihjeaFcaBt0rauvKkAlRoq5v3_iiEqOz-EJ1xuV65Mtuj7kAPumsh2CS3-BJLW=
+5l1yX9yNhqHX_QFjDctbPoUlI&c=3DmmrJHvXIs0-O90SYdTBuheXii4AyWnwa1viyfiNwEO2jC=
+rx_2p66fQ=3D=3D&ch=3D5DVeC1wRB3pz0T5LJPDMURyiVgslkLmxaYnZxDCfKuFk5GToc1EzJg=
+=3D=3D" linktype=3D"yelp" target=3D"_blank"><img height=3D"36" border=3D"0"=
+ width=3D"36" alt=3D"Find us on Yelp" title=3D"Find us on Yelp" src=3D"http=
+s://imgssl.constantcontact.com/ui/images1/yelp_36x36.png" align=3D"null" />=
+</a><br /></div>
+</td></tr></table>
+
+</td></tr></table>
+
+=20
+
+=20
+
+ </td>
+
+ </tr>
+ </table>
+
+ </td>
+ <td valign=3D"bottom" rowspan=3D"1" colspan=3D"1"><img height=3D"5" vspace=
+=3D"0" border=3D"0" hspace=3D"0" width=3D"1" alt=3D"" src=3D"http://img.con=
+stantcontact.com/letters/images/1101116784221/S.gif" /></td>
+ </tr>
+ </table>
+ </div>
+ </td>
+ </tr>
+ <tr>
+ <td rowspan=3D"1" colspan=3D"1" align=3D"center">
+ <div style=3D"max-width:640px;margin-left:auto;margin-right:auto;" align=
+=3D"center">
+ <table style=3D"margin-left:auto;margin-right:auto;" border=3D"0" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td valign=3D"bottom" rowspan=3D"1" colspan=3D"1"><img height=3D"5" vspace=
+=3D"0" border=3D"0" hspace=3D"0" width=3D"1" alt=3D"" src=3D"http://img.con=
+stantcontact.com/letters/images/1101116784221/S.gif" /></td>
+ <td style=3D"width:640px;" valign=3D"top" rowspan=3D"1" colspan=3D"1" alig=
+n=3D"center">
+
+ <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+
+ <td style=3D"padding:0px 0px 15px 0px;" valign=3D"top" width=3D"100%" rows=
+pan=3D"1" colspan=3D"1" align=3D"center">
+
+=20
+
+ <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" id=
+=3D"content_LETTER.BLOCK25"><tr><td style=3D"color:#000000;font-family:Cali=
+bri,Helvetica,Arial,sans-serif;font-size:11pt;padding:0px 0px 0px 0px;" val=
+ign=3D"top" rowspan=3D"1" colspan=3D"1" align=3D"center">
+<div><br /> Copyright =A9 2013. All Rights Reserved.<br /><div style=3D"tex=
+t-align: right;" align=3D"right">SEO & EMarketing by: <a style=3D"color: bl=
+ue; text-decoration: underline;" track=3D"on" shape=3D"rect" href=3D"http:/=
+/r20.rs6.net/tn.jsp?f=3D001BpUdCVmDPxEXgGQ_51Qx9-jLma9STt_f-0OLg3skjICpehyS=
+ZX2dZU2nCUwPFH19UCK5gJEYUIqWz0gqVloT4Sj8F2gpuUR5DnDchs4hSoJwERFKfaabgHFSM89=
+zgjA0D1Hw5mPpzwsBYvN1R6KNGyqMUE4qgJkzdEFiaVWmy0tziijjOCKzWU5yInv5lAl-SfI11_=
+OqG-OGkvBufMv0hGQGb_9WydykaL5sRZxt9E7-GaF86tnqDT8XJbS_s6TCABdHD2eT1IbeQl9Y-=
+qoDqx2gL6mqLsCSPexJiak2WVE=3D&c=3DmmrJHvXIs0-O90SYdTBuheXii4AyWnwa1viyfiNwE=
+O2jCrx_2p66fQ=3D=3D&ch=3D5DVeC1wRB3pz0T5LJPDMURyiVgslkLmxaYnZxDCfKuFk5GToc1=
+EzJg=3D=3D" linktype=3D"1" target=3D"_blank">HERFA</a><br /><br /></div></d=
+iv>
+</td></tr></table>
+
+=20
+
+ </td>
+
+ </tr>
+ </table>
+
+ </td>
+ <td valign=3D"bottom" rowspan=3D"1" colspan=3D"1"><img height=3D"5" vspace=
+=3D"0" border=3D"0" hspace=3D"0" width=3D"1" alt=3D"" src=3D"http://img.con=
+stantcontact.com/letters/images/1101116784221/S.gif" /></td>
+ </tr>
+ </table>
+ </div>
+ </td>
+ </tr>
+ </table>
+
+ </div>
+ <div align=3D"center" style=3D"background-color:#ffffff;">
+<table style=3D"text-align:left;" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" id=3D"footerPanelWrap">
+<tr>
+<td rowspan=3D"1" colspan=3D"1" align=3D"center">
+
+<div><div style=3D"font-weight:bold;font-family:tahoma,sans-serif;font-size=
+:8pt;text-align:center;color:#000000;background-color:#ffffff;padding-botto=
+m:10px;"><font style=3D"font-family:tahoma,sans-serif;font-size:8pt;color:#=
+000000;" color=3D"#000000" size=3D"1" face=3D"tahoma,sans-serif"><a shape=
+=3D"rect" href=3D"http://ui.constantcontact.com/sa/fwtf.jsp?llr=3Dykzyaumab=
+&m=3D1113068430680&ea=3Dgabrielagarcia%40courierpack.com.ve&a=3D11177651780=
+65" target=3D"_blank">Forward this email</a></font></div>
+
+
+<table style=3D"font-family:tahoma,sans-serif;font-size:11px;color:#2f2f2f;=
+background-color:#ffffff;" border=3D"0" width=3D"619" cellspacing=3D"0" cel=
+lpadding=3D"0">
+<tr>
+<td rowspan=3D"1" colspan=3D"1"><font style=3D"font-family:tahoma,sans-seri=
+f;font-size:11px;color:#2f2f2f;" color=3D"#000000" size=3D"1" face=3D"tahom=
+a,sans-serif">
+<table border=3D"0" width=3D"100%">
+<tr>
+<td valign=3D"middle" width=3D"100" rowspan=3D"1" colspan=3D"1"><a shape=3D=
+"rect" href=3D"http://visitor.constantcontact.com/do?p=3Dun&m=3D001LZTdLs2E=
+NyeXymXY2rlJdw%3D%3D&ch=3D07ee9be0-7858-11e3-b75a-d4ae5292c47d&ca=3D986a7e4=
+4-c9a7-498b-a995-81dfe41181f9" target=3D"_blank"><img border=3D"0" src=3D"h=
+ttp://img.constantcontact.com/letters/images/SafeUnsubscribe_Footer_Logo_Ne=
+w.png" /></a>
+</td>
+<td width=3D"519" rowspan=3D"1" colspan=3D"1" align=3D"right"><a shape=3D"r=
+ect" href=3D"http://www.constantcontact.com/index.jsp?pn=3Dherfawebdesign&c=
+c=3DPT_MINSQ" target=3D"_blank"><img border=3D"0" src=3D"http://img.constan=
+tcontact.com/letters/images/CC_Footer_Logo_New.png" /></a>
+</td>
+</tr>
+</table><div>This email was sent to gabrielagarcia@courierpack.com.ve by <a=
+ style=3D"color:#0000ff;" shape=3D"rect" href=3D"mailto:info@aduanaircargo.=
+com" target=3D"_blank">info@aduanaircargo.com</a> <span style=3D"color: #ba=
+baba;"> | </span> &nbsp; </div>
+<div><a style=3D"color:#0000ff;" shape=3D"rect" href=3D"http://visitor.cons=
+tantcontact.com/do?p=3Doo&m=3D001LZTdLs2ENyeXymXY2rlJdw%3D%3D&ch=3D07ee9be0=
+-7858-11e3-b75a-d4ae5292c47d&ca=3D986a7e44-c9a7-498b-a995-81dfe41181f9" tar=
+get=3D"_blank">Update Profile/Email Address</a> <span style=3D"color: #baba=
+ba;">|</span> Instant removal with <a style=3D"color:#0000ff;" shape=3D"rec=
+t" href=3D"http://visitor.constantcontact.com/do?p=3Dun&m=3D001LZTdLs2ENyeX=
+ymXY2rlJdw%3D%3D&ch=3D07ee9be0-7858-11e3-b75a-d4ae5292c47d&ca=3D986a7e44-c9=
+a7-498b-a995-81dfe41181f9" target=3D"_blank">SafeUnsubscribe</a>&trade;  <s=
+pan style=3D"color: #bababa;">|</span>  <a style=3D"color:#0000ff;" shape=
+=3D"rect" href=3D"http://ui.constantcontact.com/roving/CCPrivacyPolicy.jsp"=
+ target=3D"_blank">Privacy Policy</a>.</div>
+</font></td>
+</tr>
+</table><div style=3D"font-family:tahoma,sans-serif;font-size:12px;color:#0=
+00000;background-color:#ffffff;padding-top: 12px;" align=3D"left" id=3D"LET=
+TER.PHYSICALADDRESS"><font style=3D"font-family:tahoma,sans-serif;font-size=
+:12px;color:#000000;" color=3D"#000000" size=3D"1" face=3D"tahoma,sans-seri=
+f">Aduanair Cargo & Courier<span style=3D"color: #bababa;"> | </span>5900 N=
+W 99th Ave #6<span style=3D"color: #bababa;"> | </span>Doral<span style=3D"=
+color: #bababa;"> | </span>FL<span style=3D"color: #bababa;"> | </span>3317=
+8</font></div></div>
+</td>
+</tr>
+</table>
+</div></div></body>
+
+------=_Part_6606937_1606771656.1403806753787--

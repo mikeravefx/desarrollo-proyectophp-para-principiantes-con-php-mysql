@@ -1,0 +1,76 @@
+Return-path: <jdmontijo@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Fri, 03 Aug 2012 12:33:53 -0430
+Received: from mail-yx0-f180.google.com ([209.85.213.180]:35389)
+	by host.caracasftp.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.77)
+	(envelope-from <jdmontijo@gmail.com>)
+	id 1SxLHz-0003Qy-07
+	for info@courierpack.com.ve; Fri, 03 Aug 2012 12:33:51 -0430
+Received: by yenq6 with SMTP id q6so1405711yen.39
+        for <info@courierpack.com.ve>; Fri, 03 Aug 2012 10:03:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=x-rim-org-msg-ref-id:return-receipt-to:disposition-notification-to
+         :message-id:content-transfer-encoding:reply-to:x-priority
+         :sensitivity:importance:subject:to:from:date:content-type
+         :mime-version;
+        bh=QmSkP5I5hzdnhSxb7RqX6V7TfSH22MNw9RsfVPYCoG4=;
+        b=FMhcsaQ9FFCAZcXr7/ulKrehYTVir2266nl2ffSqiKjDu8l4OFT7cGTZIragvwpudi
+         uBGDNBwkUMcTNq8o81tcx7xS8Omq1fSkR/v4veAsEhRrwDZxL6OX4wolnNmvlS16Gqri
+         lXWylI7Tyb6LIcA6d2t3A7YwcYnyUlIl/B0jGmuzwkTiI9/cjhyEDs9KdwZAUd6WOWib
+         PsOp+oRudsHz7bfvPBE/Cw+Gd+x2Yq+SvXhdFqI0g8g/m6kF93txUZ4xCaVwLv5zUYP+
+         yJ9JjvqX5S5DeuUlZ49CF5h0fr/lXboGrS6JC+xtz0VTbo1Qs6uqo43CJYfVQWAdQ/su
+         If4g==
+Received: by 10.50.189.167 with SMTP id gj7mr4636870igc.32.1344013426875;
+        Fri, 03 Aug 2012 10:03:46 -0700 (PDT)
+Received: from 172.29.208.183 (bda-74-82-83-215.bis6.us.blackberry.com. [74.82.83.215])
+        by mx.google.com with ESMTPS id nh1sm23151754igc.11.2012.08.03.10.03.45
+        (version=SSLv3 cipher=OTHER);
+        Fri, 03 Aug 2012 10:03:45 -0700 (PDT)
+X-rim-org-msg-ref-id:1723792865
+Return-Receipt-To:jdmontijo@gmail.com
+Disposition-Notification-To:jdmontijo@gmail.com
+Message-ID:<1723792865-1344013424-cardhu_decombobulator_blackberry.rim.net-2125302550-@b4.c15.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: jdmontijo@gmail.com
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: Re: Voucher de deposito
+To: info@courierpack.com.ve
+From: jdmontijo@gmail.com
+Date: Fri, 3 Aug 2012 17:03:49 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+
+RmlubyB5IGdyYWNpYXMgcG9yIHRvZG8NCg0KLS0tLS0tTWVuc2FqZSBvcmlnaW5hbC0tLS0tLQ0K
+RGU6IEF0ZW5jaW9uIGFsIGNsaWVudGUhDQpQYXJhOiBKYWltZSBEIE1vbnRpam8NClJlc3BvbmRl
+ciBhOiBpbmZvQGNvdXJpZXJwYWNrLmNvbS52ZQ0KQXN1bnRvOiBSZTogVm91Y2hlciBkZSBkZXBv
+c2l0bw0KRW52aWFkbzogMyBkZSBhZ28gZGUgMjAxMiA4OjAyIFBNDQoNCkxlIGNvbmZpcm1vIGVu
+IGVsIHRyYW5zY3Vyc28gZGVsIGRpYSwgc2kgc2VyYSBwb3NpYmxlIHF1ZSBwb2RhbW9zIGVzdGFy
+IGFsbGkgYSBsYXMgMTEgYW0gZWwgZGlhIGx1bmVzLiANCg0KR3JhY2lhcyBkZSBBbnRlbWFuby4N
+Cg0KDQotLS0tLS1NZW5zYWplIG9yaWdpbmFsLS0tLS0tDQpEZTogSmFpbWUgRCBNb250aWpvDQpQ
+YXJhOiBpbmZvQGNvdXJpZXJwYWNrLmNvbS52ZSBpbmZvQGNvdXJpZXJwYWNrLmNvbS52ZQ0KQXN1
+bnRvOiBSZTogVm91Y2hlciBkZSBkZXBvc2l0bw0KRW52aWFkbzogMyBkZSBhZ28gZGUgMjAxMiA0
+OjU4IEFNDQoNCkVsIGx1bmVzIGVuIGxhIGVzdGFjafNuIGRlIG1ldHJvIGRlIHBsYXphIHZlbmV6
+dWVsYSBzYWxpZGEgaGFjaWEgbGEgcHJldmlzb3JhIHB1ZWRvIGVzdGFyIGFsbO0gYSBsYXMgMTEg
+YW0NCk1pIG51bWVybyAwNDE0IDMyNTU4NjANCg0KR3JhY2lhcyBwb3Igc3UgYXRlbmNp824uIA0K
+DQpFbnZpYWRvIGRlc2RlIG1pIGlQaG9uZSANCkxpYy4gSmFpbWUgRCBNb250aWpvDQpNYWdpc3Rl
+ciBpbiBDb3Vuc2VsaW5nIFBzeWNob2xvZ3kNCg0KRWwgMDMvMDgvMjAxMiwgYSBsYXMgMDc6MTUg
+cC5tLiwgIkF0ZW5jaW9uIGFsIGNsaWVudGUhIiA8aW5mb0Bjb3VyaWVycGFjay5jb20udmU+IGVz
+Y3JpYmnzOg0KDQo+IEluZGlxdWUgbGEgZXN0YWNpb24gZGUgbWV0cm8gcXVlIHNlIGxlIHNlcmlh
+IGNvbW9kbyBqdW50byBjb24gbGEgaG9yYSB5IGxvIHJlbWl0aXJpYSBhbCBkZXBhcnRhbWVudG8g
+Y29ycmVzcG9uZGllbnRlIGNvbiBndXN0byANCj4gDQo+IEFtaWdvIDopIA0KPiBFbnZpYWRvIGRl
+c2RlIG1pIEJsYWNrQmVycnkgZGUgTW92aXN0YXINCj4gDQo+IC0tLS0tT3JpZ2luYWwgTWVzc2Fn
+ZS0tLS0tDQo+IEZyb206IEphaW1lIEQgTW9udGlqbyA8amRtb250aWpvQGdtYWlsLmNvbT4NCj4g
+RGF0ZTogRnJpLCAzIEF1ZyAyMDEyIDExOjMzOjQ4IA0KPiBUbzogPGluZm9AY291cmllcnBhY2su
+Y29tLnZlPg0KPiBTdWJqZWN0OiBWb3VjaGVyIGRlIGRlcG9zaXRvDQo+IA0KPiBBZ3JhZGV6Y28g
+c3UgZ2VudGlsZXphIHBlcm8gcGFyYSBtaSBubyBlcyBtb2xlc3RpYSBpciBhIGNjcyBhIHJldGly
+YXIgZWwgcHJvZHVjdG8gc29sbyBpbmTtcXVlbWUgdW4gc2l0aW8gY2VyY2EgZGUgYWxndW5hIGVz
+dGFjafNuIGRlIG1ldHJvIHkgY29uIGd1c3RvIGly6S4gWW8gZGUgdG9kYXMgbWFuZXJhcyBkZWJv
+IGlyIGVsIGx1bmVzIGEgY2NzIHkgcHVlZG8gYXByb3ZlY2hhcg0KPiANCj4gRmF2b3IgYWN1c2Fy
+IHJlY2liby4gR3JhY2lhcw0KPiANCg0KRW52aWFkbyBkZXNkZSBtaSBCbGFja0JlcnJ5IGRlIE1v
+dmlzdGFyDQoNCkVudmlhZG8gZGVzZGUgbWkgZGlzcG9zaXRpdm8gbW92aWwgQmxhY2tCZXJyea4g
+ZGUgRGlnaXRlbC4=
+

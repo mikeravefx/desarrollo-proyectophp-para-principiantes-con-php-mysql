@@ -1,0 +1,59 @@
+Return-path: <logistikos.ccs@gmail.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Tue, 18 Dec 2012 16:42:58 -0430
+Received: from mail-wg0-f46.google.com ([74.125.82.46]:63096)
+	by host.caracasftp.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <logistikos.ccs@gmail.com>)
+	id 1Tl4TB-00056K-NW
+	for gabrielagarcia@courierpack.com.ve; Tue, 18 Dec 2012 16:42:57 -0430
+Received: by mail-wg0-f46.google.com with SMTP id dr13so528100wgb.1
+        for <gabrielagarcia@courierpack.com.ve>; Tue, 18 Dec 2012 13:12:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=mdj/axuWMUZdlEmvVotU64ZlCxkDrGhFamkNKxCuNgM=;
+        b=Yz0FgtG+HWkiyfXSnrKKXhgIi8KW0KHU01v2S+BtGtF66C7SjC+XFnyyMbvqzQUngR
+         fckJj8E+nj8Q+Gd/UTh7I5ReMPmUruUPIbwLMhwJdXxEWJCA1f5PyMlfQgp8QumObxPF
+         CrmEBT9JNcqqoYWduebygq2mgiRWXSs0iPhEJ7bnpMdhpgs7lus7VGk/JYo3hGDFt7bD
+         y1jKx3OoHICOR/O+NWkH1BJ7cQSgKY1W0OXhX32rGJtlRVFuUimYCci6iwZaxZIy2fy9
+         9NvNcpFVYpQ3bCAC/ALZ7P08flceQYRmRuN+IEEgqFcgEmm5Wr2EEMnA3l9SwJWUGwr7
+         U7iw==
+MIME-Version: 1.0
+Received: by 10.194.157.227 with SMTP id wp3mr7358858wjb.3.1355865177195; Tue,
+ 18 Dec 2012 13:12:57 -0800 (PST)
+Received: by 10.216.161.13 with HTTP; Tue, 18 Dec 2012 13:12:57 -0800 (PST)
+Date: Tue, 18 Dec 2012 17:12:57 -0400
+Message-ID: <CAEAj3XBwEd0nskbcrQPmmhOWHh7aSmg=Tb0JN2VBOJj5wCu3_w@mail.gmail.com>
+Subject: Informacion de transferencia
+From: Israel Edgardo E scobar Jaimes <logistikos.ccs@gmail.com>
+To: gabrielagarcia@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=089e013c641c40065304d126f640
+
+--089e013c641c40065304d126f640
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Buenas tardes, estimada Gabriela, acabo de realizar la trasferencia, a la
+cuenta banesco, de verdad es bien raro que por el banco no me halla
+permitido realizar el deposito. la operaci=F3n la realic=E9 desde mi cuenta=
+ del
+banco Mercantil y el nro. de confirmaci=F3n de la operaci=F3n es 0052300251=
+847.
+
+Atento a tus comentarios.
+
+Saludos.
+
+--089e013c641c40065304d126f640
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Buenas tardes, estimada Gabriela, acabo de realizar la trasferencia, a la c=
+uenta banesco, de verdad es bien raro que por el banco no me halla permitid=
+o realizar el deposito. la operaci=F3n la realic=E9 desde mi cuenta del ban=
+co Mercantil y el nro. de confirmaci=F3n de la operaci=F3n es 0052300251847=
+.<br>
+<br>Atento a tus comentarios.<br><br>Saludos. <br>
+
+--089e013c641c40065304d126f640--

@@ -1,0 +1,570 @@
+Return-path: <mikeravefx@yahoo.es>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Fri, 05 Apr 2013 21:24:33 -0430
+Received: from nm15.bullet.mail.ird.yahoo.com ([77.238.189.68]:40499)
+	by host.caracasftp.com with smtp (Exim 4.80)
+	(envelope-from <mikeravefx@yahoo.es>)
+	id 1UOIKu-0005Oa-In
+	for info@courierpack.com.ve; Fri, 05 Apr 2013 21:24:33 -0430
+Received: from [77.238.189.57] by nm15.bullet.mail.ird.yahoo.com with NNFMP; 06 Apr 2013 01:54:31 -0000
+Received: from [212.82.98.78] by tm10.bullet.mail.ird.yahoo.com with NNFMP; 06 Apr 2013 01:54:31 -0000
+Received: from [127.0.0.1] by omp1015.mail.ir2.yahoo.com with NNFMP; 06 Apr 2013 01:54:31 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 399895.74422.bm@omp1015.mail.ir2.yahoo.com
+Received: (qmail 610 invoked by uid 60001); 6 Apr 2013 01:54:31 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1365213271; bh=TNfjSVqYHkX2TgDzLASuun5bnr3uTjzozI+krwzJRAg=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=E86zatLlNJiHCEy4kCL36u8ZkXkQ4n+xQL9s1fi9kKCNYcFGlDcZEEYwywxzKC/mMRQsbBInHxOtWzhmjUYQVVT2XC9iSkKp+vjT/b0RLZXcUk6MRHPw4Av3m0ZCt/48iwQxcS+rZwxO15kqbdbcfyisDsj5SzEZke0r7b/aQQU=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.es;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type;
+  b=bY7E1fG6qG9/MLnX+eBbAPbpS+xZlmMFoUtOZTkFjoxVM7Zat24c6093bWQ7W56Vzred8hsVwlRyJwbZl3rjt/KZPwmVkLoEWghrNjY7y4m71Zae8M1CB+muz91FzsWEBh2hGqbB/xCJebqHbOIAObwUFI9pm4RY7x90z00fQdE=;
+X-YMail-OSG: 8zrlWo4VM1mBpQ2Hdm3kFxHBXgOQHloun2y5770znX488az
+ OZWde4JT0xYVk95w4QGaZBJUCrh_1erg38L.2TKiBcoZiy9D7pvAg8WVtpLp
+ ahpktzTA0YzFfF8Ecn0QiHNLDCz_4IfzRN.9cGkjlN3v83VhognZQa.dbPHa
+ 3QOvURkHZ0Izm4LUMH_1yfucPQtC_6pyEgB8uFsocWAxnVKFSNw1m0iL3G._
+ mE2aDAdA6NImQjLG6ih9erZFpSQrSNaalLSZqVgAHTJ4hF6XUcAdtT_X16ON
+ 5REQ931WJE0OepRUCelBJURgO8axEsSfNpVZ7yPMmVt5G.LoVa3dpF2gNMRU
+ YY8enPk66DPqdE24UEV8t1OqXOF20t5aSCj3d2cQ1QKH2S_oseET1S5sxmwa
+ Sxe.OKL4uHiCQ3l9.BIeBQi4Nd2qptyzYon31zREjZo1vqNex9n6hsOTjQmD
+ UiGorI3qw6FX0W8x.dkVqo1Kx._Ex7dajojmxKjU6As_SBj7wkX8t7YOi7xZ
+ gDnj1RskWgL8SOMGxyLIRA_.F8gPjgkp1tKyzxb__5DJxwmIEdm1NkFg_SD6
+ GmnCK2LM83ntBYr8OGlgt2uLOgdM0iCVpUQZ5u1V8slLk4kQp4yrMS1_Op3g
+ s5sxJhKbhEeMkvTumna384352uPGkGYRXAqQPRgKqsk5nHZAWCpWz
+Received: from [201.242.119.105] by web133104.mail.ir2.yahoo.com via HTTP; Sat, 06 Apr 2013 02:54:30 BST
+X-Rocket-MIMEInfo: 002.001,RXNlIHRyYWNraW5nIE5vIGhhIHNpZG8gcmVjaWJuaWRvIGFwYXJlY2UgZW50cmVnYWRvIGVsIDIzLzAzLzIwMTMKwqAKwqAKMVpYWDE5NzU0Mjk5NDgxMjA5IArCoAp5IGVzcGVybyB0b2RvcyBlc3RvcwrCoArCoAphdGVudGFtZW50ZSBtaWd1ZWxwaXRhIENQSy4uLi4KwqAKwqAKwqAKwqAKTHVpc2EgR29uemFsZXogNzQzMTY1MCBsdWFuX21hcmlhbnQyQGhvdG1haWwuZXMgU2hha2lyYSBTIEVhdSBGbG9yYWxlIEVhdSBEZSBUb2lsZXR0ZSBTcHJheSBmb3IgV29tZW4sIDIuNyBPdW5jZVNIQUtJUkEgMVo0MTYBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.140.532
+References: <632040834-1365210113-cardhu_decombobulator_blackberry.rim.net-319816468-@b1.c10.bise6.blackberry>
+Message-ID: <1365213270.526.YahooMailNeo@web133104.mail.ir2.yahoo.com>
+Date: Sat, 6 Apr 2013 02:54:30 +0100 (BST)
+From: Miguel Angel Pita Fernandez <mikeravefx@yahoo.es>
+Reply-To: Miguel Angel Pita Fernandez <mikeravefx@yahoo.es>
+Subject: Re: relacion aereo 04-03-2013
+To: "info@courierpack.com.ve" <info@courierpack.com.ve>
+In-Reply-To: <632040834-1365210113-cardhu_decombobulator_blackberry.rim.net-319816468-@b1.c10.bise6.blackberry>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1908301313-632507283-1365213270=:526"
+
+---1908301313-632507283-1365213270=:526
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Ese tracking No ha sido recibnido aparece entregado el 23/03/2013=0A=A0=0A=
+=A0=0A1ZXX19754299481209 =0A=A0=0Ay espero todos estos=0A=A0=0A=A0=0Aatenta=
+mente miguelpita CPK....=0A=A0=0A=A0=0A=A0=0A=A0=0ALuisa Gonzalez 7431650 l=
+uan_mariant2@hotmail.es Shakira S Eau Florale Eau De Toilette Spray for Wom=
+en, 2.7 OunceSHAKIRA 1Z4169AR0308053747  20-03-13 980088c20 almacen miami r=
+ecibido por Pajaro 26-03-13 05-03-13 Detalles Actualizar Eliminar =0AMatios=
+ca Izaguirre 12930186 mati_karizavar27@yahoo.es - 2 LICENSE PLATE LAMP LENS=
+ - 1 DOOR GLASS MOUNTING KIT (6) DOES 1 WINDOW - 2 DOOR LATCH STRIKER BUSHI=
+NG ALSO FITS 81-91 HATCH STRIKER - 1 POWER WINDOW TORQUE PINS(3) DOES 1 MOT=
+OR  9400115901083225125680 22-03-13 bbd2f8558 Por cotejar, con la informaci=
+=F3n suministrada 17-04-13 27-03-13 Detalles Actualizar Eliminar =0APellin =
+Gomez 7433522 pellingomez@yahoo.es Tommy Hilfiger Men Long Sleeve Big New Y=
+ork Logo T-shirt (L, Yellow 9400110200829696437425 24-03-13 8ee18ce77 Por c=
+otejar, con la informaci=F3n suministrada 3-04-13 13-03-13 Detalles Actuali=
+zar Eliminar =0APellin Gomez 7433522 pellingomez@yahoo.es Oakley Men's Spli=
+t Jacket Iridium Sport Sunglasses,Matte Black Frame/Black and G40 Len...  1=
+ZA39R260350196612 24-03-13 76e28ab68 Por cotejar, con la informaci=F3n sumi=
+nistrada 4-04-13 14-03-13 Detalles Actualizar Eliminar =0APellin Gomez 7433=
+522 pellingomez@yahoo.es Tommy Hilfiger Men's 1790857 Yellow Dial Black Sil=
+icone Strap Watch LS14101308 24-03-13 d55b1d43b Por cotejar, con la informa=
+ci=F3n suministrada 2-04-13 12-03-13 Detalles Actualizar Eliminar =0Aeniber=
+t 19594731 eniberth553@hotmail.com 1 telefono samsung s3 1ZXX19754299481209=
+  25-03-13 9d2006a10 Por cotejar, con la informaci=F3n suministrada 13-04-1=
+3 23-03-13 Detalles Actualizar Eliminar =0Aenibert 19594731 eniberth553@hot=
+mail.com 1.-Blackberry Bold Touch 9930 Unlocked GSM + CDMA Cell Phone with =
+OS 7.0, 5MP Camera, GPS and NFC Support - Black  9405510200830757901024  27=
+-03-13 a535efb50 Por cotejar, con la informaci=F3n suministrada 17-04-13 27=
+-03-13 Detalles Actualizar Eliminar =0ARosa del Mar Guzman de Ynojosa 11056=
+163 rosadelmarboutique@hotmail.com Blackberry 9800 Torch Unlocked Slider Qw=
+erty Touch Screen 5 Mega Pixel Wifi Gps Color : Black  94001159999989113573=
+11 28-03-13 eaca41fa5 Por cotejar, con la informaci=F3n suministrada 18-04-=
+13 28-03-13 Detalles Actualizar Eliminar =0ATibisay Melendez 9627203 tibym@=
+hotmail.com BlackBerry Standard Battery EM-1 BlackBerry 9360 Curve Blackber=
+ry RIM 9350 9370 9400110200828718142507 4-04-13 a91993352 Por cotejar, con =
+la informaci=F3n suministrada 22-04-13 01-04-13 Detalles Actualizar Elimina=
+r =0Ajuan carlos olim 9956918 jcarlosolimfreitas@hotmail.com III Samsung Ga=
+laxy S i8190 8GB 3 mini HSUPA / HSDPA 900/1900/2100 mps FACTORY UNLOCKED c=
+=E1mara de 5MP M=E1rmol Blanco VERSION INTERNACIONAL 9405511201080561827959=
+ 4-04-13 d4b9732c1 Por cotejar, con la informaci=F3n suministrada 25-04-13 =
+04-04-13 Detalles Actualizar Eliminar =0ADiana Marquez 15838069 Diana_imt@h=
+otmail.com Kenneth Cole REACTION Hombres Toss The Anchor CN Oxford, Orange,=
+ 7,5 millones de EE.UU. LC11438919 5-04-13 778074727 Por cotejar, con la in=
+formaci=F3n suministrada 1-05-13 10-04-13 Detalles Actualizar Eliminar =0A=
+=0A=0A________________________________=0ADe: Atencion al cliente! <info@cou=
+rierpack.com.ve>=0APara: Miguel Pita Fernandez <mikeravefx@yahoo.es> =0AEnv=
+iado: Viernes 5 de abril de 2013 20:31=0AAsunto: RV: relacion aereo 04-03-2=
+013=0A=0A=0AEnviado desde mi BlackBerry de Movistar=0A=0A__________________=
+______________=0A=0AFrom: ADUANAIR <aduanair@gmail.com> =0ADate: Thu, 4 Apr=
+ 2013 13:39:40 -0400=0ATo: <info@courierpack.com.ve>=0ASubject: relacion ae=
+reo 04-03-2013=0A=0A=0ARELACION AEREO =0A=0A29079 MIGUEL PITA 40$=0A=0ATRAC=
+KING:=0AJHONNATAN ABIMALEC SANTANA SIERRA 2 EN 1 1Z87X4440303926575, 1ZXX68=
+680352540594, =0A=0A=0A-- =0AADUANAIR CARGO & COURIER CORP.=0A5900 NW 99 Av=
+e Unit 6=0ADoral, Florida 33178=0APhone:(305)7183636=0AFax:(305)7183969=0A=
+=0ABY TSA REGULATIONS ALL CARGO WILL BE SUBJECT TO INSPECTION. 
+---1908301313-632507283-1365213270=:526
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div style=3D"RIGHT: =
+auto"><SPAN style=3D"RIGHT: auto">Ese tracking No ha sido recibnido aparece=
+ entregado el 23/03/2013</SPAN></div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"><VAR id=3Dyui-ie-cur=
+sor></VAR></SPAN>&nbsp;</div>
+<div style=3D"RIGHT: auto"><SPAN style=3D"RIGHT: auto"></SPAN>&nbsp;</div>
+<div style=3D"BACKGROUND-COLOR: transparent; FONT-STYLE: normal; FONT-FAMIL=
+Y: times new roman, new york, times, serif; COLOR: rgb(0,0,0); FONT-SIZE: 1=
+6px; RIGHT: auto"><SPAN style=3D"RIGHT: auto"><STRONG><FONT color=3D#666666=
+ size=3D2 face=3DVerdana>1ZXX19754299481209 </FONT></STRONG></SPAN></div>
+<div style=3D"BACKGROUND-COLOR: transparent; FONT-STYLE: normal; FONT-FAMIL=
+Y: times new roman, new york, times, serif; COLOR: rgb(0,0,0); FONT-SIZE: 1=
+6px; RIGHT: auto"><SPAN style=3D"RIGHT: auto"><STRONG><FONT color=3D#666666=
+ size=3D2 face=3DVerdana></FONT></STRONG></SPAN>&nbsp;</div>
+<div style=3D"BACKGROUND-COLOR: transparent; FONT-STYLE: normal; FONT-FAMIL=
+Y: times new roman, new york, times, serif; COLOR: rgb(0,0,0); FONT-SIZE: 1=
+6px; RIGHT: auto"><SPAN style=3D"RIGHT: auto"><STRONG><FONT color=3D#666666=
+ size=3D2 face=3DVerdana>y espero todos estos</FONT></STRONG></SPAN></div>
+<div style=3D"BACKGROUND-COLOR: transparent; FONT-STYLE: normal; FONT-FAMIL=
+Y: times new roman, new york, times, serif; COLOR: rgb(0,0,0); FONT-SIZE: 1=
+6px; RIGHT: auto"><SPAN style=3D"RIGHT: auto"><STRONG><FONT color=3D#666666=
+ size=3D2 face=3DVerdana></FONT></STRONG></SPAN>&nbsp;</div>
+<div style=3D"BACKGROUND-COLOR: transparent; FONT-STYLE: normal; FONT-FAMIL=
+Y: times new roman, new york, times, serif; COLOR: rgb(0,0,0); FONT-SIZE: 1=
+6px; RIGHT: auto"><SPAN style=3D"RIGHT: auto"><STRONG><FONT color=3D#666666=
+ size=3D2 face=3DVerdana></FONT></STRONG></SPAN>&nbsp;</div>
+<div style=3D"BACKGROUND-COLOR: transparent; FONT-STYLE: normal; FONT-FAMIL=
+Y: times new roman, new york, times, serif; COLOR: rgb(0,0,0); FONT-SIZE: 1=
+6px; RIGHT: auto"><SPAN style=3D"RIGHT: auto"><STRONG><FONT color=3D#666666=
+ size=3D2 face=3DVerdana>atentamente miguelpita CPK....</FONT></STRONG></SP=
+AN></div>
+<div style=3D"BACKGROUND-COLOR: transparent; FONT-STYLE: normal; FONT-FAMIL=
+Y: Verdana; COLOR: rgb(102,102,102); FONT-SIZE: 2px; RIGHT: auto; FONT-WEIG=
+HT: bold"><SPAN style=3D"RIGHT: auto"><FONT size=3D2></FONT></SPAN>&nbsp;</=
+div>
+<div style=3D"BACKGROUND-COLOR: transparent; FONT-STYLE: normal; FONT-FAMIL=
+Y: Verdana; COLOR: rgb(102,102,102); FONT-SIZE: 2px; RIGHT: auto; FONT-WEIG=
+HT: bold"><SPAN style=3D"RIGHT: auto"><FONT size=3D2></FONT></SPAN>&nbsp;</=
+div>
+<div style=3D"BACKGROUND-COLOR: transparent; FONT-STYLE: normal; FONT-FAMIL=
+Y: Verdana; COLOR: rgb(102,102,102); FONT-SIZE: 2px; RIGHT: auto; FONT-WEIG=
+HT: bold"><SPAN style=3D"RIGHT: auto"><FONT size=3D2></FONT></SPAN>&nbsp;</=
+div>
+<div style=3D"BACKGROUND-COLOR: transparent; FONT-STYLE: normal; FONT-FAMIL=
+Y: Verdana; COLOR: rgb(102,102,102); FONT-SIZE: 2px; RIGHT: auto; FONT-WEIG=
+HT: bold"><SPAN style=3D"RIGHT: auto"><FONT size=3D2></FONT></SPAN>&nbsp;</=
+div>
+<div style=3D"BACKGROUND-COLOR: transparent; FONT-STYLE: normal; FONT-FAMIL=
+Y: Verdana; COLOR: rgb(102,102,102); FONT-SIZE: 2px; RIGHT: auto; FONT-WEIG=
+HT: bold"><SPAN style=3D"RIGHT: auto">
+<TABLE border=3D0 cellSpacing=3D1 cellPadding=3D0 width=3D"80%" align=3Dcen=
+ter>
+<TBODY>
+<TR bgColor=3D#aad2ff>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Luisa Gonzalez</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>7431650</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>luan_mariant2@hotmail.es</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Shakira S Eau Florale Eau De Toilette Spray for Women, 2.7 OunceS=
+HAKIRA</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>1Z4169AR0308053747 </B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>20-03-13</B></FONT></TD>
+<TD style=3D"RIGHT: auto"><FONT color=3D#666666 size=3D2 face=3D"Verdana, A=
+rial, Helvetica, sans-serif"><B>980088c20</B></FONT></TD>
+<TD style=3D"RIGHT: auto"><FONT color=3D#666666 size=3D2 face=3D"Verdana, A=
+rial, Helvetica, sans-serif"><B>almacen miami <VAR id=3Dyui-ie-cursor></VAR=
+>recibido por Pajaro</B></FONT></TD>
+<TD style=3D"RIGHT: auto"><FONT color=3D#666666 size=3D2 face=3D"Verdana, A=
+rial, Helvetica, sans-serif"><B>26-03-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>05-03-13</B></FONT></TD>
+<TD style=3D"RIGHT: auto"><FONT color=3D#666666 size=3D2 face=3D"Verdana, A=
+rial, Helvetica, sans-serif"><B><A class=3Dord href=3D"http://es-mg42.mail.=
+yahoo.com/neo/detalles_guia.php?id_a=3D4668">Detalles</A></B></FONT></TD>
+<TD style=3D"RIGHT: auto"><FONT color=3D#666666 size=3D2 face=3D"Verdana, A=
+rial, Helvetica, sans-serif"><B><A class=3Dord href=3D"http://es-mg42.mail.=
+yahoo.com/neo/parametro_guia.php?id_a=3D4668">Act<VAR id=3Dyui-ie-cursor></=
+VAR>ualizar</A></B></FONT></TD>
+<TD style=3D"RIGHT: auto"><FONT color=3D#ffffcc size=3D2 face=3D"Verdana, A=
+rial, Helvetica, sans-serif"><B><B><A class=3Dord href=3D"http://es-mg42.ma=
+il.yahoo.com/neo/eliminar_guia.php?id_a=3D4668">Eliminar</A></B></FONT></B>=
+</TD></TR><!-- fin tabla resultados --><!-- tabla de resultados -->
+<TR bgColor=3D#aad2ff>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Matiosca Izaguirre</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>12930186</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>mati_karizavar27@yahoo.es</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>- 2 LICENSE PLATE LAMP LENS - 1 DOOR GLASS MOUNTING KIT (6) DOES =
+1 WINDOW - 2 DOOR LATCH STRIKER BUSHING ALSO FITS 81-91 HATCH STRIKER - 1 P=
+OWER WINDOW TORQUE PINS(3) DOES 1 MOTOR </B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>9400115901083225125680</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>22-03-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>bbd2f8558</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Por cotejar, con la informaci=F3n suministrada</B></FONT></TD>
+<TD style=3D"RIGHT: auto"><FONT color=3D#666666 size=3D2 face=3D"Verdana, A=
+rial, Helvetica, sans-serif"><B>17-04-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>27-03-13</B></FONT></TD>
+<TD style=3D"RIGHT: auto"><FONT color=3D#666666 size=3D2 face=3D"Verdana, A=
+rial, Helvetica, sans-serif"><B><A class=3Dord href=3D"http://es-mg42.mail.=
+yahoo.com/neo/detalles_guia.php?id_a=3D4669">D<VAR id=3Dyui-ie-cursor></VAR=
+>etalles</A></B></FONT></TD>
+<TD style=3D"RIGHT: auto"><FONT color=3D#666666 size=3D2 face=3D"Verdana, A=
+rial, Helvetica, sans-serif"><B><A class=3Dord href=3D"http://es-mg42.mail.=
+yahoo.com/neo/parametro_guia.php?id_a=3D4669">Actualizar</A></B></FONT></TD=
+>
+<TD style=3D"RIGHT: auto"><FONT color=3D#ffffcc size=3D2 face=3D"Verdana, A=
+rial, Helvetica, sans-serif"><B><B><A class=3Dord href=3D"http://es-mg42.ma=
+il.yahoo.com/neo/eliminar_guia.php?id_a=3D4669"><VAR id=3Dyui-ie-cursor></V=
+AR>Eliminar</A></B></FONT></B></TD></TR><!-- fin tabla resultados --><!-- t=
+abla de resultados -->
+<TR bgColor=3D#aad2ff>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Pellin Gomez</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>7433522</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>pellingomez@yahoo.es</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Tommy Hilfiger Men Long Sleeve Big New York Logo T-shirt (L, Yell=
+ow</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>9400110200829696437425</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>24-03-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>8ee18ce77</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Por cotejar, con la informaci=F3n suministrada</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>3-04-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>13-03-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/detalles=
+_guia.php?id_a=3D4670">Detalles</A></B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/parametr=
+o_guia.php?id_a=3D4670">Actualizar</A></B></FONT></TD>
+<TD><FONT color=3D#ffffcc size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/elimi=
+nar_guia.php?id_a=3D4670">Eliminar</A></B></FONT></B></TD></TR><!-- fin tab=
+la resultados --><!-- tabla de resultados -->
+<TR bgColor=3D#aad2ff>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Pellin Gomez</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>7433522</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>pellingomez@yahoo.es</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Oakley Men's Split Jacket Iridium Sport Sunglasses,Matte Black Fr=
+ame/Black and G40 Len... </B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>1ZA39R260350196612</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>24-03-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>76e28ab68</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Por cotejar, con la informaci=F3n suministrada</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>4-04-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>14-03-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/detalles=
+_guia.php?id_a=3D4671">Detalles</A></B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/parametr=
+o_guia.php?id_a=3D4671">Actualizar</A></B></FONT></TD>
+<TD><FONT color=3D#ffffcc size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/elimi=
+nar_guia.php?id_a=3D4671">Eliminar</A></B></FONT></B></TD></TR><!-- fin tab=
+la resultados --><!-- tabla de resultados -->
+<TR bgColor=3D#aad2ff>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Pellin Gomez</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>7433522</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>pellingomez@yahoo.es</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Tommy Hilfiger Men's 1790857 Yellow Dial Black Silicone Strap Wat=
+ch</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>LS14101308</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>24-03-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>d55b1d43b</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Por cotejar, con la informaci=F3n suministrada</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>2-04-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>12-03-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/detalles=
+_guia.php?id_a=3D4672">Detalles</A></B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/parametr=
+o_guia.php?id_a=3D4672">Actualizar</A></B></FONT></TD>
+<TD><FONT color=3D#ffffcc size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/elimi=
+nar_guia.php?id_a=3D4672">Eliminar</A></B></FONT></B></TD></TR><!-- fin tab=
+la resultados --><!-- tabla de resultados -->
+<TR bgColor=3D#aad2ff>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>enibert</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>19594731</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>eniberth553@hotmail.com</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>1 telefono samsung s3</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>1ZXX19754299481209 </B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>25-03-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>9d2006a10</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Por cotejar, con la informaci=F3n suministrada</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>13-04-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>23-03-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/detalles=
+_guia.php?id_a=3D4673">Detalles</A></B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/parametr=
+o_guia.php?id_a=3D4673">Actualizar</A></B></FONT></TD>
+<TD><FONT color=3D#ffffcc size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/elimi=
+nar_guia.php?id_a=3D4673">Eliminar</A></B></FONT></B></TD></TR><!-- fin tab=
+la resultados --><!-- tabla de resultados -->
+<TR bgColor=3D#aad2ff>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>enibert</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>19594731</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>eniberth553@hotmail.com</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>1.-Blackberry Bold Touch 9930 Unlocked GSM + CDMA Cell Phone with=
+ OS 7.0, 5MP Camera, GPS and NFC Support - Black </B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>9405510200830757901024 </B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>27-03-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>a535efb50</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Por cotejar, con la informaci=F3n suministrada</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>17-04-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>27-03-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/detalles=
+_guia.php?id_a=3D4674">Detalles</A></B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/parametr=
+o_guia.php?id_a=3D4674">Actualizar</A></B></FONT></TD>
+<TD><FONT color=3D#ffffcc size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/elimi=
+nar_guia.php?id_a=3D4674">Eliminar</A></B></FONT></B></TD></TR><!-- fin tab=
+la resultados --><!-- tabla de resultados -->
+<TR bgColor=3D#aad2ff>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Rosa del Mar Guzman de Ynojosa</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>11056163</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>rosadelmarboutique@hotmail.com</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Blackberry 9800 Torch Unlocked Slider Qwerty Touch Screen 5 Mega =
+Pixel Wifi Gps Color : Black </B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>9400115999998911357311</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>28-03-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>eaca41fa5</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Por cotejar, con la informaci=F3n suministrada</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>18-04-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>28-03-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/detalles=
+_guia.php?id_a=3D4675">Detalles</A></B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/parametr=
+o_guia.php?id_a=3D4675">Actualizar</A></B></FONT></TD>
+<TD><FONT color=3D#ffffcc size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/elimi=
+nar_guia.php?id_a=3D4675">Eliminar</A></B></FONT></B></TD></TR><!-- fin tab=
+la resultados --><!-- tabla de resultados -->
+<TR bgColor=3D#aad2ff>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Tibisay Melendez</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>9627203</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>tibym@hotmail.com</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>BlackBerry Standard Battery EM-1 BlackBerry 9360 Curve Blackberry=
+ RIM 9350 9370</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>9400110200828718142507</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>4-04-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>a91993352</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Por cotejar, con la informaci=F3n suministrada</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>22-04-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>01-04-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/detalles=
+_guia.php?id_a=3D4676">Detalles</A></B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/parametr=
+o_guia.php?id_a=3D4676">Actualizar</A></B></FONT></TD>
+<TD><FONT color=3D#ffffcc size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/elimi=
+nar_guia.php?id_a=3D4676">Eliminar</A></B></FONT></B></TD></TR><!-- fin tab=
+la resultados --><!-- tabla de resultados -->
+<TR bgColor=3D#aad2ff>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>juan carlos olim</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>9956918</B></FONT></TD>
+<TD style=3D"RIGHT: auto"><FONT color=3D#666666 size=3D2 face=3D"Verdana, A=
+rial, Helvetica, sans-serif"><B>jcarlosolimfreitas@hotmail.com</B></FONT></=
+TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>III Samsung Galaxy S i8190 8GB 3 mini HSUPA / HSDPA 900/1900/2100=
+ mps FACTORY UNLOCKED c=E1mara de 5MP M=E1rmol Blanco VERSION INTERNACIONAL=
+</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>9405511201080561827959</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>4-04-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>d4b9732c1</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Por cotejar, con la informaci=F3n suministrada</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>25-04-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>04-04-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/detalles=
+_guia.php?id_a=3D4677">Detalles</A></B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/parametr=
+o_guia.php?id_a=3D4677">Actualizar</A></B></FONT></TD>
+<TD><FONT color=3D#ffffcc size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/elimi=
+nar_guia.php?id_a=3D4677">Eliminar</A></B></FONT></B></TD></TR><!-- fin tab=
+la resultados --><!-- tabla de resultados -->
+<TR bgColor=3D#aad2ff>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Diana Marquez</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>15838069</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Diana_imt@hotmail.com</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Kenneth Cole REACTION Hombres Toss The Anchor CN Oxford, Orange, =
+7,5 millones de EE.UU.</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>LC11438919</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>5-04-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>778074727</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>Por cotejar, con la informaci=F3n suministrada</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>1-05-13</B></FONT></TD>
+<TD><FONT color=3D#666666 size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B>10-04-13</B></FONT></TD>
+<TD style=3D"RIGHT: auto"><FONT color=3D#666666 size=3D2 face=3D"Verdana, A=
+rial, Helvetica, sans-serif"><B><A class=3Dord href=3D"http://es-mg42.mail.=
+yahoo.com/neo/detalles_guia.php?id_a=3D4678">Det<VAR id=3Dyui-ie-cursor></V=
+AR>a<VAR id=3Dyui-ie-cursor></VAR><VAR id=3Dyui-ie-cursor></VAR>lles</A></B=
+></FONT></TD>
+<TD style=3D"RIGHT: auto"><FONT color=3D#666666 size=3D2 face=3D"Verdana, A=
+rial, Helvetica, sans-serif"><B><A class=3Dord href=3D"http://es-mg42.mail.=
+yahoo.com/neo/parametro_guia.php?id_a=3D4678">Ac<VAR id=3Dyui-ie-cursor></V=
+AR>tualizar</A></B></FONT></TD>
+<TD><FONT color=3D#ffffcc size=3D2 face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><B><B><A class=3Dord href=3D"http://es-mg42.mail.yahoo.com/neo/elimi=
+nar_guia.php?id_a=3D4678">Eliminar</A></B></FONT></B></TD></TR></TBODY></TA=
+BLE></SPAN><VAR id=3Dyui-ie-cursor></VAR></div>
+<div style=3D"BACKGROUND-COLOR: transparent; FONT-STYLE: normal; FONT-FAMIL=
+Y: times new roman, new york, times, serif; COLOR: rgb(0,0,0); FONT-SIZE: 1=
+6px; RIGHT: auto"><BR style=3D"RIGHT: auto"></div>
+<DIV style=3D"FONT-FAMILY: times new roman, new york, times, serif; FONT-SI=
+ZE: 12pt">
+<DIV style=3D"FONT-FAMILY: times new roman, new york, times, serif; FONT-SI=
+ZE: 12pt">
+<DIV style=3D"RIGHT: auto" dir=3Dltr><FONT size=3D2 face=3DArial>
+<DIV style=3D"BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; P=
+ADDING-BOTTOM: 0px; LINE-HEIGHT: 0; MARGIN: 5px 0px; PADDING-LEFT: 0px; PAD=
+DING-RIGHT: 0px; HEIGHT: 0px; FONT-SIZE: 0px; BORDER-TOP: #ccc 1px solid; B=
+ORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 0px" class=3Dhr contentEditable=
+=3Dfalse readonly=3D"true"></DIV><B><SPAN style=3D"FONT-WEIGHT: bold">De:</=
+SPAN></B> Atencion al cliente! &lt;info@courierpack.com.ve&gt;<BR><B><SPAN =
+style=3D"FONT-WEIGHT: bold">Para:</SPAN></B> Miguel Pita Fernandez &lt;mike=
+ravefx@yahoo.es&gt; <BR><B><SPAN style=3D"FONT-WEIGHT: bold">Enviado:</SPAN=
+></B> Viernes 5 de abril de 2013 20:31<BR><B><SPAN style=3D"FONT-WEIGHT: bo=
+ld">Asunto:</SPAN></B> RV: relacion aereo 04-03-2013<BR></FONT></DIV><BR>
+<DIV id=3Dyiv1358036576>
+<DIV>
+<DIV>Enviado desde mi BlackBerry de Movistar</DIV>
+<DIV style=3D"BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; P=
+ADDING-BOTTOM: 0px; LINE-HEIGHT: 0; MARGIN: 5px 0px; PADDING-LEFT: 0px; PAD=
+DING-RIGHT: 0px; HEIGHT: 0px; FONT-SIZE: 0px; BORDER-TOP: #ccc 1px solid; B=
+ORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 0px" class=3Dhr contentEditable=
+=3Dfalse readonly=3D"true"></DIV>
+<DIV><B>From: </B>ADUANAIR &lt;aduanair@gmail.com&gt; </DIV>
+<DIV><B>Date: </B>Thu, 4 Apr 2013 13:39:40 -0400</DIV>
+<DIV><B>To: </B>&lt;info@courierpack.com.ve&gt;</DIV>
+<DIV><B>Subject: </B>relacion aereo 04-03-2013</DIV>
+<DIV><BR></DIV>
+<DIV dir=3Dltr>
+<DIV>
+<DIV>
+<DIV><BR clear=3Dall></DIV>RELACION AEREO <BR><BR></DIV>29079 MIGUEL PITA 4=
+0$<BR><BR></DIV>TRACKING:<BR>JHONNATAN ABIMALEC SANTANA SIERRA 2 EN 1 1Z87X=
+4440303926575, 1ZXX68680352540594, <BR><BR>
+<DIV>
+<DIV>
+<DIV>-- <BR><B><FONT color=3D#e36c09>ADUANAIR CARGO &amp; COURIER CORP.</FO=
+NT><BR>5900 NW 99 Ave Unit 6<BR>Doral, Florida 33178<BR>Phone:<A href=3D"" =
+rel=3Dnofollow>(305)7183636</A><BR>Fax:<A href=3D"" rel=3Dnofollow>(305)718=
+3969</A></B><BR><BR><SPAN style=3D"FONT-SIZE: 10pt">BY TSA REGULATIONS ALL =
+CARGO WILL BE SUBJECT TO INSPECTION.</SPAN>=20
+<DIV style=3D"DISPLAY: inline"></DIV></DIV></DIV></DIV></DIV></DIV></DIV><B=
+R><BR></DIV></DIV></div></body></html>
+---1908301313-632507283-1365213270=:526--

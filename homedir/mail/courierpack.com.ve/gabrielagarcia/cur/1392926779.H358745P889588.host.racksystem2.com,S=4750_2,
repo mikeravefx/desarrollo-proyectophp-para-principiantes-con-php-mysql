@@ -1,0 +1,94 @@
+Return-path: <reina4014@gmail.com>
+Envelope-to: Gabrielagarcia@courierpack.com.ve
+Delivery-date: Thu, 20 Feb 2014 15:36:19 -0430
+Received: from mail-pb0-f68.google.com ([209.85.160.68]:37552)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <reina4014@gmail.com>)
+	id 1WGZsu-003jQ2-Rx
+	for Gabrielagarcia@courierpack.com.ve; Thu, 20 Feb 2014 15:36:19 -0430
+Received: by mail-pb0-f68.google.com with SMTP id up15so1341978pbc.7
+        for <Gabrielagarcia@courierpack.com.ve>; Thu, 20 Feb 2014 12:06:14 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=TdkTJaRT2a/x7KQ2KAOg7bxX4kuN2Pk4XC+/Z7JbgEs=;
+        b=PRGqjP/mAC0nZGuCbAm9YaZFfSJFLIpFmdk2Y7IjEEXqVxYeK9uXDp4ymUfxR/oh2R
+         tbys7ka1BSYxJG3Iqjo7jPMk2WuXwLezduPTQjvOcaO87DtE9rLRsWOKw7VkbRQUy+Ta
+         yuYp9WWaPhKOv2g1NHvVGhBHPtcmTfXoDfk0aj0/a4Z27i7EAMBkiKtnHjtwB5Xw1opi
+         psJWIDnHzUsXRgNSOmpW6oUZ0MdbrljQUoH79llXqB5PywHwQMjX4F1nJdPJhTrw5p0f
+         htUOXuf9N26CzMkjitubxwVKI++NonLmuzoVKyUqXyjgUzUX/3cRNzLOqH9xRofN67/i
+         TYsA==
+MIME-Version: 1.0
+X-Received: by 10.66.176.143 with SMTP id ci15mr4243647pac.35.1392926773381;
+ Thu, 20 Feb 2014 12:06:13 -0800 (PST)
+Received: by 10.68.64.133 with HTTP; Thu, 20 Feb 2014 12:06:13 -0800 (PST)
+Date: Thu, 20 Feb 2014 15:36:13 -0430
+Message-ID: <CABw+FcBcNTZB-EUjno_NpvnsHLmHUPUHGY+HQevkyWGOpF3Yiw@mail.gmail.com>
+Subject: En el texto
+From: reina duarte <reina4014@gmail.com>
+To: Gabrielagarcia@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=047d7bd75160868e2d04f2dc099a
+X-Spam-Status: No, score=-0.5
+X-Spam-Score: -4
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Buenas tardes señora Gabriela, revisando mi correo esta tarde
+    pude observar que gracias a dios ya me llegaron los articulos que compre
+   en el mes de Diciembre, pero me sorprende el costo del envio, quisiera que
+    por favor me confirmara el monto ya que me imagino es un error cancelar 6.525.
+    00 Bs por dos telefonos y una lapto de juguete. Sin mas que agregar y en
+   espera de su respuesta , queda [...] 
+ 
+ Content analysis details:   (-0.5 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (reina4014[at]gmail.com)
+ -0.7 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+                             trust
+                             [209.85.160.68 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (reina4014[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--047d7bd75160868e2d04f2dc099a
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Buenas tardes se=F1ora Gabriela, revisando mi correo esta tarde pude observ=
+ar
+que gracias a dios ya me  llegaron los articulos que compre en el mes de
+Diciembre, pero me sorprende el costo del envio,  quisiera que por favor me
+confirmara el monto  ya que me imagino es un error cancelar 6.525. 00 Bs
+por  dos telefonos y una lapto de juguete.
+Sin mas que agregar y en espera de su respuesta , queda
+
+Reina Duarte.
+
+--047d7bd75160868e2d04f2dc099a
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Buenas tardes se=F1ora Gabriela, revisando mi correo =
+esta tarde pude observar que gracias a dios ya me =A0llegaron los articulos=
+ que compre en el mes de Diciembre, pero me sorprende el costo del envio, =
+=A0quisiera que por favor me confirmara=A0el=A0monto =A0ya que me imagino e=
+s un error cancelar 6.525. 00 Bs por=A0 dos telefonos y una lapto de juguet=
+e.</div>
+<div>Sin mas que agregar y en espera de su respuesta , queda </div><div>=A0=
+</div><div>Reina Duarte.</div></div>
+
+--047d7bd75160868e2d04f2dc099a--

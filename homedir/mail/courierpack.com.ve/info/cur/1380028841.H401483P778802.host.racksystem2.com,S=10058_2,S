@@ -1,0 +1,154 @@
+Return-path: <info=courierpack.com.ve@bounces.wp.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Tue, 24 Sep 2013 08:50:41 -0430
+Received: from smtp2.luv.wordpress.com ([72.233.119.195]:42481)
+	by host.racksystem2.com with esmtp (Exim 4.80)
+	(envelope-from <info=courierpack.com.ve@bounces.wp.com>)
+	id 1VOSXf-003GZZ-SW
+	for info@courierpack.com.ve; Tue, 24 Sep 2013 08:50:40 -0430
+Received: from smtp2.luv.wordpress.com (localhost.localdomain [127.0.0.1])
+	by smtp2.luv.wordpress.com (Postfix) with ESMTP id 00E1572ABE
+	for <info@courierpack.com.ve>; Tue, 24 Sep 2013 13:20:38 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=wordpress.com; h=date:to
+	:from:subject:message-id:mime-version:content-type; s=my5; bh=2Y
+	eTDWt0xeexmd6wuU+hb5FsH1w=; b=Jq62sNiHuFL8XIp8+h3qJthFkGKaX8DTfD
+	H0G1I2l1LHJxmD4QEhxg2hID8SYAHdnwx69CwY4pAc+lk0RRiz1RCKLixQxxKskG
+	l9j1KWRXBuI5EiQOoL/YrNoM41/fIyogwhh+c+2kv9P0O/2PZXORjTZ2M+woLklB
+	Xh4R8nRF0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=wordpress.com; h=date:to:from
+	:subject:message-id:mime-version:content-type; q=dns; s=my5; b=Z
+	R1/qjz1DrorjTeV+uxku2Taft2RVCXy+XO4gR1K/tUGWQqq3HYnoglV2BH0Agkhc
+	5YH90poRz/PZ+c2iO97D9K8pcLSd9ZTzA2TukNiQWTZdYyVjzoMJH3i4HQc6iao9
+	KMAdCWjHhHPMX7i1X1R+Xetvm+f0apfAUW+Y72pYCw=
+Received: from wordpress.com (24.69.233.72.static.reverse.ltdomains.com [72.233.69.24])
+	by smtp2.luv.wordpress.com (Postfix) with ESMTP id F371972A91
+	for <info@courierpack.com.ve>; Tue, 24 Sep 2013 13:20:37 +0000 (UTC)
+Date: Tue, 24 Sep 2013 13:20:37 +0000
+To: info@courierpack.com.ve
+From: "WordPress.com" <donotreply@wordpress.com>
+Subject: iglosroques.wordpress.com is yours! Start customizing it now.
+Message-ID: <46d01633aca7e6cbb4cf5049a3d565e1@wordpress.com>
+X-Priority: 3
+X-Automattic-Destination: aW5mb0Bjb3VyaWVycGFjay5jb20udmU=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_46d01633aca7e6cbb4cf5049a3d565e1"
+
+--b1_46d01633aca7e6cbb4cf5049a3d565e1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Your new WordPress.com site is ready to go! Looking for ideas for your new =
+site? Check out the <a href=3D'http://learn.wordpress.com/'>WordPress.com b=
+eginner's tutorial</a>.=0A=0ACheers,=0AThe WordPress.com Teamat http://word=
+press.com/=0A
+
+--b1_46d01633aca7e6cbb4cf5049a3d565e1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A=09<head>=0A=09=09<style type=3D"text/css" media=3D"a=
+ll">=0A=09=09=09a:hover {=09color: red;=09}=0A=09=09=09a {=0A=09=09=09=09te=
+xt-decoration: none;=0A=09=09=09=09color: #0088cc;=0A=09=09=09}=0A=0A=09=09=
+=09a.primaryactionlink:link, a.primaryactionlink:visited { background-color=
+: #2585B2; color: #fff; }=0A=09=09=09a.primaryactionlink:hover, a.primaryac=
+tionlink:active { background-color: #11729E !important; color: #fff !import=
+ant; }=0A=0A=09=09=09/*=0A=09=09=09=09@media only screen and (max-device-wi=
+dth: 480px) {=0A=09=09=09=09=09 .post { min-width: 700px !important; }=0A=
+=09=09=09=09}=0A=09=09=09*/=0A=09=09</style>=0A=09=09<title>WordPress.com</=
+title>=0A=09=09<!--[if gte mso 12]>=0A=09=09<style type=3D"text/css" media=
+=3D"all">=0A=09=09body {=0A=09=09font-family: arial;=0A=09=09font-size: 0.8=
+em;=0A=09=09}=0A=09=09.post, .comment {=0A=09=09background-color: white !im=
+portant;=0A=09=09line-height: 1.4em !important;=0A=09=09}=0A=09=09</style>=
+=0A=09=09<![endif]-->=0A=09=09<meta http-equiv=3D"Content-Type" content=3D"=
+text/html; charset=3Dutf-8" />=0A=09</head>=0A=0A=09<body class=3D"subscrip=
+tion-body-tag ltr" style=3D"margin: 0; padding: 0; width: 100% !important;"=
+>=0A=09=09<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" bgcolor=3D"#DDDDDD"  style=3D"width: 100%; background: #DDDDDD;">=0A=
+=09=09=09<tr>=0A=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=0A=09=09=09=
+=09=09<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D'cent=
+er'  class=3D"subscribe-body" width=3D"550" style=3D"width: 100%; padding: =
+10px;">=0A=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09<td>=0A=0A=09=09=09=
+=09=09=09=09=09<div style=3D"max-width: 600px; margin: 0 auto;">=0A=0A=09=
+=09=09=09=09=09=09=09=09<table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" bgcolor=3D"#ffffff"  class=3D"subscribe-wrapper" style=3D"width: 100=
+%; background-color: #fff; text-align: left; margin: 0 auto; max-width: 102=
+4px; min-width: 320px;">=0A=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09<td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<tabl=
+e width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" height=3D=
+"8" background=3D"http://s.wordpress.com/i/emails/stripes.gif"  class=3D"su=
+bscribe-header-wrap" style=3D"width: 100%; background-image: url( 'http:/s.=
+wordpress.com/i/emails/stripes.gif'); background-repeat: repeat-x; backgrou=
+nd-color: #43A4D0; height: 8px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td></td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09</ta=
+ble>=0A=0A=09=0A=09=0A=09=09<table width=3D"100%" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0"  class=3D"subscribe-header" style=3D"width: 100%; =
+background-color: #EFEFEF; padding: 0; border-bottom: 1px solid #DDD;">=0A=
+=09=09=09<tr>=0A=09=09=09=09<td>=0A=09=09=09=09=09<h2 style=3D"padding: 0; =
+margin: 5px 20px; font-size: 16px; line-height: 1.4em; font-weight: normal;=
+ color: #464646; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial,=
+ sans-serif;"  class=3D"subscribe-title">iglosroques.wordpress.com is yours=
+! Start customizing it now.</h2>=0A=09=09=09=09</td>=0A=09=0A=09=09=09=09<t=
+d style=3D"vertical-align: middle;" height=3D"32" width=3D"32" valign=3D"mi=
+ddle" align=3D"right">=0A=0A=09=09=09=09=09=09=09=09=09=09=09<a style=3D"te=
+xt-decoration: underline; color: #2585B2;"  href=3D"http://iglosroques.word=
+press.com">=0A=09=09=09=09=09=0A=09=09=09=09=09=09<img border=3D"0" class=
+=3D"head-avatar" src=3D"http://s.wordpress.com/i/emails/blavatar-default.pn=
+g" alt=3D""  / style=3D"margin: 5px 20px 5px 0; vertical-align: middle; ver=
+tical-align: middle;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=09=
+=09=09=09=0A=09=09=09=09</td>=0A=09=09=09</tr>=0A=09=09</table>=0A=0A=09=0A=
+=09<table style=3D"width: 100%;"  width=3D"100%" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"20" bgcolor=3D"#ffffff">=0A=09=09<tr>=0A=09=09=09<td =
+valign=3D"top" style=3D"padding: 20px;">=0A=09=09=09=09<p style=3D"font-siz=
+e: 14px; line-height: 1.4em; color: #444444; font-family: &quot;Helvetica N=
+eue&quot;, Helvetica, Arial, sans-serif; margin: 0 0 1em 0;">Your new WordP=
+ress.com site is ready to go! Looking for ideas for your new site? Check ou=
+t the <a style=3D"text-decoration: underline; color: #2585B2;"  href=3D'htt=
+p://learn.wordpress.com/'>WordPress.com beginner&#8217;s tutorial</a>.</p>=
+=0A<p style=3D"font-size: 14px; line-height: 1.4em; color: #444444; font-fa=
+mily: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; margin: 0 0=
+ 1em 0;">Cheers,<br />=0AThe WordPress.com Team</p>=0A=0A=09=09=09=09<p sty=
+le=3D"font-size: 14px; line-height: 1.4em; color: #444444; font-family: &qu=
+ot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; margin: 0 0 1em 0;">=
+=0A=09=09=09=09=09<a href=3D"http://wordpress.com/" style=3D"text-decoratio=
+n: underline; color: #2585B2; -moz-border-radius: 10em; -webkit-border-radi=
+us: 10em; border-radius: 10em; border: 1px solid #11729E; text-decoration: =
+none; color: #fff; text-shadow: 0 1px 0 #11729E; background-color: #2585B2;=
+ padding: 5px 15px; font-size: 16px; line-height: 1.4em; font-family: Helve=
+tica Neue, Helvetica, Arial, sans-serif; font-weight: normal; margin-left: =
+0;">Log In</a>=0A=09=09=09=09</p>=0A=0A=09=09=09=09=09=09=09</td>=0A=0A=09=
+=09</tr>=0A=09</table>=0A=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=0A=09=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=0A=09=09=09=09=09=09=09=09=09=09=09=
+</td>=0A=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09</=
+table>=0A=0A=09=09=09=09=09=09=09=09=09<table width=3D"100%" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" height=3D"3" background=3D"http://s.word=
+press.com/i/emails/stripes.gif"  class=3D"subscribe-footer-wrap" style=3D"w=
+idth: 100%; background-image: url( 'http://s.wordpress.com/i/emails/stripes=
+.gif'); background-repeat: repeat-x; background-color: #43A4D0; height: 3px=
+;">=0A=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09<td></td>=0A=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=
+=09=09</table>=0A=0A=09=09=09=09=09=09=09=09</div>=0A=0A=09=09=09=09=09=09=
+=09</td>=0A=09=09=09=09=09=09</tr>=0A=09=09=09=09=09</table>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<table width=3D"100%" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" align=3D"center"  class=3D"subscribe-foo=
+ter" style=3D"width: 100%; padding-bottom: 2em; color: #555555; font-size: =
+12px; height: 18px; text-align: center; font-family: &quot;Helvetica Neue&q=
+uot;, Helvetica, Arial, sans-serif;">=0A=09=09=09=09=09=09<tr>=0A=09=09=09=
+=09=09=09=09<td align=3D"center"><a class=3D"subscribe-footer-link"  href=
+=3D"http://wordpress.com" style=3D"text-decoration: underline; color: #2585=
+B2; font-size: 14px; color: #555555 !important; text-decoration: none; font=
+-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: #=
+555 !important; font-size: 14px; text-decoration: none;">Thanks for flying =
+with <img border=3D"0" src=3D"http://s.wordpress.com/i/emails/wp-footericon=
+.png" alt=3D"" style=3D"vertical-align: middle;" width=3D"16" height=3D"17"=
+ /> WordPress.com</a></td>=0A=09=09=09=09=09=09</tr>=0A=09=09=09=09=09</tab=
+le>=0A=09=09=09=09=09=0A=09=09=09=09</td>=0A=09=09=09</tr>=0A=09=09</table>=
+=0A=09</body>=0A</html>
+
+
+--b1_46d01633aca7e6cbb4cf5049a3d565e1--
+
+

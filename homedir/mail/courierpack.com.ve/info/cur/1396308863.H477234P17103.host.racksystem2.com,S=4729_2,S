@@ -1,0 +1,84 @@
+Return-path: <matiosca@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Mon, 31 Mar 2014 19:04:23 -0430
+Received: from mail-qc0-f181.google.com ([209.85.216.181]:65422)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <matiosca@gmail.com>)
+	id 1WUlif-0004Ld-4m
+	for info@courierpack.com.ve; Mon, 31 Mar 2014 19:04:23 -0430
+Received: by mail-qc0-f181.google.com with SMTP id e9so9888833qcy.12
+        for <info@courierpack.com.ve>; Mon, 31 Mar 2014 16:34:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=content-type:mime-version:content-transfer-encoding:message-id:date
+         :subject:from:to;
+        bh=k4LlJHHs5/f4/tTiTrZQYJ8467dDUv+JxEin6eY+2bY=;
+        b=VcP6JiqR5cI5oT/zv6sLaOO8BGsUJ/B/5gAQEO8IVWe7MjPFHh7h74Q/D6GuqIQ+lT
+         n5GOOfit92lvuXodYFRUpzP00+BSKB3K29CJksetAnaDlhzWq0YoYqXovq+VRTrjqd6/
+         b3MnPhCBag8BceQA5WEv8RnF1Chgc/qhb/ZiIVYrBGyWc5WRF2wg4sPagdU526OCpxAA
+         s8z6gRgEOfA96pMT5K/BuQ8crSKUlTKDIcgFglravImbRZFSWNJy5NE1AT77tPUA8egL
+         f76xR5SAmt5snCqgI+WFsfM9P+4MXCWwN79Y/pQB146Im/tDQOvRE2jdsnBrn8oVUOY/
+         RBtg==
+X-Received: by 10.140.107.136 with SMTP id h8mr10478996qgf.32.1396308858587;
+        Mon, 31 Mar 2014 16:34:18 -0700 (PDT)
+Received: from [127.0.0.1] ([186.89.122.120])
+        by mx.google.com with ESMTPSA id e69sm21561011qgf.17.2014.03.31.16.34.16
+        for <info@courierpack.com.ve>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 31 Mar 2014 16:34:17 -0700 (PDT)
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: BlackBerry Email (10.2.1.2174)
+Message-ID: <20140331233416.5972112.22624.12@gmail.com>
+Date: Mon, 31 Mar 2014 19:04:16 -0430
+Subject: =?utf-8?q?Problema_con_Env=C3=ADo_?=
+From: matiosca@gmail.com
+To: Gabriela Courierpack <info@courierpack.com.ve>
+X-Spam-Status: No, score=1.0
+X-Spam-Score: 10
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  ‎Tengo el agrado de dirigirme a uds. Para saber que pasa
+    con una tarjeta micro sd de 32gb que ya la señorita Gabriela me informo
+   hace un mes que se encontraba en almacén, y me dijo que cuando pasaran los
+    problemas del país me la mandaban, y todavía no la han enviado, luego me
+    dio los # de tlf. De Miguel Pita y llevo alrededor de 3 semanas llamándolo
+    y no me puedo comunicar con el, agradezco por favor la receptividad que tengan
+    en cuanto a mi caso. Si más a que hacer referencia quedo de uds. [...] 
+ 
+ Content analysis details:   (1.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (matiosca[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/plain;"><styl=
+e> body {  font-family: "Calibri","Slate Pro","sans-serif"; color:#262626 }=
+</style> </head> <body data-blackberry-caret-color=3D"#00a8df"><div>=E2=80=
+=8ETengo el agrado de dirigirme a uds. Para saber que pasa con una tarjeta =
+micro sd de 32gb que ya la se=C3=B1orita Gabriela me informo hace un mes qu=
+e se encontraba en almac=C3=A9n, y me dijo que cuando pasaran los problemas=
+ del pa=C3=ADs me la mandaban, y todav=C3=ADa no la han enviado, luego me d=
+io los # de tlf. De Miguel Pita y llevo alrededor de 3 semanas llam=C3=A1nd=
+olo y no me puedo comunicar con el, agradezco por favor la receptividad que=
+ tengan en cuanto a mi caso. Si m=C3=A1s a que hacer referencia quedo de ud=
+s.                                                                   </div>=
+<div><br></div><div>Atentamente&nbsp;</div><div><br></div><div>Matiosca Iza=
+guirre </div><div>Tlf. 04141450131</div><div><br></div><div>Enviado desde m=
+i smartphone BlackBerry 10.</div></body></html>

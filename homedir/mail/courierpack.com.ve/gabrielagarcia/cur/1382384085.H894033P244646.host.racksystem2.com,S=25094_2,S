@@ -1,0 +1,539 @@
+Return-path: <dytovar@gmail.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Mon, 21 Oct 2013 15:04:46 -0430
+Received: from mail-lb0-f193.google.com ([209.85.217.193]:64950)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <dytovar@gmail.com>)
+	id 1VYLFR-0011c6-0m
+	for gabrielagarcia@courierpack.com.ve; Mon, 21 Oct 2013 15:04:44 -0430
+Received: by mail-lb0-f193.google.com with SMTP id u14so837327lbd.8
+        for <gabrielagarcia@courierpack.com.ve>; Mon, 21 Oct 2013 12:34:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=deXeQlFAwQkI+MUuE+stWoLCKowZcuiUk/qZqhAMgGA=;
+        b=EDGZSAu8YLhLnSp8LPewJLxUMPiepgyQO0C/PlwoVQPtv8Hh5SAEqgIWwCqZFgINS1
+         N/DqewJkF7ZKZ3k9esS3mFRuDdv6k1rBOFCUsBg/BjstGnGqsPnId2zTOJrB96vFUYGZ
+         t+nmuwdumOG9xqekxhgxt0ikRLVN86JJtbX74h5YZwEXdAGm8DTww1l1r0ffggaOgDIp
+         1A7v7oJt2CW27Rx8qwxsIcztC5F82wNHgdpcqytCVPCjQ8jl541d9ftaL0juR3CyQ32P
+         Zv76AYt/6ZoV2p1T0x+Ej1L01hfJkR35kNjVPqZoZRjU3lChHD2DG6tiYPdFq4TZqkTB
+         YthQ==
+MIME-Version: 1.0
+X-Received: by 10.152.28.105 with SMTP id a9mr2133370lah.41.1382376810449;
+ Mon, 21 Oct 2013 10:33:30 -0700 (PDT)
+Received: by 10.112.180.166 with HTTP; Mon, 21 Oct 2013 10:33:30 -0700 (PDT)
+Received: by 10.112.180.166 with HTTP; Mon, 21 Oct 2013 10:33:30 -0700 (PDT)
+In-Reply-To: <CAE-Zhx1AYcqeVap--QbSL9p-HhqHPa1qeOxLwOEB3ETU0qEsHg@mail.gmail.com>
+References: <CAE-Zhx1RYZTGQ4tEyMwcakceqdUp1t=uhZyUFsrV=idhKwXp3Q@mail.gmail.com>
+	<CAE-Zhx1AYcqeVap--QbSL9p-HhqHPa1qeOxLwOEB3ETU0qEsHg@mail.gmail.com>
+Date: Mon, 21 Oct 2013 13:03:30 -0430
+Message-ID: <CAE-Zhx3h-bZDhTqJ6EOkzxTn=S=z+cfGHE94i72iH6+xYpuNVQ@mail.gmail.com>
+Subject: Re: Necesito su respuesta
+From: Dubraskha Tovar <dytovar@gmail.com>
+To: "gabrielagarcia@courierpack.com.ve" <gabrielagarcia@courierpack.com.ve>, 
+	Gabriela A Garcia P <gabyalexa23@gmail.com>
+Content-Type: multipart/alternative; boundary=089e0160a240bb8e1c04e943ae0f
+
+--089e0160a240bb8e1c04e943ae0f
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Buen dia que ha pasado con la mercancia
+El 20/10/2013 10:01, "Dubraskha Tovar" <dytovar@gmail.com> escribi=F3:
+>
+> Buen dia que ha pasado con la mercancia
+> El 19/10/2013 09:55, "Dubraskha Tovar" <dytovar@gmail.com> escribi=F3:
+>
+> >
+> > Buen dia! Necesito saber que paso con la mercancia ya tengo dos meses
+en espera.
+> > El 19/10/2013 08:19, "Mail Delivery Subsystem" <
+mailer-daemon@googlemail.com> escribi=F3:
+> > >
+> > > This is an automatically generated Delivery Status Notification
+> > >
+> > > THIS IS A WARNING MESSAGE ONLY.
+> > >
+> > > YOU DO NOT NEED TO RESEND YOUR MESSAGE.
+> > >
+> > > Delivery to the following recipient has been delayed:
+> > >
+> > >      gabrielagarcia@courierpack.com.ve
+> > >
+> > > Message will be retried for 2 more day(s)
+> > >
+> > > Technical details of temporary failure:
+> > > The recipient server did not accept our requests to connect. Learn
+more at http://support.google.com/mail/bin/answer.py?answer=3D7720
+> > > [(0) courierpack.com.ve. [82.98.147.48]:25: Connection refused]
+> > >
+> > > ----- Original message -----
+> > >
+> > > DKIM-Signature: v=3D1; a=3Drsa-sha256; c=3Drelaxed/relaxed;
+> > >         d=3Dgmail.com; s=3D20120113;
+> > >
+h=3Dmime-version:in-reply-to:references:date:message-id:subject:from:to
+> > >          :content-type;
+> > >         bh=3D8xo3jp6b5RjAwVHANI/n09z/Y/GXB+ANUDBPVSs50ww=3D;
+> > >
+b=3Dk4Zz9K3e4yF0g6qqFSclfPqspRIoaBntsLZ++vJ21Iq03aTR+1u+rodf9go4PsrFIF
+> > >
+ o2z8kLY4u/8d61kGWpZ/Rtxbq/FJAt4tn/1JpOT/7ASKOjfuYX/aE+hv5e0zHeeIYEe9
+> > >
+ 8ualWd8OLmWyJvWoOUJDMzE1k9QHF8i3xu4AEzn+e4KQlDFoFt1Jsxn/OuPX4fMm7769
+> > >
+ I09yhEll5nUg9RnbIE6MgkEGv9pUx2bFJk1deJrE+MKOTbaBsUPtKT6hqFqQY+kvlztg
+> > >
+ Cld2dju935SvMK4lT/23DNeA+sXdNtZFd05NWIndnBWz21DFiNnfePH1zniZJ0UBeGpv
+> > >          yM8A=3D=3D
+> > > MIME-Version: 1.0
+> > > X-Received: by 10.152.29.201 with SMTP id
+m9mr2337591lah.6.1382099005246; Fri,
+> > >  18 Oct 2013 05:23:25 -0700 (PDT)
+> > > Received: by 10.112.180.166 with HTTP; Fri, 18 Oct 2013 05:23:25
+-0700 (PDT)
+> > > Received: by 10.112.180.166 with HTTP; Fri, 18 Oct 2013 05:23:25
+-0700 (PDT)
+> > > In-Reply-To: <CAE-Zhx0_ZkvVX8Tewipx6w1PdYW_0Nhiki71o=3D
+8f+ZjitwmnUA@mail.gmail.com>
+> > > References:
+<1512957448-1375808001-cardhu_decombobulator_blackberry.rim.net-1470164058-=
+@b12.c4.bise6.blackberry
+>
+> > >         <
+CAE-Zhx1Rr1HhpbztwqBLaWPTRPgf0w6yQ_R0gzZ8tPzy_VLqEg@mail.gmail.com>
+> > >         <CAE-Zhx1rWMeM8UVP1u26Z1=3D
+BrP0Q3uhLhM9hVH_u9efE1xUBwg@mail.gmail.com>
+> > >         <CAE-Zhx1uUNzdrLUEYmrQNmBUnjzMLbRgfhgYdZXK2=3D
+XD_ODJvA@mail.gmail.com>
+> > >         <
+CAE-Zhx3ZxA1umEHhPLBHvt8agMVm7t2FQBP5FcaDsnDLcrJ5tQ@mail.gmail.com>
+> > >
+<1637695871-1376918475-cardhu_decombobulator_blackberry.rim.net-656440081-@=
+b12.c4.bise6.blackberry
+>
+> > >         <
+CAE-Zhx0Y6ZVoOAQaPFN+NjvqBxKBR9f7uUHpZFyBOWviFS4Cpw@mail.gmail.com>
+> > >
+<2094070524-1377285016-cardhu_decombobulator_blackberry.rim.net-698598853-@=
+b12.c4.bise6.blackberry
+>
+> > >         <CAE-Zhx1T-w8=3DS=3D63Zh+nnhwyUJw60OpRC=3D
+oDAC8EinFP2Rhn1w@mail.gmail.com>
+> > >
+<1609036547-1378321181-cardhu_decombobulator_blackberry.rim.net-771276482-@=
+b12.c4.bise6.blackberry
+>
+> > >         <
+CAE-Zhx3Fj-0tttWmKqcc8VQLtXW3VHD_bEQHBTiH+b3JW8JV_w@mail.gmail.com>
+> > >
+<952452870-1379465166-cardhu_decombobulator_blackberry.rim.net-1955406120-@=
+b12.c4.bise6.blackberry
+>
+> > >         <CAE-Zhx3_ZFJHL3-YnLndab4gL95wE=3D_
+rO2zGbhaOtZGyGt9qiA@mail.gmail.com>
+> > >         <
+CAE-Zhx3_oVWWy9v6dkzaF+kvW5YDMn1yJaurMEBLDDJ5TCDszg@mail.gmail.com>
+> > >         <
+CAE-Zhx3DNbKMxp+S+Gnt7pWDBMZM0dEU8ys5cZN69e9EiZb4yA@mail.gmail.com>
+> > >
+<1696022252-1380390626-cardhu_decombobulator_blackberry.rim.net-142501638-@=
+b12.c4.bise6.blackberry
+>
+> > >         <
+CAE-Zhx39yLcgkwN2dcBXzU33C7xRzuBnqsQ6uA+1qLtYxvtaAQ@mail.gmail.com>
+> > >         <
+CAE-Zhx2__h6wOY+i8-Lf3cNry7cq972RddwkBgC00jrZKtCR6g@mail.gmail.com>
+> > >
+<1997302561-1380930105-cardhu_decombobulator_blackberry.rim.net-967915372-@=
+b12.c4.bise6.blackberry
+>
+> > >         <
+CAE-Zhx3fFMKFX739+u-KjRC6i0NDKYDx_A-Mv6mxnO4f2KRYiw@mail.gmail.com>
+> > >
+<207021135-1380931416-cardhu_decombobulator_blackberry.rim.net-1437002064-@=
+b12.c4.bise6.blackberry
+>
+> > >         <
+CAE-Zhx1yWg2BBUziN7s+aJw0J8kQTtH-pbxUMC2vXxHpUgng+A@mail.gmail.com>
+> > >
+<1276479347-1380933159-cardhu_decombobulator_blackberry.rim.net-786359787-@=
+b12.c4.bise6.blackberry
+>
+> > >         <
+CAE-Zhx3KQy+wuDuCVL5HKh69h83R3XzvTSO60KctwS8z5W+HHg@mail.gmail.com>
+> > >
+<1409250769-1380935050-cardhu_decombobulator_blackberry.rim.net-1901579881-=
+@b12.c4.bise6.blackberry
+>
+> > >         <
+CAE-Zhx1+PBb894Mkbo8naKtA3AvcwWyFrNxjOOSAVJwiJEJd5g@mail.gmail.com>
+> > >         <
+CAE-Zhx37U7qcRd03HGmU-kuAZve4FLCPOO0_7KZfuaOv0GYFSg@mail.gmail.com>
+> > >         <
+CAE-Zhx0P9U8Obt+PQ2WgqmyDRymU7i1gDw8hURGbrZx6CsPHCA@mail.gmail.com>
+> > >         <
+CAE-Zhx3f3zPG4RNKx-P2_PmsYkcN5s5idu3NLozd+xuf6gU0Ww@mail.gmail.com>
+> > >         <
+CAE-Zhx2Cx5jzxi4YGtQHUz5DjkW8Lpd2EGQXLSR3zL7jgUiBgA@mail.gmail.com>
+> > >         <CAE-Zhx3j8QndmFzx=3D
+Nfm3AyD_gkX2z1KQcOoG_Kkmno7qm2kQw@mail.gmail.com>
+> > >         <CAE-Zhx2L=3D
+qA3S5ZTfgDDRyFUpDk-5YARgROJ1GCvfE10F40PDg@mail.gmail.com>
+> > >         <
+CAE-Zhx3Jbeap79XAXBF2yxLR25D-MvgpacAYYb9j2tHyigSaTA@mail.gmail.com>
+> > >         <
+CAE-Zhx1nFjDvycpbjRSGuSyPyUbcV5FpQPvDSN-9KzWX6TKkKA@mail.gmail.com>
+> > >         <CAE-Zhx0_ZkvVX8Tewipx6w1PdYW_0Nhiki71o=3D
+8f+ZjitwmnUA@mail.gmail.com>
+> > > Date: Fri, 18 Oct 2013 07:53:25 -0430
+> > > Message-ID: <
+CAE-Zhx1EXBDk6d+6rdzchkB0gyfKTfC6rNGS+8aR2fLFmAFAeg@mail.gmail.com>
+> > > Subject: Re: CPK
+> > > From: Dubraskha Tovar <dytovar@gmail.com>
+> > > To: gabrielagarcia@courierpack.com.ve
+> > > Content-Type: multipart/alternative;
+boundary=3D089e0158cb92408fcc04e903002b
+> > >
+> > > Buenos dias!! Que ha pasado con la entrega de la mercancia?
+> > > El 17/10/2013 11:51, "Dubraskha Tovar" <dytovar@gmail.com> escribi=F3=
+:
+> > >
+> > > > Buenos dias!! Que ha pasado con la entrega de la mercancia?
+> > > > El 16/10/2013 10:06, "Dubraskha Tovar" <dytovar@gmail.com> escribi=
+=F3:
+> > > > >
+> > > > > Buenos dias!! Que ha pasado con la mercancia?
+> > > > > El 15/10/2013 09:01, "Dubraskha Tovar" <dytovar@gmail.com>
+escribi=F3:
+> > > > >
+> > > > > >
+> > > > > > Buenos dias! Que ha pasado con la entrega de la mercancia. Hace
+doa
+> > > > semana recibi un msj que me estarian llamando el lunes pero ya han
+pasado 3
+> > > > lunes y nada que es lo que pasa con su servicio? Por favor requiero
+su
+> > > > respuesta.
+> > > > > > El 14/10/2013 14:11, "Dubraskha Tovar" <dytovar@gmail.com>
+escribi=F3:
+> > > > > >
+> > > > > > >
+> > > > > > > Buenas tardes! Por favor requiero de su respuesta..
+> > > > > > >
+> > > > > > > El 14/10/2013 08:13, "Dubraskha Tovar" <dytovar@gmail.com>
+escribi=F3:
+> > > > > > >
+> > > > > > >> Buenos dias!! Por favor indiquenme que estatus tiene mi
+mercancia,
+> > > > si es de yo irla a buscar donde sea me dicen donde igual les pago
+no hay
+> > > > problema..
+> > > > > > >>
+> > > > > > >> El 13/10/2013 14:21, "Dubraskha Tovar" <dytovar@gmail.com>
+> > > > escribi=F3:
+> > > > > > >>>
+> > > > > > >>> Buenos dias!! Que ha pasado con la entrega de la mercancia?
+> > > > > > >>>
+> > > > > > >>> El 11/10/2013 22:47, "Dubraskha Tovar" <dytovar@gmail.com>
+> > > > escribi=F3:
+> > > > > > >>>>
+> > > > > > >>>> Buenos dias!! Que ha pasado con la entrega de la mercancia=
+?
+> > > > > > >>>>
+> > > > > > >>>> El 11/10/2013 07:47, "Dubraskha Tovar" <dytovar@gmail.com>
+> > > > escribi=F3:
+> > > > > > >>>>>
+> > > > > > >>>>> Buenos dias!! Que ha pasado con la entrega de la
+mercancia?
+> > > > > > >>>>>
+> > > > > > >>>>> El 09/10/2013 16:27, "Dubraskha Tovar" <dytovar@gmail.com=
+>
+> > > > escribi=F3:
+> > > > > > >>>>>>
+> > > > > > >>>>>> Buenas tardes. Que ha pasado con la entrega de la
+mercancia
+> > > > > > >>>>>> El 04/10/2013 21:10, "Dubraskha Tovar" <dytovar@gmail.co=
+m
+>
+> > > > escribi=F3:
+> > > > > > >>>>>> >
+> > > > > > >>>>>> > Ah ok buenisimo!!! La direccion donde estoy quedandome
+es en
+> > > > san martin calle sevilla con calle cordoba casa teresa queda a una
+> > >
+> > > ----- Message truncated -----
+> > >
+
+--089e0160a240bb8e1c04e943ae0f
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<p>Buen dia que ha pasado con la mercancia<br>
+El 20/10/2013 10:01, &quot;Dubraskha Tovar&quot; &lt;<a href=3D"mailto:dyto=
+var@gmail.com">dytovar@gmail.com</a>&gt; escribi=F3:<br>
+&gt;<br>
+&gt; Buen dia que ha pasado con la mercancia<br>
+&gt; El 19/10/2013 09:55, &quot;Dubraskha Tovar&quot; &lt;<a href=3D"mailto=
+:dytovar@gmail.com">dytovar@gmail.com</a>&gt; escribi=F3:<br>
+&gt;<br>
+&gt; &gt;<br>
+&gt; &gt; Buen dia! Necesito saber que paso con la mercancia ya tengo dos m=
+eses en espera.<br>
+&gt; &gt; El 19/10/2013 08:19, &quot;Mail Delivery Subsystem&quot; &lt;<a h=
+ref=3D"mailto:mailer-daemon@googlemail.com">mailer-daemon@googlemail.com</a=
+>&gt; escribi=F3:<br>
+&gt; &gt; &gt;<br>
+&gt; &gt; &gt; This is an automatically generated Delivery Status Notificat=
+ion<br>
+&gt; &gt; &gt;<br>
+&gt; &gt; &gt; THIS IS A WARNING MESSAGE ONLY.<br>
+&gt; &gt; &gt;<br>
+&gt; &gt; &gt; YOU DO NOT NEED TO RESEND YOUR MESSAGE.<br>
+&gt; &gt; &gt;<br>
+&gt; &gt; &gt; Delivery to the following recipient has been delayed:<br>
+&gt; &gt; &gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0<a href=3D"mailto:gabrielagarcia@courierpack.com.=
+ve">gabrielagarcia@courierpack.com.ve</a><br>
+&gt; &gt; &gt;<br>
+&gt; &gt; &gt; Message will be retried for 2 more day(s)<br>
+&gt; &gt; &gt;<br>
+&gt; &gt; &gt; Technical details of temporary failure:<br>
+&gt; &gt; &gt; The recipient server did not accept our requests to connect.=
+ Learn more at <a href=3D"http://support.google.com/mail/bin/answer.py?answ=
+er=3D7720">http://support.google.com/mail/bin/answer.py?answer=3D7720</a><b=
+r>
+
+&gt; &gt; &gt; [(0) <a href=3D"http://courierpack.com.ve">courierpack.com.v=
+e</a>. [82.98.147.48]:25: Connection refused]<br>
+&gt; &gt; &gt;<br>
+&gt; &gt; &gt; ----- Original message -----<br>
+&gt; &gt; &gt;<br>
+&gt; &gt; &gt; DKIM-Signature: v=3D1; a=3Drsa-sha256; c=3Drelaxed/relaxed;<=
+br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 d=3D<a href=3D"http://gmail.com">gmail.com</=
+a>; s=3D20120113;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 h=3Dmime-version:in-reply-to:references:date=
+:message-id:subject:from:to<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 =A0:content-type;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 bh=3D8xo3jp6b5RjAwVHANI/n09z/Y/GXB+ANUDBPVSs=
+50ww=3D;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 b=3Dk4Zz9K3e4yF0g6qqFSclfPqspRIoaBntsLZ++vJ2=
+1Iq03aTR+1u+rodf9go4PsrFIF<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 =A0o2z8kLY4u/8d61kGWpZ/Rtxbq/FJAt4tn/1JpOT/7=
+ASKOjfuYX/aE+hv5e0zHeeIYEe9<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 =A08ualWd8OLmWyJvWoOUJDMzE1k9QHF8i3xu4AEzn+e=
+4KQlDFoFt1Jsxn/OuPX4fMm7769<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 =A0I09yhEll5nUg9RnbIE6MgkEGv9pUx2bFJk1deJrE+=
+MKOTbaBsUPtKT6hqFqQY+kvlztg<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 =A0Cld2dju935SvMK4lT/23DNeA+sXdNtZFd05NWIndn=
+BWz21DFiNnfePH1zniZJ0UBeGpv<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 =A0yM8A=3D=3D<br>
+&gt; &gt; &gt; MIME-Version: 1.0<br>
+&gt; &gt; &gt; X-Received: by 10.152.29.201 with SMTP id m9mr2337591lah.6.1=
+382099005246; Fri,<br>
+&gt; &gt; &gt; =A018 Oct 2013 05:23:25 -0700 (PDT)<br>
+&gt; &gt; &gt; Received: by 10.112.180.166 with HTTP; Fri, 18 Oct 2013 05:2=
+3:25 -0700 (PDT)<br>
+&gt; &gt; &gt; Received: by 10.112.180.166 with HTTP; Fri, 18 Oct 2013 05:2=
+3:25 -0700 (PDT)<br>
+&gt; &gt; &gt; In-Reply-To: &lt;CAE-Zhx0_ZkvVX8Tewipx6w1PdYW_0Nhiki71o=3D<a=
+ href=3D"mailto:8f%2BZjitwmnUA@mail.gmail.com">8f+ZjitwmnUA@mail.gmail.com<=
+/a>&gt;<br>
+&gt; &gt; &gt; References: &lt;1512957448-1375808001-cardhu_decombobulator_=
+blackberry.rim.net-1470164058-@b12.c4.bise6.blackberry&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx1Rr1HhpbztwqBLa=
+WPTRPgf0w6yQ_R0gzZ8tPzy_VLqEg@mail.gmail.com">CAE-Zhx1Rr1HhpbztwqBLaWPTRPgf=
+0w6yQ_R0gzZ8tPzy_VLqEg@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;CAE-Zhx1rWMeM8UVP1u26Z1=3D<a href=3D"mai=
+lto:BrP0Q3uhLhM9hVH_u9efE1xUBwg@mail.gmail.com">BrP0Q3uhLhM9hVH_u9efE1xUBwg=
+@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;CAE-Zhx1uUNzdrLUEYmrQNmBUnjzMLbRgfhgYdZX=
+K2=3D<a href=3D"mailto:XD_ODJvA@mail.gmail.com">XD_ODJvA@mail.gmail.com</a>=
+&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx3ZxA1umEHhPLBHv=
+t8agMVm7t2FQBP5FcaDsnDLcrJ5tQ@mail.gmail.com">CAE-Zhx3ZxA1umEHhPLBHvt8agMVm=
+7t2FQBP5FcaDsnDLcrJ5tQ@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;1637695871-1376918475-cardhu_decombobula=
+tor_blackberry.rim.net-656440081-@b12.c4.bise6.blackberry&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx0Y6ZVoOAQaPFN%2=
+BNjvqBxKBR9f7uUHpZFyBOWviFS4Cpw@mail.gmail.com">CAE-Zhx0Y6ZVoOAQaPFN+NjvqBx=
+KBR9f7uUHpZFyBOWviFS4Cpw@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;2094070524-1377285016-cardhu_decombobula=
+tor_blackberry.rim.net-698598853-@b12.c4.bise6.blackberry&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;CAE-Zhx1T-w8=3DS=3D63Zh+nnhwyUJw60OpRC=
+=3D<a href=3D"mailto:oDAC8EinFP2Rhn1w@mail.gmail.com">oDAC8EinFP2Rhn1w@mail=
+.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;1609036547-1378321181-cardhu_decombobula=
+tor_blackberry.rim.net-771276482-@b12.c4.bise6.blackberry&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx3Fj-0tttWmKqcc8=
+VQLtXW3VHD_bEQHBTiH%2Bb3JW8JV_w@mail.gmail.com">CAE-Zhx3Fj-0tttWmKqcc8VQLtX=
+W3VHD_bEQHBTiH+b3JW8JV_w@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;952452870-1379465166-cardhu_decombobulat=
+or_blackberry.rim.net-1955406120-@b12.c4.bise6.blackberry&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;CAE-Zhx3_ZFJHL3-YnLndab4gL95wE=3D_<a hre=
+f=3D"mailto:rO2zGbhaOtZGyGt9qiA@mail.gmail.com">rO2zGbhaOtZGyGt9qiA@mail.gm=
+ail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx3_oVWWy9v6dkzaF=
+%2BkvW5YDMn1yJaurMEBLDDJ5TCDszg@mail.gmail.com">CAE-Zhx3_oVWWy9v6dkzaF+kvW5=
+YDMn1yJaurMEBLDDJ5TCDszg@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx3DNbKMxp%2BS%2B=
+Gnt7pWDBMZM0dEU8ys5cZN69e9EiZb4yA@mail.gmail.com">CAE-Zhx3DNbKMxp+S+Gnt7pWD=
+BMZM0dEU8ys5cZN69e9EiZb4yA@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;1696022252-1380390626-cardhu_decombobula=
+tor_blackberry.rim.net-142501638-@b12.c4.bise6.blackberry&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx39yLcgkwN2dcBXz=
+U33C7xRzuBnqsQ6uA%2B1qLtYxvtaAQ@mail.gmail.com">CAE-Zhx39yLcgkwN2dcBXzU33C7=
+xRzuBnqsQ6uA+1qLtYxvtaAQ@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx2__h6wOY%2Bi8-L=
+f3cNry7cq972RddwkBgC00jrZKtCR6g@mail.gmail.com">CAE-Zhx2__h6wOY+i8-Lf3cNry7=
+cq972RddwkBgC00jrZKtCR6g@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;1997302561-1380930105-cardhu_decombobula=
+tor_blackberry.rim.net-967915372-@b12.c4.bise6.blackberry&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx3fFMKFX739%2Bu-=
+KjRC6i0NDKYDx_A-Mv6mxnO4f2KRYiw@mail.gmail.com">CAE-Zhx3fFMKFX739+u-KjRC6i0=
+NDKYDx_A-Mv6mxnO4f2KRYiw@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;207021135-1380931416-cardhu_decombobulat=
+or_blackberry.rim.net-1437002064-@b12.c4.bise6.blackberry&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx1yWg2BBUziN7s%2=
+BaJw0J8kQTtH-pbxUMC2vXxHpUgng%2BA@mail.gmail.com">CAE-Zhx1yWg2BBUziN7s+aJw0=
+J8kQTtH-pbxUMC2vXxHpUgng+A@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;1276479347-1380933159-cardhu_decombobula=
+tor_blackberry.rim.net-786359787-@b12.c4.bise6.blackberry&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx3KQy%2BwuDuCVL5=
+HKh69h83R3XzvTSO60KctwS8z5W%2BHHg@mail.gmail.com">CAE-Zhx3KQy+wuDuCVL5HKh69=
+h83R3XzvTSO60KctwS8z5W+HHg@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;1409250769-1380935050-cardhu_decombobula=
+tor_blackberry.rim.net-1901579881-@b12.c4.bise6.blackberry&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx1%2BPBb894Mkbo8=
+naKtA3AvcwWyFrNxjOOSAVJwiJEJd5g@mail.gmail.com">CAE-Zhx1+PBb894Mkbo8naKtA3A=
+vcwWyFrNxjOOSAVJwiJEJd5g@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx37U7qcRd03HGmU-=
+kuAZve4FLCPOO0_7KZfuaOv0GYFSg@mail.gmail.com">CAE-Zhx37U7qcRd03HGmU-kuAZve4=
+FLCPOO0_7KZfuaOv0GYFSg@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx0P9U8Obt%2BPQ2W=
+gqmyDRymU7i1gDw8hURGbrZx6CsPHCA@mail.gmail.com">CAE-Zhx0P9U8Obt+PQ2WgqmyDRy=
+mU7i1gDw8hURGbrZx6CsPHCA@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx3f3zPG4RNKx-P2_=
+PmsYkcN5s5idu3NLozd%2Bxuf6gU0Ww@mail.gmail.com">CAE-Zhx3f3zPG4RNKx-P2_PmsYk=
+cN5s5idu3NLozd+xuf6gU0Ww@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx2Cx5jzxi4YGtQHU=
+z5DjkW8Lpd2EGQXLSR3zL7jgUiBgA@mail.gmail.com">CAE-Zhx2Cx5jzxi4YGtQHUz5DjkW8=
+Lpd2EGQXLSR3zL7jgUiBgA@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;CAE-Zhx3j8QndmFzx=3D<a href=3D"mailto:Nf=
+m3AyD_gkX2z1KQcOoG_Kkmno7qm2kQw@mail.gmail.com">Nfm3AyD_gkX2z1KQcOoG_Kkmno7=
+qm2kQw@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;CAE-Zhx2L=3D<a href=3D"mailto:qA3S5ZTfgD=
+DRyFUpDk-5YARgROJ1GCvfE10F40PDg@mail.gmail.com">qA3S5ZTfgDDRyFUpDk-5YARgROJ=
+1GCvfE10F40PDg@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx3Jbeap79XAXBF2y=
+xLR25D-MvgpacAYYb9j2tHyigSaTA@mail.gmail.com">CAE-Zhx3Jbeap79XAXBF2yxLR25D-=
+MvgpacAYYb9j2tHyigSaTA@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:CAE-Zhx1nFjDvycpbjRSGu=
+SyPyUbcV5FpQPvDSN-9KzWX6TKkKA@mail.gmail.com">CAE-Zhx1nFjDvycpbjRSGuSyPyUbc=
+V5FpQPvDSN-9KzWX6TKkKA@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; =A0 =A0 =A0 =A0 &lt;CAE-Zhx0_ZkvVX8Tewipx6w1PdYW_0Nhiki71o=
+=3D<a href=3D"mailto:8f%2BZjitwmnUA@mail.gmail.com">8f+ZjitwmnUA@mail.gmail=
+.com</a>&gt;<br>
+&gt; &gt; &gt; Date: Fri, 18 Oct 2013 07:53:25 -0430<br>
+&gt; &gt; &gt; Message-ID: &lt;<a href=3D"mailto:CAE-Zhx1EXBDk6d%2B6rdzchkB=
+0gyfKTfC6rNGS%2B8aR2fLFmAFAeg@mail.gmail.com">CAE-Zhx1EXBDk6d+6rdzchkB0gyfK=
+TfC6rNGS+8aR2fLFmAFAeg@mail.gmail.com</a>&gt;<br>
+&gt; &gt; &gt; Subject: Re: CPK<br>
+&gt; &gt; &gt; From: Dubraskha Tovar &lt;<a href=3D"mailto:dytovar@gmail.co=
+m">dytovar@gmail.com</a>&gt;<br>
+&gt; &gt; &gt; To: <a href=3D"mailto:gabrielagarcia@courierpack.com.ve">gab=
+rielagarcia@courierpack.com.ve</a><br>
+&gt; &gt; &gt; Content-Type: multipart/alternative; boundary=3D089e0158cb92=
+408fcc04e903002b<br>
+&gt; &gt; &gt;<br>
+&gt; &gt; &gt; Buenos dias!! Que ha pasado con la entrega de la mercancia?<=
+br>
+&gt; &gt; &gt; El 17/10/2013 11:51, &quot;Dubraskha Tovar&quot; &lt;<a href=
+=3D"mailto:dytovar@gmail.com">dytovar@gmail.com</a>&gt; escribi=F3:<br>
+&gt; &gt; &gt;<br>
+&gt; &gt; &gt; &gt; Buenos dias!! Que ha pasado con la entrega de la mercan=
+cia?<br>
+&gt; &gt; &gt; &gt; El 16/10/2013 10:06, &quot;Dubraskha Tovar&quot; &lt;<a=
+ href=3D"mailto:dytovar@gmail.com">dytovar@gmail.com</a>&gt; escribi=F3:<br=
+>
+&gt; &gt; &gt; &gt; &gt;<br>
+&gt; &gt; &gt; &gt; &gt; Buenos dias!! Que ha pasado con la mercancia?<br>
+&gt; &gt; &gt; &gt; &gt; El 15/10/2013 09:01, &quot;Dubraskha Tovar&quot; &=
+lt;<a href=3D"mailto:dytovar@gmail.com">dytovar@gmail.com</a>&gt; escribi=
+=F3:<br>
+&gt; &gt; &gt; &gt; &gt;<br>
+&gt; &gt; &gt; &gt; &gt; &gt;<br>
+&gt; &gt; &gt; &gt; &gt; &gt; Buenos dias! Que ha pasado con la entrega de =
+la mercancia. Hace doa<br>
+&gt; &gt; &gt; &gt; semana recibi un msj que me estarian llamando el lunes =
+pero ya han pasado 3<br>
+&gt; &gt; &gt; &gt; lunes y nada que es lo que pasa con su servicio? Por fa=
+vor requiero su<br>
+&gt; &gt; &gt; &gt; respuesta.<br>
+&gt; &gt; &gt; &gt; &gt; &gt; El 14/10/2013 14:11, &quot;Dubraskha Tovar&qu=
+ot; &lt;<a href=3D"mailto:dytovar@gmail.com">dytovar@gmail.com</a>&gt; escr=
+ibi=F3:<br>
+&gt; &gt; &gt; &gt; &gt; &gt;<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt; Buenas tardes! Por favor requiero de su =
+respuesta..<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt; El 14/10/2013 08:13, &quot;Dubraskha Tov=
+ar&quot; &lt;<a href=3D"mailto:dytovar@gmail.com">dytovar@gmail.com</a>&gt;=
+ escribi=F3:<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt; Buenos dias!! Por favor indiquenme q=
+ue estatus tiene mi mercancia,<br>
+&gt; &gt; &gt; &gt; si es de yo irla a buscar donde sea me dicen donde igua=
+l les pago no hay<br>
+&gt; &gt; &gt; &gt; problema..<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt; El 13/10/2013 14:21, &quot;Dubraskha=
+ Tovar&quot; &lt;<a href=3D"mailto:dytovar@gmail.com">dytovar@gmail.com</a>=
+&gt;<br>
+&gt; &gt; &gt; &gt; escribi=F3:<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt;<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt; Buenos dias!! Que ha pasado con =
+la entrega de la mercancia?<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt;<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt; El 11/10/2013 22:47, &quot;Dubra=
+skha Tovar&quot; &lt;<a href=3D"mailto:dytovar@gmail.com">dytovar@gmail.com=
+</a>&gt;<br>
+&gt; &gt; &gt; &gt; escribi=F3:<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt;&gt;<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt;&gt; Buenos dias!! Que ha pasado =
+con la entrega de la mercancia?<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt;&gt;<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt;&gt; El 11/10/2013 07:47, &quot;D=
+ubraskha Tovar&quot; &lt;<a href=3D"mailto:dytovar@gmail.com">dytovar@gmail=
+.com</a>&gt;<br>
+&gt; &gt; &gt; &gt; escribi=F3:<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt;&gt;&gt; Buenos dias!! Que ha pas=
+ado con la entrega de la mercancia?<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt;&gt;&gt; El 09/10/2013 16:27, &qu=
+ot;Dubraskha Tovar&quot; &lt;<a href=3D"mailto:dytovar@gmail.com">dytovar@g=
+mail.com</a>&gt;<br>
+&gt; &gt; &gt; &gt; escribi=F3:<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt;&gt;&gt;&gt; Buenas tardes. Que h=
+a pasado con la entrega de la mercancia<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt;&gt;&gt;&gt; El 04/10/2013 21:10,=
+ &quot;Dubraskha Tovar&quot; &lt;<a href=3D"mailto:dytovar@gmail.com">dytov=
+ar@gmail.com</a>&gt;<br>
+&gt; &gt; &gt; &gt; escribi=F3:<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt;&gt;&gt;&gt; &gt;<br>
+&gt; &gt; &gt; &gt; &gt; &gt; &gt;&gt;&gt;&gt;&gt;&gt; &gt; Ah ok buenisimo=
+!!! La direccion donde estoy quedandome es en<br>
+&gt; &gt; &gt; &gt; san martin calle sevilla con calle cordoba casa teresa =
+queda a una<br>
+&gt; &gt; &gt;<br>
+&gt; &gt; &gt; ----- Message truncated -----<br>
+&gt; &gt; &gt;<br>
+</p>
+
+--089e0160a240bb8e1c04e943ae0f--

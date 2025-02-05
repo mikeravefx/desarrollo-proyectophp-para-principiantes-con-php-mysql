@@ -1,0 +1,159 @@
+Return-path: <gabyalexa23@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Wed, 14 May 2014 14:18:25 -0430
+Received: from mail-wi0-f175.google.com ([209.85.212.175]:34738)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <gabyalexa23@gmail.com>)
+	id 1WkeE3-0019xo-6d
+	for info@courierpack.com.ve; Wed, 14 May 2014 14:18:25 -0430
+Received: by mail-wi0-f175.google.com with SMTP id f8so8576477wiw.2
+        for <info@courierpack.com.ve>; Wed, 14 May 2014 11:48:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=nBBmPXZgiM5NQIiYorQpu9/5NTHC6aqruj16jW3CZXg=;
+        b=Sh+1xE2oz2zRWvenEQPJl21D58yoS5b//4ZvQI4riczLSq51nWgR8dhyy/4r+4ERld
+         yy4QhRgYNd4MfDzibjnl72zpwY1sePqXKM5MnExJTj8BPmLPO+U8gFUVZt5asEhEsgQd
+         1lSG7+fyC7w2tF+sU02NStqYGDpQNkGRMngZLMjO/PoO21RL+L3LfuNDU6bei6odYv06
+         aHCV80nmSSWXfL+VJUlg87TYuzzIq5bmFnrv43+uiom5+v2ocRRDSvx9vVOx1xeKx/t3
+         ZH/S2wMlLZ5xZTD8y23jl7hvqoED1iVAZNLLE8YjKI1YNicCrCt32ILHFFqxTlXj+INR
+         peaQ==
+MIME-Version: 1.0
+X-Received: by 10.180.86.74 with SMTP id n10mr4727583wiz.55.1400093302443;
+ Wed, 14 May 2014 11:48:22 -0700 (PDT)
+Received: by 10.194.124.12 with HTTP; Wed, 14 May 2014 11:48:22 -0700 (PDT)
+Date: Wed, 14 May 2014 14:18:22 -0430
+Message-ID: <CAGYt5dQ=o8LXpcZ3MBJVQjV9sCe-h23zUkNg2LPdA-ga4Eh+RQ@mail.gmail.com>
+Subject: luisa.bonilla.28@gmail.com
+From: Gabriela A Garcia P <gabyalexa23@gmail.com>
+To: info@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=f46d04426bb4f1d34904f9609fab
+X-Spam-Status: No, score=1.2
+X-Spam-Score: 12
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Buenas Tardes Sra. Luisa Bonilla Por este medio se le informa
+    que su carga se encuentra en nuestros almaneces disponible para su envio
+   y entrega . Aprovechamos para indicar que el costo por el servicio de flete
+    es de Bs. 550**, Conjuntamente se le indica el detalle bancario [...] 
+ 
+ Content analysis details:   (1.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (gabyalexa23[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (gabyalexa23[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  1.0 FREEMAIL_REPLY         From and body contain different freemails
+X-Spam-Flag: NO
+
+--f46d04426bb4f1d34904f9609fab
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Buenas Tardes  Sra. Luisa Bonilla Por este medio se le informa que su carga
+se encuentra en nuestros almaneces disponible para su envio y entrega .
+
+Aprovechamos para indicar que el costo por el servicio de flete es de Bs.
+550**,
+Conjuntamente se le indica el detalle bancario
+
+Titular: Gabriela Garcia
+Cuenta Corriente:  0134.0066.12.066.306.9613
+Banco: Banesco
+C.I.: 18.539.138
+
+
+Atencion telefonica  de Lunes a Viernes  de 10am a 4 pm
+
+Esta es nuestra informaci=C3=B3n de contacto:
+Tel=C3=A9fono: 0424.108.27.57 / 0414.900.75.90
+E-mail: Gabrielagarcia@courierpack.com.ve
+Miguel.pita@courierpack.com.ve
+Persona Contacto: Gabriela Garcia/ Miguel Pita
+
+
+Una vez realizado el pago, enviar  un correo a esta direcci=C3=B3n
+Gabrielagarcia@courierpack.com
+Miguel.pita@courierpack.com.ve con la siguiente informaci=C3=B3n:
+
+Datos de la Compra
+
+Nombre del cliente registrado _______________
+Producto(s) Cancelados _______________
+Fecha de Deposito ________
+Monto Depositado _______
+Envio Incluido en el Pago (Si/No)_______
+Banco en donde se deposit=C3=B3__________
+Tipo de Deposito _____________
+Nro de Referencia/Comprobante ___________
+
+Datos para el Envio
+
+Direccion de Envio Envio: ___________
+Ciudad y Estado_____________
+Municipio __________                  Parroquia ____________
+Codigo Postal ___________
+Persona que Recibe ____________
+Cedula ___________
+Telefono de Contacto ____________
+
+En CPK  estamos para servirte. Cualquier duda no dejes de consultarnos por
+las canales antes presentados.
+
+--f46d04426bb4f1d34904f9609fab
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Buenas Tardes =C2=A0Sra. Luisa Bonilla Por este medio=
+ se le informa que su carga se encuentra en nuestros almaneces disponible p=
+ara su envio y entrega .</div><div><br></div><div>Aprovechamos para indicar=
+ que el costo por el servicio de flete es de Bs. 550**,</div>
+<div>Conjuntamente se le indica el detalle bancario=C2=A0</div><div><br></d=
+iv><div>Titular: Gabriela Garcia=C2=A0</div><div>Cuenta Corriente: =C2=A001=
+34.0066.12.066.306.9613=C2=A0</div><div>Banco: Banesco</div><div>C.I.: 18.5=
+39.138=C2=A0</div><div>
+<br></div><div><br></div><div>Atencion telefonica =C2=A0de Lunes a Viernes =
+=C2=A0de 10am a 4 pm</div><div><br></div><div>Esta es nuestra informaci=C3=
+=B3n de contacto:</div><div>Tel=C3=A9fono: 0424.108.27.57 / 0414.900.75.90<=
+/div><div>E-mail: <a href=3D"mailto:Gabrielagarcia@courierpack.com.ve">Gabr=
+ielagarcia@courierpack.com.ve</a></div>
+<div><a href=3D"mailto:Miguel.pita@courierpack.com.ve">Miguel.pita@courierp=
+ack.com.ve</a></div><div>Persona Contacto: Gabriela Garcia/ Miguel Pita</di=
+v><div><br></div><div><br></div><div>Una vez realizado el pago, enviar =C2=
+=A0un correo a esta direcci=C3=B3n <a href=3D"mailto:Gabrielagarcia@courier=
+pack.com">Gabrielagarcia@courierpack.com</a></div>
+<div><a href=3D"mailto:Miguel.pita@courierpack.com.ve">Miguel.pita@courierp=
+ack.com.ve</a> con la siguiente informaci=C3=B3n:</div><div><br></div><div>=
+Datos de la Compra</div><div><br></div><div>Nombre del cliente registrado _=
+______________</div>
+<div>Producto(s) Cancelados _______________</div><div>Fecha de Deposito ___=
+_____</div><div>Monto Depositado _______</div><div>Envio Incluido en el Pag=
+o (Si/No)_______</div><div>Banco en donde se deposit=C3=B3__________</div><=
+div>
+Tipo de Deposito _____________</div><div>Nro de Referencia/Comprobante ____=
+_______</div><div><br></div><div>Datos para el Envio</div><div><br></div><d=
+iv>Direccion de Envio Envio: ___________</div><div>Ciudad y Estado_________=
+____</div>
+<div>Municipio __________ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0Parroquia ____________</div><div>Codigo Postal ___________</di=
+v><div>Persona que Recibe ____________</div><div>Cedula ___________</div><d=
+iv>Telefono de Contacto ____________</div>
+<div><br></div><div>En CPK =C2=A0estamos para servirte. Cualquier duda no d=
+ejes de consultarnos por las canales antes presentados.</div><div><br></div=
+></div>
+
+--f46d04426bb4f1d34904f9609fab--

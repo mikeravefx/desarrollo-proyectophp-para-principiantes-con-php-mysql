@@ -1,0 +1,318 @@
+Return-path: <gc-orders+GiftCertificates-EmailEcardGCs-A26AA7J3ZIV0S2@gc.email.amazon.com>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Thu, 20 Dec 2012 16:42:25 -0430
+Received: from mm-retail-out-174-148.amazon.com ([207.171.174.148]:57891)
+	by host.caracasftp.com with esmtp (Exim 4.80)
+	(envelope-from <gc-orders+GiftCertificates-EmailEcardGCs-A26AA7J3ZIV0S2@gc.email.amazon.com>)
+	id 1TlnPk-0006ws-EG
+	for miguel.pita@courierpack.com.ve; Thu, 20 Dec 2012 16:42:25 -0430
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1356037941;
+	s=eaxkvsyelrnxjh4cicqyjjmtjpetuwjx; d=amazon.com;
+	i=@gc.email.amazon.com;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=wGcKAey57RkgFnlLrzTG795aVX9rIHpk3Y9u8p+H8Rg=;
+	b=GqlW5E9mQDghNZtNKpRnKfTgNA7I8dFWjmCuf6sI1DFFXa/kFWGuDJxdR5UM/wbc
+	z9P+ifSRs3ON7Dhypj4zWetUEQxO/0XRXj6G2Sf+4inXsgA+4wODs7HSeXi/UEcop0y
+	S144zqrcBMoKbI3QQ3lDwh2XLFlWJmuPyhMQEeQ0=
+Date: Thu, 20 Dec 2012 21:12:21 +0000
+From: "Amazon.com Gift Card" <gc-orders@gc.email.amazon.com>
+Reply-To: "gc-orders@gc.email.amazon.com" <gc-orders@gc.email.amazon.com>
+To: "miguel.pita@courierpack.com.ve" <miguel.pita@courierpack.com.ve>
+Message-ID: <0000013bba28e913-4a3123bc-05be-4568-b688-23c97c0e179d-000000@email.amazonses.com>
+Subject: Rosa de Pepe sent you an Amazon.com Gift Card!
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_5288245_898279695.1356037941384"
+Bounces-to: gc-orders+GiftCertificates-EmailEcardGCs-A26AA7J3ZIV0S2@gc.email.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.20121220211221aa958fcb6be84cd08be10144fa58e983@1356037941389.rte-svc-1d2-i-dfb4e3a3.us-east-1.amazon.com>
+X-SES-Outgoing: 207.171.174.148
+
+------=_Part_5288245_898279695.1356037941384
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_5288246_576795455.1356037941384"
+
+------=_Part_5288246_576795455.1356037941384
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+You've received an Amazon.com gift card! The generous person who gave you this gift is 
+listed below.
+
+DON'T DELETE THIS MESSAGE! You'll need the claim code below to place your order.
+
+Happy shopping!
+
+
+Amazon.com Gift Cards Team
+http://www.amazon.com/gc
+
+***********************************************************************
+
+To: 
+Amount: $130.00
+From: Rosa de Pepe
+Gift Message: Pago de carga consolidada a nombre de Antonio Pepe
+
+Claim code R6PZ-GHD7BH-27TQ
+Order 106-5955577-4801000
+
+To begin shopping now:
+
+1. Visit our Web site at http://www.amazon.com
+
+2. Select the items you want; you can add them to your Shopping Cart or use 1-Click ordering.
+
+3. If you're checking out from the Shopping Cart, redeem your gift card by entering the claim code on the order form. 
+If you're placing an order with 1-Click: 
+Click the "Review or edit your 1-Click orders" link that you'll see after clicking the 
+"Buy now with 1-Click" button and enter the code in the Payment section on the next page.
+
+Not ready to use it yet? 
+
+Just add the gift card funds to your account so they'll be there when you're ready! 
+
+1. Go to Your Account. 
+2. Click "Apply a gift card to your account" under "Payment Settings". 
+3. Sign in with your e-mail address and password. 
+4. Enter your claim code and click "Redeem now". Your funds will automatically be applied to your next order.
+
+For more information on using your gift card, visit http://www.amazon.com/help/gc
+
+
+TERMS AND CONDITIONS:
+1. Redemption.
+Gift Cards must be redeemed on www.amazon.com, or its affiliated 
+website www.endless.com, toward the purchase of eligible products. 
+Purchases are deducted from the Gift Card balance. Any unused balance 
+will be placed in the recipient's Gift Card account when redeemed. If 
+an order exceeds the amount of the Gift Card, the balance must be paid
+with a credit card or other available payment method. Amazon.com may 
+provide Gift Card purchasers with information about the redemption 
+status of Gift Cards that they purchase.  To view Gift Card balances, 
+visit "Your Account" on Amazon.com.
+2. Limitations.
+  - Gift Cards may not be redeemed for the purchase of products at 
+    Amazon.co.uk, Amazon.de, Amazon.fr, Amazon.co.jp, Amazon.ca, or 
+    any other website operated by Amazon.com, its affiliates, or any 
+    other person or entity, except as indicated by these terms and 
+    conditions.
+  - Gift Cards cannot be used to purchase other gift cards.
+  - Gift Cards cannot be reloaded, resold, transferred for value, 
+    redeemed for cash or applied to any other account, except to the 
+    extent required by law. Unused Gift Card balances in an Amazon 
+    account may not be transferred.
+3. Risk of Loss.
+The risk of loss and title for Gift Cards pass to the purchaser upon 
+our electronic transmission to the purchaser, recipient or delivery to
+the carrier, whichever is applicable. We are not responsible if a Gift
+Card is lost, stolen, destroyed or used without your permission.
+4. Fraud.
+Amazon.com will have the right to close customer accounts and bill 
+alternative forms of payment if a fraudulently obtained Gift Card is 
+redeemed and/or used to make purchases on amazon.com or endless.com.
+5. Limitation of Liability.
+ACI GIFT CARDS, INC. ("ACI") AND ITS AFFILIATES MAKE 
+NO WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT TO GIFT 
+CARDS, INCLUDING WITHOUT LIMITATION, ANY EXPRESS OR IMPLIED 
+WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR 
+PURPOSE. IN THE EVENT A GIFT CARD CODE IS NON-FUNCTIONAL, 
+YOUR SOLE REMEDY, AND OUR SOLE LIABILITY, SHALL BE THE 
+REPLACEMENT OF SUCH GIFT CARD. CERTAIN STATE LAWS DO NOT 
+ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR 
+LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, 
+SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR 
+LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE 
+ADDITIONAL RIGHTS.
+6. Disputes.
+Any dispute relating in any way to Amazon.com Gift Cards in which the 
+aggregate total claim for relief sought on behalf of one or more 
+parties exceeds $7,500 shall be adjudicated in any state or federal 
+court in King County, Washington, and you consent to exclusive 
+jurisdiction and venue in such courts.
+7. General Terms.
+Amazon.com Gift Cards are issued by ACI, a Washington corporation. 
+When you purchase, receive or redeem an Amazon.com Gift Card, you 
+agree that the laws of the State of Washington, without regard to 
+principles of conflict of laws, will govern these Gift Card terms and 
+conditions. ACI reserves the right to change these terms and 
+conditions from time to time in its discretion. All terms and 
+conditions are applicable to the extent permitted by law.
+
+Previously Expired Gift Cards:
+The expiration date for Gift Cards issued after October 1, 2005 are 
+waived and may be redeemed for eligible purchases notwithstanding any 
+stated expiration date. Any Gift Cards issued prior to that date expire 
+in accordance with their terms. Expiration dates also do not apply for 
+such Gift Cards issued in CA, CT, LA, ME, MD, MA, MT, NH, ND, OK, RI, 
+VT, WA. Expiration dates do not apply in any other state solely to the 
+extent as prohibited or limited by law.
+
+
+***********************************************************************
+
+
+------=_Part_5288246_576795455.1356037941384
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>Amazon.com Gift Card</title>
+</head>
+<body style="font-family:Arial,Helvetica,sans-serif">
+  <!-- Wrapper table for background color -->
+  <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0"><tr><td width="100%" bgcolor="#ffffff" style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color:#666666; line-height:1.2em;">
+ 
+    <!-- Top area text -->
+    <table border="0" align="center" cellpadding="10" cellspacing="0">
+      <tr>
+        <td width="583" align="left" valign="middle" style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color:#666666; line-height:1.2em;">You've received a $130.00 Amazon.com Gift Card!        </td>
+      </tr>
+    </table>
+ 
+    <!-- Main section table manages the drop shadow and 10px of padding -->
+    <table border="0" align="center" cellpadding="10" cellspacing="0" style="-moz-box-shadow:0px 2px 13px #999999 !important; -webkit-box-shadow:0px 2px 13px #999999 !important; box-shadow:0px 2px 13px #999999 !important; border-collapse:separate !important;">
+      <tr>
+        <td width="583" bgcolor="#ffffff" style="border-width:1px; border-style:solid; border-color:#dddddd;">
+ 
+          <!-- Inner table holds design image, claim code buttons and personal message -->
+            <table border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="583" colspan="5" align="center" style="line-height:0 !important;"><a href="https://www.amazon.com/gp/css/gc/payment/view-gc-balance?code=RDUJ326C82HCQT">
+                        <img src="https://images-na.ssl-images-amazon.com/images/G/01/gc/formation/assets/a_generic_main_us_email._V402278630_.png" alt="Amazon.com Gift Card" width="583" height="300" border="0" align="center" style="display:block;" />
+                    </a></td>
+              </tr>
+              <tr><td height="10" colspan="5" style="line-height:0; overflow:hidden;"> </td></tr>
+              <tr>
+                <td width="261" height="120" align="right">
+                  <img src="https://images-na.ssl-images-amazon.com/images/G/01/gc/formation/assets/us-logo-email_170x54._V401912540_.png" alt="amazon.com gift card logo" border="0" /><br />
+                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:13px; color:#999999; line-height:1.4em;">Claim Code:</div>
+                  <div style="font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:1em; color:#666666;"><img border="0" width="0" height="0" src="http://fls-na.amazon.com/1/gc-core/1/OP/gc?sn=1504401332542051&lf=27TQ" marginwidth="0" alt="" style="visibility:hidden">R6PZ-GHD7BH-27TQ</div>
+                </td>
+                <td width="30" height="120"> </td>
+                <td width="1" height="120" bgcolor="#dddddd" style="font-size:1px"><!--   --></td>
+                <td width="30" height="120"> </td>
+                <td width="261" height="120">
+                  <span style="font-family:Arial,Helvetica,sans-serif; font-size:42px; color:#333333; line-height:1em;">$130.00</span><br /><br />
+                  <a href="https://www.amazon.com/gp/css/gc/payment/view-gc-balance?code=RDUJ326C82HCQT"><img src="https://images-na.ssl-images-amazon.com/images/G/01/gc/formation/assets/redeem_now-us.._V401912456_.gif" alt="Redeem Now" border="0" /></a>
+                </td>
+              </tr>
+              <tr><td height="10" colspan="5" style="line-height:0; overflow:hidden;"> </td></tr>
+              <tr><td height="10" colspan="5" style="line-height:0; border-top:1px solid #dddddd; overflow:hidden;"> </td></tr>
+              <tr>
+                <td width="583" colspan="5">
+                 <table border="0" align="center" cellpadding="10" cellspacing="0">
+                    <tr>
+                      <td width="563" style="text-shadow:2px 2px 1px #cccccc !important;"><div style="font-size:21px; font-family:'Lucida Sans',Georgia,Arial,Helvetica,sans-serif; color:#666666; line-height:1.3em">Pago de carga consolidada a nombre de Antonio Pepe</div></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          <!-- End inner table -->
+ 
+        </td>
+      </tr>
+    </table>
+    <!-- End main section table -->
+ 
+    <!-- Bottom Info -->
+    <table width="583" border="0" align="center" cellpadding="10" cellspacing="0">
+      <tr>
+        <td colspan="2" style="font-family:Arial,Helvetica,sans-serif; font-size:13px; line-height:1.3em; color:#666666;">
+          <br /><br />
+          <b>Redeeming your Amazon.com Gift Card</b><br /><br />1. Visit <a href=https://www.amazon.com/gp/css/gc/payment/view-gc-balance?ie=UTF8&amp;ref_=gc_lp_atya style=\"text-decoration:none; color:#004B91\"><span style=\"text-decoration:none; color:#004B91\">www.amazon.com/redeemgift</span></a>.<br>            2. Enter the Claim Code and click <b>Apply to Your Account</b>.<br /><br />          <div style=\"font-size:11px;\">Gift card funds are applied automatically to eligible orders during the checkout process. Your Claim Code may also be entered  during checkout. To redeem your gift card using the Amazon.com 1-Click&#174; service, first add the gift card funds to <b>Your Account</b>.<br>       <br />
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" style="font-family:Arial,Helvetica,sans-serif; color:#999999; font-size:12px;">
+          <b>Terms and Conditions:        </b>
+          <br />
+          <br />
+<pre style="font-size:11px; font-family:Arial,Helvetica,sans-serif; color:#999999;">1. Redemption.
+Gift Cards must be redeemed on www.amazon.com, or its affiliated 
+website www.endless.com, toward the purchase of eligible products. 
+Purchases are deducted from the Gift Card balance. Any unused balance 
+will be placed in the recipient&#39;s Gift Card account when redeemed. If 
+an order exceeds the amount of the Gift Card, the balance must be paid
+with a credit card or other available payment method. Amazon.com may 
+provide Gift Card purchasers with information about the redemption 
+status of Gift Cards that they purchase.  To view Gift Card balances, 
+visit &quot;Your Account&quot; on Amazon.com.
+2. Limitations.
+  - Gift Cards may not be redeemed for the purchase of products at 
+    Amazon.co.uk, Amazon.de, Amazon.fr, Amazon.co.jp, Amazon.ca, or 
+    any other website operated by Amazon.com, its affiliates, or any 
+    other person or entity, except as indicated by these terms and 
+    conditions.
+  - Gift Cards cannot be used to purchase other gift cards.
+  - Gift Cards cannot be reloaded, resold, transferred for value, 
+    redeemed for cash or applied to any other account, except to the 
+    extent required by law. Unused Gift Card balances in an Amazon 
+    account may not be transferred.
+3. Risk of Loss.
+The risk of loss and title for Gift Cards pass to the purchaser upon 
+our electronic transmission to the purchaser, recipient or delivery to
+the carrier, whichever is applicable. We are not responsible if a Gift
+Card is lost, stolen, destroyed or used without your permission.
+4. Fraud.
+Amazon.com will have the right to close customer accounts and bill 
+alternative forms of payment if a fraudulently obtained Gift Card is 
+redeemed and/or used to make purchases on amazon.com or endless.com.
+5. Limitation of Liability.
+ACI GIFT CARDS, INC. (&quot;ACI&quot;) AND ITS AFFILIATES MAKE 
+NO WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT TO GIFT 
+CARDS, INCLUDING WITHOUT LIMITATION, ANY EXPRESS OR IMPLIED 
+WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR 
+PURPOSE. IN THE EVENT A GIFT CARD CODE IS NON-FUNCTIONAL, 
+YOUR SOLE REMEDY, AND OUR SOLE LIABILITY, SHALL BE THE 
+REPLACEMENT OF SUCH GIFT CARD. CERTAIN STATE LAWS DO NOT 
+ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR 
+LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, 
+SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR 
+LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE 
+ADDITIONAL RIGHTS.
+6. Disputes.
+Any dispute relating in any way to Amazon.com Gift Cards in which the 
+aggregate total claim for relief sought on behalf of one or more 
+parties exceeds $7,500 shall be adjudicated in any state or federal 
+court in King County, Washington, and you consent to exclusive 
+jurisdiction and venue in such courts.
+7. General Terms.
+Amazon.com Gift Cards are issued by ACI, a Washington corporation. 
+When you purchase, receive or redeem an Amazon.com Gift Card, you 
+agree that the laws of the State of Washington, without regard to 
+principles of conflict of laws, will govern these Gift Card terms and 
+conditions. ACI reserves the right to change these terms and 
+conditions from time to time in its discretion. All terms and 
+conditions are applicable to the extent permitted by law.
+
+Previously Expired Gift Cards:
+The expiration date for Gift Cards issued after October 1, 2005 are 
+waived and may be redeemed for eligible purchases notwithstanding any 
+stated expiration date. Any Gift Cards issued prior to that date expire 
+in accordance with their terms. Expiration dates also do not apply for 
+such Gift Cards issued in CA, CT, LA, ME, MD, MA, MT, NH, ND, OK, RI, 
+VT, WA. Expiration dates do not apply in any other state solely to the 
+extent as prohibited or limited by law.
+</pre>
+        </td>
+      </tr>
+      <tr>
+        <td align="left" style="font-family:Arial,Helvetica,sans-serif; font-size:11px; color:#cccccc;"><b>Serial Number:</b> 1504401332542051</td>
+        <td align="right" style="font-family:Arial,Helvetica,sans-serif; font-size:11px; color:#cccccc;"><b>Order Number:</b> 106-5955577-4801000</td>
+      </tr>
+    </table>
+    <!-- End terms and conditions -->
+ 
+  </td></tr></table>
+</body>
+</html>
+------=_Part_5288246_576795455.1356037941384--
+
+------=_Part_5288245_898279695.1356037941384--

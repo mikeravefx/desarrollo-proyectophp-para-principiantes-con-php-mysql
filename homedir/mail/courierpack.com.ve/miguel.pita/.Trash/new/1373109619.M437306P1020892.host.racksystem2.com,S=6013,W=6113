@@ -1,0 +1,100 @@
+Return-path: <>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Sat, 06 Jul 2013 06:48:34 -0430
+Received: from smtp05.bis6.us.blackberry.com ([74.82.85.5]:13783)
+	by host.racksystem2.com with esmtp (Exim 4.80)
+	id 1UvQVe-004H3W-2U
+	for miguel.pita@courierpack.com.ve; Sat, 06 Jul 2013 06:48:34 -0430
+Received: from antispam2.c0.bise5.blackberry ([192.168.0.17])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r66BIVIM016404
+	for <SRS0=6ZcHOB=QU=courierpack.com.ve=miguel.pita@srs.bis6.us.blackberry.com>; Sat, 6 Jul 2013 11:18:31 GMT
+X-SBRS: 2.7
+Received: from nm42.bullet.mail.gq1.yahoo.com ([67.195.87.82])
+  by antispam2.c0.bise5.blackberry with ESMTP; 06 Jul 2013 11:18:30 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=gcom1024; t=1373109510; bh=6mN36o8DXl8Ofdh1oLmU0WEHOSoWuYijvnWutWrV304=; h=Received:Received:Received:X-Yahoo-Newman-Property:X-Yahoo-Newman-Id:Message-ID:Date:X-RocketTIP:X-RocketSRV:From:To:X-Loop:Subject; b=foPhtmIBgtJvBTkg8YoVuAZ4HuVR6fhkt2ZWAl+ls30WnlqdXzP1tjDFHtFqKbzCD27dWg2hwRVHYhXdQERPgUfwuPxf4+og3/ezx+HmOnTOKmjW9Zr2HZNiQJCOPEHivcLBVPKDqxgCCtG43iELc2NUeMhTKFyubowz0pLYh58=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=gcom1024; d=yahoo.com;
+	b=X36ZowbKIp50BuD/Vwo5VquBBFcDEbVk2b7gPtlFXCAVlBJ6THiG3/8FSGij7BXuaPfYDKk8FHY5X8rF+UzgQXg1trVBjvVmHf8njWo480UJ3Yvn/eMzD1J+uvuq73BVhTCjLQ1wXhn0R8yAjR/3ai0VESpR+2WyqCTBaIpkpAw=;
+Received: from [98.137.12.58] by nm42.bullet.mail.gq1.yahoo.com with NNFMP; 06 Jul 2013 11:18:30 -0000
+Received: from [98.137.12.51] by tm3.bullet.mail.gq1.yahoo.com with NNFMP; 06 Jul 2013 11:18:30 -0000
+Received: from [127.0.0.1] by omp1066.mail.gq1.yahoo.com with NNFMP; 06 Jul 2013 11:18:30 -0000
+X-Yahoo-Newman-Property: ymail-5
+X-Yahoo-Newman-Id: 379061.69632.bm@omp1066.mail.gq1.yahoo.com
+Message-ID: <379061.69632.bm@omp1066.mail.gq1.yahoo.com>
+Date: Sat, 6 Jul 2013 11:18:30 +0000 (UTC)
+X-RocketTIP: 74.82.85.8 ; NO_TIP_HEADER_ALLOWED ; 
+X-RocketSRV: s_ip=74.82.85.8;d_t=1373109508;url=whatsapp.com,http://www.whatsapp.com/download/;Retro=Y;SgrnP=N;FolderOfDelivery=                    ;msgid=1373109506.606568.33273@mta1663.mail.gq1.yahoo.com#0;
+From: MAILER-DAEMON@yahoo.com
+To: SRS0=6ZcHOB=QU=courierpack.com.ve=miguel.pita@srs.bis6.us.blackberry.com
+X-Loop: MAILER-DAEMON@yahoo.com
+Subject: Delivery failure
+
+Message from yahoo.com.
+Unable to deliver message to the following address(es).
+
+<maria_angelina_pita@yahoo.com>:
+This user doesn't have a yahoo.com account (maria_angelina_pita@yahoo.com) [-5]
+
+--- Original message follows.
+
+The original message is over 5K. Message truncated.
+
+Return-Path: <SRS0=6ZcHOB=QU=courierpack.com.ve=miguel.pita@srs.bis6.us.blackberry.com>
+Received-SPF: pass (domain of srs.bis6.us.blackberry.com designates 74.82.85.8 as permitted sender)
+X-YMailISG: vhaPrGUWLDtyd0eHWtlkUUcDjwoCiOok7A3mVoBPGmg_feAn
+ iBGHC0f30bc.IOavPs.ZbqYaGsCVQAFNVY6hQ49fYgx_.019I0z.dpYMxcsb
+ nU01bMq3px6R8gr.77X.h0ZCmjjnrD1tZ7EnQDhdRyZzbeUkFfBKkFNjL1Fm
+ 4RuLmaRdZpiA8284pMEGfum3NtpHi3sqmCGJimaMa0kTgI8hy3cw0NmYiJ8x
+ UA2nBkfnuhitbqadHtidlrDhiQyAKWVd6A6aGUssguQiPiBNUqlf6by9AGUU
+ GCgI8OeB5bgubsc1OgQXV21mAzc8MsehjSuzBUDnkinxKefTLeUnJsYoDdNW
+ O7H5HZJu0eX_o9fdODjB.CdwgRkZ2jiNtZL3prfcoC2Ng8_Qo3HHU2nD_x6t
+ TYXwa32kbq0KNaDPjGalWZiCSvhxFbj69ohhnKavF0OC0J1gBuTtfX_xydO7
+ LQyHvRsMUf1U4NeZX7f6cMTYONVqfjgqoxHyfrwKU9dgogiJbWGEjDpOXdUK
+ w4naxG3ZKaxL0toJ_xtgJFKJ.BVXmh8sfwNzxPBpUyxTXxpZbr.sDYGoZwOf
+ weKWRwquOV602RvSzAfV3FpNXAl.NeHPsWoBl8.PQqBTgBd6fx1hq9AfHDIe
+ 7eCqivmjJOXIvDIEk0051VVTZKm2gb1ri66iGXVhnlGnAXow4PeR9wpxjIVo
+ Z1KUlpOKGEyvyM7XL9bAViVdE08ffOu66kE3JMHPbfBM4tWh9LnK0fXaTqSQ
+ I1O_OIrLpTvOxcuBNhjdv_ZGaL71UELFS.6HjMoIy5YzqHv2s4Fmf9ip7k6U
+ NjcZEIgGcYmAJb0OHgJxqks.oe.AD9Wrcl2BlRKVYZUIE3m4i8AWg4RP15om
+ R76xEHkHOHxUrLMDABiqpW9dc157jsnjbDcw1gqX6bgYbjMejtGZBNsDCE9h
+ zxaioCTVDdAWguqiX0LBdBay1CqluAdJjzEqYevpySgW275a18vKIcnUQr4P
+ 7B1XAi.wvLGJ9M33XF5Khr4gDlRq3FjBHEyBKtPETt3vTmgll6JogExDgGDA
+ UzTJqVjvxxE8ldLtBlyKuhyoC6xmKu74BvK5qE.aaX9LsLlM1C3_.WblJCKA
+ d3lIVrydU4DsuXWvt7WSsmgQZwE53syQ8avqu3SLMKj4_MQS24Ld1olOfypz
+ JEq17jIt_.fEh9AP7fAuc24ijQgb924LG4ejijJ4QE3OcYu6AaHeaGl_HvXE
+ wQpGA0swOGHYE3uMzUFuE1WsLvOPC1.GRAVuNxV3mTlPlXz2PR0fP2GvJrin
+ h_09Xa2uOrvsWnlfxs03EM1kysMPYtOfA4pCdQ--
+X-Originating-IP: [74.82.85.8]
+Authentication-Results: mta1663.mail.gq1.yahoo.com  from=courierpack.com.ve; domainkeys=neutral (no sig);  from=courierpack.com.ve; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO smtp08.bis6.us.blackberry.com) (74.82.85.8)
+  by mta1663.mail.gq1.yahoo.com with SMTP; Sat, 06 Jul 2013 11:18:27 +0000
+Received: from b11.c10.bise6.blackberry ([192.168.0.111])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r66BIQEH017966;
+	Sat, 6 Jul 2013 11:18:26 GMT
+Received: from 172.29.203.173 (cmp3.c10.bise6.blackberry [172.29.203.173])
+	by b11.c10.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id r66BIL76026322;
+	Sat, 6 Jul 2013 11:18:21 GMT
+X-rim-org-msg-ref-id: 1209516746
+Message-ID: <1209516746-1373109499-cardhu_decombobulator_blackberry.rim.net-733111369-@b13.c10.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: miguel.pita@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: WhatsApp Messenger: BlackBerry + iPhone + Android + Windows Phone + Nokia
+To: "miguel pita" <miguel.pita@courierpack.com.ve>
+From: miguel.pita@courierpack.com.ve
+Date: Sat, 6 Jul 2013 11:25:43 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+
+SG9sYSwNCg0KQWNhYm8gZGUgYmFqYXJtZSBXaGF0c0FwcCBNZXNzZW5nZXIgZW4gbWkgQmxhY2tC
+ZXJyeS4NCg0KRXMgdW4gcHJvZ3JhbWEgZGUgbWVuc2FqZXLtYSBwYXJhIHNtYXJ0cGhvbmVzIHF1
+ZSBzdXN0aXR1eWUgYSBsb3MgU01TLiBIYXN0YSBwdWVkZXMgZW52aWFyIGZvdG9zLCB27WRlb3Mg
+eSBvdHJvcyBhcmNoaXZvcyBtdWx0aW1lZGlhLg0KDQpXaGF0c0FwcCBNZXNzZW5nZXIgZXN04SBk
+aXNwb25pYmxlIHBhcmEgQW5kcm9pZCwgaVBob25lLCBOb2tpYSwgV2luZG93cyBQaG9uZSwgeSBC
+bGFja0JlcnJ5IHkgbm8gaGFjZSBmYWx0YSByZWNvcmRhciBuaW5n+m4gUElOIG5pIG5vbWJyZSBk
+ZSB1c3VhcmlvOyBmdW5jaW9uYSBpZ3VhbCBhbCBTTVMsIHBlcm8gdXNhIH
+*** MESSAGE TRUNCATED ***
+
+
+.

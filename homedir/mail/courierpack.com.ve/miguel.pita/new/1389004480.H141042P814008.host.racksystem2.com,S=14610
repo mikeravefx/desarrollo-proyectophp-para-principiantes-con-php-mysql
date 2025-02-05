@@ -1,0 +1,407 @@
+Return-path: <b0076489816miguel.pita=courierpack.com.ve@bounce.twitter.com>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Mon, 06 Jan 2014 06:04:40 -0430
+Received: from spring-chicken-at.twitter.com ([199.16.156.159]:49418)
+	by host.racksystem2.com with esmtp (Exim 4.80.1)
+	(envelope-from <b0076489816miguel.pita=courierpack.com.ve@bounce.twitter.com>)
+	id 1W07Vw-003Pki-GT
+	for miguel.pita@courierpack.com.ve; Mon, 06 Jan 2014 06:04:39 -0430
+DKIM-Signature: v=1; a=rsa-sha1; d=twitter.com; s=dkim-201303; c=relaxed/relaxed;
+	q=dns/txt; i=@twitter.com; t=1389003258;
+	h=From:Subject:Date:To;
+	bh=Ouah60XE4T1SXV2tafciGKJRuOk=;
+	b=K0qqio1Um6EVgpySzwN0zfMM8+UuZwAg79Gh1Na80rskmQhokszOUP45ovhkqOny
+	c3n44lZcGP/AZTEK+5zYdYzMRrtxdXrwR7Vqyi1mClvuT+CDoj+gHksg+9YEkuVy
+	MDLuLR8gNsLOgHWGvFNsG2bF4d0IhICPZJ/YU9LzxS0=;
+X-MSFBL: bWlndWVsLnBpdGFAY291cmllcnBhY2suY29tLnZlQGF0bGEtYXFuLTA1LXNyMS1F
+	dmVyeXRoaW5nLjE3OUBFdmVyeXRoaW5nQG1pZ3VlbC5waXRhXEBjb3VyaWVycGFj
+	ay5jb20udmVcQDlcQDBcQDBcQGZiYWM1Y2NhMWFkNDI1ZTEyYWU2NTg1NmFkMzFh
+	YzZhZTYzNzJlOTk=
+Date: Mon, 06 Jan 2014 10:14:18 +0000
+From: "Jose Vicente Mujica (via Twitter)" <connections@twitter.com>
+To: miguel.pita@courierpack.com.ve
+Subject: =?UTF-8?Q?Jose_Vicente_Mujica_te_envi=C3=B3_una_invitaci=C3=B3n?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_26446616_100380789.1389003257868"
+Message-ID: <5B.EB.06400.AF18AC25@spring-chicken.twitter.com>
+X-Spam-Status: No, score=1.1
+X-Spam-Score: 11
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Jose Vicente Mujica te envió una invitación Twitter te ayuda
+    a estar conectado con lo que está sucediendo en estos momentos y con las
+    personas y organizaciones que te importan. Aceptar invitación [...] 
+ 
+ Content analysis details:   (1.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.1 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  1.3 URI_HEX                URI: URI hostname has long hexadecimal sequence
+  0.0 HTML_IMAGE_RATIO_06    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+------=_Part_26446616_100380789.1389003257868
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Jose Vicente Mujica te envi=C3=B3 una invitaci=C3=B3n
+
+Twitter te ayuda a estar conectado con lo que est=C3=A1 sucediendo en estos=
+ momentos y con las personas y organizaciones que te importan.
+
+    Aceptar invitaci=C3=B3n
+
+https://twitter.com/i/d781ea8b-47c2-4012-9f2c-0dd4fe1bf26c
+
+--=20
+
+Este mensaje fue enviado por Twitter en nombre de los usuarios de Twitter q=
+ue ingresaron tu direcci=C3=B3n de correo electr=C3=B3nico para invitarte a=
+ Twitter.
+Eliminar subscripci=C3=B3n: https://twitter.com/i/o?t=3D1&iid=3Dd3d2feb3a3e=
+243b880a89aa3f19fde0c&uid=3D0&c=3DXj4tWmhUb4nfmGADGxCFUyLOyd2yOLxTGw7qQ58RG=
+dw%3D&nid=3D9+26
+
+=C2=BFNecesitas ayuda?
+https://support.twitter.com
+------=_Part_26446616_100380789.1389003257868
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/htm=
+l4/strict.dtd">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, minimum-scale=3D1.=
+0, maximum-scale=3D1.0, user-scalable=3D0" />
+<meta name=3D"apple-mobile-web-app-capable" content=3D"yes" />
+<style type=3D"text/css">
+@media only screen and (max-width: 480px) {
+table[class=3Douterinvite] .cut {
+display: none !important;
+}
+
+table[class=3Douterinvite] .spacer {
+font-size: 1px !important;
+}
+
+table[class=3Douterinvite] .frame, .top-corners, .content, .envelope, .foot=
+er-inner {
+width: 320px !important;
+}
+
+table[class=3Douterinvite] .top-spacer {
+height: 10px !important;
+}
+
+table[class=3Douterinvite] .content {
+width: 308px !important;
+}
+
+table[class=3Douterinvite] .top-corners {
+height: 22px !important;
+background: url(https://ea.twimg.com/email/t1/invite/top-corners-mobile.png=
+) left top no-repeat !important;
+}
+
+table[class=3Douterinvite] .invite {
+width: 306px !important;
+}
+
+table[class=3Douterinvite] .invite-top {
+height: 10px !important;
+}
+
+table[class=3Douterinvite] .invite .avatar {
+width: 74px !important;
+}
+
+table[class=3Douterinvite] .invite .avatar-last {
+width: 64px !important;
+}
+
+table[class=3Douterinvite] .invite .avatar img {
+width: 64px !important;
+height: 64px !important;
+}
+
+table[class=3Douterinvite] .envelope {
+height: 75px !important;
+background: url(https://ea.twimg.com/email/t1/invite/envelope-with-logo-mob=
+ile.png) left top no-repeat !important;
+}
+
+table[class=3Douterinvite] .footer-inner {
+width: 300px !important;
+}
+
+table[class=3Douterinvite] .footer-inner .break {
+display: block !important;
+}
+
+.inviter_follows.no-bio .inviter-follows-td {
+padding-left: 0 !important;
+}
+
+.inviter_follows.no-bio .divider {
+display: none !important;
+}
+
+.inviter_follows.no-bio .follow {
+width: 100% !important;
+float: none !important;
+}
+
+.inviter_follows.no-bio .follow-content {
+border-top: 1px solid #e8e8e8 !important;
+}
+
+.inviter_follows.no-bio .avatar-mid {
+width: 50px !important;
+float: left !important;
+}
+
+.inviter_follows.no-bio .name_handler {
+text-align: left !important;
+margin: 0 !important;
+padding-left: 60px !important;
+}
+
+.inviter_follows.no-bio .followers-count {
+padding-top: 5px !important;
+}
+
+.inviter_follows.no-bio .name_handler.names .name-break {
+display: none !important;
+}
+
+</style>
+<!--[if gte mso 9]>
+<style inline=3D"false">
+.content { width: 520px !important; }
+</style>
+<![endif]-->
+</head>
+<body bgcolor=3D"#eeeeee" style=3D"margin: 0px; padding: 0px; -webkit-text-=
+size-adjust: none;">
+<!-- 100% body table, class outerinvite -->
+<table class=3D"outerinvite" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0">
+<tbody>
+<tr>
+<td bgcolor=3D"#eeeeee">
+<!-- Frame -->
+<table class=3D"frame" width=3D"542" border=3D"0" align=3D"center" cellpadd=
+ing=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-size: 1px;" class=3D"top-spacer" height=3D"40" valign=3D"=
+top"><img width=3D"1" height=3D"1" style=3D"display: block;margin:0px;paddi=
+ng:0px;display:block;" src=3D"https://twitter.com/scribe/ibis?uid=3D0&amp;i=
+id=3Dd3d2feb3a3e243b880a89aa3f19fde0c&amp;nid=3D9+20&amp;t=3D1" />&nbsp;</t=
+d>
+</tr>
+<tr>
+<td valign=3D"top">
+<!-- Top corners -->
+<table class=3D"top-corners" bgcolor=3D"#eeeeee" width=3D"522" border=3D"0"=
+ align=3D"center" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td height=3D"12" valign=3D"top"><img class=3D"cut" style=3D"margin: 0px; p=
+adding: 0px; display: block;margin:0px;padding:0px;display:block;" border=
+=3D"0" src=3D"https://ea.twimg.com/email/t1/invite/top-corners.png" width=
+=3D"522" height=3D"12" alt=3D"Top corners image" /></td>
+</tr>
+</tbody>
+</table>
+<!--/ Top corners -->
+<!-- Content -->
+<table style=3D"border-left-style: solid; border-left-width: 1px; border-le=
+ft-color: #cccccc; border-right-style: solid; border-right-width: 1px; bord=
+er-right-color: #cccccc;" class=3D"content" bgcolor=3D"#ffffff" width=3D"52=
+2" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td width=3D"522" align=3D"center" valign=3D"top">
+<table class=3D"invite" width=3D"520" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0">
+<tbody>
+<tr>
+<td class=3D"spacer" width=3D"9%">&nbsp;</td>
+<td class=3D"invite-top spacer" height=3D"38" width=3D"82%" valign=3D"top">=
+&nbsp;</td>
+<td class=3D"spacer" width=3D"9%">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td align=3D"center" valign=3D"top">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td class=3D"avatar avatar-last" width=3D"96"><a href=3D"https://twitter.co=
+m/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fi%2Fd781ea8b-47c2-4012-9f2c-=
+0dd4fe1bf26c&amp;sig=3D16938009eb8fb1c6c2e19874276a5fb700df09e0&amp;uid=3D0=
+&amp;iid=3Dd3d2feb3a3e243b880a89aa3f19fde0c&amp;nid=3D9+525&amp;t=3D1" styl=
+e=3D"color:#0084b4;text-decoration:none;"><img border=3D"0" class=3D"avatar=
+-image" src=3D"https://pbs.twimg.com/profile_images/411990453970427905/IhrW=
+1wVw_reasonably_small.jpeg" width=3D"96" height=3D"96" style=3D"margin:0px;=
+padding:0px;display:block;border-radius:3px;" /></a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td height=3D"20" colspan=3D"5">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!--/ Avatar images --> </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td valign=3D"top" align=3D"center"> <p class=3D"names" style=3D"font-famil=
+y:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:18px;line-height=
+:normal;color:#333333;margin-top:0px;margin-bottom:25px;"> &iexcl;<a href=
+=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fi%2Fd7=
+81ea8b-47c2-4012-9f2c-0dd4fe1bf26c&amp;sig=3D16938009eb8fb1c6c2e19874276a5f=
+b700df09e0&amp;uid=3D0&amp;iid=3Dd3d2feb3a3e243b880a89aa3f19fde0c&amp;nid=
+=3D9+524&amp;t=3D1" class=3D"name" style=3D"color:#0084b4;text-decoration:n=
+one;font-weight:bold;color:#333333;text-decoration:none;">Jose Vicente Muji=
+ca</a> te ha invitado a que te unas a Twitter! <img width=3D"1" height=3D"1=
+" src=3D"loadimage" style=3D"margin:0px;padding:0px;display:block;" /> </p>=
+ </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td valign=3D"top" align=3D"center">
+<!-- Button -->
+<table bgcolor=3D"#33a9e5" class=3D"newbutton" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" style=3D"white-space:nowrap;background:#33a9e5;backgro=
+und-image:url(https://ea.twimg.com/email/t1/button_bg.png);border-radius:5p=
+x;border-color:#2288cc;border-style:solid;border-width:1px;text-align:cente=
+r;height:28px;">
+<tbody>
+<tr>
+<td class=3D"spacer" width=3D"15">&nbsp;</td>
+<td height=3D"28" align=3D"center"><span class=3D"newbutton-text" style=3D"=
+color:#ffffff;font-size:15px;font-weight:bold;text-shadow:0px -1px 0px #339=
+9dd;white-space:nowrap;overflow:hidden;padding:0px;margin:0px;font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif;"><a class=3D"newbutton-link"=
+ href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fi=
+%2Fd781ea8b-47c2-4012-9f2c-0dd4fe1bf26c&amp;sig=3D16938009eb8fb1c6c2e198742=
+76a5fb700df09e0&amp;uid=3D0&amp;iid=3Dd3d2feb3a3e243b880a89aa3f19fde0c&amp;=
+nid=3D9+442&amp;t=3D1" style=3D"color:#0084b4;text-decoration:none;color:#f=
+fffff;text-decoration:none;"> Aceptar invitaci&oacute;n </a></span></td>
+<td class=3D"spacer" width=3D"15">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!--/ Button --> </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td height=3D"20">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td valign=3D"top" align=3D"center"> <p class=3D"extra" style=3D"font-famil=
+y:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;line-height=
+:normal;color:#666666;margin-top:0px;margin-bottom:10px;">Twitter te ayuda =
+a estar conectado con lo que est&aacute; sucediendo en estos momentos y con=
+ las personas y organizaciones que te importan.</p> </td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!--/ Content -->
+<!-- Envelope -->
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"envelope" valign=3D"top"> <img class=3D"cut" border=3D"0" src=
+=3D"https://ea.twimg.com/email/t1/invite/envelope-with-logo.png" width=3D"5=
+42" height=3D"133" style=3D"margin:0px;padding:0px;display:block;" /></td>
+</tr>
+</tbody>
+</table>
+<!--/ Envelope --> </td>
+</tr>
+</tbody>
+</table>
+<!--/ Frame -->
+<!-- Footer -->
+<table class=3D"footer" style=3D"background: url(https://ea.twimg.com/email=
+/t1/invite/footer-shadow.png) top repeat-x; border-top-style: solid; border=
+-top-width: 1px; border-top-color: #cccccc;" width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top">
+<table class=3D"footer-inner" width=3D"500" border=3D"0" align=3D"center" c=
+ellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td height=3D"25">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"ios" valign=3D"top"> <p style=3D"font-family:'Helvetica Neue',=
+ Helvetica, Arial, sans-serif;font-size:11px;line-height:normal;color:#7777=
+77;text-shadow:0 1px 0 #ffffff;margin-top:0px;margin-bottom:15px;">Puedes <=
+a href=3D"https://twitter.com/i/o?t=3D1&amp;iid=3Dd3d2feb3a3e243b880a89aa3f=
+19fde0c&amp;uid=3D0&amp;c=3DXj4tWmhUb4nfmGADGxCFUyLOyd2yOLxTGw7qQ58RGdw%3D&=
+amp;nid=3D9+26" style=3D"text-decoration:none;color:#999999;color:#0084b4;t=
+ext-decoration:none;">anular tu suscripci&oacute;n</a> a estos correos elec=
+tr&oacute;nicos en cualquier momento o encontrar <a href=3D"https://twitter=
+.com/i/redirect?url=3Dhttps%3A%2F%2Fsupport.twitter.com&amp;sig=3Dd5a93ec8d=
+c3f5086b47a0022aac6b1bd71661580&amp;uid=3D0&amp;iid=3Dd3d2feb3a3e243b880a89=
+aa3f19fde0c&amp;nid=3D9+97&amp;t=3D1" style=3D"text-decoration:none;color:#=
+999999;color:#0084b4;text-decoration:none;">respuestas</a> a tus preguntas =
+en el Soporte de Twitter.</p> <p class=3D"address" style=3D"font-family:'He=
+lvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;line-height:norm=
+al;color:#777777;text-shadow:0 1px 0 #ffffff;margin-top:0px;margin-bottom:1=
+5px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11=
+px;line-height:normal;color:#999999;text-shadow:0 1px 0 #ffffff;margin-top:=
+0px;margin-bottom:15px;"> <a href=3D"#" style=3D"text-decoration:none;color=
+:#999999;color:#0084b4;text-decoration:none;text-decoration:none;color:#999=
+999;">Twitter, Inc. 1355 Market St., Suite 900<span class=3D"break"></span>=
+ San Francisco, CA 94103</a></p> </td>
+</tr>
+<tr>
+<td height=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!--/ Footer --> </td>
+</tr>
+</tbody>
+</table>
+<!--/ 100% body table, class outerinvite -->
+</body>
+</html>
+
+------=_Part_26446616_100380789.1389003257868--

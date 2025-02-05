@@ -1,0 +1,72 @@
+Return-path: <>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Mon, 12 Aug 2013 14:59:06 -0430
+Received: from smtp02.bis6.us.blackberry.com ([74.82.85.2]:19445)
+	by host.racksystem2.com with esmtp (Exim 4.80)
+	id 1V8xnc-000Kz6-TF
+	for gabrielagarcia@courierpack.com.ve; Mon, 12 Aug 2013 14:59:05 -0430
+Received: from antispam7.c0.bise5.blackberry ([192.168.0.22])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r7CJStLJ031563
+	for <SRS0=d5jKYI=RW=courierpack.com.ve=gabrielagarcia@srs.bis6.us.blackberry.com>; Mon, 12 Aug 2013 19:29:03 GMT
+X-SBRS: 5.6
+Received: from smtp04.bis6.us.blackberry.com ([74.82.85.4])
+  by antispam7.c0.bise5.blackberry with ESMTP; 12 Aug 2013 19:29:03 +0000
+Received: from localhost by smtp04.bis6.us.blackberry.com;
+  12 Aug 2013 19:29:03 +0000
+Message-Id: <8cd615$ubmda3@smtp4.c0.bise6.blackberry>
+Date: 12 Aug 2013 19:29:03 +0000
+To: SRS0=d5jKYI=RW=courierpack.com.ve=gabrielagarcia@srs.bis6.us.blackberry.com
+From: "Mail Delivery System" <MAILER-DAEMON@smtp4.c0.bise6.blackberry>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="ygbY3.4uyKZ4211.YQyWY.6IkYMzf"
+
+--ygbY3.4uyKZ4211.YQyWY.6IkYMzf
+content-type: text/plain;
+    charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <gabyalexa23@gmail.com.ve> was undeliverable.
+The reason for the problem:
+5.4.7 - Delivery expired (message too old) 'DNS Soft Error looking up gmail=
+.com.ve (MX) while asking ns1.google.com. Error was: unable to reach namese=
+rver on any valid IP'
+
+--ygbY3.4uyKZ4211.YQyWY.6IkYMzf
+content-type: message/delivery-status
+
+Reporting-MTA: dns; smtp4.c0.bise6.blackberry
+
+Final-Recipient: rfc822;gabyalexa23@gmail.com.ve
+Action: failed
+Status: 5.0.0 (permanent failure)
+Diagnostic-Code: smtp; 5.4.7 - Delivery expired (message too old) 'DNS Soft Error looking up gmail.com.ve (MX) while asking ns1.google.com. Error was: unable to reach nameserver on any valid IP' (delivery attempts: 0)
+
+--ygbY3.4uyKZ4211.YQyWY.6IkYMzf
+content-type: message/rfc822
+
+Received: from unknown (HELO srs.bis6.us.blackberry.com) ([172.29.231.131])
+  by smtp04.bis6.us.blackberry.com with ESMTP; 09 Aug 2013 18:53:24 +0000
+Received: from b17.c4.bise6.blackberry ([192.168.0.117])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r79IraGN006972
+	for <gabyalexa23@gmail.com.ve>; Fri, 9 Aug 2013 18:53:36 GMT
+Received: from 172.29.197.203 (cmp33.c4.bise6.blackberry [172.29.197.203])
+	by b17.c4.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id r79IrV8M022690
+	for <gabyalexa23@gmail.com.ve>; Fri, 9 Aug 2013 18:53:31 GMT
+X-rim-org-msg-ref-id: 767168687
+Message-ID: <767168687-1376074410-cardhu_decombobulator_blackberry.rim.net-1851244538-@b12.c4.bise6.blackberry>
+Reply-To: gabrielagarcia@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: RV: Documentos solicitados de mis compras Juan ruben
+To: gabyalexa23@gmail.com.ve
+From: gabrielagarcia@courierpack.com.ve
+Date: Fri, 9 Aug 2013 18:53:13 +0000
+Content-Type: multipart/mixed; boundary="part2606-boundary-540594400-1333205642"
+MIME-Version: 1.0
+
+--part2606-boundary-540594400-1333205642--
+
+
+--ygbY3.4uyKZ4211.YQyWY.6IkYMzf--

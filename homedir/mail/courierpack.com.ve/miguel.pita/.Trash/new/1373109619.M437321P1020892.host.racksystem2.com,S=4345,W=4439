@@ -1,0 +1,94 @@
+Return-path: <>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Sat, 06 Jul 2013 06:48:40 -0430
+Received: from smtp03.bis6.us.blackberry.com ([74.82.85.3]:1673)
+	by host.racksystem2.com with esmtp (Exim 4.80)
+	id 1UvQVj-004HLz-RG
+	for miguel.pita@courierpack.com.ve; Sat, 06 Jul 2013 06:48:39 -0430
+Received: from antispam19.c0.bise6.blackberry ([192.168.0.34])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r66BIZpl012536
+	for <SRS0=6ZcHOB=QU=courierpack.com.ve=miguel.pita@srs.bis6.us.blackberry.com>; Sat, 6 Jul 2013 11:18:35 GMT
+X-SBRS: 4.7
+Received: from col0-omc2-s14.col0.hotmail.com ([65.55.34.88])
+  by antispam19.c0.bise6.blackberry with ESMTP; 06 Jul 2013 11:18:35 +0000
+Received: from COL0-MC2-F13.Col0.hotmail.com ([65.55.34.72]) by col0-omc2-s14.col0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Sat, 6 Jul 2013 04:18:34 -0700
+From: postmaster@hotmail.com
+To: SRS0=6ZcHOB=QU=courierpack.com.ve=miguel.pita@srs.bis6.us.blackberry.com
+Date: Sat, 6 Jul 2013 04:18:34 -0700
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01CE70B3663CA85200AE2312COL0?MC2?F13.Col"
+X-DSNContext: 335a7efd - 4480 - 00000001 - 80040546
+Message-ID: <BjNEq0UMl001c5218@COL0-MC2-F13.Col0.hotmail.com>
+Subject: Delivery Status Notification (Failure)
+X-OriginalArrivalTime: 06 Jul 2013 11:18:34.0853 (UTC) FILETIME=[8DF30950:01CE7A3A]
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01CE70B3663CA85200AE2312COL0?MC2?F13.Col
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+       iarraelalvarado@hotmail.com
+
+
+
+
+--9B095B5ADSN=_01CE70B3663CA85200AE2312COL0?MC2?F13.Col
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;COL0-MC2-F13.Col0.hotmail.com
+Received-From-MTA: dns;smtp03.bis6.us.blackberry.com
+Arrival-Date: Sat, 6 Jul 2013 04:18:34 -0700
+
+Final-Recipient: rfc822;iarraelalvarado@hotmail.com
+Action: failed
+Status: 5.5.0
+Diagnostic-Code: smtp;550 Requested action not taken: mailbox unavailable (1998570073:3844:-2147467259)
+
+--9B095B5ADSN=_01CE70B3663CA85200AE2312COL0?MC2?F13.Col
+Content-Type: message/rfc822
+
+Received: from smtp03.bis6.us.blackberry.com ([74.82.85.3]) by COL0-MC2-F13.Col0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4900);
+	 Sat, 6 Jul 2013 04:18:34 -0700
+Received: from b11.c10.bise6.blackberry ([192.168.0.111])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r66BIQED017966;
+	Sat, 6 Jul 2013 11:18:26 GMT
+Received: from 172.29.203.173 (cmp3.c10.bise6.blackberry [172.29.203.173])
+	by b11.c10.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id r66BIL76026322;
+	Sat, 6 Jul 2013 11:18:21 GMT
+X-rim-org-msg-ref-id: 1209516746
+Message-ID: <1209516746-1373109499-cardhu_decombobulator_blackberry.rim.net-733111369-@b13.c10.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: miguel.pita@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: WhatsApp Messenger: BlackBerry + iPhone + Android + Windows Phone + Nokia
+To: "miguel pita" <miguel.pita@courierpack.com.ve>
+From: miguel.pita@courierpack.com.ve
+Date: Sat, 6 Jul 2013 11:25:43 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+Return-Path: SRS0=6ZcHOB=QU=courierpack.com.ve=miguel.pita@srs.bis6.us.blackberry.com
+X-OriginalArrivalTime: 06 Jul 2013 11:18:34.0510 (UTC) FILETIME=[8DBEB2E0:01CE7A3A]
+
+SG9sYSwNCg0KQWNhYm8gZGUgYmFqYXJtZSBXaGF0c0FwcCBNZXNzZW5nZXIgZW4gbWkgQmxhY2tC
+ZXJyeS4NCg0KRXMgdW4gcHJvZ3JhbWEgZGUgbWVuc2FqZXLtYSBwYXJhIHNtYXJ0cGhvbmVzIHF1
+ZSBzdXN0aXR1eWUgYSBsb3MgU01TLiBIYXN0YSBwdWVkZXMgZW52aWFyIGZvdG9zLCB27WRlb3Mg
+eSBvdHJvcyBhcmNoaXZvcyBtdWx0aW1lZGlhLg0KDQpXaGF0c0FwcCBNZXNzZW5nZXIgZXN04SBk
+aXNwb25pYmxlIHBhcmEgQW5kcm9pZCwgaVBob25lLCBOb2tpYSwgV2luZG93cyBQaG9uZSwgeSBC
+bGFja0JlcnJ5IHkgbm8gaGFjZSBmYWx0YSByZWNvcmRhciBuaW5n+m4gUElOIG5pIG5vbWJyZSBk
+ZSB1c3VhcmlvOyBmdW5jaW9uYSBpZ3VhbCBhbCBTTVMsIHBlcm8gdXNhIHR1IGNvbmV4afNuIGRl
+IGRhdG9zIGRlIEludGVybmV0Lg0KDQpC4WphdGVsbyBkZSBodHRwOi8vd3d3LndoYXRzYXBwLmNv
+bS9kb3dubG9hZC8geSBvbHbtZGF0ZSBkZSBsb3MgU01TLg0KDQoNCkVudmlhZG8gZGVzZGUgbWkg
+QmxhY2tCZXJyeSBkZSBNb3Zpc3Rhcg==
+
+
+
+--9B095B5ADSN=_01CE70B3663CA85200AE2312COL0?MC2?F13.Col--

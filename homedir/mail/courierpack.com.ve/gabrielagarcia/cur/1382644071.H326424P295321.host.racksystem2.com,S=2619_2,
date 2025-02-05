@@ -1,0 +1,57 @@
+Return-path: <jhoabimalec@gmail.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Thu, 24 Oct 2013 15:17:51 -0430
+Received: from mail-ea0-f195.google.com ([209.85.215.195]:34086)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <jhoabimalec@gmail.com>)
+	id 1VZQsp-001Ep4-7M
+	for gabrielagarcia@courierpack.com.ve; Thu, 24 Oct 2013 15:17:51 -0430
+Received: by mail-ea0-f195.google.com with SMTP id z15so461069ead.2
+        for <gabrielagarcia@courierpack.com.ve>; Thu, 24 Oct 2013 12:47:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=ALGZ5ywtxhDmmA5Ob+rahxWhi/8fMOWR06lFUnfzq1g=;
+        b=c/nGJIty7UrIR7pWyx+AQ8pti375MdqosyBYJqiIS+hcsTf3OAYfmamMBg+bRAWJc2
+         BvV0FV5Nh0PDOriZKYygfDVSaoZQinMTmdZXg2E44xXJ05c479osHMvGDy8Jv621BqCA
+         UPu7OytDEdcd5V5SZgfwUa2XLIAYe2r067xWE/nMYn7DWWmlrXOw3lUkQr0+jqVa8wKF
+         EOMlQ7SbcYAb38tYj94kfNERaQbEQmOpzNYERlNSTCgcGfL/KeBfy6UnjrUURvZPqA5s
+         OW9r/tV4rt+N92gPQr5Z6Npavivcvm06V1c9lerDfWMcHzdhjuh2MoaOPmKbriIiX/jc
+         tP4A==
+MIME-Version: 1.0
+X-Received: by 10.205.78.199 with SMTP id zn7mr1261271bkb.59.1382644070086;
+ Thu, 24 Oct 2013 12:47:50 -0700 (PDT)
+Received: by 10.204.230.143 with HTTP; Thu, 24 Oct 2013 12:47:50 -0700 (PDT)
+Date: Thu, 24 Oct 2013 15:17:50 -0430
+Message-ID: <CABhuBLKHc=jM_xTjOg+V_goSGeHdOZ3mo98ZSUr6Ht5PAw5bow@mail.gmail.com>
+Subject: Estatus del pedido e32238de9
+From: JHONNATAN SANTANA <jhoabimalec@gmail.com>
+To: gabrielagarcia@courierpack.com.ve, 
+	Gabriela A Garcia P <gabyalexa23@gmail.com>
+Content-Type: multipart/alternative; boundary=f46d041558dca62a3d04e981e864
+
+--f46d041558dca62a3d04e981e864
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Buenas tardes, Gabriela
+
+   Me gustar=EDa, saber cual es el estatus del pedido del tel=E9fono, en ca=
+so
+de que usted no me pueda responder o resolver, indicarme donde me puedo
+dirigir o a quien puede recurrir de CurierPack
+
+  Gracias... Jhonnatan Santana
+
+--f46d041558dca62a3d04e981e864
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Buenas tardes, Gabriela<div><br></div><div>=A0 =A0Me gusta=
+r=EDa, saber cual es el estatus del pedido del tel=E9fono, en caso de que u=
+sted no me pueda responder o resolver, indicarme donde me puedo dirigir o a=
+ quien puede recurrir de CurierPack</div>
+<div><br></div><div>=A0 Gracias... Jhonnatan Santana</div></div>
+
+--f46d041558dca62a3d04e981e864--

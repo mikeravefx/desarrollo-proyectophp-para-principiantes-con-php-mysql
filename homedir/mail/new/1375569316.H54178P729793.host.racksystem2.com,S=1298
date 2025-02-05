@@ -1,0 +1,29 @@
+Return-path: <>
+Envelope-to: courierp@host.racksystem2.com
+Delivery-date: Sat, 03 Aug 2013 18:05:16 -0430
+Received: from mailnull by host.racksystem2.com with local (Exim 4.80)
+	id 1V5kPr-0033ql-8s
+	for courierp@host.racksystem2.com; Sat, 03 Aug 2013 18:05:15 -0430
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@host.racksystem2.com>
+To: courierp@host.racksystem2.com
+Subject: Warning: message 1V5KM8-003QlM-4V delayed 24 hours
+Message-Id: <E1V5kPr-0033ql-8s@host.racksystem2.com>
+Date: Sat, 03 Aug 2013 18:05:15 -0430
+
+This message was created automatically by mail delivery software.
+A message that you sent has not yet been delivered to one or more of its
+recipients after more than 24 hours on the queue on host.racksystem2.com.
+
+The message identifier is:     1V5KM8-003QlM-4V
+The subject of the message is: Gracias por contactarnos
+The date of the message is:    Fri, 02 Aug 2013 14:15:40 -0430
+
+The address to which the message has not yet been delivered is:
+
+  carlosjavi91@hortmaIL.COM
+
+No action is required on your part. Delivery attempts will continue for
+some time, and this warning may be repeated at intervals if the message
+remains undelivered. Eventually the mail delivery software will give up,
+and when that happens, the message will be returned to you.

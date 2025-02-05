@@ -1,0 +1,89 @@
+Return-path: <eslasguasduas@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Thu, 09 Jan 2014 09:05:20 -0430
+Received: from mail-yh0-f46.google.com ([209.85.213.46]:62213)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80.1)
+	(envelope-from <eslasguasduas@gmail.com>)
+	id 1W1FlX-001dxn-6g
+	for info@courierpack.com.ve; Thu, 09 Jan 2014 09:05:19 -0430
+Received: by mail-yh0-f46.google.com with SMTP id 29so843938yhl.33
+        for <info@courierpack.com.ve>; Thu, 09 Jan 2014 05:35:17 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=date:subject:message-id:importance:from:to:reply-to:mime-version
+         :content-type;
+        bh=8RZohmaHqorXD79FP3hGkU6R4LY+epItll/NBOJyfOo=;
+        b=jDhGOqarvULTVC39mvgraazjaHB1H765QJEIDPiPfWMQwovD+LpQtyYuoqXiFMfH/A
+         fYAdxyRtmCYMD1v4pgDLBLqzm99BFhPz1rSBzvUnSvIfrYOT0MI/VIwJ1pdPjuXYbX18
+         dMOPtW/gwyLIpZfRzNlyZsyeb7XtPIO4NGtXN8euvSujo/qckbw9YgpwkCLveNEGGgNL
+         yiKAGE8vh863vN3F95NUEFDj67S4URLce9gmfEpl1p4B9ipC3zKphxixJd/ttogSK3EC
+         2xzp0xxQw6mpMNWuJJRK7sLcb1h7S2cqSHWmYI917dl6WjP0JdVcGm8v4CcM1Ts35Ld3
+         IC2A==
+X-Received: by 10.236.188.232 with SMTP id a68mr4758615yhn.8.1389274516693;
+        Thu, 09 Jan 2014 05:35:16 -0800 (PST)
+Received: from [179.23.26.76] ([179.23.26.76])
+        by mx.google.com with ESMTPSA id q9sm6426002yhk.16.2014.01.09.05.35.11
+        for <info@courierpack.com.ve>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 09 Jan 2014 05:35:16 -0800 (PST)
+Date: Thu, 09 Jan 2014 09:04:11 -0430
+Subject: Mercancias
+Message-ID: <kuxjl06d3e77alkcfmju658k.1389274451971@email.android.com>
+Importance: normal
+From: eslasguasduas <eslasguasduas@gmail.com>
+To: info@courierpack.com.ve
+Reply-To: eslasguasduas <eslasguasduas@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--_com.android.email_115358133828130"
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Buenos dias sr courierpack como haga para comunicarme com
+   ustede Â para la mercancias que tengo en ccsÂ Enviado de Samsung Mobile Buenos
+    dias sr courierpack como haga para comunicarme com ustede para la mercancias
+    que tengo en ccs [...] 
+ 
+ Content analysis details:   (-0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (eslasguasduas[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+X-Spam-Flag: NO
+
+----_com.android.email_115358133828130
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+CkJ1ZW5vcyBkaWFzIHNyIGNvdXJpZXJwYWNrIGNvbW8gaGFnYSBwYXJhIGNvbXVuaWNhcm1lIGNv
+bSB1c3RlZGUgwqBwYXJhIGxhIG1lcmNhbmNpYXMgcXVlIHRlbmdvIGVuIGNjc8KgCgpFbnZpYWRv
+IGRlIFNhbXN1bmcgTW9iaWxl
+
+----_com.android.email_115358133828130
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPjwvaGVhZD48Ym9keSA+PGRpdj48YnI+PC9kaXY+PGRpdj5C
+dWVub3MgZGlhcyBzciBjb3VyaWVycGFjayBjb21vIGhhZ2EgcGFyYSBjb211bmljYXJtZSBjb20g
+dXN0ZWRlICZuYnNwO3BhcmEgbGEgbWVyY2FuY2lhcyBxdWUgdGVuZ28gZW4gY2NzJm5ic3A7PC9k
+aXY+PGRpdj48YnI+PC9kaXY+PGRpdj48ZGl2IHN0eWxlPSJmb250LXNpemU6NzUlO2NvbG9yOiM1
+NzU3NTciPkVudmlhZG8gZGUgU2Ftc3VuZyBNb2JpbGU8L2Rpdj48L2Rpdj4gPC9ib2R5PjwvaHRt
+bD4=
+
+----_com.android.email_115358133828130--
+
+

@@ -1,0 +1,224 @@
+Return-path: <gabyalexa23@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Wed, 14 May 2014 14:14:52 -0430
+Received: from mail-wg0-f45.google.com ([74.125.82.45]:42595)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <gabyalexa23@gmail.com>)
+	id 1WkeAb-0018zb-Tk
+	for info@courierpack.com.ve; Wed, 14 May 2014 14:14:52 -0430
+Received: by mail-wg0-f45.google.com with SMTP id m15so2299684wgh.28
+        for <info@courierpack.com.ve>; Wed, 14 May 2014 11:44:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=oC8f8QO6qEk+zI7OOsZZwYzkjyTVJi6Yza0sJ7pC4eA=;
+        b=cD3n5JbjGdgKoGijjeo6/o4WNf079a9f8WYl/34HQujhquNRBb4OuU0ufNzHPxOHRU
+         Pit0bT64hxCslyoq3FyZqqVP0cs29P52AfqcrZ3jSKPd93gncXQBkC5g3Zu4ZllCejcE
+         tkNv2I5utK7XDJNZlqGL6OxqtSEVWH1zI/VcQoTL1M+Gl+LHe9oxH2tEztMKIRlaXYUC
+         bEVbkmlTTcqgTLqwi1KITTMJfU7rSm+qVmYExRJglC0ClcUwxZMeHHxN7mOHH0EIGT25
+         hwuVyQoLMW65OR1+Jwz7BfsvwnPmcZPBXCIS2hHfrQFADoVJHwO55xaWn7/SUvOO36Fn
+         OBqw==
+MIME-Version: 1.0
+X-Received: by 10.180.86.74 with SMTP id n10mr4716388wiz.55.1400093087427;
+ Wed, 14 May 2014 11:44:47 -0700 (PDT)
+Received: by 10.194.124.12 with HTTP; Wed, 14 May 2014 11:44:47 -0700 (PDT)
+Date: Wed, 14 May 2014 14:14:47 -0430
+Message-ID: <CAGYt5dS20fRzK8LRGXftp7QWpDeYb8SqX3ORYqOagy2Pa0Kirg@mail.gmail.com>
+Subject: jroberti@casa.gob.ve
+From: Gabriela A Garcia P <gabyalexa23@gmail.com>
+To: info@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=f46d04426bb420f2aa04f96093a8
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Buenas Tardes Sr. Jose Roberti Por este medio se le informa
+    que su carga se encuentra en nuestros almaneces disponible para su envio
+   y entrega . Aprovechamos para indicar que el costo por el servicio de flete
+    es de Bs. 6.200,** Conjuntamente se le indica el detalle bancario [...] 
+ 
+ Content analysis details:   (0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (gabyalexa23[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (gabyalexa23[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--f46d04426bb420f2aa04f96093a8
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Buenas Tardes  Sr. Jose Roberti Por este medio se le informa que su carga
+se encuentra en nuestros almaneces disponible para su envio y entrega .
+
+Aprovechamos para indicar que el costo por el servicio de flete es de Bs.
+6.200,**
+Conjuntamente se le indica el detalle bancario
+
+Titular: Gabriela Garcia
+Cuenta Corriente:  0134.0066.12.066.306.9613
+Banco: Banesco
+C.I.: 18.539.138
+
+
+Atencion telefonica  de Lunes a Viernes  de 10am a 4 pm
+
+Esta es nuestra informaci=C3=B3n de contacto:
+Tel=C3=A9fono: 0424.108.27.57 / 0414.900.75.90
+E-mail: Gabrielagarcia@courierpack.com.ve
+Miguel.pita@courierpack.com.ve
+Persona Contacto: Gabriela Garcia/ Miguel Pita
+
+
+Una vez realizado el pago, enviar  un correo a esta direcci=C3=B3n
+Gabrielagarcia@courierpack.com
+Miguel.pita@courierpack.com.ve con la siguiente informaci=C3=B3n:
+
+Datos de la Compra
+
+Nombre del cliente registrado _______________
+Producto(s) Cancelados _______________
+Fecha de Deposito ________
+Monto Depositado _______
+Envio Incluido en el Pago (Si/No)_______
+Banco en donde se deposit=C3=B3__________
+Tipo de Deposito _____________
+Nro de Referencia/Comprobante ___________
+
+Datos para el Envio
+
+Direccion de Envio Envio: ___________
+Ciudad y Estado_____________
+Municipio __________                  Parroquia ____________
+Codigo Postal ___________
+Persona que Recibe ____________
+Cedula ___________
+Telefono de Contacto ____________
+
+En CPK  estamos para servirte. Cualquier duda no dejes de consultarnos por
+las canales antes presentados.
+
+--f46d04426bb420f2aa04f96093a8
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><span style=3D"font-family:arial,sans-serif;font-size:13px=
+">Buenas Tardes=C2=A0 Sr. Jose Roberti Por este medio se le informa que su =
+carga se encuentra en nuestros almaneces disponible para su envio y entrega=
+ .</span><br style=3D"font-family:arial,sans-serif;font-size:13px">
+<br style=3D"font-family:arial,sans-serif;font-size:13px"><span style=3D"fo=
+nt-family:arial,sans-serif;font-size:13px">Aprovechamos para indicar que el=
+ costo por el servicio de flete es de Bs. 6.200,**</span><br style=3D"font-=
+family:arial,sans-serif;font-size:13px">
+<span style=3D"font-family:arial,sans-serif;font-size:13px">Conjuntamente s=
+e le indica el detalle bancario=C2=A0</span><br style=3D"font-family:arial,=
+sans-serif;font-size:13px"><br style=3D"font-family:arial,sans-serif;font-s=
+ize:13px">
+<span style=3D"font-family:arial,sans-serif;font-size:13px">Titular: Gabrie=
+la Garcia=C2=A0</span><br style=3D"font-family:arial,sans-serif;font-size:1=
+3px"><span style=3D"font-family:arial,sans-serif;font-size:13px">Cuenta Cor=
+riente: =C2=A00134.0066.12.066.306.9613=C2=A0</span><br style=3D"font-famil=
+y:arial,sans-serif;font-size:13px">
+<span style=3D"font-family:arial,sans-serif;font-size:13px">Banco: Banesco<=
+/span><br style=3D"font-family:arial,sans-serif;font-size:13px"><span style=
+=3D"font-family:arial,sans-serif;font-size:13px">C.I.: 18.539.138=C2=A0</sp=
+an><br style=3D"font-family:arial,sans-serif;font-size:13px">
+<br style=3D"font-family:arial,sans-serif;font-size:13px"><br style=3D"font=
+-family:arial,sans-serif;font-size:13px"><span style=3D"font-family:arial,s=
+ans-serif;font-size:13px">Atencion telefonica =C2=A0de Lunes a Viernes =C2=
+=A0de 10am a 4 pm</span><br style=3D"font-family:arial,sans-serif;font-size=
+:13px">
+<br style=3D"font-family:arial,sans-serif;font-size:13px"><span style=3D"fo=
+nt-family:arial,sans-serif;font-size:13px">Esta es nuestra informaci=C3=B3n=
+ de contacto:</span><br style=3D"font-family:arial,sans-serif;font-size:13p=
+x"><span style=3D"font-family:arial,sans-serif;font-size:13px">Tel=C3=A9fon=
+o: 0424.108.27.57 / 0414.900.75.90</span><br style=3D"font-family:arial,san=
+s-serif;font-size:13px">
+<span style=3D"font-family:arial,sans-serif;font-size:13px">E-mail:=C2=A0</=
+span><a href=3D"mailto:Gabrielagarcia@courierpack.com.ve" style=3D"font-fam=
+ily:arial,sans-serif;font-size:13px">Gabrielagarcia@courierpack.com.ve</a><=
+br style=3D"font-family:arial,sans-serif;font-size:13px">
+<a href=3D"mailto:Miguel.pita@courierpack.com.ve" style=3D"font-family:aria=
+l,sans-serif;font-size:13px">Miguel.pita@courierpack.com.ve</a><br style=3D=
+"font-family:arial,sans-serif;font-size:13px"><span style=3D"font-family:ar=
+ial,sans-serif;font-size:13px">Persona Contacto: Gabriela Garcia/ Miguel Pi=
+ta</span><br style=3D"font-family:arial,sans-serif;font-size:13px">
+<br style=3D"font-family:arial,sans-serif;font-size:13px"><br style=3D"font=
+-family:arial,sans-serif;font-size:13px"><span style=3D"font-family:arial,s=
+ans-serif;font-size:13px">Una vez realizado el pago, enviar =C2=A0un correo=
+ a esta direcci=C3=B3n</span><a href=3D"mailto:Gabrielagarcia@courierpack.c=
+om" style=3D"font-family:arial,sans-serif;font-size:13px">Gabrielagarcia@co=
+urierpack.com</a><br style=3D"font-family:arial,sans-serif;font-size:13px">
+<a href=3D"mailto:Miguel.pita@courierpack.com.ve" style=3D"font-family:aria=
+l,sans-serif;font-size:13px">Miguel.pita@courierpack.com.ve</a><span style=
+=3D"font-family:arial,sans-serif;font-size:13px">=C2=A0con la siguiente inf=
+ormaci=C3=B3n:</span><br style=3D"font-family:arial,sans-serif;font-size:13=
+px">
+<br style=3D"font-family:arial,sans-serif;font-size:13px"><span style=3D"fo=
+nt-family:arial,sans-serif;font-size:13px">Datos de la Compra</span><br sty=
+le=3D"font-family:arial,sans-serif;font-size:13px"><br style=3D"font-family=
+:arial,sans-serif;font-size:13px">
+<span style=3D"font-family:arial,sans-serif;font-size:13px">Nombre del clie=
+nte registrado _______________</span><br style=3D"font-family:arial,sans-se=
+rif;font-size:13px"><span style=3D"font-family:arial,sans-serif;font-size:1=
+3px">Producto(s) Cancelados _______________</span><br style=3D"font-family:=
+arial,sans-serif;font-size:13px">
+<span style=3D"font-family:arial,sans-serif;font-size:13px">Fecha de Deposi=
+to ________</span><br style=3D"font-family:arial,sans-serif;font-size:13px"=
+><span style=3D"font-family:arial,sans-serif;font-size:13px">Monto Deposita=
+do _______</span><br style=3D"font-family:arial,sans-serif;font-size:13px">
+<span style=3D"font-family:arial,sans-serif;font-size:13px">Envio Incluido =
+en el Pago (Si/No)_______</span><br style=3D"font-family:arial,sans-serif;f=
+ont-size:13px"><span style=3D"font-family:arial,sans-serif;font-size:13px">=
+Banco en donde se deposit=C3=B3__________</span><br style=3D"font-family:ar=
+ial,sans-serif;font-size:13px">
+<span style=3D"font-family:arial,sans-serif;font-size:13px">Tipo de Deposit=
+o _____________</span><br style=3D"font-family:arial,sans-serif;font-size:1=
+3px"><span style=3D"font-family:arial,sans-serif;font-size:13px">Nro de Ref=
+erencia/Comprobante ___________</span><br style=3D"font-family:arial,sans-s=
+erif;font-size:13px">
+<br style=3D"font-family:arial,sans-serif;font-size:13px"><span style=3D"fo=
+nt-family:arial,sans-serif;font-size:13px">Datos para el Envio</span><br st=
+yle=3D"font-family:arial,sans-serif;font-size:13px"><br style=3D"font-famil=
+y:arial,sans-serif;font-size:13px">
+<span style=3D"font-family:arial,sans-serif;font-size:13px">Direccion de En=
+vio Envio: ___________</span><br style=3D"font-family:arial,sans-serif;font=
+-size:13px"><span style=3D"font-family:arial,sans-serif;font-size:13px">Ciu=
+dad y Estado_____________</span><br style=3D"font-family:arial,sans-serif;f=
+ont-size:13px">
+<span style=3D"font-family:arial,sans-serif;font-size:13px">Municipio _____=
+_____ =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0Parroqu=
+ia ____________</span><br style=3D"font-family:arial,sans-serif;font-size:1=
+3px"><span style=3D"font-family:arial,sans-serif;font-size:13px">Codigo Pos=
+tal ___________</span><br style=3D"font-family:arial,sans-serif;font-size:1=
+3px">
+<span style=3D"font-family:arial,sans-serif;font-size:13px">Persona que Rec=
+ibe ____________</span><br style=3D"font-family:arial,sans-serif;font-size:=
+13px"><span style=3D"font-family:arial,sans-serif;font-size:13px">Cedula __=
+_________</span><br style=3D"font-family:arial,sans-serif;font-size:13px">
+<span style=3D"font-family:arial,sans-serif;font-size:13px">Telefono de Con=
+tacto ____________</span><br style=3D"font-family:arial,sans-serif;font-siz=
+e:13px"><br style=3D"font-family:arial,sans-serif;font-size:13px"><span sty=
+le=3D"font-family:arial,sans-serif;font-size:13px">En CPK =C2=A0estamos par=
+a servirte. Cualquier duda no dejes de consultarnos por las canales antes p=
+resentados.</span><br style=3D"font-family:arial,sans-serif;font-size:13px"=
+>
+<br style=3D"font-family:arial,sans-serif;font-size:13px"><br style=3D"font=
+-family:arial,sans-serif;font-size:13px"><br></div>
+
+--f46d04426bb420f2aa04f96093a8--

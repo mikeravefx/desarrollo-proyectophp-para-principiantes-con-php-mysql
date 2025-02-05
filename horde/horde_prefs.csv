@@ -1,0 +1,34 @@
+courierp,horde,last_login,"a:2:{s:4:""time"";i:1347553943;s:4:""host"";s:36:""201-209-172-134.genericrev.cantv.net"";}"
+courierp,horde,add_source,72d4d31a01e7e7360d2f4ac416719e49
+courierp,imp,vinbox_id,zo6hjp13nk00sgk0gk4g4
+courierp,turba,columns,"netcenter	email
+verisign	email
+localsql	email"
+courierp,turba,turba_maintenance_tasks,"a:2:{i:0;s:12:""upgradeprefs"";i:1;s:12:""upgradelists"";}"
+courierp,kronolith,display_cals,"a:1:{i:0;s:8:""46faf3ce7a7c3b376c9fa9be4591d145"";}"
+courierp,kronolith,display_remote_cals,a:0:{}
+courierp,kronolith,display_external_cals,a:0:{}
+courierp,nag,display_tasklists,"a:1:{i:0;s:8:""courierp"";}"
+courierp,mnemo,display_notepads,"a:1:{i:0;s:8:""courierp"";}"
+courierp,horde,last_maintenance,1347553966
+courierp,kronolith,last_kronolith_maintenance,1347575220
+courierp,imp,sortpref,"a:3:{s:23:""info@courierpack_com_ve"";a:2:{s:1:""b"";s:1:""1"";s:1:""d"";s:1:""1"";}s:30:""miguel_pita@courierpack_com_ve"";a:1:{s:1:""b"";s:1:""0"";}i:0;a:2:{s:1:""b"";s:3:""161"";s:1:""d"";s:1:""0"";}}"
+courierp,imp,vfolder,a:0:{}
+courierp,imp,expanded_folders,"a:1:{s:15:""Carp Virtuales%"";b:1;}"
+courierp,imp,nav_poll,"a:11:{s:5:""INBOX"";b:1;s:34:""INBOX.denuncias@courierpack_com_ve"";b:1;s:12:""INBOX.Drafts"";b:1;s:14:""INBOX.Enviados"";b:1;s:39:""INBOX.gabrielagarcia@courierpack_com_ve"";b:1;s:29:""INBOX.info@courierpack_com_ve"";b:1;s:17:""INBOX.maildirsize"";b:1;s:32:""INBOX.manager@courierpack_com_ve"";b:1;s:36:""INBOX.miguel_pita@courierpack_com_ve"";b:1;s:10:""INBOX.Sent"";b:1;s:11:""INBOX.Trash"";b:1;}"
+courierp,ingo,blacklist,"a:2:{s:1:""a"";a:1:{i:0;s:31:""spotlight@news.sonypictures.com"";}s:1:""f"";s:0:"""";}"
+info@courierpack.com.ve,horde,last_maintenance,1335112743
+info@courierpack.com.ve,horde,last_login,"a:2:{s:4:""time"";i:1335112670;s:4:""host"";s:32:""190-77-120-189.dyn.dsl.cantv.net"";}"
+info@courierpack.com.ve,horde,add_source,
+info@courierpack.com.ve,imp,vinbox_id,d0uywzkb9c000k80cccgg
+info@courierpack.com.ve,turba,columns,"netcenter	email
+verisign	email
+localsql	email"
+info@courierpack.com.ve,turba,turba_maintenance_tasks,"a:2:{i:0;s:12:""upgradeprefs"";i:1;s:12:""upgradelists"";}"
+info@courierpack.com.ve,kronolith,display_cals,"a:1:{i:0;s:23:""info@courierpack.com.ve"";}"
+info@courierpack.com.ve,kronolith,display_remote_cals,a:0:{}
+info@courierpack.com.ve,kronolith,display_external_cals,a:0:{}
+info@courierpack.com.ve,nag,display_tasklists,"a:1:{i:0;s:23:""info@courierpack.com.ve"";}"
+info@courierpack.com.ve,mnemo,display_notepads,"a:1:{i:0;s:23:""info@courierpack.com.ve"";}"
+info@courierpack.com.ve,kronolith,last_kronolith_maintenance,1334966763
+info@courierpack.com.ve,imp,sortpref,"a:1:{i:0;a:2:{s:1:""b"";s:3:""161"";s:1:""d"";s:1:""0"";}}"

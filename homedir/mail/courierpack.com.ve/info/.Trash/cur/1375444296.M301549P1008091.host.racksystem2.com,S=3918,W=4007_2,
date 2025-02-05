@@ -1,0 +1,89 @@
+Return-path: <reports@bankofamerica.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Fri, 02 Aug 2013 04:26:13 -0430
+Received: from [85.29.185.91] (port=1427)
+	by host.racksystem2.com with esmtp (Exim 4.80)
+	(envelope-from <reports@bankofamerica.com>)
+	id 1V5B9h-0038Yz-9S
+	for info@courierpack.com.ve; Fri, 02 Aug 2013 04:26:13 -0430
+Received: from apache by nbolfoldpmmiifidcnfn.hemc.net with local (Exim 4.67)
+	(envelope-from <restatedfv734@gmail.com>)
+	id STU12K-M3FGS9-Q3
+	for <info@courierpack.com.ve>; Fri, 2 Aug 2013 14:56:12 +0600
+To: <info@courierpack.com.ve>
+Subject: statement of expenses
+X-PHP-Script: nbolfoldpmmiifidcnfn.atainvest.com/sendmail.php for 85.29.185.91
+From: <callusesej0@gmail.com>
+X-Sender: <callusesej0@gmail.com>
+X-Mailer: PHP
+X-Priority: 1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------------05050800806020907070206"
+Message-Id: <5DC4XO-G5ZUY7-E9@nbolfoldpmmiifidcnfn.rsi.com>
+Date: Fri, 2 Aug 2013 14:56:12 +0600
+
+This is a multi-part message in MIME format.
+--------------05050800806020907070206
+Content-Type: text/plain; charset="iso-8859-2"; format=flowed
+
+                                                                     Bank Of America                    			                       Hello.                        There is your report (personal account link) by 08/01/2013.                                     You can unsubscribe from emailing at you account setttings.                        Please contact us if you have any questions on the report.                                                             © 2013 Bank of America Corporation. All rights reserved.                              
+
+--------------05050800806020907070206
+Content-Type: multipart/related;
+	boundary="------------06070100803060406070807"
+
+--------------06070100803060406070807
+Content-Type: text/html; charset="us-ascii"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    <body style="margin: 0; padding: 0; background-color: #ffffff;">
+    <div style=" width: 100%; "> 
+      <div style="width: 800px; margin: 0 auto;">
+        <img style="margin: 10px;" src="http://promo.bankofamerica.com/onlinebanking/images/dep129_lp_logo_ast_ar08f2f_e.jpg"/>
+      </div>
+    </div>
+
+    <div id="wrap" style="width: 800px; margin: 0 auto;">
+      <div id="content-wrap" style="min-height: 300px; width: 600px;">
+        <div id="content" style="min-height: 200px; margin: 5px 0; background-image: -webkit-gradient(linear,0 0,0 bottom,from(#FCFEFC),to(#ECEEEC));
+background-image: -webkit-linear-gradient(#FCFEFC,#ECEEEC);
+background-image: -moz-linear-gradient(#FCFEFC,#ECEEEC);
+background-image: -ms-linear-gradient(#FCFEFC,#ECEEEC3);
+background-image: linear-gradient(#FCFEFC,#ECEEEC);">
+          <div id="header" style="">
+            <h3 style="margin: 2px 12px; color: #666666; font-family: Arial; font-size: 18px; line-height: 32px;">Bank Of America</h3>
+          </div>
+          <div class="contentright" id="internalright" style="width:auto;float:none; padding: 12px; color: #4D4D4F;font-family: Arial; font-size: 11px; line-height: 16px;">			
+           
+            Hello.
+            <br>
+            There is your report (<a href="http://dev1.appsichern.de/jjzd.html">personal account link</a>) by 08/01/2013. 
+            <br>
+            <br>
+
+            You can unsubscribe from emailing at you account setttings.
+            <br>
+            Please contact us if you have any questions on the report.
+            <br>
+            
+            <br>
+            <br>
+ 
+            <p style="font-size: 90%; ">© 2013 Bank of America Corporation. All rights reserved.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </body>
+  </body>
+</html>
+
+
+--------------05050800806020907070206--

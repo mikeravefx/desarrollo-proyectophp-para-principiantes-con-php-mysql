@@ -1,0 +1,97 @@
+Return-path: <tecnicokarim@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Thu, 24 Apr 2014 11:12:28 -0430
+Received: from mail-ve0-f181.google.com ([209.85.128.181]:60436)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <tecnicokarim@gmail.com>)
+	id 1WdLn8-002QuR-1L
+	for info@courierpack.com.ve; Thu, 24 Apr 2014 11:12:28 -0430
+Received: by mail-ve0-f181.google.com with SMTP id oy12so3186697veb.12
+        for <info@courierpack.com.ve>; Thu, 24 Apr 2014 08:42:25 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:references:from:content-type:in-reply-to:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=MBknBWlrxPSofHyBVqRAobYF5aoZxonyjklejiqBjP4=;
+        b=Ta473t9oQ66nWKmmtYoC2A3a/OcCvv0TOBS5ybU6DRPeWLCgQvtI75Om8NDs+5lAMI
+         59pp4w7PbJtLPr5rh6wtf1s71Y8cen3WuMrtmpPJpUvZiMFkD/lcPsXSi7lNUNvWWZbZ
+         xOsuQq1cntvmLD+EHMG7ddFmfQBEz7EcJLlkWG6gBUGPWGsfjvbpv7IX3Pwf4Ll5CV1B
+         BxaUzary5W3i0JlduOE3XyyaN1s5foKaqRm8rwvXeJKAL4K/A2thCEMr+WyY1+kex5fj
+         f2Rlgrs5z7fY5moEIBp5kk645DS34NNfM7nKCDGE1p/1aO6VcRC6+lpEgdvqhIQEtVZP
+         z/uw==
+X-Received: by 10.220.105.130 with SMTP id t2mr1718689vco.18.1398354145297;
+        Thu, 24 Apr 2014 08:42:25 -0700 (PDT)
+Received: from [192.168.1.2] ([200.82.140.42])
+        by mx.google.com with ESMTPSA id iu10sm9157870vdb.4.2014.04.24.08.42.24
+        for <info@courierpack.com.ve>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 24 Apr 2014 08:42:24 -0700 (PDT)
+Subject: Re: Gabriela Garcia.
+References: <1671080612-1398231411-cardhu_decombobulator_blackberry.rim.net-1536577731-@b3.c4.bise6.blackberry>
+From: =?utf-8?Q?T=C3=A9cnico_Karim?= <tecnicokarim@gmail.com>
+Content-Type: text/plain;
+	charset=utf-8
+X-Mailer: iPhone Mail (11D167)
+In-Reply-To: <1671080612-1398231411-cardhu_decombobulator_blackberry.rim.net-1536577731-@b3.c4.bise6.blackberry>
+Message-Id: <C4141A12-D4F2-4E87-B20A-BB25B674D210@gmail.com>
+Date: Thu, 24 Apr 2014 11:12:24 -0430
+To: "info@courierpack.com.ve" <info@courierpack.com.ve>
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Disculpe las molestias causadas. Pues calló Semana Santa
+   y por razones ajenas a nuestra voluntad perdimos el vuelo de regreso de Margarita
+    por el cual no pudimos regresar al tiempo pautado. Por lo que nos disculpamos
+    y en el transcurso del día le estaremos dando respuesta sobre su equipo
+   debido a que quien lo recibió Sra. Katiuska aún no ha llegado a laborar
+   esperando por ella para que me haga entrega de su equipo. Feliz tarde. [...]
+    
+ 
+ Content analysis details:   (-0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (tecnicokarim[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+Disculpe las molestias causadas. Pues call=C3=B3 Semana Santa y por razones a=
+jenas a nuestra voluntad perdimos el vuelo de regreso de Margarita por el cu=
+al no pudimos regresar al tiempo pautado.  Por lo que nos disculpamos y en e=
+l transcurso del d=C3=ADa le estaremos dando respuesta sobre su equipo debid=
+o a que quien lo recibi=C3=B3 Sra.  Katiuska a=C3=BAn no ha llegado a labora=
+r esperando por ella para que me haga entrega de su equipo.=20
+Feliz tarde.=20
+
+Karim.=20
+0212 3263495
+
+
+> El 23/04/2014, a las 01:06 a.m., "CourierPack" <info@courierpack.com.ve> e=
+scribi=C3=B3:
+>=20
+> Buenas tardes, el dia 15 de el mes en curso envie mi celular a sus oficina=
+s con la intencion de ser reparado, es la 2da vez que me sirvo de sus servic=
+ios ya que la primera vez fue sumamente responsable. Noto el desinteres por l=
+a buena atencion al clientes de partes de ustedes ya que no contestan ni lla=
+madas ni mensajes de texto cuestion que me preocupa ya que mi celular de uso=
+ personal esta en sus manos. Le agradezco mucho la respuesta del presente em=
+ail con motivo de respuesta de mi telf iphone s4 blanco.=20
+> Saludos.=20
+> Gabriela Garcia
+> 0424 108 27 57=20
+> Central de informancion al Cliente.

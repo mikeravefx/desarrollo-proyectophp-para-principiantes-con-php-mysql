@@ -1,0 +1,60 @@
+Return-path: <gabyalexa23@gmail.com>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Sun, 14 Oct 2012 23:46:47 -0430
+Received: from mail-ia0-f180.google.com ([209.85.210.180]:51641)
+	by host.caracasftp.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.77)
+	(envelope-from <gabyalexa23@gmail.com>)
+	id 1TNc6h-0004nD-Jw
+	for miguel.pita@courierpack.com.ve; Sun, 14 Oct 2012 23:46:47 -0430
+Received: by mail-ia0-f180.google.com with SMTP id f6so4709369iag.39
+        for <miguel.pita@courierpack.com.ve>; Sun, 14 Oct 2012 21:16:45 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=x-rim-org-msg-ref-id:message-id:content-transfer-encoding:reply-to
+         :x-priority:sensitivity:importance:subject:to:from:date:content-type
+         :mime-version;
+        bh=IwVWnhAmfkwSZapEIdMsANRzIkMtbOXq/oAswYqv2jg=;
+        b=Zxr/0oZkj4y2BaLqBd1PRZ/cR8NXlsnkwOaWwHpkP5dFwbrIoU359giKpFwWoFKmWs
+         IbX2sQF/RN4LpXy45yzx/ZDpv8auwT3SjomH3rhm8muSiTtZDGPXWGIeu0Eo1IHIqW2y
+         BUtcp7dKmLUX4r9xTkkrOvNLGlq8+JdeYevA8vVsPmZISElk0Lld0h/DeBjwM+pOMbkD
+         OtROCX5IlKAAJi1F2nYvceO0rDOOkDC1/aNg7GVNwUOsWj31eypvHDgWj9i6HzAzauM4
+         ROA3EOgiNrTMbzVGB5KwLnnnwPGVjU1370g1h2QWzO4FU/mLTYC+1HnmYVWHU68q1xSN
+         COHQ==
+Received: by 10.50.237.6 with SMTP id uy6mr6618783igc.31.1350274604870;
+        Sun, 14 Oct 2012 21:16:44 -0700 (PDT)
+Received: from 172.29.195.204 (bda-74-82-80-102.bis6.us.blackberry.com. [74.82.80.102])
+        by mx.google.com with ESMTPS id ff4sm5595036igc.5.2012.10.14.21.16.43
+        (version=SSLv3 cipher=OTHER);
+        Sun, 14 Oct 2012 21:16:44 -0700 (PDT)
+X-rim-org-msg-ref-id:13648495
+Message-ID:<13648495-1350274601-cardhu_decombobulator_blackberry.rim.net-325229318-@b12.c2.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: gabyalexa23@gmail.com
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: Cuenta faja
+To: miguel.pita@courierpack.com.ve.,gabyalexa23@gmail.com.
+From: gabyalexa23@gmail.com
+Date: Mon, 15 Oct 2012 04:16:38 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+
+SG9sYSBHYWJyaWVsYSBBIEdhcmNpYSBQYWNoZWNvLA0KDQpHcmFjaWFzIHBvciB0dSBjb21wcmEg
+ZGUgRmFqYSBTb3BvcnRlIERlIEVtYmFyYXpvIHBvciB1biBtb250byBkZSBCc0YgNjYwLjAwLg0K
+DQpQYXJhIGNvbmNyZXRhciBsYSBvcGVyYWNp824gdGUgc29saWNpdGFtb3MgdGUgY29udGFjdGVz
+IGNvbiBUQVJBQkFZVE5UIHBvciBhbGd1bm8gZGUgbG9zIHNpZ3VpZW50ZXMgbWVkaW9zOg0KDQpU
+ZWzpZm9ubzogMDQxNi0wNDY1NTkwDQpFLW1haWw6IHRhcmFiYXl0bnRAaG90bWFpbC5jb20NClNv
+YnJlIG51ZXN0cm8gbWVkaW8gZGUgcGFnby4gRGVwb3NpdG8gbyBUcmFuc2ZlcmVuY2lhQ1RBIENP
+UlJJRU5URTogLUJCVkEgMDEwOC0wMTA0NDUwMTAwMTQ5NDczDQoNCk1BTlVFTCBUQVJBQkFZIFFV
+SUpBTk8gVi0xMjk5MjA4MSBURU5FUiBFTiBDVUVOVEEhISBTSSBFTiAzIETNQVMgSMFCSUxFUyBO
+TyBSRUFMSVpBTiBQQUdPIE8gQ09OVEFDVE8gVs1BIENPUlJFTyBFTEVDVFLTTklDTyBTRVJBIENB
+TElGSUNBRE8gTkVHQVRJVk8gU0lOIEVYQ0VQQ0nTTiBGb3JtdWxhcmlvIGRlIGRhdG9zIHBhcmEg
+ZW527W9OuiBkZSB0cmFuc2ZlcmVuY2lhIE1vbnRvQmFuY29GZWNoYSBkZWwgZGVw83NpdG9BcnTt
+Y3VsbyhzKSBxdWUgZGVzZWEgTm9tYnJlIHkgYXBlbGxpZG9D6WR1bGEgbyBSSUZEaXJlY2Np824g
+ZGUgZW527W8vQ/NkaWdvIFBvc3RhbENpdWRhZC9Fc3RhZG8vUGFycm9xdWlhIE66IFRlbGVm825p
+Y28gU2V1ZPNuaW1vTel0b2RvIGRlIGVudu1vDQpFc3RhbW9zIGEgdHUgZGlzcG9zaWNp824uDQoN
+ClNhbHVkb3MgY29yZGlhbGVzLA0KDQpUQVJBQkFZVE5UDQpFbnZpYWRvIGRlc2RlIG1pIEJsYWNr
+QmVycnkgZGUgTW92aXN0YXI=
+

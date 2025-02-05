@@ -1,0 +1,722 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 200908 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2546                
+POS_VISITOR 14686               
+POS_DAY 19978               
+POS_DOMAIN 3375                
+POS_LOGIN 3712                
+POS_ROBOT 3867                
+POS_WORMS 4332                
+POS_EMAILSENDER 4463                
+POS_EMAILRECEIVER 4606                
+POS_SESSION 20803               
+POS_SIDER 21015               
+POS_FILETYPES 4741                
+POS_OS 4927                
+POS_BROWSER 5066                
+POS_SCREENSIZE 5348                
+POS_UNKNOWNREFERER 5422                
+POS_UNKNOWNREFERERBROWSER 6283                
+POS_ORIGIN 6995                
+POS_SEREFERRALS 7141                
+POS_PAGEREFS 7311                
+POS_SEARCHWORDS 8676                
+POS_KEYWORDS 10805               
+POS_MISC 2209                
+POS_ERRORS 11910               
+POS_CLUSTER 3568                
+POS_SIDER_404 12031               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20090901002220 769 218405 65298796655
+FirstTime 20090801070747
+LastTime 20090831235529
+LastUpdate 20090901114214 769 0 747 21 0
+TotalVisits 220                 
+TotalUnique 115                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 134                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 43 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 62 172 1573093 36 56 549986
+1 27 58 461082 19 25 184642
+2 0 0 0 7 11 113380
+3 1 1 20962 4 5 65429
+4 0 0 0 7 10 43481
+5 0 0 0 13 18 287622
+6 24 71 451743 22 26 197842
+7 60 254 2220444 26 38 225138
+8 81 256 3277346 30 66 471864
+9 114 489 5116993 60 83 637645
+10 128 588 3471650 144 182 1889025
+11 177 769 4794748 123 148 1332102
+12 220 749 5696705 43 71 598436
+13 138 628 3699551 59 72 700768
+14 127 716 4197368 47 62 576116
+15 122 512 2440404 37 53 544782
+16 54 96 394391 36 46 546747
+17 126 345 2819643 34 54 65195
+18 125 390 3393583 44 53 191479
+19 146 459 3416503 35 39 164618
+20 240 616 2839364 53 80 49148
+21 152 552 4834548 17 50 870
+22 42 321 3622977 10 12 44939
+23 39 266 2430470 15 33 215575
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+ve 2108 7831 54295254
+us 77 301 4544329
+es 9 65 744938
+ca 4 60 992893
+ar 3 33 287340
+ru 2 2 44444
+sv 1 15 243408
+cn 1 1 20962
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+no_user_agent 295 5671739 20090828160717 0
+googlebot 230 2668910 20090831135905 15
+ia_archiver 30 244765 20090828011408 5
+bot[+:,\.\;\/\\-] 21 348617 20090831062305 7
+unknown 7 96 20090824112810 7
+slurp 5 95790 20090830132815 1
+google\-sitemaps 2 54998 20090822134115 0
+msnbot 2 27765 20090824133003 1
+robot 2 27718 20090824095302 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+php 573 5765354 0 0
+css 367 1057639 0 0
+png 46 169276 0 0
+html 1632 14606774 0 0
+js 59 202528 0 0
+jpg 5492 39325387 0 0
+gif 139 46610 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 9
+winlong 578
+winxp 7446
+symbian 13
+win2000 5
+win98 39
+linuxubuntu 3
+macosx 35
+Unknown 153
+win2008 36
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 17
+msie6.0 719
+chrome 356
+firefox3.5.1 33
+opera 2
+firefox3.0.11 17
+firefox3.5.2 2193
+firefox3.0.5 86
+msie8.0 302
+firefox3.0.3 3
+mozilla 10
+firefox3.0.12 128
+msie7.0 943
+firefox3.0.13 3267
+wget 2
+firefox3.0.10 22
+Unknown 141
+safari 84
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+BlackBerry8100/4.5.0.55_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/100 20090828182749
+BlackBerry8320/4.5.0.124_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/100 20090828114313
+Wget/1.11.4 20090818003833
+... 20090804214752
+Mozilla/5.0_(compatible;_Google_Keyword_Tool;__https://adwords.google.com/select/KeywordToolExternal) 20090822144053
+BlackBerry9000/4.6.0.282_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/1 20090829091444
+al_viewer_larbin2.6.3@unspecified.mail 20090816035250
+yourname 20090816190117
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20090831234002
+Google-Site-Verification/1.0 20090822134115
+page_prefetcher 20090804195600
+BlackBerry8120/4.5.0.52_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/298 20090830182435
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+BlackBerry8100/4.5.0.55_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/100 20090828182749
+BlackBerry8320/4.5.0.124_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/100 20090828114313
+... 20090804214752
+BlackBerry9000/4.6.0.282_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/1 20090829091444
+al_viewer_larbin2.6.3@unspecified.mail 20090816035250
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20090831234002
+yourname 20090816190117
+Google-Site-Verification/1.0 20090822134115
+page_prefetcher 20090804195600
+BlackBerry8120/4.5.0.52_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/298 20090830182435
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 425 499
+From1 0 0
+From2 333 344
+From3 55 77
+From4 1392 7388
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 319 319
+live 14 25
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 29
+http://www.facebook.com/home.php 17 17
+http://www.facebook.com/profile.php 10 10
+http://www.facebook.com/group.php 3 3
+http://www.facebook.com/friends/ 2 2
+http://host.caracasftp.com:2082/awstats.pl 2 2
+http://www.facebook.com/inbox/readmessage.php 1 1
+http://www.facebook.com/alma.leon 1 1
+http://www.bing.com/search 1 1
+http://m.facebook.com/profile.php 1 1
+http://www.facebook.com/topic.php 1 1
+http://astore.amazon.com/courierpackco-20/detail/B001V7RK8G 1 1
+http://m.facebook.com/minifeed.php 1 1
+http://www.facebook.com/scoolls 1 1
+http://www.facebook.com/search/ 1 1
+http://astore.amazon.com/courierpackco-20 1 7
+http://www.facebook.com/photo.php 1 1
+http://www.facebook.com/Sabry03 1 1
+http://m.facebook.com/hectorluis.albornoztorrealba 1 1
+http://www.facebook.com/PICHILINI 1 1
+http://astore.amazon.com/courierpackco-20/cart 1 1
+http://www.micupo.com 1 1
+http://www.facebook.com/tos.php 1 1
+http://www.facebook.com/juancarlosascanio 1 1
+http://wwwapps.ups.com/WebTracking/OnlineTool/detail 1 1
+http://www.facebook.com/marqueznelly 1 1
+http://www.facebook.com/sharer.php 0 13
+http://es.mc267.mail.yahoo.com/mc/welcome 0 1
+http://es.mg40.mail.yahoo.com/dc/blank.html 0 2
+http://www.facebook.com/posted.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 46
+courier+internacional+puerta+a+puerta 122
+como+realizar+compras+por+internet 54
+courierpack 37
+blackbery+vs+nokia 27
+compra+por+internet+con+tu+cupo+cadivi 21
+courier+pack 4
+el+mejor+courier 3
+compras+por+internet+con+tu+cupo+cadivi 3
+complicaciones+tecnol%c3%b3gicas+retardan+modificaciones+del+cupo+de+cadivi 3
+cadivi+dise%c3%b1a+cambios+radicales+en+el+cupo+cadivi+que+beneficiar%c3%a1n+a+los+viajeros+en+sus+compras+en+usa+e+internet 2
+site+courierpack.com.ve+courier+pack 2
+rastreo+%2f+tracking+ups 2
+courierpack+compras+por+internet 2
+rastrear+una+orden+de+amazon 2
+courierpack.com.ve 2
+blackberry+vs+nokia 2
+fedexrastreo 2
+comprar+en+pagina+de+usa+con+cupo+viajero 1
+blackberrys+cupo+cadivi 1
+tracking+usps 1
+los+venezolanos+honestos+que+no+salen+al+exterior+a+hacer+trampas+cambios+en+el+cupo+cadivi+para+el+2010 1
+courier+pack+dolar+paralelo 1
+cadivi+cupos+internet 1
+courierpack+rastreo+fedex 1
+cadivi+cupo+en+d%c3%b3lares+no+ser%c3%a1+aumentado+en+2009 1
+compras+por+internet+con+tu+cadivi 1
+consejos+%c3%batiles+para+realizar+compras+por+internet+con+tu+cupo+cadivi+en+amazon.com 1
+si+no+vas+a+usar+tu+cupo+de+cadivi+te+lo+compro 1
+dolar+paralelo+internet 1
+courier+puerta+a+puerta+nacional+e+internacional 1
+compras+por+internet+cadivi 1
+courier+pack+compras+por+internet 1
+blackberry-vs-nokia 1
+courier+pack.com.ve 1
+fedex+tracking 1
+comprar+por+internet+cupos+cadivi 1
+sabes+como+realizar+compras+por+internet+de+mas+de+400%24+con+tu+cupo+cadivi+para+compras+electronicas+en+usa+en+un+sitio+seruro 1
+donde+comprar+blackberry+con+cupos 1
+site+courierpack.com.ve+courierpack+preguntas 1
+comprar+blackberry+con+los+cupos+de+internet 1
+compra+en+usa+venezuela+paralelo 1
+es+una+empresa+venezolano+-+americana+de+transporte+internacional+de+carga+puerta+a+puerta+que+cuenta+con+dos+sucursales 1
+compras+internet+dolar+paralelo 1
+eliminacion+de+cupo+cadivi 1
+ups+tracking 1
+4+consejos+%c3%batiles+para+realizar+compras+por+internet+con+tu+cupo+cadivi+en+amazon.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 107
+puerta 248
+courier 135
+a 128
+internacional 124
+internet 93
+por 87
+compras 69
+realizar 57
+como 55
+cadivi 43
+courierpack 41
+cupo 38
+con 32
+tu 29
+nokia 29
+vs 29
+blackbery 27
+compra 22
+en 15
+de 13
+pack 8
+el 7
+usa 5
+courierpack.com.ve 5
+tracking 5
+sus 2
+para 4
+seruro 1
+%c3%batiles 2
+usps 1
+venezolanos 1
+400%24 1
+lo 1
+vas 1
+amazon 2
+e 3
+aumentado 1
+d%c3%b3lares 1
+al 1
+dolar 3
+tecnol%c3%b3gicas 3
+rastreo 3
+sucursales 1
+- 1
+eliminacion 1
+2009 1
+trampas 1
+viajeros 2
+del 3
+cambios 3
+cuenta 1
+venezolano 1
+dos 1
+site 3
+exterior 1
+donde 1
+cupos 4
+pack.com.ve 1
+fedex 2
+venezuela 1
+modificaciones 3
+es 1
+no 3
+empresa 1
+sitio 1
+%2f 2
+transporte 1
+una 3
+electronicas 1
+compro 1
+amazon.com 2
+mejor 3
+comprar 4
+mas 1
+si 1
+preguntas 1
+2010 1
+rastrear 2
+salen 1
+retardan 3
+usar 1
+un 1
+dise%c3%b1a 2
+que 4
+consejos 2
+blackberrys 1
+hacer 1
+blackberry 4
+pagina 1
+viajero 1
+radicales 2
+blackberry-vs-nokia 1
+americana 1
+complicaciones 3
+beneficiar%c3%a1n 2
+orden 2
+honestos 1
+ups 3
+te 1
+ser%c3%a1 1
+sabes 1
+carga 1
+4 1
+fedexrastreo 2
+los 4
+paralelo 4
+nacional 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 117 198
+206 76 555789
+301 1 444
+404 505 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 32
+/noticias_08_2009/servicios.html 1 -
+/amazon_gift_card_store.html 1 -
+/_vti_bin/owssvr.dll 1 -
+/images/cp_logo.jpg.png 5 http://www.courierpack.com.ve/consulta.php
+/blank_clip_image004.jpg 1 http://courierpack.com.ve/consejos-para-utilizar-un-courier-internacional-puerta-a-puerta-y-saber-calcular-los-costos-de-envio-hasta-Venezuela-en-sus-compras-por-internet-con-su-CUPO-CADIVI.html
+/robots.txt 27 -
+/blank_clip_image001_0002.gif 100 http://courierpack.com.ve/preguntas.html
+/consulta_estatus_por_guia.php 1 http://www.courierpack.com.ve/guias_actuales.php
+/supuesta-eliminaci\xf3n-del-cupo-cadivi-para-compras-por-internet.html 2 -
+/zona_usuarios.html 2 -
+//s_loadenv.inc.php 1 -
+/administrativo/images/cp_logo.jpg 7 http://www.courierpack.com.ve/administrativo/
+/administrativo/bizama.png 11 http://www.courierpack.com.ve/administrativo/realizar_factura.php
+/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com.html 1 http://www.facebook.com/home.php
+/blank_clip_image001_0001.gif 100 http://courierpack.com.ve/preguntas.html
+/noticias_08_2009/preguntas.html 1 -
+/noticias_08_2009/tarifas.html 1 -
+/MSOffice/cltreq.asp 1 -
+/courierpack.swf 167 http://www.courierpack.com.ve/index.html
+/pagina1.html 4 -
+/y_key_51ec1291193aba34.html 1 -
+/noticias_08_2009/nosotros.html 1 -
+/supuesta-eliminaci%C3%B3n-del-cupo-cadivi-para-compras-por-internet.html 5 http://www.courierpack.com.ve/index.html
+/noticias_08_2009/contacto.html 1 -
+/preguntas.html 8 http://www.courierpack.com.ve/contacto.html
+/noticias_08_2009/index.html 1 -
+/guias_actuales.php 1 http://www.courierpack.com.ve/zona_usuarios.php
+/images/direccion.jpg 41 http://courierpack.com.ve/sabes-como-realizar-compras-por-internet-de-mas-de-400$-con-tu-cupo-cadivi-para-compras-electronicas-en-usa-en-un-sitio-seruro.html
+/Contacto.html 5 -
+/blank_clip_image002_0000.jpg 1 http://courierpack.com.ve/consejos-para-utilizar-un-courier-internacional-puerta-a-puerta-y-saber-calcular-los-costos-de-envio-hasta-Venezuela-en-sus-compras-por-internet-con-su-CUPO-CADIVI.html
+/blank_clip_image002.jpg 1 http://www.courierpack.com.ve/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com.html
+/images/manuel-barroso.jpg 4 http://www.courierpack.com.ve/cadivi-cupo-en-dolares-para-compras-por-internet-no-sera-aumentado-en-2009.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 134
+190.77.119.130 766 2450 10239573 20090831141427
+201.208.1.39 457 1250 4305172 20090817204957
+201.208.6.235 300 749 3721489 20090822151851
+200.84.115.215 101 440 3661336 20090827121809
+190.77.115.232 69 118 1486000 20090824134828
+201.208.5.108 51 277 2399769 20090812185118
+190.77.138.8 50 121 768905 20090806003854
+190.77.151.246 22 56 528812 20090830235550
+201.211.82.101 21 108 1329733 20090830211812
+209.235.13.188 18 36 270826 20090810202536
+201.243.124.83 17 78 811030 20090830221052
+201.208.5.117 17 72 457897 20090803125330
+190.78.87.112 14 136 644054 20090820130851
+190.77.150.106 14 14 30024 20090831220439
+190.77.148.126 11 42 539585 20090823205307
+201.248.64.21 11 72 1083422 20090831123045
+190.37.160.217 11 41 594414 20090828091605
+74.125.75.4 10 10 225972 20090822144053
+200.82.173.170 10 41 555333 20090824214359
+201.208.164.65 9 66 971398 20090828171749
+190.77.145.104 9 10 2973 20090807210643
+201.208.160.57 8 38 450770 20090824212627
+190.207.223.138 7 39 531355 20090831231234
+83.37.124.165 7 36 457598 20090828170729
+190.72.189.153 6 37 445535 20090826140710
+208.35.72.34 1 26 364263 20090828093437
+200.109.86.69 4 35 551888 20090831123658
+64.103.25.233 1 27 367580 20090829204628
+69.63.180.251 0 7 206914 
+69.63.181.251 0 5 152845 
+201.208.141.21 3 32 315491 20090828111256
+190.204.171.97 2 17 244215 20090831125807
+186.14.22.48 2 36 377216 20090831222804
+201.208.15.127 5 33 373573 20090829093708
+114.249.215.175 1 1 20962 20090816190117
+206.53.157.18 1 26 364263 20090829091428
+69.63.178.248 2 4 97424 20090828104241
+206.49.165.29 1 13 327196 20090828215137
+94.127.145.250 2 2 44444 20090818003833
+192.91.253.52 5 71 426186 20090831235115
+190.38.238.206 3 60 717936 20090828105511
+74.222.3.186 2 2 41924 20090816035250
+200.8.63.116 1 22 349085 20090831212433
+206.53.153.229 0 1 127715 
+201.210.150.234 1 17 238248 20090810100045
+190.78.82.71 2 2 56414 20090828113153
+69.63.180.248 0 3 77836 
+201.211.9.196 1 16 242398 20090827161418
+190.77.138.167 2 18 3317 20090820235739
+72.14.192.1 1 2 35671 20090822143349
+190.200.140.210 1 16 235153 20090810134751
+200.85.30.27 1 15 243408 20090830145822
+69.63.178.246 4 4 69622 20090828084514
+69.63.178.251 2 3 78410 20090828110835
+69.63.180.244 0 1 30302 
+206.53.157.136 1 10 118124 20090828114311
+69.63.180.246 0 2 47534 
+69.63.178.250 4 10 243207 20090828083752
+64.235.157.234 1 1 30024 20090828185120
+201.243.140.121 1 28 256174 20090821011110
+190.172.147.221 3 33 287340 20090814192127
+190.78.195.101 1 26 364263 20090828174621
+190.77.149.20 3 23 253582 20090806094346
+206.53.153.151 0 1 817 
+190.77.154.248 2 3 31509 20090824230907
+83.34.133.17 2 29 287340 20090815185013
+190.79.174.126 1 26 364263 20090828110619
+200.90.34.130 1 26 364263 20090828102453
+190.37.121.230 1 14 214732 20090830224931
+206.53.153.143 0 1 807 
+186.14.84.195 1 26 364263 20090830004437
+190.77.139.208 4 40 509057 20090828234854
+69.63.180.250 0 2 54069 
+200.84.196.216 1 26 364263 20090828223355
+190.200.6.153 3 32 443870 20090828093838
+69.63.182.123 0 3 77836 
+74.143.65.66 1 2 35671 20090824100143
+200.35.2.223 1 27 299091 20090828091533
+190.72.174.51 1 20 255009 20090824232551
+200.109.9.80 2 19 277138 20090828124054
+201.211.173.62 1 27 390263 20090829070428
+190.199.190.109 1 8 0 20090828124203
+186.14.36.118 1 16 242398 20090828103628
+190.200.58.142 1 16 242383 20090824212337
+190.200.139.249 1 26 364263 20090830153036
+206.49.165.28 1 26 364263 20090829004625
+190.77.150.214 4 23 247411 20090815222852
+200.44.253.235 3 36 334039 20090826122517
+190.77.145.138 5 20 235153 20090816205934
+64.233.173.1 2 2 54998 20090822134115
+200.109.223.81 5 37 427922 20090821133549
+69.63.180.245 0 2 54069 
+201.211.71.132 1 26 364263 20090828095321
+69.63.178.249 6 7 154470 20090830223028
+201.242.57.16 3 26 251954 20090826225134
+190.77.148.190 1 17 0 20090810232806
+67.207.139.210 1 1 20962 20090804214752
+69.63.178.247 6 7 158638 20090831135537
+200.109.162.67 2 43 359280 20090830222943
+190.79.24.80 1 26 364263 20090829124650
+190.77.139.36 2 2 22222 20090818103139
+201.209.47.37 0 2 20482 
+201.209.184.218 1 27 369172 20090829135511
+190.198.34.252 1 26 364263 20090829221535
+206.53.157.96 1 11 194572 20090830182340
+69.63.181.250 0 4 108138 
+69.48.241.119 2 2 41924 20090804195600
+200.8.20.209 0 10 146250 
+190.73.250.78 4 38 422465 20090828125418
+201.208.138.15 3 31 330145 20090826153041
+190.77.153.31 3 18 242383 20090825233209
+200.44.209.169 6 36 503831 20090828100507
+64.5.40.122 3 3 0 20090810205452
+69.63.180.247 0 2 54069 
+69.63.180.249 0 2 47534 
+190.200.189.143 1 26 364263 20090828102108
+190.39.181.164 1 25 250386 20090828085126
+201.208.32.18 4 56 597678 20090831141801
+190.78.36.97 1 26 364263 20090831223106
+201.208.222.181 0 8 0 
+201.209.202.99 4 31 336215 20090827131627
+190.77.139.40 2 3 3420 20090808141332
+65.55.110.132 1 2 35718 20090824133251
+201.209.182.4 1 26 364263 20090828222459
+207.88.210.8 2 2 41924 20090815075944
+201.208.4.111 3 69 534034 20090831133456
+206.53.153.17 1 10 186595 20090828182748
+190.203.136.24 3 27 345451 20090831235529
+69.63.182.122 0 5 146310 
+190.77.113.54 1 27 369172 20090828095029
+190.79.106.189 1 27 369065 20090828092445
+201.243.212.246 3 27 281113 20090826142311
+201.208.3.236 2 19 246136 20090815184940
+190.79.181.143 0 2 0 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20090801 10 45 396010 1
+20090802 8 50 340293 2
+20090803 19 58 330750 4
+20090804 33 105 970167 8
+20090805 22 73 675882 7
+20090806 22 111 1173332 9
+20090807 22 60 230758 6
+20090808 2 3 3420 1
+20090809 0 1 23767 0
+20090810 29 157 1228879 8
+20090811 6 47 366830 3
+20090812 9 59 732657 2
+20090813 3 32 0 1
+20090814 17 78 675054 2
+20090815 11 74 843773 7
+20090816 16 62 639595 5
+20090817 460 1285 4371806 4
+20090818 157 421 1594055 4
+20090819 22 56 543275 1
+20090820 8 56 288316 2
+20090821 6 65 684096 2
+20090822 168 370 2874569 14
+20090823 7 22 241885 2
+20090824 238 643 5605185 16
+20090825 39 140 1596643 5
+20090826 197 555 4226937 15
+20090827 32 140 1370947 8
+20090828 420 2408 17039161 43
+20090829 14 239 3324398 9
+20090830 41 228 2857626 11
+20090831 167 665 5923502 18
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 16
+5mn-15mn 30
+2mn-5mn 19
+0s-30s 99
+30s-2mn 27
+15mn-30mn 15
+30mn-1h 14
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 47
+/ 934 7567792 157 127
+/consulta_estatus_por_guia.php 127 1210305 0 0
+/zona_usuarios.php 114 1015490 1 7
+/tarifas.html 102 765500 1 7
+/nosotros.html 97 691632 2 3
+/preguntas.html 96 1544985 0 8
+/consulta.php 88 660657 0 0
+/contacto.html 87 482444 0 4
+/servicios.html 83 508752 1 1
+/guias_actuales.php 62 529940 0 1
+/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com.html 49 706097 31 25
+/cargar_ordenes.php 43 547437 0 2
+/consejos-para-utilizar-un-courier-internacional-puerta-a-puerta-y-saber-calcular-los-costos-de-envio-hasta-Venezuela-en-sus-compras-por-internet-con-su-CUPO-CADIVI.html 29 399959 3 4
+/administrativo/validar.php 27 122931 0 0
+/sabes-como-realizar-compras-por-internet-de-mas-de-400$-con-tu-cupo-cadivi-para-compras-electronicas-en-usa-en-un-sitio-seruro.html 26 446416 5 8
+/administrativo/administracion.php 21 172255 0 0
+/cambios-en-el-cupo-cadivi-para-el-2010.html 21 241209 4 5
+/identificarse.php 18 165172 0 0
+/blackberry-vs-nokia.html 17 210838 5 6
+/registro_clientes.php 15 720828 0 3
+/reenviar_clave.php 15 123350 1 1
+/actualizar.php 15 209660 1 0
+/administrativo/ 12 22460 0 0
+/track.php 10 73506 0 0
+/administrativo/realizar_factura.php 8 32504 0 0
+/amazon-gif-cards-store.html 1 12858 0 0
+/gobierno-desmiente-eliminacion-de-divisas-para-internet-eliminacion-de-cupo-cadivi-para-compras-electronicas-por-internet.html 3 38886 0 0
+/si-no-vas-a-usar-tu-cupo-de-cadivi-te-lo-compro.html 6 122358 1 1
+/actualizado.php 1 8393 0 0
+/cadivi-disena-cambios-radicales-en-el-cupo-cadivi-que-beneficiaran-a-los-viajeros-en-sus-compras-en-USA-e-Internet.html 7 97068 1 1
+/economistas-socialistas-descartan-devaluacion-del-bolivar.html 8 107450 1 1
+/sitemap.html 1 6782 0 0
+/En-riesgo-uso-de-tarjetas-de-credito-por-retrasos-de-Cadivi.html 6 85939 0 0
+/registrado.php 3 134006 0 0
+/Cadivi-debe-$-14-millardos-a-la-banca-BCV-no-liquida.html 6 67404 1 1
+/aviso.html 1 4430 0 0
+/cadivi-estudia-mecanismos-para-ajustar-cupo-cadivi-para-compras-por-internet.html 5 62812 0 0
+/Complicaciones-tecnologicas-retardan-modificaciones-del-cupo-de-Cadivi.html 8 105880 1 0
+/contacto.php 3 22983 0 1
+/economistas-estiman-que-el-gobierno-recortara-el-cupo-en-dolares-para-2009.html 7 81467 0 1
+/administrativo/logout.php 1 703 0 0
+/supuesta-eliminacion-del-cupo-cadivi-para-compras-por-internet.html 5 72636 2 1
+/autentificar.php 2 15234 0 0
+/tienda.html 1 12858 0 0
+/Contacto.html 2 9776 0 0
+/amazon__gif_cards_store_tienda.html 7 77149 0 0
+/cadivi-cupo-en-dolares-para-compras-por-internet-no-sera-aumentado-en-2009.html 5 52937 1 1
+END_SIDER

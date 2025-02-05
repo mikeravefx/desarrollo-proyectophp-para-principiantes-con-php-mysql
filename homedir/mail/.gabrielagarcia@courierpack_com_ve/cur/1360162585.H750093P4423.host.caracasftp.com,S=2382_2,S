@@ -1,0 +1,49 @@
+Return-path: <mbolivar100@gmail.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Wed, 06 Feb 2013 10:26:25 -0430
+Received: from mail-we0-f182.google.com ([74.125.82.182]:45665)
+	by host.caracasftp.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <mbolivar100@gmail.com>)
+	id 1U36QC-00019C-NY
+	for gabrielagarcia@courierpack.com.ve; Wed, 06 Feb 2013 10:26:25 -0430
+Received: by mail-we0-f182.google.com with SMTP id t57so1210587wey.27
+        for <gabrielagarcia@courierpack.com.ve>; Wed, 06 Feb 2013 06:56:24 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:x-received:date:message-id:subject:from:to
+         :content-type;
+        bh=57rRhzyc4jFtOSBp8+umxZuILxSIJW+zRd9GPJ1jlv8=;
+        b=fKC3oTQvxHNQ2YXDmPYbxMg5gal6FZdTJeD4IHMqY0PKo4Y8SlkYdPFYHCPjGgoqKO
+         466FzGUOikYDobupQL3JIjPewWLj0HiNT0luS+Xbjnnzlj6MCnjJNvLStoLrSZLZAziA
+         zHx803veO1oi9g55vYn81W0DiK34hBdXsh5xVBMAKEKkzupcb9325HMT2X1I2gPea1nX
+         rQ1oBOMP8EZONs/WfBLmcUDeg3SasqNk2WOrLBGJpO0kFHKM6XVKL5NiWdogQhHWssbn
+         obIkF2w8cimn9VcxEyxaWnFiljH5CElQTohnQxYEKcS7M/dn7ANuByIqFKzs4TLyTYi/
+         um1Q==
+MIME-Version: 1.0
+X-Received: by 10.195.13.11 with SMTP id eu11mr50592045wjd.39.1360162583806;
+ Wed, 06 Feb 2013 06:56:23 -0800 (PST)
+Received: by 10.216.60.69 with HTTP; Wed, 6 Feb 2013 06:56:23 -0800 (PST)
+Date: Wed, 6 Feb 2013 10:26:23 -0430
+Message-ID: <CAPpzgXYu0rqP8fAYukxE1QyeCnX1TY7U6Xo=Z91-3XbrvOHK_Q@mail.gmail.com>
+Subject: Paquetes Febrero 2013
+From: Miguel Bolivar <mbolivar100@gmail.com>
+To: gabrielagarcia@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=047d7bd91a84a5038c04d50f8712
+
+--047d7bd91a84a5038c04d50f8712
+Content-Type: text/plain; charset=ISO-8859-1
+
+  Buenas tardes es para saber del estado de mis paquetes que se encuentran
+en Caracas! Es para saber cuanto salio el envio para que los puedas mandar
+lo antes posible y ver si llegan para este fin de semana! Gracias!
+
+--047d7bd91a84a5038c04d50f8712
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+=A0 Buenas tardes es para saber del estado de mis paquetes que se encuentra=
+n en Caracas! Es para saber cuanto salio el envio para que los puedas manda=
+r lo antes posible y ver si llegan para este fin de semana! Gracias!
+
+--047d7bd91a84a5038c04d50f8712--

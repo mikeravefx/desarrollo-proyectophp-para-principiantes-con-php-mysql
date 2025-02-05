@@ -1,0 +1,89 @@
+Return-path: <mati_karizavar27@yahoo.es>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Mon, 19 May 2014 11:16:52 -0430
+Received: from nm18.bullet.mail.ir2.yahoo.com ([212.82.96.41]:29631)
+	by host.racksystem2.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <mati_karizavar27@yahoo.es>)
+	id 1WmPm2-0040JF-7p
+	for gabrielagarcia@courierpack.com.ve; Mon, 19 May 2014 11:16:52 -0430
+Received: from [212.82.98.49] by nm18.bullet.mail.ir2.yahoo.com with NNFMP; 19 May 2014 15:46:44 -0000
+Received: from [46.228.39.108] by tm2.bullet.mail.ir2.yahoo.com with NNFMP; 19 May 2014 15:46:44 -0000
+Received: from [127.0.0.1] by smtp145.mail.ir2.yahoo.com with NNFMP; 19 May 2014 15:46:44 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1400514403; bh=PQFeoKF+XckLyH2hc3nj3uZ/+qVUtRO+akTJoaaPuEo=; h=X-Yahoo-Newman-Id:X-Yahoo-Newman-Property:X-YMail-OSG:X-Yahoo-SMTP:X-Rocket-Received:Content-Type:MIME-Version:Content-Transfer-Encoding:X-Mailer:Message-ID:Date:Subject:From:To; b=REfId8lW86raWowC9v386S3xMMWvT0e+eappZPERjEITX+9pkvXvTvwfINnjZOTrDiTd2DOhtOtc+1seVuxwdLHmneqV+dCv/RUjySXbSzLV8B0sM1QuHO38KkxD8OS/v5Y5Yk83N0v+snacY208UhsbEG6SccbPRsRdvvRdb+k=
+X-Yahoo-Newman-Id: 995100.96960.bm@smtp145.mail.ir2.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: xGgnRKEVM1miyJ9Eoq3Cb5UGhcX4BvcRSkukoKk2Jmi5uFV
+ IIFoBmHH_PcJ.yvlueU4bAojZDti0QZFOx4mLE7eOQrRxM7zGX1Buo1hUObl
+ nxApTUlEn5.9.rvgH3QiSVDkder2jO8BqxRpBVro14T8VUq8ndJB_tbTLXiq
+ p4Za5vEHE9MUAMCwshh8ftiAmCaLyVuCsS8iXtCDsNcvnS2RheQK0qudwyS7
+ KDqtTHzhWw0zsdpoK.wmWSRpkaPP3BC4ycVjXAorEL8KFtOjhb9aMRrEUvRD
+ _X.LSg7FzQ2OJGpBUNEo7bVjR1qGJ9u4p.ddeh3WnYlAfsmRK8XXWYXW7j1o
+ rQwxVabk_jgiu2CMK.9J3onO6_pT8KbVwZc4M8J3SrEe0mcl3cdf9ZJM9km7
+ mxieANF.RJIGIjApNgqJ1ItPUifVKjs0ctRQwj.CJdWmacO0_Ip2fe47ScG3
+ tEt6Dd4O2siM7JPzUg77Y1N0K9mg9JtRL_BoBEV0b04joAw571InSa1qCixg
+ 3rGKXAYXds64jHvFFMb_SYAYT2u9FasClr1ZiJeM-
+X-Yahoo-SMTP: UyyeOhWswBCCMFnp_OT6qq5JQAGC932GjBxMviI-
+X-Rocket-Received: from [127.0.0.1] (mati_karizavar27@186.164.142.151 with xymcookie [216.39.61.254])
+        by smtp145.mail.ir2.yahoo.com with SMTP; 19 May 2014 15:46:43 +0000 UTC
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: BlackBerry Email (10.2.1.2174)
+Message-ID: <20140519154608.5890194.72132.641@yahoo.es>
+Date: Mon, 19 May 2014 11:16:08 -0430
+Subject: Tarjeta Micro SD
+From: mati_karizavar27@yahoo.es
+To: Gabriela Courierpack <gabrielagarcia@courierpack.com.ve>, Gabriela Courierpack <info@courierpack.com.ve>
+X-Spam-Status: No, score=1.3
+X-Spam-Score: 13
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hola Gabriela como estas? Necesito saber que paso con la micro
+    sd? Me canso de llamar al sr. Pita y nada, por favor quisiera tener respuesta
+    ya que yo los he recomendado con otras personas como responsables y me han
+    quedado mal, así como supe que le quedaron mal a mi cuñado con unas cosas
+    que se extraviaron y hasta los momentos no le han respondido, a mi me da
+   vergüenza con el porque yo a uds. Los recomendé con el como responsables.
+   Sin más que añadir quedo de uds. [...] 
+ 
+ Content analysis details:   (1.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (mati_karizavar27[at]yahoo.es)
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (mati_karizavar27[at]yahoo.es)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/plain;"><styl=
+e> body {  font-family: "Calibri","Slate Pro","sans-serif"; color:#262626 }=
+</style> </head> <body data-blackberry-caret-color=3D"#00a8df"><div><br></d=
+iv><div><div style=3D"font-family: Calibri, 'Slate Pro', sans-serif;">Hola =
+Gabriela como estas? Necesito saber que paso con la micro sd? Me canso de l=
+lamar al sr. Pita y nada, por favor quisiera tener respuesta ya que yo los =
+he recomendado con otras personas como responsables y me han quedado mal, a=
+s=ED como supe que le quedaron mal a mi cu=F1ado con unas cosas que se extr=
+aviaron y hasta los momentos no le han respondido, a mi me da verg=FCenza c=
+on el porque yo a uds. Los recomend=E9 con el como responsables. Sin m=E1s =
+que a=F1adir quedo de uds.</div><div style=3D"font-family: Calibri, 'Slate =
+Pro', sans-serif;"><br></div><div style=3D"font-family: Calibri, 'Slate Pro=
+', sans-serif;">Atentamente&nbsp;</div><div style=3D"font-family: Calibri, =
+'Slate Pro', sans-serif;"><br></div><div style=3D"font-family: Calibri, 'Sl=
+ate Pro', sans-serif;">Matiosca</div><div style=3D"font-family: Calibri, 'S=
+late Pro', sans-serif;">Enviado desde mi smartphone BlackBerry 10.</div></d=
+iv><div><span style=3D"font-family: Calibri, 'Slate Pro', sans-serif;"><br =
+name=3D"BB10" caretmarkerset=3D"INVALID" class=3D"markedForCaretMarkerRemov=
+al"></span></div></body></html>

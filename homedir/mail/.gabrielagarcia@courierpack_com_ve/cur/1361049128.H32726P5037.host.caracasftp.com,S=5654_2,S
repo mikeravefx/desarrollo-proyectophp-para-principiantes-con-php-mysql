@@ -1,0 +1,80 @@
+Return-path: <pellingomez@yahoo.es>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Sat, 16 Feb 2013 16:42:08 -0430
+Received: from nm5-vm0.bullet.mail.ird.yahoo.com ([77.238.189.207]:30364)
+	by host.caracasftp.com with smtp (Exim 4.80)
+	(envelope-from <pellingomez@yahoo.es>)
+	id 1U6p3H-0001J7-JF
+	for gabrielagarcia@courierpack.com.ve; Sat, 16 Feb 2013 16:42:07 -0430
+Received: from [77.238.189.234] by nm5.bullet.mail.ird.yahoo.com with NNFMP; 16 Feb 2013 21:12:06 -0000
+Received: from [212.82.108.133] by tm15.bullet.mail.ird.yahoo.com with NNFMP; 16 Feb 2013 21:12:06 -0000
+Received: from [127.0.0.1] by omp1038.mail.ird.yahoo.com with NNFMP; 16 Feb 2013 21:12:06 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 506952.93409.bm@omp1038.mail.ird.yahoo.com
+Received: (qmail 75587 invoked by uid 60001); 16 Feb 2013 21:12:06 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1361049126; bh=7r5+/x3Q/PFlMr0JLHMumfm+QnN8Uv0ymbXvzakKTzw=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=B9VkNgZHW4npp+RpgeQoB4+RS7R4OQpMp/2Y4Tw0VbvWJJqAdS/rvqobeEn2APDBTzp5vU7rShjlKxolOUU3UHxXNJ2dPgAeS1E0Vj9P4d7U2e7lM6qoqGfeRHA9IOzeWGp1ITB5//9GZZLbX5XufXMF1EoBc3fHBLMtJFBGyfY=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.es;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=PcgZZQbxCYwo0RtuLkJ8n1yN/3M93zCRxskflwf6MeW77X65whekEaGxo8KDsF4IWX6WmEOOJUFlXM7l8wk2kw41xtvBrUP5orbaQr7sLyT1VwyjH7MAcny5aduou+e2nq75p+LtE6urix8RY77chGhCqeBmxm9Q1rJXRY0CMtg=;
+X-YMail-OSG: psNCghoVM1lbU8MKGtcQAA1SBlTmb7lA_4b9rbXQ0EAFBBX
+ KEIKn2mJflxBaG.vGZAk4xg7ykj_XGMzSg96jdpGsSuvnh3.MlBht2ZOWr5C
+ mjP7ItViSDpGJY1LoWtNbXspYADZsFjGqnB7iseU6n5kIHrrxOIpirGmekwg
+ q2rl48h4WHH8E.n.xbAsoVqPEQzOsB22.d5D6C5r4m3wvGfM1nP5bcB8Wt1.
+ LeYqlfH2TexJ1iNoFkrwmefzYUrbEYdrS__3mVUvTvv.niB0vqQFUI9_JUNB
+ UL1Pg6e9BH98xR87mjcJOgShi5hZwnvtPQO1j0BMBN2VT9SBUQYJFyt4.cqJ
+ mYVcjhK4yN3zKTRlkc9_YV.cpYwiBfPFMlGChguPUKc6a.dyRpCqfyKzMu8q
+ Z1Um9.dmfq9m2TVzJqrTQjQVAiZFDqfeTbpnJIJzrEc1KgwB.BuPNMI5er9R
+ L1R1oCvZtxWh1NwisuURFCAubFDrOsO.Z
+Received: from [186.88.54.156] by web171901.mail.ir2.yahoo.com via HTTP; Sat, 16 Feb 2013 21:12:05 GMT
+X-Rocket-MIMEInfo: 001.001,QnVlbmFzIHRhcmRlcyBTcmEuIEdhYnJpZWxhIGVsIHBhZ28gZGVsIGVudmlvIGZ1ZSByZWFsaXphZG86CgpGZWNoYTogMTYvMDIvMjAxMwpCYW5jbzogQmFuZXNjbwpOdW1lcm8gZGVsIGRlcG9zaXRvOiAxMTE0NTczNTEyCkN1ZW50YSBjb3JyaWVudGU6IDAxMzQwMDY2MTIwNjYzMDY5NjEzClRpdHVsYXI6IEdhYnJpZWxhIEdhcmNpYQpNb250bzrCoCBCcy4gMTAxNiwwMAoKCsKgCkxjZG8uIFBlbGxpbiBHw7NtZXoBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.133.508
+Message-ID: <1361049125.54280.YahooMailNeo@web171901.mail.ir2.yahoo.com>
+Date: Sat, 16 Feb 2013 21:12:05 +0000 (GMT)
+From: Pellin Gomez <pellingomez@yahoo.es>
+Reply-To: Pellin Gomez <pellingomez@yahoo.es>
+Subject: Pago de envio
+To: Gabriela Garcia <gabrielagarcia@courierpack.com.ve>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="273530964-2145024707-1361049125=:54280"
+
+--273530964-2145024707-1361049125=:54280
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Buenas tardes Sra. Gabriela el pago del envio fue realizado:=0A=0AFecha: 16=
+/02/2013=0ABanco: Banesco=0ANumero del deposito: 1114573512=0ACuenta corrie=
+nte: 01340066120663069613=0ATitular: Gabriela Garcia=0AMonto:=A0 Bs. 1016,0=
+0=0A=0A=0A=A0=0ALcdo. Pellin G=F3mez
+--273530964-2145024707-1361049125=:54280
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:14pt"><div><span>Buenas tar=
+des Sra. Gabriela el pago del envio fue realizado:</span></div><div style=
+=3D"color: rgb(0, 0, 0); font-size: 18.6667px; font-family: times new roman=
+,new york,times,serif; background-color: transparent; font-style: normal;">=
+<span><br></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 18.666=
+7px; font-family: times new roman,new york,times,serif; background-color: t=
+ransparent; font-style: normal;"><span>Fecha: 16/02/2013</span></div><div s=
+tyle=3D"color: rgb(0, 0, 0); font-size: 18.6667px; font-family: times new r=
+oman,new york,times,serif; background-color: transparent; font-style: norma=
+l;"><span>Banco: Banesco</span></div><div style=3D"color: rgb(0, 0, 0); fon=
+t-size: 18.6667px; font-family: times new roman,new york,times,serif; backg=
+round-color: transparent; font-style: normal;"><span>Numero del deposito:
+ 1114573512</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 18.66=
+67px; font-family: times new roman,new york,times,serif; background-color: =
+transparent; font-style: normal;"><span>Cuenta corriente: 01340066120663069=
+613</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 18.6667px; fo=
+nt-family: times new roman,new york,times,serif; background-color: transpar=
+ent; font-style: normal;"><span>Titular: Gabriela Garcia</span></div><div s=
+tyle=3D"color: rgb(0, 0, 0); font-size: 18.6667px; font-family: times new r=
+oman,new york,times,serif; background-color: transparent; font-style: norma=
+l;"><span>Monto:&nbsp; Bs. 1016,00<br></span></div><div style=3D"color: rgb=
+(0, 0, 0); font-size: 18.6667px; font-family: times new roman,new york,time=
+s,serif; background-color: transparent; font-style: normal;"><span><br></sp=
+an></div><div>&nbsp;</div><div><font size=3D"5"><i><font color=3D"#0000ff" =
+face=3D"comic sans ms">Lcdo. Pellin
+ G=F3mez</font></i></font></div></div></body></html>
+--273530964-2145024707-1361049125=:54280--

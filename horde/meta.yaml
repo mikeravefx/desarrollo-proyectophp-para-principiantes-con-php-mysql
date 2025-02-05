@@ -1,0 +1,182 @@
+--- 
+"apps": 
+  "content": 
+    "version": 2
+  "horde_alarm": 
+    "version": 1
+  "horde_auth": 
+    "version": 1
+  "horde_cache": 
+    "version": 2
+  "horde_core": 
+    "version": 1
+  "horde_dav": 
+    "version": 1
+  "horde_group": 
+    "version": 2
+  "horde_history": 
+    "version": 6
+  "horde_imap_client": 
+    "version": 1
+  "horde_lock": 
+    "version": 3
+  "horde_perms": 
+    "version": 2
+  "horde_prefs": 
+    "version": 3
+  "horde_queue": 
+    "version": 1
+  "horde_sessionhandler": 
+    "version": 2
+  "horde_syncml": 
+    "version": 1
+  "horde_token": 
+    "version": 1
+  "horde_vfs": 
+    "version": 3
+  "imp": 
+    "version": 3
+  "ingo": 
+    "version": 5
+  "kronolith": 
+    "version": 21
+  "mnemo": 
+    "version": 5
+  "nag": 
+    "version": 12
+  "trean": 
+    "version": 5
+  "turba": 
+    "version": 9
+"check": 'ed68da1d5809113af3dba22a18e5dc53'
+"horde": 
+  "version": '5.1.4'
+"tables": 
+  "horde_prefs": 
+    "columns": 
+      - 'pref_uid'
+      - 'pref_scope'
+      - 'pref_name'
+      - 'pref_value'
+    "md5": 'd4b2b0cf65cff1507fda433bc04f662f'
+  "ingo_forwards": 
+    "columns": 
+      - 'forward_owner'
+      - 'forward_addresses'
+      - 'forward_keep'
+    "md5": 'f2320e2754211bc94f768911beb62f75'
+  "ingo_lists": 
+    "columns": 
+      - 'list_owner'
+      - 'list_blacklist'
+      - 'list_address'
+    "md5": '565afc22766b7ad94b057c1f5e0229f6'
+  "ingo_rules": 
+    "columns": 
+      - 'rule_id'
+      - 'rule_owner'
+      - 'rule_name'
+      - 'rule_action'
+      - 'rule_value'
+      - 'rule_flags'
+      - 'rule_conditions'
+      - 'rule_combine'
+      - 'rule_stop'
+      - 'rule_active'
+      - 'rule_order'
+    "md5": '9999a363ad76c00696b1f39d094f9a59'
+  "ingo_spam": 
+    "columns": 
+      - 'spam_owner'
+      - 'spam_level'
+      - 'spam_folder'
+    "md5": '93f64132d5e9141505425383250d01cd'
+  "ingo_vacations": 
+    "columns": 
+      - 'vacation_owner'
+      - 'vacation_addresses'
+      - 'vacation_subject'
+      - 'vacation_reason'
+      - 'vacation_days'
+      - 'vacation_start'
+      - 'vacation_end'
+      - 'vacation_excludes'
+      - 'vacation_ignorelists'
+    "md5": '8b3ff1958ef2dbee1be8f40ca0f942c0'
+  "kronolith_shares": 
+    "columns": 
+      - 'share_id'
+      - 'share_name'
+      - 'share_owner'
+      - 'share_flags'
+      - 'perm_creator'
+      - 'perm_default'
+      - 'perm_guest'
+      - 'attribute_name'
+      - 'attribute_desc'
+      - 'attribute_color'
+      - 'share_parents'
+    "md5": '80de998b8f4620f14e88562a38d44461'
+  "kronolith_sharesng": 
+    "columns": 
+      - 'share_id'
+      - 'share_name'
+      - 'share_owner'
+      - 'share_flags'
+      - 'perm_creator_2'
+      - 'perm_creator_4'
+      - 'perm_creator_8'
+      - 'perm_creator_16'
+      - 'perm_creator_1024'
+      - 'perm_default_2'
+      - 'perm_default_4'
+      - 'perm_default_8'
+      - 'perm_default_16'
+      - 'perm_default_1024'
+      - 'perm_guest_2'
+      - 'perm_guest_4'
+      - 'perm_guest_8'
+      - 'perm_guest_16'
+      - 'perm_guest_1024'
+      - 'attribute_name'
+      - 'attribute_desc'
+      - 'attribute_color'
+      - 'share_parents'
+    "md5": '4cdeb5e893d66454bbe6b5c9b19664ec'
+  "turba_shares": 
+    "columns": 
+      - 'share_id'
+      - 'share_name'
+      - 'share_owner'
+      - 'share_flags'
+      - 'perm_creator'
+      - 'perm_default'
+      - 'perm_guest'
+      - 'attribute_name'
+      - 'attribute_desc'
+      - 'attribute_params'
+      - 'share_parents'
+    "md5": '9c9d4835d2e862c9de3a662297a26cf8'
+  "turba_sharesng": 
+    "columns": 
+      - 'share_id'
+      - 'share_name'
+      - 'share_owner'
+      - 'share_flags'
+      - 'perm_creator_2'
+      - 'perm_creator_4'
+      - 'perm_creator_8'
+      - 'perm_creator_16'
+      - 'perm_default_2'
+      - 'perm_default_4'
+      - 'perm_default_8'
+      - 'perm_default_16'
+      - 'perm_guest_2'
+      - 'perm_guest_4'
+      - 'perm_guest_8'
+      - 'perm_guest_16'
+      - 'attribute_name'
+      - 'attribute_desc'
+      - 'attribute_params'
+      - 'share_parents'
+    "md5": '99d258ec0a4de3f5e230e5a0ff2a8933'

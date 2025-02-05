@@ -1,0 +1,85 @@
+Return-path: <>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Thu, 02 Aug 2012 00:42:31 -0430
+Received: from smtp01.bis6.us.blackberry.com ([74.82.85.1]:45252)
+	by host.caracasftp.com with esmtp (Exim 4.77)
+	id 1Swni2-0004yX-Kl
+	for info@courierpack.com.ve; Thu, 02 Aug 2012 00:42:31 -0430
+Received: from antispam11.c0.bise6.blackberry ([192.168.0.26])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id q725CPJE028973
+	for <SRS0=cgEGdd=GC=courierpack.com.ve=info@srs.bis6.us.blackberry.com>; Thu, 2 Aug 2012 05:12:25 GMT
+X-SBRS: 4.9
+Received: from smtp05.bis6.us.blackberry.com ([74.82.85.5])
+  by antispam11.c0.bise6.blackberry with ESMTP; 02 Aug 2012 05:12:24 +0000
+Received: from localhost by smtp05.bis6.us.blackberry.com;
+  02 Aug 2012 05:12:24 +0000
+Message-Id: <937617$ohnnp5@smtp5.c0.bise6.blackberry>
+Date: 02 Aug 2012 05:12:24 +0000
+To: SRS0=cgEGdd=GC=courierpack.com.ve=info@srs.bis6.us.blackberry.com
+From: "Mail Delivery System" <MAILER-DAEMON@smtp5.c0.bise6.blackberry>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="n6zyZ.4na5q/ro9.T06V1.4fCQB6s"
+
+--n6zyZ.4na5q/ro9.T06V1.4fCQB6s
+content-type: text/plain;
+    charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <enilberth553@hotmail.com> was undeliverable.
+The reason for the problem:
+5.1.0 - Unknown address error 550-'Requested action not taken: mailbox unav=
+ailable'
+
+--n6zyZ.4na5q/ro9.T06V1.4fCQB6s
+content-type: message/delivery-status
+
+Reporting-MTA: dns; smtp05.bis6.us.blackberry.com
+
+Final-Recipient: rfc822;enilberth553@hotmail.com
+Action: failed
+Status: 5.0.0 (permanent failure)
+Remote-MTA: dns; [65.55.92.152]
+Diagnostic-Code: smtp; 5.1.0 - Unknown address error 550-'Requested action not taken: mailbox unavailable' (delivery attempts: 0)
+
+--n6zyZ.4na5q/ro9.T06V1.4fCQB6s
+content-type: message/rfc822
+
+Received: from unknown (HELO srs.bis6.us.blackberry.com) ([172.29.231.128])
+  by smtp05.bis6.us.blackberry.com with ESMTP; 02 Aug 2012 05:12:24 +0000
+Received: from b2.c10.bise6.blackberry ([192.168.0.102])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id q725CKfI028691
+	for <enilberth553@hotmail.com>; Thu, 2 Aug 2012 05:12:20 GMT
+Received: from 172.29.203.175 (cmp5.c10.bise6.blackberry [172.29.203.175])
+	by b2.c10.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id q725CJQI025777
+	for <enilberth553@hotmail.com>; Thu, 2 Aug 2012 05:12:19 GMT
+X-rim-org-msg-ref-id: 1857636525
+Message-ID: <1857636525-1343884337-cardhu_decombobulator_blackberry.rim.net-2133591224-@b27.c10.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: info@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: Arribo de carga a venezuela
+To: enilberth553@hotmail.com
+From: "Atencion al cliente!" <info@courierpack.com.ve>
+Date: Thu, 2 Aug 2012 12:42:20 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+
+UmVjaWJhIHVuIGNvcmRpYWwgc2FsdWRvIGRlIGFudGVtYW5vLCBzdShzKSBnde1hKHMpIGRlIGNh
+cmdhoCBzZSBlbmN1ZW50cmFuIGVuIFZlbmV6dWVsYSBlbiBudWVzdHJvcyBhbG1hY2VuZXMgeSBl
+c3ThbiBkaXNwb25pYmxlcyBwYXJhIHN1IGVudHJlZ2EuDQqgDQpEZWJlIGluZGljYXIgbGEgZGly
+ZWNjafNuIGRlIHpvb20gbyBtcncgYSBkb25kZSBkZXNlYSBxdWUgc2UgbGUgcmVhbGljZSBlbCBl
+bnbtbyBkZWJlIGNhbmNlbGFyLCB1biBtb250byBkZSA1MDAgQnMgZi4NCqANClBvciBtZWRpbyBk
+ZSBkZXDzc2l0byBvIHRyYW5zZmVyZW5jaWEgYSBsYSBzaWd1aWVudGUgY3VlbnRhLg0KoA0KR2Fi
+cmllbGEgQSBHYXJjaWEgUC4NCg0KQ3VlbnRhIENvcnJpZW50ZSAwMTM0IDAwNjYgMTIgMDY2MzA2
+OTYxMy6gDQoNCkJBTkVTQ08NCg0KQy5JLiAxOC41MzkuMTM4Lg0KoA0KQ3VhbmRvIHJlYWxpY2Ug
+ZWwgcGFnbyBwcm9jZWRlcmVtb3MgYSByZWFsaXphciBlbCBlbnbtbyBwb3IgZWwgbWVkaW8gZGUg
+c3UgcHJlZmVyZW5jaWENCqANCkdyYWNpYXMgeSBmZWxpeiBub2NoZSENCkVudmlhZG8gZGVzZGUg
+bWkgQmxhY2tCZXJyeSBkZSBNb3Zpc3Rhcg==
+
+
+--n6zyZ.4na5q/ro9.T06V1.4fCQB6s--
+
+

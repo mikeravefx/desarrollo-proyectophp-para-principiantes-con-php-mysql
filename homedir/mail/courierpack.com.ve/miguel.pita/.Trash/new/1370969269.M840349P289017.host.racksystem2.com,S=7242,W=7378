@@ -1,0 +1,136 @@
+Return-path: <>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Tue, 11 Jun 2013 08:14:02 -0430
+Received: from smtp01.bis6.us.blackberry.com ([74.82.85.1]:49930)
+	by host.racksystem2.com with esmtp (Exim 4.80)
+	id 1UmNvb-002eFk-04
+	for miguel.pita@courierpack.com.ve; Tue, 11 Jun 2013 08:13:59 -0430
+Received: from antispam10.c0.bise5.blackberry ([192.168.0.25])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r5BChuGI004669
+	for <SRS0=0dfkPm=P3=courierpack.com.ve=miguel.pita@srs.bis6.us.blackberry.com>; Tue, 11 Jun 2013 12:43:56 GMT
+X-SBRS: None
+Received: from smtp01.bis6.us.blackberry.com ([74.82.85.1])
+  by antispam10.c0.bise5.blackberry with ESMTP; 11 Jun 2013 12:43:56 +0000
+Received: from localhost by smtp01.bis6.us.blackberry.com;
+  11 Jun 2013 12:43:56 +0000
+Message-Id: <e3be32$tj08he@smtp1.c0.bise6.blackberry>
+Date: 11 Jun 2013 12:43:56 +0000
+To: SRS0=0dfkPm=P3=courierpack.com.ve=miguel.pita@srs.bis6.us.blackberry.com
+From: "Mail Delivery System" <MAILER-DAEMON@smtp1.c0.bise6.blackberry>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="xC28I.4tk108hQB.1QoMkJ.5tcnWPv"
+
+--xC28I.4tk108hQB.1QoMkJ.5tcnWPv
+content-type: text/plain;
+    charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <gabyalexa23@hotmail.com> was undeliverable.
+The reason for the problem:
+5.1.0 - Unknown address error 550-'Requested action not taken: mailbox unav=
+ailable'
+
+--xC28I.4tk108hQB.1QoMkJ.5tcnWPv
+content-type: message/delivery-status
+
+Reporting-MTA: dns; smtp01.bis6.us.blackberry.com
+
+Final-Recipient: rfc822;gabyalexa23@hotmail.com
+Action: failed
+Status: 5.0.0 (permanent failure)
+Remote-MTA: dns; [65.54.188.110]
+Diagnostic-Code: smtp; 5.1.0 - Unknown address error 550-'Requested action not taken: mailbox unavailable' (delivery attempts: 0)
+
+--xC28I.4tk108hQB.1QoMkJ.5tcnWPv
+content-type: message/rfc822
+
+Received: from unknown (HELO srs.bis6.us.blackberry.com) ([172.29.231.126])
+  by smtp01.bis6.us.blackberry.com with ESMTP; 11 Jun 2013 12:43:56 +0000
+Received: from b25.c10.bise6.blackberry ([192.168.0.125])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r5BCguE1031663
+	for <gabyalexa23@hotmail.com>; Tue, 11 Jun 2013 12:42:56 GMT
+Received: from 172.29.203.174 (cmp4.c10.bise6.blackberry [172.29.203.174])
+	by b25.c10.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id r5BCgrOD023867
+	for <gabyalexa23@hotmail.com>; Tue, 11 Jun 2013 12:42:53 GMT
+X-rim-org-msg-ref-id: 1472511526
+Message-ID: <1472511526-1370954551-cardhu_decombobulator_blackberry.rim.net-1257156274-@b1.c10.bise6.blackberry>
+Reply-To: miguel.pita@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: =?Windows-1252?B?UlY6IENvbWVudGFyaW8gYfFhZGlkbw==?=
+To: gabyalexa23@hotmail.com
+From: miguel.pita@courierpack.com.ve
+Date: Tue, 11 Jun 2013 12:50:02 +0000
+Content-Type: multipart/alternative; boundary="part90-boundary-1713502461-65158320"
+MIME-Version: 1.0
+
+
+--part90-boundary-1713502461-65158320
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset="utf-8"
+
+DQpFbnZpYWRvIGRlc2RlIG1pIEJsYWNrQmVycnkgZGUgTW92aXN0YXINCg0KLS0tLS1PcmlnaW5h
+bCBNZXNzYWdlLS0tLS0NCkZyb206ICJEci4gTGlubyBMaW5hcmVzIiA8Y29udGFjdG9AZHJsaW5v
+bGluYXJlcy5jb20+DQpEYXRlOiBUdWUsIDExIEp1biAyMDEzIDA3OjM0OjUxIA0KVG86IDxtaWd1
+ZWwucGl0YUBjb3VyaWVycGFjay5jb20udmU+DQpTdWJqZWN0OiBDb21lbnRhcmlvIGHDsWFkaWRv
+DQoNCgpMaW5vIFIgTGluYXJlcyBNIGRpY2U6IDxodHRwOi8vZHJsaW5vbGluYXJlcy5jb20vZXMv
+bm90aWNpYXMvbG8tbnVldm8vOTQtc21hcnRsaXBvLXRyaXBsZXgtbGEtbnVldmEteS1tYXMtZWZl
+Y3RpdmEtZ2VuZXJhY2lvbi1kZS1saXBvLWxhc2VyLWFob3JhLWVuLXZlbmV6dWVsYS5odG1sI2Nv
+bW1lbnQtMjgxNT4gCkJ1ZW5vcyBkw61hcy4gRWwgcHJlY2lvIGRlIGxpcG9sYXNlciBlc3TDoSBz
+b2JyZSBCcy4gMTAwIG1pbCB5IG1hbW9wbGFzdGlhIGRlIGF1bWVudG8gQnMuIDUwIG1pbCAKRXN0
+ZSBtZW5zYWplIGhhIHNpZG8gZW52aWFkbywgeWEgcXVlIHVzdGVkIGRlc2VhIHJlY2liaXIgbm90
+aWZpY2FjaW9uZXMgZGUgbnVldm9zIGNvbWVudGFyaW9zIGEgwqtTbWFydExJUE8gVHJpcGxleCAt
+IExhIE51ZXZhIHkgbWFzIGVmZWN0aXZhIGdlbmVyYWNpw7NuIGRlIExJUE8tTEFTRVIgQWhvcmEg
+ZW4gVmVuZXp1ZWxhIDxodHRwOi8vZHJsaW5vbGluYXJlcy5jb20vZXMvbm90aWNpYXMvbG8tbnVl
+dm8vOTQtc21hcnRsaXBvLXRyaXBsZXgtbGEtbnVldmEteS1tYXMtZWZlY3RpdmEtZ2VuZXJhY2lv
+bi1kZS1saXBvLWxhc2VyLWFob3JhLWVuLXZlbmV6dWVsYS5odG1sPiDCuy4gVXN0ZWQgcHVlZGUg
+bmVnYXJzZSBhIGxhIHN1YnNjcmlwY2nDs24gYWwgcHJlc2lvbmFyIGVsIGVubGFjZToKTmVnYXJz
+ZSBhIGxhIG5vdGlmaWNhY2nDs24gZGUgbnVldm9zIGNvbWVudGFyaW9zIDxodHRwOi8vZHJsaW5v
+bGluYXJlcy5jb20vZXMvY29tcG9uZW50L2pjb21tZW50cy8/dGFzaz11bnN1YnNjcmliZSZhbXA7
+aGFzaD04OWRjODFhNWRhNDExOGNlZDYxZDY1ZjVkNjZlNWI0Mj4g
+
+--part90-boundary-1713502461-65158320
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset="utf-8"
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFs
+Ly9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5zaXRpb25h
+bC5kdGQiPg0KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiPg0KPGhl
+YWQ+DQogIDxtZXRhIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD11dGYtOCIgaHR0cC1lcXVp
+dj0iY29udGVudC10eXBlIiAvPg0KICA8bWV0YSBuYW1lPSJHZW5lcmF0b3IiIGNvbnRlbnQ9IkpD
+b21tZW50cyIgLz4NCjwvaGVhZD4NCjxib2R5PjxkaXY+RW52aWFkbyBkZXNkZSBtaSBCbGFja0Jl
+cnJ5IGRlIE1vdmlzdGFyPC9kaXY+PGhyLz48ZGl2PjxiPkZyb206IDwvYj4gIkRyLiBMaW5vIExp
+bmFyZXMiICZsdDtjb250YWN0b0Bkcmxpbm9saW5hcmVzLmNvbSZndDsNCjwvZGl2PjxkaXY+PGI+
+RGF0ZTogPC9iPlR1ZSwgMTEgSnVuIDIwMTMgMDc6MzQ6NTEgLTA1MDA8L2Rpdj48ZGl2PjxiPlRv
+OiA8L2I+Jmx0O21pZ3VlbC5waXRhQGNvdXJpZXJwYWNrLmNvbS52ZSZndDs8L2Rpdj48ZGl2Pjxi
+PlN1YmplY3Q6IDwvYj5Db21lbnRhcmlvIGHDsWFkaWRvPC9kaXY+PGRpdj48YnIvPjwvZGl2Pg0K
+PHAgc3R5bGU9ImZvbnQ6IG5vcm1hbCAxZW0gVmVyZGFuYSwgQXJpYWwsIFNhbnMtU2VyaWY7Ij5M
+aW5vIFIgTGluYXJlcyBNIDxhIGhyZWY9Imh0dHA6Ly9kcmxpbm9saW5hcmVzLmNvbS9lcy9ub3Rp
+Y2lhcy9sby1udWV2by85NC1zbWFydGxpcG8tdHJpcGxleC1sYS1udWV2YS15LW1hcy1lZmVjdGl2
+YS1nZW5lcmFjaW9uLWRlLWxpcG8tbGFzZXItYWhvcmEtZW4tdmVuZXp1ZWxhLmh0bWwjY29tbWVu
+dC0yODE1Ij5kaWNlOjwvYT48L3A+DQo8ZGl2IHN0eWxlPSJtYXJnaW46IDAgMjBweCAxMHB4IDIw
+cHg7IHBhZGRpbmc6IDAgMCAwIDEwcHg7IGZvbnQ6IG5vcm1hbCAxZW0gVmVyZGFuYSwgQXJpYWws
+IFNhbnMtU2VyaWY7Ij5CdWVub3MgZMOtYXMuIEVsIHByZWNpbyBkZSBsaXBvbGFzZXIgZXN0w6Eg
+c29icmUgQnMuIDEwMCBtaWwgeSBtYW1vcGxhc3RpYSBkZSBhdW1lbnRvIEJzLiA1MCBtaWw8L2Rp
+dj4NCjxwIHN0eWxlPSJib3JkZXItdG9wOiAxcHggc29saWQgI2NjYzsgbWFyZ2luOiAxMHB4IDAg
+MCAwOyBjb2xvcjogIzU1NTsiPkVzdGUgbWVuc2FqZSBoYSBzaWRvIGVudmlhZG8sIHlhIHF1ZSB1
+c3RlZCBkZXNlYSByZWNpYmlyIG5vdGlmaWNhY2lvbmVzIGRlIG51ZXZvcyBjb21lbnRhcmlvcyBh
+ICZsYXF1bzs8YSBocmVmPSJodHRwOi8vZHJsaW5vbGluYXJlcy5jb20vZXMvbm90aWNpYXMvbG8t
+bnVldm8vOTQtc21hcnRsaXBvLXRyaXBsZXgtbGEtbnVldmEteS1tYXMtZWZlY3RpdmEtZ2VuZXJh
+Y2lvbi1kZS1saXBvLWxhc2VyLWFob3JhLWVuLXZlbmV6dWVsYS5odG1sIiB0YXJnZXQ9Il9ibGFu
+ayI+U21hcnRMSVBPIFRyaXBsZXggLSBMYSBOdWV2YSB5IG1hcyBlZmVjdGl2YSBnZW5lcmFjacOz
+biBkZSBMSVBPLUxBU0VSIEFob3JhIGVuIFZlbmV6dWVsYTwvYT4mcmFxdW87LiBVc3RlZCBwdWVk
+ZSBuZWdhcnNlIGEgbGEgc3Vic2NyaXBjacOzbiBhbCBwcmVzaW9uYXIgZWwgZW5sYWNlOjxiciAv
+PjxhIGhyZWY9Imh0dHA6Ly9kcmxpbm9saW5hcmVzLmNvbS9lcy9jb21wb25lbnQvamNvbW1lbnRz
+Lz90YXNrPXVuc3Vic2NyaWJlJmFtcDtoYXNoPTg5ZGM4MWE1ZGE0MTE4Y2VkNjFkNjVmNWQ2NmU1
+YjQyIiB0YXJnZXQ9Il9ibGFuayI+TmVnYXJzZSBhIGxhIG5vdGlmaWNhY2nDs24gZGUgbnVldm9z
+IGNvbWVudGFyaW9zPC9hPjwvcD4NCjwvYm9keT4NCjwvaHRtbD4NCg0K
+
+--part90-boundary-1713502461-65158320--
+
+
+--xC28I.4tk108hQB.1QoMkJ.5tcnWPv--
+
+

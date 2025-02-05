@@ -1,0 +1,82 @@
+Return-path: <>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Thu, 04 Apr 2013 00:49:16 -0430
+Received: from smtp11.bis6.us.blackberry.com ([74.82.85.11]:49156)
+	by host.caracasftp.com with esmtp (Exim 4.80)
+	id 1UNcZw-0005SH-KM
+	for gabrielagarcia@courierpack.com.ve; Thu, 04 Apr 2013 00:49:16 -0430
+Received: from antispam18.c0.bise6.blackberry ([192.168.0.33])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r345JEbl015746
+	for <SRS0=wpJZFl=NX=courierpack.com.ve=gabrielagarcia@srs.bis6.us.blackberry.com>; Thu, 4 Apr 2013 05:19:14 GMT
+X-SBRS: 5.5
+Received: from smtp01.bis6.us.blackberry.com ([74.82.85.1])
+  by antispam18.c0.bise6.blackberry with ESMTP; 04 Apr 2013 05:19:14 +0000
+Received: from localhost by smtp01.bis6.us.blackberry.com;
+  04 Apr 2013 05:19:14 +0000
+Message-Id: <3cfe34$sil120@smtp1.c0.bise6.blackberry>
+Date: 04 Apr 2013 05:19:14 +0000
+To: SRS0=wpJZFl=NX=courierpack.com.ve=gabrielagarcia@srs.bis6.us.blackberry.com
+From: "Mail Delivery System" <MAILER-DAEMON@smtp1.c0.bise6.blackberry>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="vAeG+.4sO8SYInf.1FTa9j.DxZgvAh"
+
+--vAeG+.4sO8SYInf.1FTa9j.DxZgvAh
+content-type: text/plain;
+    charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <elealmen@hotmail.com> was undeliverable.
+The reason for the problem:
+5.1.0 - Unknown address error 550-'Requested action not taken: mailbox unav=
+ailable'
+
+--vAeG+.4sO8SYInf.1FTa9j.DxZgvAh
+content-type: message/delivery-status
+
+Reporting-MTA: dns; smtp01.bis6.us.blackberry.com
+
+Final-Recipient: rfc822;elealmen@hotmail.com
+Action: failed
+Status: 5.0.0 (permanent failure)
+Remote-MTA: dns; [65.54.188.72]
+Diagnostic-Code: smtp; 5.1.0 - Unknown address error 550-'Requested action not taken: mailbox unavailable' (delivery attempts: 0)
+
+--vAeG+.4sO8SYInf.1FTa9j.DxZgvAh
+content-type: message/rfc822
+
+Received: from unknown (HELO srs.bis6.us.blackberry.com) ([172.29.231.131])
+  by smtp01.bis6.us.blackberry.com with ESMTP; 04 Apr 2013 05:19:14 +0000
+Received: from b14.c4.bise6.blackberry ([192.168.0.114])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r345JAO9000842
+	for <elealmen@hotmail.com>; Thu, 4 Apr 2013 05:19:10 GMT
+Received: from 172.29.197.205 (cmp35.c4.bise6.blackberry [172.29.197.205])
+	by b14.c4.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id r345J75a005524
+	for <elealmen@hotmail.com>; Thu, 4 Apr 2013 05:19:07 GMT
+X-rim-org-msg-ref-id: 467749685
+Message-ID: <467749685-1365052745-cardhu_decombobulator_blackberry.rim.net-334491487-@b1.c4.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: gabrielagarcia@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: CPK
+To: elealmen@hotmail.com
+From: gabrielagarcia@courierpack.com.ve
+Date: Thu, 4 Apr 2013 05:19:05 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+
+QnVlbmFzIFRhcmRlc6AgU3IuIExlb25hcmRvIE1lbmRvemEgUG9yIGVzdGUgbWVkaW8gc2UgbGUg
+aW5mb3JtYSBxdWUgc3UgY2FyZ2Egc2UgZW5jdWVudHJhIGVuIG51ZXN0cm9zIGFsbWFuZWNlcyBk
+aXNwb25pYmxlIHBhcmEgc3UgZW52aW8geSBlbnRyZWdhIC4NCg0KQXByb3ZlY2hhbW9zIHBhcmEg
+aW5kaWNhciBxdWUgZWwgY29zdG8gcG9yIGVsIHNlcnZpY2lvIGRlIGZsZXRlIGVzIGRlIEJzLjEx
+MjAsIA0KQ29uanVudGFtZW50ZSBzZSBsZSBpbmRpY2EgZWwgZGV0YWxsZSBiYW5jYXJpb6ANCg0K
+VGl0dWxhcjogR2FicmllbGEgR2FyY2lhoA0KQ3VlbnRhIENvcnJpZW50ZTogoDAxMzQuMDA2Ni4x
+Mi4wNjYuMzA2Ljk2MTOgDQpCYW5jbzogQmFuZXNjbw0KQy5JLjogMTguNTM5LjEzOKANCg0KDQpF
+bnZpYWRvIGRlc2RlIG1pIEJsYWNrQmVycnkgZGUgTW92aXN0YXI=
+
+
+--vAeG+.4sO8SYInf.1FTa9j.DxZgvAh--
+
+

@@ -1,0 +1,72 @@
+Return-path: <>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Tue, 29 Jan 2013 16:10:17 -0430
+Received: from smtp02.bis6.us.blackberry.com ([74.82.85.2]:64315)
+	by host.caracasftp.com with esmtp (Exim 4.80)
+	id 1U0Hya-0006mN-Qe
+	for info@courierpack.com.ve; Tue, 29 Jan 2013 16:10:17 -0430
+Received: from antispam9.c0.bise5.blackberry ([192.168.0.24])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r0TKeEmc016220
+	for <SRS0=2hWxRr=LW=courierpack.com.ve=info@srs.bis6.us.blackberry.com>; Tue, 29 Jan 2013 20:40:14 GMT
+X-SBRS: 5.6
+Received: from smtp07.bis6.us.blackberry.com ([74.82.85.7])
+  by antispam9.c0.bise5.blackberry with ESMTP; 29 Jan 2013 20:40:14 +0000
+Received: from localhost by smtp07.bis6.us.blackberry.com;
+  29 Jan 2013 20:40:14 +0000
+Message-Id: <083cb0$rk4623@smtp7.c0.bise6.blackberry>
+Date: 29 Jan 2013 20:40:14 +0000
+To: SRS0=2hWxRr=LW=courierpack.com.ve=info@srs.bis6.us.blackberry.com
+From: "Mail Delivery System" <MAILER-DAEMON@smtp7.c0.bise6.blackberry>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="tGXWs.4r7DcbnLh.1605yK.3A5D4BM"
+
+--tGXWs.4r7DcbnLh.1605yK.3A5D4BM
+content-type: text/plain;
+    charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <gabriela.garcia@courierpack.com.ve> was undeliver=
+able.
+The reason for the problem:
+5.1.0 - Unknown address error 550-'No such person at this address'
+
+--tGXWs.4r7DcbnLh.1605yK.3A5D4BM
+content-type: message/delivery-status
+
+Reporting-MTA: dns; smtp07.bis6.us.blackberry.com
+
+Final-Recipient: rfc822;gabriela.garcia@courierpack.com.ve
+Action: failed
+Status: 5.0.0 (permanent failure)
+Remote-MTA: dns; [82.98.131.174]
+Diagnostic-Code: smtp; 5.1.0 - Unknown address error 550-'No such person at this address' (delivery attempts: 0)
+
+--tGXWs.4r7DcbnLh.1605yK.3A5D4BM
+content-type: message/rfc822
+
+Received: from unknown (HELO srs.bis6.us.blackberry.com) ([172.29.231.134])
+  by smtp07.bis6.us.blackberry.com with ESMTP; 29 Jan 2013 20:40:13 +0000
+Received: from b2.c10.bise6.blackberry ([192.168.0.102])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r0TKeCDu003685
+	for <gabriela.garcia@courierpack.com.ve>; Tue, 29 Jan 2013 20:40:12 GMT
+Received: from 172.29.203.175 (cmp5.c10.bise6.blackberry [172.29.203.175])
+	by b2.c10.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id r0TKe7Q4026207
+	for <gabriela.garcia@courierpack.com.ve>; Tue, 29 Jan 2013 20:40:07 GMT
+X-rim-org-msg-ref-id: 467243583
+Message-ID: <467243583-1359492001-cardhu_decombobulator_blackberry.rim.net-1840717071-@b4.c10.bise6.blackberry>
+Reply-To: info@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: RV: RE cpk
+To: gabriela.garcia@courierpack.com.ve
+From: "Atencion al cliente!" <info@courierpack.com.ve>
+Date: Tue, 29 Jan 2013 20:14:25 +0000
+Content-Type: multipart/alternative; boundary="part3216-boundary-1459772498-366096682"
+MIME-Version: 1.0
+
+--part3216-boundary-1459772498-366096682--
+
+
+--tGXWs.4r7DcbnLh.1605yK.3A5D4BM--

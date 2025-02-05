@@ -1,0 +1,60 @@
+Return-path: <gustavofranco1983@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Thu, 17 Oct 2013 08:49:44 -0430
+Received: from mail-bk0-f52.google.com ([209.85.214.52]:65380)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <gustavofranco1983@gmail.com>)
+	id 1VWnUO-004K0L-PI
+	for info@courierpack.com.ve; Thu, 17 Oct 2013 08:49:44 -0430
+Received: by mail-bk0-f52.google.com with SMTP id e11so799339bkh.25
+        for <multiple recipients>; Thu, 17 Oct 2013 06:19:43 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=UczE1Gzy4vygDW2l6+2GHzzSUraG10nG3/2LRwgrmNI=;
+        b=noruh667Hs86Of/2+NB6WrfQneYDefEnpPTvEcdl2RJqs2aUOMRgA7odBpdGnLF252
+         FGZDtfPStD9XkWP7ZarRnioIf6Y7PoUEDtRRikQ8XkD0KfQbQPUbAYBmMyQ7GjwCTwM/
+         vLdQ9jbLKJG939FhZAo3fGc1D5jAhiKWxudm/krgc5JZIJmJKiWEqfvBxFcovXEOMLPQ
+         rDcK8Sw8Q7UX/X1/xl12siEmp1L/08i8eqK1wJTYYHCYGwOGY2QWGFOpXxJ1WmI+anqK
+         bYk+HMZiguXVMuRV7NpR/Pk3dibc1blBJuklv0JxO5T5TLi3r9Mr4lE/fvaGNKMM+HBf
+         vRcQ==
+MIME-Version: 1.0
+X-Received: by 10.204.70.141 with SMTP id d13mr2016990bkj.31.1382015983335;
+ Thu, 17 Oct 2013 06:19:43 -0700 (PDT)
+Received: by 10.205.24.133 with HTTP; Thu, 17 Oct 2013 06:19:43 -0700 (PDT)
+Date: Thu, 17 Oct 2013 09:19:43 -0400
+Message-ID: <CAPFCho+yxSN2_r1TWthb1XDg0gz_0TVat6vWv3B1Qk8DGFwzkA@mail.gmail.com>
+Subject: informacion
+From: Gustavo Franco <gustavofranco1983@gmail.com>
+To: nvelazquez@courierpack.com.ve, info@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=047d7b874776c2e46b04e8efabc2
+
+--047d7b874776c2e46b04e8efabc2
+Content-Type: text/plain; charset=ISO-8859-1
+
+Buenos dias, les escribo para tener informacion sobre los despachos, estan
+normales? estan aceptando pago de los envios con el cupo cadivi? me meti en
+la pagina de ustedes pero me da error.
+
+Gracias
+
+Gustavo Franco
+
+0426-400-48-74
+
+--047d7b874776c2e46b04e8efabc2
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div>Buenos dias, les escribo para tener informacion sobre los despachos, e=
+stan normales? estan aceptando pago de los envios con el cupo cadivi? me me=
+ti en la pagina de ustedes pero me da error.</div>
+<div>=A0</div>
+<div>Gracias</div>
+<div>=A0</div>
+<div>Gustavo Franco</div>
+<div>=A0</div>
+<div>0426-400-48-74</div>
+
+--047d7b874776c2e46b04e8efabc2--

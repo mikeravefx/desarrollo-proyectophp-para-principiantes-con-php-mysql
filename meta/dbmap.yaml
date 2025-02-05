@@ -1,0 +1,22 @@
+--- 
+MYSQL: 
+  dbs: 
+    courierp_miembros: 82.98.147.48
+  dbusers: 
+    courierp_courier: 
+      dbs: 
+        courierp_miembros: 82.98.147.48
+      server: 82.98.147.48
+  noprefix: {}
+
+  owner: courierp
+  server: 82.98.147.48
+PGSQL: 
+  dbs: {}
+
+  dbusers: {}
+
+  noprefix: {}
+
+  owner: courierp
+  server: 82.98.147.48

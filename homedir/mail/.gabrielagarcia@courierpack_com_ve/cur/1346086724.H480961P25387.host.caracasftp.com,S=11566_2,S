@@ -1,0 +1,189 @@
+Return-path: <>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Mon, 27 Aug 2012 12:28:44 -0430
+Received: from smtp10.bis6.us.blackberry.com ([74.82.85.10]:49786)
+	by host.caracasftp.com with esmtp (Exim 4.77)
+	id 1T62eB-0006bH-Vl
+	for gabrielagarcia@courierpack.com.ve; Mon, 27 Aug 2012 12:28:44 -0430
+Received: from antispam13.c0.bise6.blackberry ([192.168.0.28])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id q7RGwcon026651
+	for <SRS0=fOjksy=G3=courierpack.com.ve=gabrielagarcia@srs.bis6.us.blackberry.com>; Mon, 27 Aug 2012 16:58:38 GMT
+X-SBRS: 5.6
+Received: from smtp03.bis6.us.blackberry.com ([74.82.85.3])
+  by antispam13.c0.bise6.blackberry with ESMTP; 27 Aug 2012 16:58:38 +0000
+Received: from localhost by smtp03.bis6.us.blackberry.com;
+  27 Aug 2012 16:58:38 +0000
+Message-Id: <a364c4$onuju3@smtp3.c0.bise6.blackberry>
+Date: 27 Aug 2012 16:58:38 +0000
+To: SRS0=fOjksy=G3=courierpack.com.ve=gabrielagarcia@srs.bis6.us.blackberry.com
+From: "Mail Delivery System" <MAILER-DAEMON@smtp3.c0.bise6.blackberry>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="nVq/2.4o48yitW+.RkI04.AWh7ArP"
+
+--nVq/2.4o48yitW+.RkI04.AWh7ArP
+content-type: text/plain;
+    charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <gabyalexa_23@gmail.com> was undeliverable.
+The reason for the problem:
+5.1.0 - Unknown address error 550-"5.1.1 The email account that you tried t=
+o reach does not exist. Please try\n5.1.1 double-checking the recipient's e=
+mail address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 h=
+ttp://support.google.com/mail/bin/answer.py?answer=3D6596 md5si221865igc.30=
+"
+
+--nVq/2.4o48yitW+.RkI04.AWh7ArP
+content-type: message/delivery-status
+
+Reporting-MTA: dns; smtp03.bis6.us.blackberry.com
+
+Final-Recipient: rfc822;gabyalexa_23@gmail.com
+Action: failed
+Status: 5.0.0 (permanent failure)
+Remote-MTA: dns; [209.85.225.26]
+Diagnostic-Code: smtp; 5.1.0 - Unknown address error 550-"5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipient's email address for typos or\n5.1.1 unnecessary spaces. Learn more at\n5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 md5si221865igc.30" (delivery attempts: 0)
+
+--nVq/2.4o48yitW+.RkI04.AWh7ArP
+content-type: message/rfc822
+
+Received: from unknown (HELO srs.bis6.us.blackberry.com) ([172.29.231.132])
+  by smtp03.bis6.us.blackberry.com with ESMTP; 27 Aug 2012 16:58:38 +0000
+Received: from b18.c2.bise6.blackberry ([192.168.0.118])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id q7RGwc00013667
+	for <gabyalexa_23@gmail.com>; Mon, 27 Aug 2012 16:58:38 GMT
+Received: from 172.29.195.204 (cmp34.c2.bise6.blackberry [172.29.195.204])
+	by b18.c2.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id q7RGwbqM029302
+	for <gabyalexa_23@gmail.com>; Mon, 27 Aug 2012 16:58:37 GMT
+X-rim-org-msg-ref-id: 718295978
+Message-ID: <718295978-1346086715-cardhu_decombobulator_blackberry.rim.net-1307000782-@b11.c2.bise6.blackberry>
+Reply-To: gabrielagarcia@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: RV: Fw: Alerta
+To: gabyalexa_23@gmail.com
+From: "Gabriela G" <gabrielagarcia@courierpack.com.ve>
+Date: Mon, 27 Aug 2012 16:58:36 +0000
+Content-Type: multipart/alternative; boundary="part7325-boundary-1025123976-1358110531"
+MIME-Version: 1.0
+
+
+--part7325-boundary-1025123976-1358110531
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset="Windows-1252"
+
+DQpDT1VSSUVSUEFDSywgbWFyY2FuZG8gbGEgZGlmZXJlbmNpYSBlbiBlbnZpbyBpbnRlcm5hY2lv
+bmFsDQoNCi0tLS0tT3JpZ2luYWwgTWVzc2FnZS0tLS0tDQpGcm9tOiB5cm1hIHNhbnRhbmEgPHNh
+bnBlcjY3QHlhaG9vLmNvbT4NCkRhdGU6IFN1biwgMjYgQXVnIDIwMTIgMTk6MTQ6NDAgDQpUbzog
+PGdhYnJpZWxhZ2FyY2lhQGNvdXJpZXJwYWNrLmNvbS52ZT4NClJlcGx5LVRvOiB5cm1hIHNhbnRh
+bmEgPHNhbnBlcjY3QHlhaG9vLmNvbT4NClN1YmplY3Q6IEZ3OiBBbGVydGENCg0KQnVlbmFzIG5v
+Y2hlcyBsZSBpbmZvcm1vIHF1ZSBkdXJhbnRlIGVsIGRpYSBkZSBheWVyIHNlIGxlIHJlYWxpem8g
+bGEgdHJhbnNmZXJlbmNpYSBzZWd1biBlbCBtb250byBpbmRpY2FkbyBwb3IgdXN0ZWQgNDI4IEJz
+LCBlbCBudW1lcm8gZGUgbGEgdHJhbnNmZXJlbmNpYSBlcyBURTAwMDEzNjUwMzMgZWwgbm9tYnJl
+IGRlbCBkZXBvc2l0YW50ZSBlcyBSYWl6YSBGaW5vbC4gU2UgcmVhbGl6byBkZXNkZSB1biBudW1l
+cm8gZGUgY3VlbnRhIGRlbCBCYW5jbyBCT0QuIAoKCkZhdm9yIG5vdGlmaWNhciBhY3JlZGl0YWNp
+824gZGVsIGRpbmVybyBhIHN1IGN1ZW50YS4gCgoKTGEgZGlyZWNjafNuIGRlIGVudmlvIGRlIGxh
+IG1lcmNhbmNpYSBmYXZvciByZWFsaXphcmxhIGEgbm9tYnJlIGRlIFJhaXphIEZpbm9sIGVuIGxh
+IEFnZW5jaWE6IE1BUkFDQUlCTyBMQSBMSU1QSUEgCgogCiAKQ/NkaWdvIEFnZW5jaWE6IDI0MDAw
+MDAgCkRpcmVjY2nzbjogQVYuIDI4IChMQSBMSU1QSUEpIE66IDE0LTU0LiBFRElGLiBST0RSzUdV
+RVogWSAgQkFSQk9aQSwgRElBR09OQUwgQUwgSE9URUwgTUFSQUNBSUJPIFNVSVRFLiBQQi4gCgpH
+cmFjaWFzIHBvciBzdSBhdGVuY2nzbiB5IGRpc3Bvc2ljafNuLgoKU2FsdWRvcyBDb3JkaWFsZXMK
+CgoKX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18KIEZyb206IEdhYnJpZWxhIEcgPGdh
+YnJpZWxhZ2FyY2lhQGNvdXJpZXJwYWNrLmNvbS52ZT4KVG86IHNhbnBlcjY3QHlhaG9vLmNvbSAK
+U2VudDogU3VuZGF5LCBBdWd1c3QgMjYsIDIwMTIgMTE6MzQgQU0KU3ViamVjdDogQWxlcnRhCiAK
+QnVlbm9zIGRpYXMsIHBvciBtZWRpbyBkZSBsYSBwcmVzZW50ZSBzZSBsZSBpbmZvcm1hIHF1ZSB1
+c3RlZCBkaXNwb25lIGRlIDEwIGRpYXMgYSBwYXJ0aXIgZGUgbGEgbm90aWZpY2FjaW9uIGRlIGFy
+cmlibyBkZSBsYSBtZXJjYW5jaWEgcGFyYSBjYW5jZWxhciB5IGFzaSBwb2RlciBkaXNmcnV0YXIg
+ZGUgc3UgY2FyZ2EsIGRlIGxvIGNvbnRyYXJpbyBsYSBjYXJnYSBzZXJhIGRlY29taXNhZGEgeSBk
+YWRhIGNvbW8gcGFnbyBhIGxvcyBlbnRlcyBwcmluY2lwYWxlcy4uIFNpbiBtYXMgbmFkYSBhIHF1
+ZSBoYWNlciByZWZlcmVuY2lhIEdhYnJpZWxhIEdhcmNpYSBDUEsgCkNPVVJJRVJQQUNLLCBtYXJj
+YW5kbyBsYSBkaWZlcmVuY2lhIGVuIGVudmlvIGludGVybmFjaW9uYWwNCg==
+
+--part7325-boundary-1025123976-1358110531
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset="Windows-1252"
+
+PGh0bWw+PGJvZHk+PGRpdj5DT1VSSUVSUEFDSywgbWFyY2FuZG8gbGEgZGlmZXJlbmNpYSBlbiBl
+bnZpbyBpbnRlcm5hY2lvbmFsPC9kaXY+PGhyLz48ZGl2PjxiPkZyb206IDwvYj4geXJtYSBzYW50
+YW5hICZsdDtzYW5wZXI2N0B5YWhvby5jb20mZ3Q7DQo8L2Rpdj48ZGl2PjxiPkRhdGU6IDwvYj5T
+dW4sIDI2IEF1ZyAyMDEyIDE5OjE0OjQwIC0wNzAwIChQRFQpPC9kaXY+PGRpdj48Yj5UbzogPC9i
+PiZsdDtnYWJyaWVsYWdhcmNpYUBjb3VyaWVycGFjay5jb20udmUmZ3Q7PC9kaXY+PGRpdj48Yj5S
+ZXBseVRvOiA8L2I+IHlybWEgc2FudGFuYSAmbHQ7c2FucGVyNjdAeWFob28uY29tJmd0Ow0KPC9k
+aXY+PGRpdj48Yj5TdWJqZWN0OiA8L2I+Rnc6IEFsZXJ0YTwvZGl2PjxkaXY+PGJyLz48L2Rpdj48
+ZGl2IHN0eWxlPSJjb2xvcjojMDAwOyBiYWNrZ3JvdW5kLWNvbG9yOiNmZmY7IGZvbnQtZmFtaWx5
+OmFyaWFsLCBoZWx2ZXRpY2EsIHNhbnMtc2VyaWY7Zm9udC1zaXplOjE0cHQiPjxkaXYgaWQ9Inlp
+djE1NTM1MTcwODUiPjxkaXY+PGRpdiBzdHlsZT0iY29sb3I6IzAwMDtiYWNrZ3JvdW5kLWNvbG9y
+OiNmZmY7Zm9udC1mYW1pbHk6YXJpYWwsIGhlbHZldGljYSwgc2Fucy1zZXJpZjtmb250LXNpemU6
+MTRwdDsiPjxkaXYgaWQ9InlpdjE1NTM1MTcwODV5dWlfM18yXzBfMTlfMTM0NjAzMjI5ODg0ODU0
+Ij48c3BhbiBpZD0ieWl2MTU1MzUxNzA4NXl1aV8zXzJfMF8xOV8xMzQ2MDMyMjk4ODQ4ODIiPkJ1
+ZW5hcyBub2NoZXMgbGUgaW5mb3JtbyBxdWUgZHVyYW50ZSBlbCBkaWEgZGUgYXllciBzZSBsZSBy
+ZWFsaXpvIGxhIHRyYW5zZmVyZW5jaWEgc2VndW4gZWwgbW9udG8gaW5kaWNhZG8gcG9yIHVzdGVk
+IDQyOCBCcywgZWwgbnVtZXJvIGRlIGxhIHRyYW5zZmVyZW5jaWEgZXMgVEUwMDAxMzY1MDMzIGVs
+IG5vbWJyZSBkZWwgZGVwb3NpdGFudGUgZXMgUmFpemEgRmlub2wuIFNlIHJlYWxpem8gZGVzZGUg
+dW4gbnVtZXJvIGRlIGN1ZW50YSBkZWwgQmFuY28gQk9ELiA8YnI+PC9zcGFuPjwvZGl2PjxkaXYg
+c3R5bGU9ImNvbG9yOnJnYigwLCAwLCAwKTtmb250LXNpemU6MTguNjY2N3B4O2ZvbnQtZmFtaWx5
+OmFyaWFsLCBoZWx2ZXRpY2EsIHNhbnMtc2VyaWY7YmFja2dyb3VuZC1jb2xvcjp0cmFuc3BhcmVu
+dDtmb250LXN0eWxlOm5vcm1hbDsiIGlkPSJ5aXYxNTUzNTE3MDg1eXVpXzNfMl8wXzE5XzEzNDYw
+MzIyOTg4NDgyOTUiPjxicj48c3BhbiBpZD0ieWl2MTU1MzUxNzA4NXl1aV8zXzJfMF8xOV8xMzQ2
+MDMyMjk4ODQ4ODIiPjwvc3Bhbj48L2Rpdj48ZGl2IGlkPSJ5aXYxNTUzNTE3MDg1eXVpXzNfMl8w
+XzE5XzEzNDYwMzIyOTg4NDgzMDAiIHN0eWxlPSJjb2xvcjpyZ2IoMCwNCiAwLCAwKTtmb250LXNp
+emU6MTguNjY2N3B4O2ZvbnQtZmFtaWx5OmFyaWFsLCBoZWx2ZXRpY2EsIHNhbnMtc2VyaWY7YmFj
+a2dyb3VuZC1jb2xvcjp0cmFuc3BhcmVudDtmb250LXN0eWxlOm5vcm1hbDsiPjxzcGFuIGlkPSJ5
+aXYxNTUzNTE3MDg1eXVpXzNfMl8wXzE5XzEzNDYwMzIyOTg4NDg4MiI+RmF2b3Igbm90aWZpY2Fy
+CiBhY3JlZGl0YWNp824gZGVsIGRpbmVybyBhIHN1IGN1ZW50YS4gPGJyIGlkPSJ5aXYxNTUzNTE3
+MDg1eXVpXzNfMl8wXzE5XzEzNDYwMzIyOTg4NDgzMjYiPjwvc3Bhbj48L2Rpdj48ZGl2IGlkPSJ5
+aXYxNTUzNTE3MDg1eXVpXzNfMl8wXzE5XzEzNDYwMzIyOTg4NDgzMTkiIHN0eWxlPSJjb2xvcjpy
+Z2IoMCwgMCwgMCk7Zm9udC1zaXplOjE4LjY2NjdweDtmb250LWZhbWlseTphcmlhbCwgaGVsdmV0
+aWNhLCBzYW5zLXNlcmlmO2JhY2tncm91bmQtY29sb3I6dHJhbnNwYXJlbnQ7Zm9udC1zdHlsZTpu
+b3JtYWw7Ij48YnI+PHNwYW4gaWQ9InlpdjE1NTM1MTcwODV5dWlfM18yXzBfMTlfMTM0NjAzMjI5
+ODg0ODgyIj48L3NwYW4+PC9kaXY+PGRpdiBjbGFzcz0ieWl2MTU1MzUxNzA4NVRpdGxlQmx1ZTE4
+Ij48c3BhbiBpZD0ieWl2MTU1MzUxNzA4NXl1aV8zXzJfMF8xOV8xMzQ2MDMyMjk4ODQ4ODIiPkxh
+IGRpcmVjY2nzbiBkZSBlbnZpbyBkZSBsYSBtZXJjYW5jaWEgZmF2b3IgcmVhbGl6YXJsYSBhIG5v
+bWJyZSBkZSBSYWl6YSBGaW5vbCBlbiBsYTwvc3Bhbj4gQWdlbmNpYTogTUFSQUNBSUJPIExBIExJ
+TVBJQSA8L2Rpdj48dGFibGUgY2VsbHNwYWNpbmc9IjUiIHdpZHRoPSI0NDBweCI+PHRib2R5Pjx0
+cj48dGQ+Cgk8ZGl2PgoJPGRpdiBpZD0ieWl2MTU1MzUxNzA4NU1lc2FzIj4KCQogICAgICAgICAg
+ICAgIDxicj4KICAgICAgICA8L2Rpdj48L2Rpdj4KICAgIDwvdGQ+Cjx0ZCBhbGlnbj0ibGVmdCI+
+CgoKCTxicj48L3RkPgoKICA8L3RyPgogICA8dHI+CiAgICA8dGQgY29sc3Bhbj0iMiI+PHNwYW4g
+c3R5bGU9ImZvbnQtd2VpZ2h0OmJvbGQ7Ij5D82RpZ28gQWdlbmNpYTogPC9zcGFuPjI0MDAwMDA8
+L3RkPgogIDwvdHI+CiAgPHRyPgogICAgPHRkIGNvbHNwYW49IjIiPjxzcGFuIHN0eWxlPSJmb250
+LXdlaWdodDpib2xkOyI+RGlyZWNjafNuOjwvc3Bhbj4gQVYuIDI4IChMQSBMSU1QSUEpIE66IDE0
+LTU0LiBFRElGLiBST0RSzUdVRVogWSAgQkFSQk9aQSwgRElBR09OQUwgQUwgSE9URUwgTUFSQUNB
+SUJPIFNVSVRFLiBQQi48L3RkPjwvdHI+PC90Ym9keT48L3RhYmxlPjxkaXYgaWQ9InlpdjE1NTM1
+MTcwODV5dWlfM18yXzBfMTlfMTM0NjAzMjI5ODg0ODMyNyIgc3R5bGU9ImNvbG9yOnJnYigwLCAw
+LCAwKTtmb250LXNpemU6MTguNjY2N3B4O2ZvbnQtZmFtaWx5OmFyaWFsLCBoZWx2ZXRpY2EsIHNh
+bnMtc2VyaWY7YmFja2dyb3VuZC1jb2xvcjp0cmFuc3BhcmVudDtmb250LXN0eWxlOm5vcm1hbDsi
+PjxzcGFuIGlkPSJ5aXYxNTUzNTE3MDg1eXVpXzNfMl8wXzE5XzEzNDYwMzIyOTg4NDg4MiI+PGJy
+PkdyYWNpYXMgcG9yIHN1IGF0ZW5jafNuIHkgZGlzcG9zaWNp824uPGJyPjxicj5TYWx1ZG9zIENv
+cmRpYWxlczxicj48L3NwYW4+PC9kaXY+PGRpdj48YnIgaWQ9InlpdjE1NTM1MTcwODV5dWlfM18y
+XzBfMTlfMTM0NjAzMjI5ODg0ODU3Ij48L2Rpdj4gIDxkaXYgY2xhc3M9InlpdjE1NTM1MTcwODV5
+dWlfM18yXzBfMTlfMTM0NjAzMjI5ODg0ODYwIiBpZD0ieWl2MTU1MzUxNzA4NXl1aV8zXzJfMF8x
+OV8xMzQ2MDMyMjk4ODQ4NjIiIHN0eWxlPSJmb250LWZhbWlseTphcmlhbCwgaGVsdmV0aWNhLCBz
+YW5zLXNlcmlmO2ZvbnQtc2l6ZToxNHB0OyI+IDxkaXYgaWQ9InlpdjE1NTM1MTcwODV5dWlfM18y
+XzBfMTlfMTM0NjAzMjI5ODg0ODE5NCIgY2xhc3M9InlpdjE1NTM1MTcwODV5dWlfM18yXzBfMTlf
+MTM0NjAzMjI5ODg0ODY3IiBzdHlsZT0iZm9udC1mYW1pbHk6dGltZXMgbmV3IHJvbWFuLCBuZXcg
+eW9yaywgdGltZXMsIHNlcmlmO2ZvbnQtc2l6ZToxMnB0OyI+IDxkaXYNCiBpZD0ieWl2MTU1MzUx
+NzA4NXl1aV8zXzJfMF8xOV8xMzQ2MDMyMjk4ODQ4MTkzIiBkaXI9Imx0ciI+IDxmb250IHNpemU9
+IjIiIGZhY2U9IkFyaWFsIj4gPGhyIHNpemU9IjEiPiAgPGI+PHNwYW4gc3R5bGU9ImZvbnQtd2Vp
+Z2h0OmJvbGQ7Ij5Gcm9tOjwvc3Bhbj48L2I+IEdhYnJpZWxhIEcKICZsdDtnYWJyaWVsYWdhcmNp
+YUBjb3VyaWVycGFjay5jb20udmUmZ3Q7PGJyPiA8Yj48c3BhbiBzdHlsZT0iZm9udC13ZWlnaHQ6
+Ym9sZDsiPlRvOjwvc3Bhbj48L2I+IHNhbnBlcjY3QHlhaG9vLmNvbSA8YnI+IDxiPjxzcGFuIHN0
+eWxlPSJmb250LXdlaWdodDpib2xkOyI+U2VudDo8L3NwYW4+PC9iPiBTdW5kYXksIEF1Z3VzdCAy
+NiwgMjAxMiAxMTozNCBBTTxicj4gPGI+PHNwYW4gc3R5bGU9ImZvbnQtd2VpZ2h0OmJvbGQ7Ij5T
+dWJqZWN0Ojwvc3Bhbj48L2I+IEFsZXJ0YTxicj4gPC9mb250PiA8L2Rpdj4gPGJyPgpCdWVub3Mg
+ZGlhcywgcG9yIG1lZGlvIGRlIGxhIHByZXNlbnRlIHNlIGxlIGluZm9ybWEgcXVlIHVzdGVkIGRp
+c3BvbmUgZGUgMTAgZGlhcyBhIHBhcnRpciBkZSBsYSBub3RpZmljYWNpb24gZGUgYXJyaWJvIGRl
+IGxhIG1lcmNhbmNpYSBwYXJhIGNhbmNlbGFyIHkgYXNpIHBvZGVyIGRpc2ZydXRhciBkZSBzdSBj
+YXJnYSwgZGUgbG8gY29udHJhcmlvIGxhIGNhcmdhIHNlcmEgZGVjb21pc2FkYSB5IGRhZGEgY29t
+byBwYWdvIGEgbG9zIGVudGVzIHByaW5jaXBhbGVzLi4gU2luIG1hcyBuYWRhIGEgcXVlIGhhY2Vy
+IHJlZmVyZW5jaWEgR2FicmllbGEgR2FyY2lhIENQSyA8YnI+Q09VUklFUlBBQ0ssIG1hcmNhbmRv
+IGxhIGRpZmVyZW5jaWEgZW4gZW52aW8gaW50ZXJuYWNpb25hbDxicj48YnI+PGJyPiA8L2Rpdj4g
+PC9kaXY+ICA8L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2JvZHk+PC9odG1sPg0K
+
+--part7325-boundary-1025123976-1358110531--
+
+
+--nVq/2.4o48yitW+.RkI04.AWh7ArP--
+
+

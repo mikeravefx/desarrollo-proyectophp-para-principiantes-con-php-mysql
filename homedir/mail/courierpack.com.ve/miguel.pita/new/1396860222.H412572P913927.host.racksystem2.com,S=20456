@@ -1,0 +1,298 @@
+Return-path: <s-vPRMkX3WHxNjLziUv3gKkkyUbsNy8IMaLPlnkae7F0xJtISUtYtSCz@bounce.linkedin.com>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Mon, 07 Apr 2014 04:13:42 -0430
+Received: from maild-fd.linkedin.com ([199.101.162.86]:44458)
+	by host.racksystem2.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <s-vPRMkX3WHxNjLziUv3gKkkyUbsNy8IMaLPlnkae7F0xJtISUtYtSCz@bounce.linkedin.com>)
+	id 1WX59X-003pkE-Cl
+	for miguel.pita@courierpack.com.ve; Mon, 07 Apr 2014 04:13:42 -0430
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com;
+	s=proddkim1024; t=1396859303;
+	bh=8trVjLA+LF1DYrUgyQ1A2PO1Klc7ttGWkZRhF4A/OH8=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=1+64HOSdTfBPNxVcf2/ercauEoPGkaZ8R/8IsOALajF33QVhoTpeM5PKl6x5sh/i4
+	 9n4nLf3hGCXNaTf569GMTW7WiYsHHwjRPl51GLWD+kMp+lG1hxFGMFaasK7l3Owen4
+	 iqaNLQ++lsW8tGa++VSD83bdLAzQ2OIU2wAI8tk8=
+From: =?UTF-8?Q?SWAMI_TOURS_CA_a_trav=C3=A9s_de_LinkedIn?= <invitations@linkedin.com>
+Message-ID: <1673130783.3222273.1396859303462.JavaMail.app@ela4-app3538.prod>
+Subject: =?UTF-8?Q?La_invitaci=C3=B3n_de_SWAMI_TOURS_CA_espera_tu_respuesta?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3222270_597020056.1396859303460"
+To:  <miguel.pita@courierpack.com.ve>
+Date: Mon, 7 Apr 2014 08:28:23 +0000 (UTC)
+X-LinkedIn-Class: INVITE-REMIND-GUEST
+X-LinkedIn-Template: inv_exp_19
+X-LinkedIn-fbl: s-vPRMkX3WHxNjLziUv3gKkkyUbsNy8IMaLPlnkae7F0xJtISUtYtSCz
+X-LinkedIn-Id: -wrnfjz-htphygka-4a
+X-Spam-Status: No, score=-2.7
+X-Spam-Score: -26
+X-Spam-Bar: --
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  A SWAMI TOURS CA le gustaría conectar en LinkedIn. ¿Cómo
+    te gustaría responder? Aceptar: https://www.linkedin.com/e/v2?e=-wrnfjz-htphygka-4a&a=preRegInvite&tracking=eml-comm_invg-b-accept-reminder&ek=inv_exp_19&invitationID=5855338641802407937&sharedKey=S_kKzBGQ
+    [...] 
+ 
+ Content analysis details:   (-2.7 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -2.0 RCVD_IN_RP_SAFE        RBL: Sender in ReturnPath Safe - Contact
+                             safe-sa@returnpath.net
+                             [Return Path SenderScore Safe List (formerly]
+                     [Habeas Safelist) - <http://www.senderscorecertified.com>]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.6 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+------=_Part_3222270_597020056.1396859303460
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: text-body
+
+A SWAMI TOURS CA le gustar=C3=ADa conectar en LinkedIn. =C2=BFC=C3=B3mo te =
+gustar=C3=ADa responder?
+
+Aceptar: https://www.linkedin.com/e/v2?e=3D-wrnfjz-htphygka-4a&a=3DpreRegIn=
+vite&tracking=3Deml-comm_invg-b-accept-reminder&ek=3Dinv_exp_19&invitationI=
+D=3D5855338641802407937&sharedKey=3DS_kKzBGQ
+
+Ver el perfil de SWAMI TOURS CA: http://www.linkedin.com/e/v2?e=3D-wrnfjz-h=
+tphygka-4a&t=3Dnpv&tracking=3Deml-comm_invg-b-accept-reminder&ek=3Dinv_exp_=
+19
+
+Est=C3=A1s recibiendo recordatorios sobre invitaciones pendientes. Date de =
+baja aqu=C3=AD: http://www.linkedin.com/e/v2?e=3D-wrnfjz-htphygka-4a&t=3Dgo=
+o&tracking=3Deml-comm_mebc-f-unsub&ek=3Dinv_exp_19&id=3D20060&gid=3D5855338=
+641802407937&email=3Dmiguel%2Epita%40courierpack%2Ecom%2Eve
+
+ Averigua por qu=C3=A9 incluimos esto en este enlace: http://www.linkedin.c=
+om/e/v2?e=3D-wrnfjz-htphygka-4a&a=3DcustomerServiceUrl&ek=3Dinv_exp_19&arti=
+cleId=3D4788
+&copy;2014 LinkedIn Ireland Limited, registrada en Irlanda como sociedad an=
+=C3=B3nima, n=C3=BAmero de identificaci=C3=B3n 477441; oficina registradora=
+: 70 Sir John Roberson=E2=80=99s Quay, Dubl=C3=ADn 2
+------=_Part_3222270_597020056.1396859303460
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml"><head><meta http-equiv=3D"Content-Type" content=3D"text/htm=
+l;charset=3Dutf-8" /><meta name=3D"HandheldFriendly" content=3D"true"/><met=
+a name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D0.6666=
+67; maximum-scale=3D0.666667; user-scalable=3D0"/><meta name=3D"viewport" c=
+ontent=3D"width=3Ddevice-width"/><title></title><style type=3D"text/css">ht=
+ml { -webkit-text-size-adjust: none; }body { background-color: #DFDFDF; pad=
+ding: 0; margin: 0; width: 100%; margin: 0 auto; }@media all and (max-width=
+: 590px){*[class].responsive{width:290px !important;}*[id]#center {width:50=
+%; margin: 0 auto; display:table;}*[class].responsive-spacer table{width: 2=
+0px !important; }*[class].vspacer{ margin-top: 10px !important; margin-bott=
+om: 15px !important; margin-left: 0 !important; }*[class].res-font14{font-s=
+ize:14px !important;}*[class].res-font16{font-size:16px !important;}*[class=
+].res-font13{font-size:13px !important;}*[class].res-font12{font-size:12px =
+!important;}*[class].res-font10{font-size:10px !important;}*[class].res-fon=
+t18{font-size:18px !important;}*[class].res-font18 span{font-size: 18px !im=
+portant;}*[class].responsive-50per{ width: 100% !important;}*[class].respon=
+sive-spacer70{ width: 70px !important; }*[class].hideIMG{ height: 0px !impo=
+rtant; width: 0px !important; }*[class].res-height30{ height: 30px !importa=
+nt; }*[class].res-height20{ height: 20px !important; }*[class].res-height20=
+ div{ height: 20px !important; }*[class].res-height10{ height: 10px !import=
+ant; }*[class].res-height10 div{ height: 10px !important; }*[class].res-hei=
+ght10.email-spacer div { height: 10px !important; min-height: 10px !importa=
+nt; line-height: 10px !important; font-size: 10px !important; }*[class].res=
+-height0 { height: 0px !important; }*[class].res-height0 div{ height: 0px !=
+important; }*[class].res-width280{ width: 280px !important; }*[class].res-w=
+idth25{ width: 25px !important; }*[class].res-width10{ width: 10px !importa=
+nt; }*[class].res-width10 table{ width: 10px !important; }*[class].res-widt=
+h120 { width: 120px !important; }*[class].res-padding{ width: 0 !important;=
+ }*[class].res-padding table{ width: 0 !important; }*[class].cellpadding-no=
+ne{ width: 0px !important; }*[class].cellpadding-none table{ border: collap=
+se !important; }*[class].cellpadding-none table td{ padding: 0 !important; =
+}*[class].display-none{ display: none !important; }*[class].display-block{ =
+display: block !important; }*[class].remove-margin{ margin: 0 !important; }=
+*[class].remove-border{ border: none !important; }*[class].res-img60{ width=
+: 60px !important; height: 60px !important; }*[class].res-img75{ width: 75p=
+x !important; height: 75px !important; }*[class].res-img100{ width: 100px !=
+important; height: 100px !important; }*[class].res-img320{ width: 320px !im=
+portant; height: auto !important; position: relative;}*[class].res-img90x63=
+{ width: 90px !important; height: 63px !important;}*[class].res-border{bord=
+er-top: 1px solid #E1E1E1 !important;}*[class].responsive2col{width: 100% !=
+important;}*[class].center-content{text-align: center !important;}*[class].=
+hide-for-mobile{ display: none !important; }*[class].show-for-mobile{ width=
+: 100% !important; max-height: none !important; visibility: visible !import=
+ant; overflow: visible !important; float: none !important; height: auto !im=
+portant; display: block !important; }*[class].responsive-table { display: t=
+able !important; }*[class].responsive-row { display: table-row !important; =
+}*[class].responsive-cell { display: table-cell !important; }*[class].fix-t=
+able-content{ table-layout: fixed; }*[class].res-padding08{ padding-top:8px=
+; }}@media all and (-webkit-min-device-pixel-ratio : 1.5) {*[id]#base-heade=
+r-logo {background-image: url(http://s.c.lnkd.licdn.com/scds/common/u/image=
+s/email/logos/logo_linkedin_tm_email_197x48_v1.png) !important;background-s=
+ize: 95px;background-repeat: no-repeat;width: 95px !important;height: 21px =
+!important;}*[id]#base-header-logo img {display: none;}*[id]#base-header-lo=
+go a {height: 21px !important;}*[id]#base-header-logo-china {background-ima=
+ge: url(http://s.c.lnkd.licdn.com/scds/common/u/images/email/logos/logo_lin=
+kedin_tm_china_email_266x42_v1.png) !important;background-size: 133px;backg=
+round-repeat: no-repeat;width: 133px !important;height: 21px !important;}*[=
+id]#base-header-logo-china img {display: none;}*[id]#base-header-logo-china=
+ a {height: 21px !important;}}</style></head><body><span class=3D"preheader=
+" style=3D"display: none !important; font-size: 1px;"></span><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,A=
+rial,sans-serif; " width=3D"100%" bgcolor=3D"#DFDFDF"><tbody><tr><td colspa=
+n=3D"3"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"fo=
+nt-family:Helvetica,Arial,sans-serif; " width=3D"1"><tbody><tr><td><div sty=
+le=3D"height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></tb=
+ody></table></td></tr><tr><td align=3D"center" width=3D"100%"><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,A=
+rial,sans-serif; min-width:290px;" width=3D"550" class=3D"responsive"><tbod=
+y><tr><td style=3D"font-family:Helvetica,Arial,sans-serif;"><table width=3D=
+"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-space=
+r"><tbody><tr><td><div style=3D"height:8px;font-size:8px;line-height:8px">&=
+nbsp;</div></td></tr></tbody></table><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif;" width=
+=3D"100%" bgcolor=3D"#DDDDDD"><tbody><tr><td align=3D"left" valign=3D"middl=
+e" width=3D"95" height=3D"21" id=3D"base-header-logo"><a style=3D"text-deco=
+ration:none;cursor:pointer;border:none;display:block;height:21px;width:100%=
+;" href=3D'http://www.linkedin.com/e/v2?e=3D-wrnfjz-htphygka-4a&t=3Dnmp&tra=
+cking=3Deml-comm_invm-b-logo_home-remind2013&ek=3Dinv_exp_19'><img src=3D'h=
+ttp://s.c.lnkd.licdn.com/scds/common/u/images/email/logos/logo_linkedin_tm_=
+email_95x21_v1.png' width=3D"95" height=3D"21" alt=3D"LinkedIn" style=3D"bo=
+rder:none;text-decoration:none;"/></a></td></tr></tbody></table><table widt=
+h=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-s=
+pacer"><tbody><tr><td><div style=3D"height:8px;font-size:8px;line-height:8p=
+x">&nbsp;</div></td></tr></tbody></table><table border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif;" wid=
+th=3D"100%"  bgcolor=3D"#333333"><tbody><tr><td width=3D"20" class=3D"respo=
+nsive-spacer"><table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"height:0px;fo=
+nt-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody></table></td><td=
+ width=3D"100%"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"height:12=
+px;font-size:12px;line-height:12px">&nbsp;</div></td></tr></tbody></table><=
+/td><td width=3D"20"><table width=3D"20" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"height=
+:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody></table><=
+/td></tr></tbody></table><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%" bg=
+color=3D"#FFFFFF"><tbody><tr><td width=3D"20" class=3D"res-width10"><table =
+width=3D"20px" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"=
+email-spacer"><tbody><tr><td><div style=3D"height:0px;font-size:0px;line-he=
+ight:0px">&nbsp;</div></td></tr></tbody></table></td><td style=3D"color: #3=
+33333; font-family: Helvetica,Arial,sans-serif; font-size: 15px; line-heigh=
+t: 18px;" align=3D"left"><table width=3D"1" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"1"   class=3D"email-spacer res-height10"><tbody><tr><td><div=
+ style=3D"height:20px;font-size:20px;line-height:20px">&nbsp;</div></td></t=
+r></tbody></table><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%"><tbody><tr=
+><td style=3D"font-family:Helvetica,Arial,sans-serif;color:#333333;">A <b>S=
+WAMI TOURS CA</b> le gustar=C3=ADa conectar en LinkedIn. =C2=BFC=C3=B3mo te=
+ gustar=C3=ADa responder?</td></tr><tr><td style=3D"border-bottom-color: #E=
+5E5E5;border-bottom-width: 1px; border-bottom-style: solid;"><table width=
+=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-sp=
+acer"><tbody><tr><td><div style=3D"height:20px;font-size:20px;line-height:2=
+0px">&nbsp;</div></td></tr></tbody></table></td></tr></tbody></table><table=
+ width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"em=
+ail-spacer"><tbody><tr><td><div style=3D"height:20px;font-size:20px;line-he=
+ight:20px">&nbsp;</div></td></tr></tbody></table><table border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-ser=
+if; " width=3D"100%"><tbody><tr><td width=3D"150" valign=3D"top" style=3D"v=
+ertical-align: top;" class=3D"res-img100"><a href=3D"https://www.linkedin.c=
+om/e/v2?e=3D-wrnfjz-htphygka-4a&amp;a=3DpreRegInvite&amp;tracking=3Deml-com=
+m_invg-b-photo-accept-reminder&amp;ek=3Dinv_exp_19&amp;invitationID=3D58553=
+38641802407937&amp;sharedKey=3DS_kKzBGQ" style=3D"text-decoration:none;curs=
+or:pointer;"><img alt=3D"SWAMI TOURS CA" src=3D'http://m.c.lnkd.licdn.com/m=
+pr/mpr/shrink_150_150/p/5/005/050/257/3cd9ed3.jpg' width=3D"150" height=3D"=
+150" border=3D"0" class=3D"res-img100" style=3D"border:none;text-decoration=
+:none;outline:hidden;display:block;"/></a></td><td width=3D"20"><table widt=
+h=3D"20" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-=
+spacer"><tbody><tr><td><div style=3D"height:0px;font-size:0px;line-height:0=
+px">&nbsp;</div></td></tr></tbody></table></td><td style=3D"vertical-align:=
+ top; font-family: Helvetica,Arial,sans-serif;" width=3D"100%"><table borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,=
+Arial,sans-serif; " width=3D"100%"><tbody><tr><td valign=3D"top"><a href=3D=
+"https://www.linkedin.com/e/v2?e=3D-wrnfjz-htphygka-4a&amp;a=3DpreRegInvite=
+&amp;tracking=3Deml-comm_invg-b-name-accept-reminder&amp;ek=3Dinv_exp_19&am=
+p;invitationID=3D5855338641802407937&amp;sharedKey=3DS_kKzBGQ" style=3D"fon=
+t-size: 20px; font-weight: bold; color:#000000;text-decoration:none;">SWAMI=
+ TOURS CA</a></td></tr><tr><td><table width=3D"1" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=
+=3D"height:3px;font-size:3px;line-height:3px">&nbsp;</div></td></tr></tbody=
+></table></td></tr><tr><td style=3D"color: #666666; font-size: 15px;" class=
+=3D"res-font16">DIRECTOR</td></tr><tr><td><table width=3D"1" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td>=
+<div style=3D"height:10px;font-size:10px;line-height:10px">&nbsp;</div></td=
+></tr></tbody></table></td></tr><tr><td><table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" align=3D"left"><tbody><tr><td align=3D"center" height=
+=3D"30" valign=3D"middle" bgcolor=3D"#287BBC" background=3D"http://s.c.lnkd=
+.licdn.com/scds/common/u/img/email/bg_btn_katy_blue_medium.png" style=3D"ba=
+ckground:url(http://s.c.lnkd.licdn.com/scds/common/u/img/email/bg_btn_katy_=
+blue_medium.png) repeat-x scroll bottom #287BBC;background-color:#287BBC;bo=
+rder:1px solid #1B5480;-moz-border-radius:3px;-webkit-border-radius:3px;bor=
+der-radius:3px; cursor: pointer;"><table border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"=
+100%" bgcolor=3D"transparent"><tbody><tr><td width=3D"13"><table width=3D"1=
+3px" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spac=
+er"><tbody><tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">=
+&nbsp;</div></td></tr></tbody></table></td><td><a href=3D"https://www.linke=
+din.com/e/v2?e=3D-wrnfjz-htphygka-4a&amp;a=3DpreRegInvite&amp;tracking=3Dem=
+l-comm_invg-b-button-accept-reminder&amp;ek=3Dinv_exp_19&amp;invitationID=
+=3D5855338641802407937&amp;sharedKey=3DS_kKzBGQ" style=3D"text-decoration:n=
+one; font-size: 13px;font-family: Helvetica,Arial,sans-serif;font-weight: b=
+old;color: white;white-space: nowrap;display: block;" target=3D"_blank"><sp=
+an style=3D"font-size: 13px;font-family: Helvetica,Arial,sans-serif;font-we=
+ight: bold;color: white;white-space: nowrap;display: block;">Confirma que c=
+onoces a SWAMI</span></a></td><td width=3D"13"><table width=3D"13px" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><tbody>=
+<tr><td><div style=3D"height:0px;font-size:0px;line-height:0px">&nbsp;</div=
+></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></ta=
+ble></td></tr></tbody></table></td></tr></tbody></table><table width=3D"1" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=3D"email-spacer"><=
+tbody><tr><td><div style=3D"height:20px;font-size:20px;line-height:20px">&n=
+bsp;</div></td></tr></tbody></table>  </td><td width=3D"20" class=3D"res-wi=
+dth10"><table width=3D"20px" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+1"   class=3D"email-spacer res-width10"><tbody><tr><td><div style=3D"height=
+:0px;font-size:0px;line-height:0px">&nbsp;</div></td></tr></tbody></table><=
+/td></tr></tbody></table></td></tr></tbody></table><table border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-s=
+erif; " width=3D"550" class=3D"responsive"><tbody><tr><td align=3D"left"><t=
+able border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:=
+Helvetica,Arial,sans-serif; " width=3D"100%" class=3D"responsive"><tbody><t=
+r><td><table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"  =
+ class=3D"email-spacer"><tbody><tr><td><div style=3D"height:10px;font-size:=
+10px;line-height:10px">&nbsp;</div></td></tr></tbody></table></td></tr><tr>=
+<td align=3D"left"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"font-family:Helvetica,Arial,sans-serif; font-size:11px; font-famil=
+y:Helvetica,Arial,sans-serif; color:#999999;" width=3D"100%" class=3D"respo=
+nsive res-font10"><tbody><tr><td>Est=C3=A1s recibiendo recordatorios sobre =
+invitaciones pendientes. <a style=3D"text-decoration:none;color:#0077B5;" h=
+ref=3D"http://www.linkedin.com/e/v2?e=3D-wrnfjz-htphygka-4a&t=3Dgoo&trackin=
+g=3Deml-comm_invg-f-unsub&ek=3Dinv_exp_19&id=3D20060&gid=3DI6781807769_1&em=
+ail=3Dmiguel%2Epita%40courierpack%2Ecom%2Eve">Date de baja</a></td></tr><tr=
+><td></td></tr><tr><td><table width=3D"1" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"1"   class=3D"email-spacer"><tbody><tr><td><div style=3D"heigh=
+t:10px;font-size:10px;line-height:10px">&nbsp;</div></td></tr></tbody></tab=
+le></td></tr><tr><td>&copy;2014, LinkedIn Corporation. 2029 Stierlin Ct., M=
+ountain View, CA 94043 EE. UU.</td></tr></tbody></table></td></tr><tr><td><=
+table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"   class=
+=3D"email-spacer"><tbody><tr><td><div style=3D"height:20px;font-size:20px;l=
+ine-height:20px">&nbsp;</div></td></tr></tbody></table></td></tr></tbody></=
+table></td></tr></tbody></table></td></tr></tbody></table><img src=3D"http:=
+//www.linkedin.com/emimp/-wrnfjz-htphygka-4a.gif" style=3D"width:1px; heigh=
+t:1px;"/></body></html>
+------=_Part_3222270_597020056.1396859303460--

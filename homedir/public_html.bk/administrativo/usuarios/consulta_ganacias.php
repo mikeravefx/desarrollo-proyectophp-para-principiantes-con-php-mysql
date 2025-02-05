@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>BizGlobal - Compra por Internet con tu CUPO CADIVI - dolar paralelo - El mejor courier - Compras por internet - Transporte maritimo - importacion - comprar en usa</title>
+<META name="verify-v1" content="String_we_ask_for">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+<META HTTP-EQUIV="EXPIRES" CONTENT="0">
+<META NAME="RESOURCE-TYPE" CONTENT="DOCUMENT">
+<META NAME="DISTRIBUTION" CONTENT="GLOBAL">
+<META NAME="AUTHOR" CONTENT="bizglobal.com.ve">
+<META NAME="COPYRIGHT" CONTENT="Copyright (c) by www.bizglobal.com.ve">
+<META NAME="KEYWORDS" CONTENT="dolar paralelo, compras, dolar, compra venta, importacion, precio del dolar,compra y venta,dolar en venezuela, comprar en usa,precio dolar,compras por internet, dólar paralelo,dolar paralelo en venezuela, el dolar,importaciones, precio del dolar paralelo, comprar por internet,dolar cantv,courrier, transporte carga, transporte maritimo, precio dolar paralelo, compras online, courier,courrier, valor del dolar, cupo de cadivi,compras en estados unidos, dolar paralelo venezuela, cupo cadivi, compras en usa">
+<META NAME="DESCRIPTION" CONTENT="Los Mejores Transportando Carga, BIZ">
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+<META NAME="REVISIT-AFTER" CONTENT="1 DAYS">
+<META NAME="RATING" CONTENT="GENERAL">
+<META NAME="TRACKING-DEVELOPER-COPYRIGHT" CONTENT="Ing. Miguel Angel Pita">
+<script language="JavaScript">
+<!--
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+}
+a:link {
+	color: #42679E;
+}
+a:visited {
+	color: #0099CC;
+}
+a:hover {
+	color: #0099CC;
+}
+a:active {
+	color: #0099FF;
+}
+body {
+	background-color: #FFFFFF;
+	margin-left: 0cm;
+	margin-top: 0cm;
+	margin-right: 0cm;
+	margin-bottom: 0cm;
+}
+-->
+</style>
+</head>
+
+<?php
+
+$link = mysql_connect("localhost", "courierp_courier", "hVAC53fjGa7F"); 
+
+mysql_select_db("courierp_miembros", $link);
+
+//$result = mysql_query("SELECT * FROM bizgloba_miembros.tracking WHERE ID = '".$_GET['id_a']."'", $link);
+//
+$result = mysql_query("SELECT * FROM facturas WHERE fecha BETWEEN '".$_POST['fechainicio']."' AND '".$_POST['fechafin']."' order by ID", $link);
+$totalganancias=0;
+$totalvolumen=0;
+$iva_acumulado=0;
+$totalbruto=0;
+
+// //  SELECT * FROM facturas WHERE fecha BETWEEN '01-09-09' AND '23-09-09' order by ID
+if ($row = mysql_fetch_array($result)or die("<b>Error. El servidor dijo: </b> " . mysql_error())){
+echo "<td colspan='2'><div align='center' class='style10'><strong>Consulta de Volumen de Carga, Ganancias Netas y IVA Acumulado entre las fechas ".$_POST['fechainicio']." y ".$_POST['fechafin']."  </strong></div></td>\n";
+echo "<table border = '0' align='center'> \n";
+
+echo "<tr> \n";
+
+
+echo "</tr> \n";
+
+do {
+$float_total= floatval($row["total"]); 
+$totalbruto=($totalbruto+$float_total);
+$float_volumen= floatval($row["volumen"]); 
+$totalvolumen=($totalvolumen+$float_volumen);
+$float_iva= floatval($row["iva"]);
+$iva_acumulado=($iva_acumulado+$float_iva);
+$float_ganacias= floatval($row["ganacia"]);
+$totalganancias=($totalganancias+$float_ganacias);
+
+
+} while ($row = mysql_fetch_array($result));
+
+
+echo "<br>";
+echo "<br>";
+echo "<div align='center' class='style10'>";
+echo "<strong>Total Volumen carga Aerea </strong>:";
+echo $totalvolumen;
+echo "<br>";
+echo "<strong>Total Ganancias</strong>:";
+echo $totalganancias;
+echo "<br>";
+echo "<strong>Total Iva acumulado del Mes </strong>:";
+echo $iva_acumulado;
+echo "<br>";
+echo "<strong>Total Ventas Brutas </strong>:";
+echo $totalbruto;
+echo "<br>";
+echo "<br>";
+echo "</div>";
+echo "</table>";
+echo "</table> \n";
+
+} else {
+
+echo "La base de datos está vacia ";
+
+}
+
+?>
+<div align='center'>
+  <p><img src="bizama.png" width="200" height="75" /></p>
+  <p><font face='verdana' size='-2'><a href='administracion.php'>::Inicio::</a></font> </p>
+</div>
+</body>
+
+</html>

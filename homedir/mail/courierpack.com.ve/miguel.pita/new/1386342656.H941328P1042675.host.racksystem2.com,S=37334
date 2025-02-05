@@ -1,0 +1,793 @@
+Return-path: <bounce-mc.us2_6381894.1384313-miguel.pita=courierpack.com.ve@mail6.atl11.rsgsv.net>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Fri, 06 Dec 2013 10:40:57 -0430
+Received: from mail6.atl11.rsgsv.net ([205.201.133.6]:61196)
+	by host.racksystem2.com with esmtp (Exim 4.80.1)
+	(envelope-from <bounce-mc.us2_6381894.1384313-miguel.pita=courierpack.com.ve@mail6.atl11.rsgsv.net>)
+	id 1Vox3O-004NEc-12
+	for miguel.pita@courierpack.com.ve; Fri, 06 Dec 2013 10:40:56 -0430
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail6.atl11.rsgsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=info=3Dcoolsiteoftheday.com@mail6.atl11.rsgsv.net;
+ bh=3M8hZVoZ7q0FzevzEsecWksnU/c=;
+ b=Tu80GmtKEmvjfrgmfuaIxONEM/QNracLYQh5pnFyXEkspSf/8uDifYJdswiIxR2ZalXpl04u+hmS
+   ojE39n5Ln9wL6ZXxL8ZFn0RRclwJTh0IGbMbXKxcd3PGtk120axv3nBYYQZ1yKgJdWhIyvooKzCL
+   nD8Lt9XQ13JrGH3Y8dM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail6.atl11.rsgsv.net;
+ b=hPna/KL/yMNAFqxuc7N/bURfW8n20dd+BYe8Vbqak5I/yaX1tx5LqA573zjN7Y7nF1WzB01ZN+TI
+   7/GWk+BfWQMUqwBRabtdixNJF4YXU/Qq1cP26r0cP99TEg7gBMx6O9V7UrD2reY8q1gF2LJ1YbsX
+   /UAjZyhPGtXXC/ojlfU=;
+Received: from (127.0.0.1) by mail6.atl11.rsgsv.net id hk7kfs1lgi0j for <miguel.pita@courierpack.com.ve>; Fri, 6 Dec 2013 15:05:15 +0000 (envelope-from <bounce-mc.us2_6381894.1384313-miguel.pita=courierpack.com.ve@mail6.atl11.rsgsv.net>)
+Subject: =?utf-8?Q?As=20promised...your=20web=20marketing=20samurai?=
+From: =?utf-8?Q?Mike=20Corso?= <info@coolsiteoftheday.com>
+Reply-To: =?utf-8?Q?Mike=20Corso?= <info@coolsiteoftheday.com>
+To: =?utf-8?Q?miguel?= <miguel.pita@courierpack.com.ve>
+Date: Fri, 6 Dec 2013 15:05:15 +0000
+Message-ID: <7b23cf154129f233fe39db0009ca090100b.20131206150437@mail6.atl11.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CIDbbfb462ce19ca090100b**
+X-Campaign: mailchimp7b23cf154129f233fe39db000.bbfb462ce1
+X-campaignid: mailchimp7b23cf154129f233fe39db000.bbfb462ce1
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=7b23cf154129f233fe39db000&id=bbfb462ce1&e=9ca090100b
+X-MC-User: 7b23cf154129f233fe39db000
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-7b23cf154129f233fe39db000-bbfb462ce1-9ca090100b@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://coolsiteoftheday.us2.list-manage.com/unsubscribe?u=7b23cf154129f233fe39db000&id=b4c1acbabf&e=9ca090100b&c=bbfb462ce1>
+Sender: "Mike Corso" <info=coolsiteoftheday.com@mail6.atl11.rsgsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_2130735320"
+MIME-Version: 1.0
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  See today's 'Cool Site of the Day'. Click here (http://www.coolsiteoftheday.com/frmindex.html)
+    . Email not displaying correctly? View it in your browser (http://us2.campaign-archive2.com/?u=7b23cf154129f233fe39db000&id=bbfb462ce1&e=9ca090100b)
+    . http://www.coolsiteoftheday.com December 6, 2013 Hi miguel - [...] 
+ 
+ Content analysis details:   (0.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: list-manage1.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 MIME_QP_LONG_LINE      RAW: Quoted-printable line longer than 76 chars
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_2130735320
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+See today's 'Cool Site of the Day'. Click here (http://www.coolsiteoftheda=
+y.com/frmindex.html) .
+------------------------------------------------------------
+Email not displaying correctly?
+View it in your browser (http://us2.campaign-archive2.com/?u=3D7b23cf15412=
+9f233fe39db000&id=3Dbbfb462ce1&e=3D9ca090100b) .
+http://www.coolsiteoftheday.com
+December 6=2C 2013
+Hi miguel -
+
+If you watched my video overview (https://vimeo.com/81158818)  of the basi=
+cs of improving your Google rank=2C you were linked over to my resources p=
+age where Market Samurai was featured.  Well=2C good news=2C until MIDNIGH=
+T tonight=2C you can grab Market Samurai for an UNHEARD OF 50% discount...
+
+Get Market Samurai here:
+
+http://marketsamurai.com/c/mike21-Market-Samurai-WSO-Closing
+
+With over 540=2C539 users of their free version=2C and 76=2C659 customers=
+ using the paid version=2C Market Samurai is probably the most popular pie=
+ce of Internet Marketing software EVER created.
+
+=2E..And right now (with only hours remaining) they're practically giving it=
+ away for a strictly limited time=2C as a "Warrior Forum Special Offer". Y=
+ou don't want to miss out on this exclusive offer!
+
+Here's what others are saying about this Market Samurai offer:
+
+"Don't waste a moment. Don't blink. Don't even take another breath before=
+ you've put your details in. Get it. Now." (Rezbi - Senior Warrior Member=
+ since Oct 2006 - Lancashire=2C United)
+
+"Sounds great. Heard great things about Market Samurai. At this price it i=
+s a steal. I am buying NOW! How about YOU?" (jrahall - Warrior Member sinc=
+e Aug 2005 - USA)
+
+"Heard nothing but good things about this tool from various sources... Sou=
+nds like the deal of the century!" (LeslieZ - Warrior Member since July 20=
+09 - Indiana)
+
+Here's what you get if you take advantage of this deal:
+* You=E2=80=99ll Get Access to Market Samurai=E2=80=99s BRAND NEW secret k=
+eyword weapon=2C that enables you to tap into the highly profitable hidden=
+ sources of FREE Traffic most SEO Pros don=E2=80=99t know exist - even in=
+ today=E2=80=99s hyper competitive online markets.
+* You get a 50% HALF PRICE Discount off the retail price of Market Samurai=
+=2E Given that the retail price of Market Samurai is $149=2C If you take adv=
+antage of this deal you'll be getting the full version of Market Samurai f=
+or just $75!=E2=80=A8Remember=2C they've only ever offered Market Samurai=
+ for Half Price ONCE it=E2=80=99s 5 year history - and that was more than=
+ two years ago.
+
+At just $75 for Market Samurai=2C this deal is an absolute steal. You'll k=
+ick yourself if you miss out on this...
+
+Here's your special offer link again:
+
+http://marketsamurai.com/c/mike21-Market-Samurai-WSO-Closing
+
+Speak soon=2C
+
+Mike Corso
+Cool Site of the Day
+
+P.S. Don't Forget=2C this is an extremely rare =E2=80=98Official=E2=80=99=
+ Market Samurai discount=2C one they've only ever offered once since they=
+ released it 5 years ago in 2008.
+
+=2E..And it EXPIRES at MIDNIGHT tonight.
+
+Get it Here:
+
+http://marketsamurai.com/c/mike21-Market-Samurai-WSO-Closing
+
+
+** ABOUT COOL SITE OF THE DAY
+------------------------------------------------------------
+Cool Site of the Day has been featuring the best of the Internet since 199=
+4! We rely on feedback and submissions from fine folks like yourself. Than=
+ks for being a part of the journey!
+
+See Today's Cool Site (http://www.coolsiteoftheday.com/frmindex.html)
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Copyright =C2=A9 2013 Cool Site of the Day=2C All rights reserved.
+ I'm writing to you because you opted into this list from our form here: h=
+ttp://eepurl.com/gb9af
+
+Our mailing address is:
+Cool Site of the Day
+64 Brevoort Rd
+Chappaqua=2C NY 10514
+USA
+
+ Email Marketing Powered by MailChimp
+http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium_newsletter&=
+utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D7b23cf154129f233fe3=
+9db000&afl=3D1
+** Follow on Twitter (https://www.twitter.com/Mike_Corso/
+
+)
+** Friend on Facebook (https://www.facebook.com/mikecorso
+
+)
+** Forward to Friend (http://us2.forward-to-friend.com/forward?u=3D7b23cf1=
+54129f233fe39db000&id=3Dbbfb462ce1&e=3D9ca090100b)
+** unsubscribe from this list (http://coolsiteoftheday.us2.list-manage.com=
+/unsubscribe?u=3D7b23cf154129f233fe39db000&id=3Db4c1acbabf&e=3D9ca090100b&c=
+=3Dbbfb462ce1)
+** update subscription preferences (http://coolsiteoftheday.us2.list-manag=
+e.com/profile?u=3D7b23cf154129f233fe39db000&id=3Db4c1acbabf&e=3D9ca090100b)
+--_----------=_MCPart_2130735320
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+        <title>As promised...your web marketing samurai</title>
+=09=09
+    <style type=3D"text/css">
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09body{
+=09=09=09width:100% !important;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09body{
+=09=09=09-webkit-text-size-adjust:none;
+=09=09}
+=09=09body{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09line-height:100%;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09table td{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09#bodyTable{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#DEE0E2;
+=09=09}
+=09=09.borderBar{
+=09=09=09background-image:url('http://gallery.mailchimp.com/27aac8a65e64c9=
+94c4416d6b8/images/diagborder.png');
+=09=09=09background-position:top left;
+=09=09=09background-repeat:repeat;
+=09=09=09height:5px !important;
+=09=09}
+=09=09h1{
+=09=09=09color:#3F3A38;
+=09=09=09display:block;
+=09=09=09font-family:Georgia;
+=09=09=09font-size:40px;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2{
+=09=09=09color:#3F3A38;
+=09=09=09display:block;
+=09=09=09font-family:Georgia;
+=09=09=09font-size:24px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3{
+=09=09=09color:#ED5E29;
+=09=09=09display:block;
+=09=09=09font-family:Georgia;
+=09=09=09font-size:16px;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4{
+=09=09=09color:#3F3A38;
+=09=09=09display:block;
+=09=09=09font-family:Georgia;
+=09=09=09font-size:12px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContent{
+=09=09=09color:#505050;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:11px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContent a:link=2C.preheaderContent a:visited=2C.preheaderC=
+ontent a .yshortcuts {
+=09=09=09color:#505050;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#F8F8F8;
+=09=09=09border-top:10px solid #A6BFC9;
+=09=09}
+=09=09.headerContent{
+=09=09=09color:#505050;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:18px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09padding-top:20px;
+=09=09=09padding-right:40px;
+=09=09=09padding-bottom:20px;
+=09=09=09padding-left:40px;
+=09=09=09text-align:left;
+=09=09=09vertical-align:middle;
+=09=09}
+=09=09.headerContent a:link=2C.headerContent a:visited=2C.headerContent a=
+ .yshortcuts {
+=09=09=09color:#505050;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#headerImage{
+=09=09=09height:auto;
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09#templateBody{
+=09=09=09background-color:#F8F8F8;
+=09=09}
+=09=09.upperBodyContent{
+=09=09=09color:#43404D;
+=09=09=09font-family:Georgia;
+=09=09=09font-size:16px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.upperBodyContent a:link=2C.upperBodyContent a:visited=2C.upperBodyC=
+ontent a .yshortcuts {
+=09=09=09color:#ED5E29;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.lowerBodyContent{
+=09=09=09color:#43404D;
+=09=09=09font-family:Georgia;
+=09=09=09font-size:14px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.lowerBodyContent a:link=2C.lowerBodyContent a:visited=2C.lowerBodyC=
+ontent a .yshortcuts {
+=09=09=09color:#ED5E29;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.bodyContent img{
+=09=09=09display:inline;
+=09=09=09height:auto;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#F8F8F8;
+=09=09=09border-bottom:10px solid #A6BFC9;
+=09=09}
+=09=09.footerContent{
+=09=09=09color:#3F3A38;
+=09=09=09font-family:Georgia;
+=09=09=09font-size:12px;
+=09=09=09line-height:150%;
+=09=09=09text-align:center;
+=09=09}
+=09=09.footerContent a:link=2C.footerContent a:visited=2C.footerContent a=
+ .yshortcuts {
+=09=09=09color:#EB4102;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.footerContent img{
+=09=09=09display:inline;
+=09=09}
+=09=09#monkeyRewards img{
+=09=09=09max-width:190px;
+=09=09}
+</style></head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"-webkit-text-size-adjust: none;margin: 0;padd=
+ing: 0;background-color: #DEE0E2;width: 100% !important;">
+    =09<center>
+        =09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=
+=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"margin: 0;padding: 0;ba=
+ckground-color: #DEE0E2;height: 100% !important;width: 100% !important;">
+            =09<tr>
+                =09<td align=3D"center" valign=3D"top" style=3D"padding-bo=
+ttom: 40px;border-collapse: collapse;">
+                    =09<!-- // BEGIN CONTAINER -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"600" id=3D"templateContainer">
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"padding-bottom: 20px;border-collapse: collapse;">
+                                    <!-- // BEGIN PREHEADER -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templatePreheader">
+                                        <tr>
+                                            <td align=3D"center" valign=3D=
+"top" style=3D"padding-top: 10px;padding-bottom: 10px;border-collapse: col=
+lapse;">
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"preheaderContent" style=3D"border-collapse: collapse;color: #505=
+050;font-family: Helvetica;font-size: 11px;line-height: 125%;text-align: l=
+eft;">See today&#39;s &#39;Cool Site of the Day&#39;. Click <a href=3D"htt=
+p://coolsiteoftheday.us2.list-manage.com/track/click?u=3D7b23cf154129f233f=
+e39db000&id=3D9de49d7649&e=3D9ca090100b" target=3D"_self" style=3D"color:=
+ #505050;font-weight: normal;text-decoration: underline;">here</a>.</td>
+                                                        <!--
+ -->
+                                                        <td width=3D"20" s=
+tyle=3D"border-collapse: collapse;">
+                                                            <br>
+                                                        </td>
+                                                        <td valign=3D"top"=
+ width=3D"200" class=3D"preheaderContent" style=3D"border-collapse: collap=
+se;color: #505050;font-family: Helvetica;font-size: 11px;line-height: 125%=
+;text-align: left;">
+                                                            Email not disp=
+laying correctly?<br><a href=3D"http://us2.campaign-archive2.com/?u=3D7b23=
+cf154129f233fe39db000&id=3Dbbfb462ce1&e=3D9ca090100b" target=3D"_blank" styl=
+e=3D"color: #505050;font-weight: normal;text-decoration: underline;">View=
+ it in your browser</a>.
+                                                        </td>
+                                                        <!--
+ -->
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END PREHEADER \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;">
+                                =09<!-- // BEGIN HEADER -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"600" id=3D"templateHeader" style=3D"background-c=
+olor: #F8F8F8;border-top: 10px solid #A6BFC9;">
+                                    =09<tr>
+                                        =09<td align=3D"center" valign=3D"=
+top" style=3D"padding-top: 20px;padding-bottom: 20px;border-collapse: coll=
+apse;">
+                                            =09<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                    <tr>
+                                                        <td class=3D"heade=
+rContent" style=3D"border-collapse: collapse;color: #505050;font-family: H=
+elvetica;font-size: 18px;font-weight: bold;line-height: 100%;padding-top:=
+ 20px;padding-right: 40px;padding-bottom: 20px;padding-left: 40px;text-ali=
+gn: left;vertical-align: middle;">
+                                                            <a href=3D"htt=
+p://coolsiteoftheday.us2.list-manage.com/track/click?u=3D7b23cf154129f233f=
+e39db000&id=3Dbd765e4b2c&e=3D9ca090100b" style=3D"color: #505050;font-wei=
+ght: normal;text-decoration: underline;"><img src=3D"http://gallery.mailch=
+imp.com/7b23cf154129f233fe39db000/images/csotd_logo_high_res_white_600w.2.=
+jpg" alt=3D"" border=3D"0" style=3D"border: px none;border-color: ;border-=
+style: none;border-width: px;height: 142px;width: 500px;margin: 0;padding:=
+ 0;max-width: 600px;line-height: 100%;outline: none;text-decoration: none;=
+" width=3D"500" height=3D"142" id=3D"headerImage campaign-icon"></a>
+                                                        </td>
+                                                    </tr>
+                                                =09<tr>
+                                                        <td class=3D"heade=
+rContent" style=3D"border-collapse: collapse;color: #505050;font-family: H=
+elvetica;font-size: 18px;font-weight: bold;line-height: 100%;padding-top:=
+ 20px;padding-right: 40px;padding-bottom: 20px;padding-left: 40px;text-ali=
+gn: left;vertical-align: middle;"><span style=3D"font-family:tahoma=2Cverd=
+ana=2Csegoe=2Csans-serif;"><font color=3D"#000000"><span style=3D"font-siz=
+e: 12px;"><i>December 6=2C 2013</i></span></font></span></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END HEADER \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;">
+                                =09<!-- // BEGIN BODY -->
+                                =09<table border=3D"0" cellpadding=3D"40"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateBody" style=3D"background-c=
+olor: #F8F8F8;">
+                                    =09<tr>
+                                        =09<td align=3D"center" valign=3D"=
+top" style=3D"padding-top: 20px;padding-bottom: 20px;border-collapse: coll=
+apse;">
+                                            =09<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                =09<tr>
+                                                        <td valign=3D"top"=
+ class=3D"upperBodyContent" style=3D"border-collapse: collapse;color: #434=
+04D;font-family: Georgia;font-size: 16px;line-height: 150%;text-align: lef=
+t;">Hi miguel -
+<p>If you watched <a href=3D"http://coolsiteoftheday.us2.list-manage.com/t=
+rack/click?u=3D7b23cf154129f233fe39db000&id=3Db75805b1c4&e=3D9ca090100b"=
+ target=3D"_self" style=3D"color: #ED5E29;font-weight: normal;text-decorat=
+ion: none;">my video overview</a>&nbsp;of the basics of improving your Goo=
+gle rank=2C you were linked over to my resources page where Market Samurai=
+ was featured. &nbsp;Well=2C good news=2C until MIDNIGHT tonight=2C&nbsp;y=
+ou can grab <strong><u>Market Samurai for an UNHEARD OF 50% discount...</u=
+></strong></p>
+
+<p><u>Get Market Samurai here:</u></p>
+
+<p><a href=3D"http://coolsiteoftheday.us2.list-manage.com/track/click?u=3D=
+7b23cf154129f233fe39db000&id=3Dd5e4ed7927&e=3D9ca090100b" style=3D"color:=
+ #ED5E29;font-weight: normal;text-decoration: none;">http://marketsamurai.=
+com/c/mike21-Market-Samurai-WSO-Closing</a></p>
+
+<p>With over 540=2C539 users of their free version=2C and 76=2C659 custome=
+rs using the paid version=2C Market Samurai is probably the most popular p=
+iece of Internet Marketing software EVER created.</p>
+
+<p>...And right now (with only hours remaining) they&#39;re practically gi=
+ving it away for a strictly limited time=2C as a <strong><u>&quot;Warrior=
+ Forum Special Offer&quot;</u></strong>. You don&#39;t want to miss out on=
+ this exclusive offer!</p>
+
+<p><strong>Here&#39;s what others are saying about this Market Samurai off=
+er:</strong></p>
+
+<p><strong>&quot;Don&#39;t waste a moment.</strong> Don&#39;t blink. Don&#=
+39;t even take another breath before you&#39;ve put your details in. Get i=
+t. Now.&quot; (<em>Rezbi - Senior Warrior Member since Oct 2006 - Lancashi=
+re=2C United</em>)</p>
+
+<p><strong>&quot;Sounds great.</strong> Heard great things about Market Sa=
+murai. At this price it is a steal. I am buying NOW! How about YOU?&quot;=
+ (<em>jrahall - Warrior Member since Aug 2005 - USA</em>)</p>
+
+<p>&quot;Heard nothing but good things about this tool from various source=
+s... <strong>Sounds like the deal of the century!&quot;</strong> (<em>Lesl=
+ieZ - Warrior Member since July 2009 - Indiana</em>)</p>
+
+<p><strong>Here&#39;s what you get if you take advantage of this deal:</st=
+rong></p>
+
+<ul>
+=09<li><strong>You&rsquo;ll Get Access to Market Samurai&rsquo;s BRAND NEW=
+ secret keyword weapon</strong>=2C that enables you to tap into the highly=
+ profitable hidden sources of FREE Traffic most SEO Pros don&rsquo;t know=
+ exist - even in today&rsquo;s hyper competitive online markets.</li>
+=09<li><strong>You get a 50% HALF PRICE Discount off the retail price of M=
+arket Samurai.</strong> Given that the retail price of Market Samurai is $=
+149=2C If you take advantage of this deal you&#39;ll be getting the full v=
+ersion of Market Samurai for just $75!=E2=80=A8Remember=2C they&#39;ve onl=
+y ever offered Market Samurai for Half Price ONCE it&rsquo;s <u>5 year his=
+tory</u> - <em>and that was more than two years ago.</em></li>
+</ul>
+
+<p>At just $75 for Market Samurai=2C <u>this deal is an absolute steal.</u=
+> You&#39;ll kick yourself if you miss out on this...</p>
+
+<p>Here&#39;s your special offer link again:</p>
+
+<p><a href=3D"http://coolsiteoftheday.us2.list-manage1.com/track/click?u=
+=3D7b23cf154129f233fe39db000&id=3Da5b8b3aaf9&e=3D9ca090100b" style=3D"col=
+or: #ED5E29;font-weight: normal;text-decoration: none;">http://marketsamur=
+ai.com/c/mike21-Market-Samurai-WSO-Closing</a></p>
+
+<p>Speak soon=2C<br>
+<br>
+Mike Corso<br>
+Cool Site of the Day</p>
+
+<p><strong>P.S.</strong> Don&#39;t Forget=2C <strong>this is an extremely=
+ rare &lsquo;Official&rsquo; Market Samurai discount</strong>=2C one they&=
+#39;ve only ever offered once since they released it <u>5 years ago in 200=
+8.</u></p>
+
+<p>...And it <strong><u>EXPIRES at MIDNIGHT</u>&nbsp;tonight</strong>.</p>
+
+<p>Get it Here:</p>
+
+<p><a href=3D"http://coolsiteoftheday.us2.list-manage1.com/track/click?u=
+=3D7b23cf154129f233fe39db000&id=3Dc1eb995fba&e=3D9ca090100b" style=3D"col=
+or: #ED5E29;font-weight: normal;text-decoration: none;">http://marketsamur=
+ai.com/c/mike21-Market-Samurai-WSO-Closing</a></p>
+</td>
+                                                    </tr>
+                                                    <tr>
+                                                    =09<td align=3D"center=
+" valign=3D"top" style=3D"padding-top: 40px;border-collapse: collapse;">
+                                                        =09<table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"520">
+                                                            =09<tr>
+                                                                    <td va=
+lign=3D"top" width=3D"180" class=3D"borderBar" background=3D"http://galler=
+y.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png" style=3D"=
+border-collapse: collapse;background-image: url(http://gallery.mailchimp.c=
+om/27aac8a65e64c994c4416d6b8/images/diagborder.png);background-position: t=
+op left;background-repeat: repeat;height: 5px !important;">
+                                                                        <i=
+mg src=3D"http://gallery.mailchimp.com/2425ea8ad3/images/blank.gif" height=
+=3D"5" width=3D"5" style=3D"display: block;border: 0;height: auto;line-hei=
+ght: 100%;outline: none;text-decoration: none;">
+                                                                    </td>
+                                                                    <td wi=
+dth=3D"20" style=3D"border-collapse: collapse;">
+                                                                        <i=
+mg src=3D"http://gallery.mailchimp.com/2425ea8ad3/images/blank.gif" height=
+=3D"5" width=3D"5" style=3D"display: block;border: 0;height: auto;line-hei=
+ght: 100%;outline: none;text-decoration: none;">
+                                                                    </td>
+                                                                    <td va=
+lign=3D"top" width=3D"320" class=3D"borderBar" background=3D"http://galler=
+y.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png" style=3D"=
+border-collapse: collapse;background-image: url(http://gallery.mailchimp.c=
+om/27aac8a65e64c994c4416d6b8/images/diagborder.png);background-position: t=
+op left;background-repeat: repeat;height: 5px !important;">
+                                                                        <i=
+mg src=3D"http://gallery.mailchimp.com/2425ea8ad3/images/blank.gif" height=
+=3D"5" width=3D"5" style=3D"display: block;border: 0;height: auto;line-hei=
+ght: 100%;outline: none;text-decoration: none;">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                =09<td val=
+ign=3D"top" width=3D"180" style=3D"border-collapse: collapse;">
+                                                                    =09<ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                                       =
+ =09<tr>
+                                                                         =
+   =09<td valign=3D"top" class=3D"lowerBodyContent" style=3D"padding-top:=
+ 15px;border-collapse: collapse;color: #43404D;font-family: Georgia;font-s=
+ize: 14px;line-height: 125%;text-align: left;"></td>
+                                                                         =
+   </tr>
+
+                                                                        </=
+table>
+                                                                    </td>
+                                                                    <td wi=
+dth=3D"20" style=3D"padding-top: 15px;border-collapse: collapse;">
+                                                                    =09<br=
+>
+                                                                    </td>
+                                                                    <td va=
+lign=3D"top" width=3D"320" class=3D"lowerBodyContent" style=3D"padding-top=
+: 15px;border-collapse: collapse;color: #43404D;font-family: Georgia;font-=
+size: 14px;line-height: 125%;text-align: left;"><h4 style=3D"color: #3F3A3=
+8;display: block;font-family: Georgia;font-size: 12px;font-weight: bold;li=
+ne-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margi=
+n-bottom: 10px;margin-left: 0;text-align: left;">
+=09<span style=3D"font-size:14px;"><span style=3D"font-family: georgia=2C=
+ serif; ">ABOUT COOL SITE OF THE DAY</span></span></h4>
+<span style=3D"font-size:14px;"><span style=3D"font-family: georgia=2C ser=
+if; "><span style=3D"color: rgb(80=2C 80=2C 80); line-height: 16.666666030=
+88379px; text-align: justify; -webkit-text-size-adjust: auto; background-c=
+olor: rgb(255=2C 255=2C 255); ">Cool Site of the Day has been featuring th=
+e best of the Internet since 1994! We rely on feedback and submissions fro=
+m fine folks like yourself. Thanks for being a part of the journey!&nbsp;<=
+/span></span></span><br>
+<br>
+<a href=3D"http://coolsiteoftheday.us2.list-manage1.com/track/click?u=3D7b=
+23cf154129f233fe39db000&id=3D5690522fa4&e=3D9ca090100b" style=3D"color: r=
+gb(237=2C 94=2C 41);text-decoration: none;font-weight: normal;" target=3D"=
+_blank">See Today&#39;s Cool Site</a></td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END BODY \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;">
+                                =09<!-- // BEGIN FOOTER -->
+                                =09<table border=3D"0" cellpadding=3D"20"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateFooter" style=3D"background=
+-color: #F8F8F8;border-bottom: 10px solid #A6BFC9;">
+                                    =09<tr>
+                                        =09<td align=3D"center" valign=3D"=
+top" style=3D"padding-right: 40px;padding-left: 40px;border-collapse: coll=
+apse;">
+                                            =09<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                    <tr>
+                                                    =09<td valign=3D"top"=
+ class=3D"footerContent" style=3D"border-top: 1px solid #BBBBBB;border-bot=
+tom: 1px solid #BBBBBB;padding-top: 20px;padding-bottom: 20px;border-colla=
+pse: collapse;color: #3F3A38;font-family: Georgia;font-size: 12px;line-hei=
+ght: 150%;text-align: center;">
+                                                        =09<a href=3D"http=
+s://www.twitter.com/Mike_Corso/" style=3D"color: #EB4102;font-weight: norm=
+al;text-decoration: none;">Follow on Twitter</a> | <a href=3D"https://www.=
+facebook.com/mikecorso" style=3D"color: #EB4102;font-weight: normal;text-d=
+ecoration: none;">Friend on Facebook</a> | <a href=3D"http://us2.forward-t=
+o-friend.com/forward?u=3D7b23cf154129f233fe39db000&id=3Dbbfb462ce1&e=3D=
+9ca090100b" style=3D"color: #EB4102;font-weight: normal;text-decoration: none;"=
+>Forward to Friend</a>&nbsp;
+                                                        </td>
+                                                    </tr>
+                                                =09<tr>
+                                                        <td valign=3D"top"=
+ class=3D"footerContent" style=3D"padding-top: 20px;border-collapse: colla=
+pse;color: #3F3A38;font-family: Georgia;font-size: 12px;line-height: 150%;=
+text-align: center;">
+                                                            <em>Copyright=
+ &copy; 2013 Cool Site of the Day=2C All rights reserved.</em>
+                                                            <br>
+ I'm writing to you because you opted into this list from our form here: h=
+ttp://eepurl.com/gb9af
+                                                            <br>
+                                                            <br>
+                                                            <strong>Our ma=
+iling address is:</strong>
+                                                            <br>
+                                                            <div class=3D"=
+vcard"><span class=3D"org fn">Cool Site of the Day</span><div class=3D"adr=
+"><div class=3D"street-address">64 Brevoort Rd</div><span class=3D"localit=
+y">Chappaqua</span>=2C <span class=3D"region">NY</span>  <span class=3D"po=
+stal-code">10514</span></div><br><a href=3D"http://coolsiteoftheday.us2.li=
+st-manage1.com/vcard?u=3D7b23cf154129f233fe39db000&id=3Db4c1acbabf" class=
+=3D"hcard-download">Add us to your address book</a></div>
+                                                            <br>
+                                                            <br>
+                                                        =09
+ <a href=3D"http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium=
+_newsletter&utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D7b23cf1=
+54129f233fe39db000&afl=3D1"><img src=3D"http://cdn-images.mailchimp.com/mo=
+nkey_rewards/MC_MonkeyReward_15.png" border=3D"0" alt=3D"Email Marketing P=
+owered by MailChimp" title=3D"MailChimp Email Marketing" width=3D"139" hei=
+ght=3D"54"></a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                    =09<td valign=3D"top"=
+ class=3D"footerContent" style=3D"padding-top: 20px;border-collapse: colla=
+pse;color: #3F3A38;font-family: Georgia;font-size: 12px;line-height: 150%;=
+text-align: center;">
+                                                        =09<a href=3D"http=
+://coolsiteoftheday.us2.list-manage.com/unsubscribe?u=3D7b23cf154129f233fe=
+39db000&id=3Db4c1acbabf&e=3D9ca090100b&c=3Dbbfb462ce1" style=3D"color: #EB41=
+02;font-weight: normal;text-decoration: none;">unsubscribe from this list<=
+/a> | <a href=3D"http://coolsiteoftheday.us2.list-manage.com/profile?u=3D7=
+b23cf154129f233fe39db000&id=3Db4c1acbabf&e=3D9ca090100b" style=3D"color: #EB=
+4102;font-weight: normal;text-decoration: none;">update subscription prefe=
+rences</a>&nbsp;
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END FOOTER \\ -->
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END CONTAINER \\ -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://coolsiteoftheday.us2.list-manage.com/track/open.php=
+?u=3D7b23cf154129f233fe39db000&id=3Dbbfb462ce1&e=3D9ca090100b" height=3D"=
+1" width=3D"1"></body>
+</html>
+--_----------=_MCPart_2130735320--

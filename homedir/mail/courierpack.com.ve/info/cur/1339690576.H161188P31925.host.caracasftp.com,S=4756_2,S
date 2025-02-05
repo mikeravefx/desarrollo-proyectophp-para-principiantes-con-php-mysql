@@ -1,0 +1,85 @@
+Return-path: <prvs=351221b4d7=ptsemail@samtcatwe0d1.usps.gov>
+Envelope-to: INFO@COURIERPACK.COM.VE
+Delivery-date: Thu, 14 Jun 2012 11:46:16 -0430
+Received: from mailwest2.usps.gov ([56.0.84.22]:61692 helo=gk-w2-email.srvs.usps.gov)
+	by host.caracasftp.com with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.77)
+	(envelope-from <prvs=351221b4d7=ptsemail@samtcatwe0d1.usps.gov>)
+	id 1SfCiV-0008If-I0
+	for INFO@COURIERPACK.COM.VE; Thu, 14 Jun 2012 11:46:16 -0430
+DKIM-Signature: v=1; a=rsa-sha256; d=usps.gov; s=uspsgov0607; c=relaxed/simple;
+	q=dns/txt; i=@usps.gov; t=1339690573; x=1342282573;
+	h=From:Sender:Reply-To:Subject:Date:Message-Id:To:Cc:MIME-Version:Content-Type:
+	Content-Transfer-Encoding:Content-ID:Content-Description:Resent-Date:Resent-From:
+	Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=Z5LIHkekpgFS/9Bf+gJxlWMPDjp3yqXOi0ZydfGnbu0=;
+	b=P42kLk5EP0GuSipU7jBAETV5OM3DRHWZycVuHsLmCBncaoBmQ3C0++8kyQVBYoTB
+	NaLdLeog4mTYQyedHR38NJ4PTeJQafdhglmZgZ2ZMW2Dh7Zw9t06GQJlAgrP9PMY
+	BR1pLI9ZOzVLMsKq48/sQxUfIRjHM/L3lzKR6hWvmSE=;
+Received: from mailrelay-w4i.usps.gov (Unknown_Domain [56.224.66.59])
+	by gk-w2-email.srvs.usps.gov (Sendmail 8.14.3) with SMTP id 0F.4D.16489.D4E0ADF4; Thu, 14 Jun 2012 11:16:13 -0500 (CDT)
+X-AuditID: 38005411-b7f936d000004069-11-4fda0e4dd6ff
+Received: from samtcatwe0d1.usps.gov (samtcatwe0d1.usps.gov [56.224.69.116])
+	by mailrelay-w4i.usps.gov (Symantec Messaging Gateway) with SMTP id F6.DF.14353.D4E0ADF4; Thu, 14 Jun 2012 09:16:13 -0700 (PDT)
+Received: (from pptsemal@localhost)
+	by samtcatwe0d1.usps.gov (8.14.4+Sun/8.13.8/Submit) id q5EGGCHc011061;
+	Thu, 14 Jun 2012 11:16:12 -0500 (CDT)
+Date: Thu, 14 Jun 2012 11:16:12 -0500 (CDT)
+Message-Id: <201206141616.q5EGGCHc011061@samtcatwe0d1.usps.gov>
+X-Authentication-Warning: samtcatwe0d1.usps.gov: pptsemal set sender to ptsemail@samtcatwe0d1.usps.gov using -f
+To: INFO@COURIERPACK.COM.VE
+From: "U.S._Postal_Service_"<U.S._Postal_Service@usps.com>
+Subject: USPS Shipment Info for 0290 1000 4676 7363 4787
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFvrFJMWRmVeSWpSXmKPExsViwRCirevLd8vfYM8WBYtbz96xOjB6dFz4
+	wh7AGMVtk5RYUhacmZ6nb5fAnTGhdT5bwT/OirNLf7A0MC5j72Lk5JAQMJGY+rKJBcIWk7hw
+	bz1bFyMXh5DAfkaJnf3tQA4HWNGpa1kQ8XOMEts2LYEqmsIoMfXQIrBJLALaEt0dsxlBbF4B
+	e4nezXNZIabmS+w5sYsJxBYRkJa4MvU3M4jNJmAlca31ERuILSxgITHz2E2woRIC81glPv+a
+	wgxz0ocl25gmMPItYGRYxSiZnq1bbqSbmpuYmaNXXFRWrFdaXFCsl55ftokREhiCOxj7r+oe
+	YhTgYFTi4b3MestfiDWxrLgy9xCjBAezkghvwI+b/kK8KYmVValF+fFFpTmpxYcYpTlYlMR5
+	4xSv+QsJpCeWpGanphakFsFkmTg4QQSXVAOj8PVJ6WLhvXbuzdNjyx9wB0rHTgk89uNUbmLZ
+	yR3XildoatSmSUe1vbd50WD7ZtEhgyuzD1S4TtkutnGCpOaNmXfezN+y/fNVofTDB+ubpp7Y
+	rvH6lEbYvGfi/eXNm03V74iYz+GSfHT64KuZ0mVxXEKrzm5/3yR3LnTdzi+Kbd02CZHZAnnN
+	SizFGYmGWsxFxYkAf+Hm9g0CAAA=
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFtrPJMWRmVeSWpSXmKPExsVi8cC1RNeX75a/wf650ha3nr1jdWD06Ljw
+	hT2AMYrLJiU1J7MstUjfLoErY0LrfLaCf5wVZ5f+YGlgXMbexcjBISFgInHqWlYXIyeQKSZx
+	4d56ti5GLg4hgXOMEts2LYFypjBKTD20iB2kikVAW6K7YzYjiM0rYC/Ru3kuK0R3vsSeE7uY
+	QGwRAWmJK1N/M4PYbAJWEtdaH7GB2MICFhIzj91km8DItYCRYRWjWG5iZk5Rak5ipW65SaZe
+	aXFBsV56ftkmRrC3nIx3MN57aH6IUYCDUYmH9zLrLX8h1sSy4srcQ4wSHMxKIrwBP276C/Gm
+	JFZWpRblxxeV5qQWH2KU5mBREuc9vmqRv5BAemJJanZqakFqEUyWiYNTqoGxj+XEwRvOChL+
+	NlXaa7eJCT5ru88gzye1IEy9IsdDdjf7cvfCR29kpGsbw627a5zPbfB9XGux8559j/Jvw5/h
+	3g7TH767YhS13stOPHRHfkBnohhnyCwVVVvdTjGHfuUTkc7vnDaf9Dg/e/kJtV2v/UsVg7qW
+	XJPaWv6cvcn61JLNkqtsbJRYijMSDbWYi4oTAb6edzXSAQAA
+X-CFilter-Loop: DLP SM
+
+This is a post-only message. Please do not respond.
+
+MIKE FERNANDEZ has requested that you receive the current Track & Confirm information, as shown below.
+
+Current Track & Confirm e-mail information provided by the U.S. Postal Service.
+
+Label Number: 0290 1000 4676 7363 4787
+
+Shipment Activity        Location                               Date & Time
+--------------------------------------------------------------------------------
+Departed Shipping        UNION CITY CA 94587                    06/12/12  4:47am
+Partner Facility
+
+Electronic Shipping                                             06/13/12 
+Info Received
+
+Arrived Shipping         UNION CITY CA 94587                    06/11/12 11:13pm
+Partner Facility
+
+Picked Up by Shipping    FERNLEY NV 89408                       06/11/12  6:00pm
+Partner
+
+--------------------------------------------------------------------------------
+
+USPS has not verified the validity of any email addresses submitted via its online Track & Confirm tool.
+
+
+For more information, or if you have additional questions on Track & Confirm services and features, please visit the Frequently Asked Questions (FAQs) section of our Track & Confirm site at http://www.usps.com/shipping/trackandconfirmfaqs.htm
+
+
+

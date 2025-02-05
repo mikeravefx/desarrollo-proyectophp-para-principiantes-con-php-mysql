@@ -1,0 +1,57 @@
+[21-Sep-2009 19:32:18] PHP Parse error:  syntax error, unexpected '=' in /home/bizgloba/public_html/noticias/paginacion.php on line 5
+[21-Sep-2009 19:32:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/paginacion.php on line 37
+[21-Sep-2009 19:32:38] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/paginacion.php on line 54
+[21-Sep-2009 19:35:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/paginacion.php on line 37
+[21-Sep-2009 19:35:45] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/paginacion.php on line 54
+[21-Sep-2009 19:37:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/paginacion.php on line 37
+[21-Sep-2009 19:37:57] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/paginacion.php on line 54
+[21-Sep-2009 19:38:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/paginacion.php on line 37
+[21-Sep-2009 19:38:45] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/paginacion.php on line 54
+[21-Sep-2009 19:38:48] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/paginacion.php on line 37
+[21-Sep-2009 19:38:48] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/paginacion.php on line 54
+[21-Sep-2009 21:31:05] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 57
+[21-Sep-2009 21:31:44] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 57
+[21-Sep-2009 21:31:46] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 57
+[21-Sep-2009 21:31:47] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 57
+[21-Sep-2009 21:32:25] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 85
+[21-Sep-2009 21:34:01] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 105
+[21-Sep-2009 21:35:08] PHP Parse error:  syntax error, unexpected '}' in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 131
+[21-Sep-2009 22:09:25] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/bizgloba/public_html/noticias/usuarios.php on line 151
+[21-Sep-2009 22:29:25] PHP Parse error:  syntax error, unexpected $end in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 135
+[21-Sep-2009 22:30:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:30:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:32:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:34:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:36:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:36:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:36:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:38:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:41:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:41:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:41:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:46:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:51:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:52:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:52:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:52:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:52:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 45
+[21-Sep-2009 22:55:06] PHP Parse error:  syntax error, unexpected T_LOGICAL_OR in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 44
+[21-Sep-2009 22:57:52] PHP Parse error:  syntax error, unexpected T_LOGICAL_OR in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 46
+[21-Sep-2009 22:58:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 47
+[21-Sep-2009 22:58:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 47
+[21-Sep-2009 22:59:53] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 46
+[21-Sep-2009 23:00:02] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 46
+[21-Sep-2009 23:00:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 47
+[21-Sep-2009 23:03:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 47
+[21-Sep-2009 23:04:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 48
+[21-Sep-2009 23:07:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 48
+[21-Sep-2009 23:07:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 49
+[21-Sep-2009 23:15:17] PHP Parse error:  syntax error, unexpected T_STRING in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 15
+[21-Sep-2009 23:16:53] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/bizgloba/public_html/noticias/actualiza_usuario.php on line 37
+[22-Sep-2009 08:05:32] PHP Parse error:  syntax error, unexpected '<' in /home/bizgloba/public_html/noticias/usuarios.php on line 1
+[22-Sep-2009 08:09:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'bizgloba'@'localhost' (using password: NO) in /home/bizgloba/public_html/noticias/usuarios.php on line 64
+[22-Sep-2009 08:09:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/bizgloba/public_html/noticias/usuarios.php on line 64
+[22-Sep-2009 08:09:53] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/usuarios.php on line 65
+[22-Sep-2009 08:09:53] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bizgloba/public_html/noticias/usuarios.php on line 203
+[22-Sep-2009 08:31:36] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/bizgloba/public_html/noticias/usuarios.php on line 55
+[22-Sep-2009 08:37:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bizgloba/public_html/noticias/usuarios.php on line 63

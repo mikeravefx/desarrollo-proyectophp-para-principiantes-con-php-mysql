@@ -1,0 +1,176 @@
+Return-path: <info=courierpack.com.ve@bounces.wp.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Tue, 24 Sep 2013 08:55:40 -0430
+Received: from smtp1.iad.wordpress.com ([66.155.9.88]:55603)
+	by host.racksystem2.com with esmtp (Exim 4.80)
+	(envelope-from <info=courierpack.com.ve@bounces.wp.com>)
+	id 1VOSc8-003MLF-3m
+	for info@courierpack.com.ve; Tue, 24 Sep 2013 08:55:21 -0430
+Received: from smtp1.iad.wordpress.com (localhost.localdomain [127.0.0.1])
+	by smtp1.iad.wordpress.com (Postfix) with ESMTP id 08AEDC807F7
+	for <info@courierpack.com.ve>; Tue, 24 Sep 2013 13:25:13 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=wordpress.com; h=date:to
+	:from:subject:message-id:mime-version:content-type; s=my5; bh=A5
+	yxDPwmhvscz9kkWNvWrv+kvkg=; b=lOxbbBCQL7/N0j2tMxe55QTSbNSCGn4z2E
+	yz4EvV8dgBojfMFZ2TJjNc7AqFTyRphI73wtiujintHCAU18TluyOJC1+d6iBTi1
+	1jZkThWDWPkf6h3Ga1BpBITNUHGLl+QWUIUYothi8x04jxOUzSWjJqbIqDHRfB2N
+	vVr9jNldI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=wordpress.com; h=date:to:from
+	:subject:message-id:mime-version:content-type; q=dns; s=my5; b=R
+	ySKCJ6wJ78XwmpP/ADGk+Hk/PP2mYgWZq0ZPMmsmHxNtbJfm/ZE11egEnpKqZZQC
+	MLSpVOkl4RyQZlaE8zkSZzUqwwPi3ATwPzKjZNjACs1uT75mdaTKwBRtO1zF+Avf
+	WY5sPdOkTwUbtmUIpdv+l2OdA2ek0zizMuwENuEXJs=
+Received: from wordpress.com (unknown [66.155.9.55])
+	by smtp1.iad.wordpress.com (Postfix) with ESMTP id 07224C80052
+	for <info@courierpack.com.ve>; Tue, 24 Sep 2013 13:25:13 +0000 (UTC)
+Date: Tue, 24 Sep 2013 13:25:13 +0000
+To: info@courierpack.com.ve
+From: "WordPress.com" <donotreply@wordpress.com>
+Subject: [WordPress.com] Account recovery phone number changed
+Message-ID: <a71bb06e2bf58891bf8985443f7f463b@wordpress.com>
+X-Priority: 3
+X-Automattic-Destination: aW5mb0Bjb3VyaWVycGFjay5jb20udmU=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_a71bb06e2bf58891bf8985443f7f463b"
+
+--b1_a71bb06e2bf58891bf8985443f7f463b
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Account Recovery Changed=0A=0AThe WordPress.com phone number account recove=
+ry options have changed for "miguelpita".=0A=0AIf you did not request this =
+change please contact WordPress.com support, or visit your profile page and=
+ change your password by clicking the following link=0A=0Ahttps://wordpress=
+.com/wp-login.php?login=3Dmiguelpita=0AYou can contact support using the li=
+nk below=0Ahttp://support.wordpress.com/contact/=0ATrouble clicking? Just c=
+opy and paste the URL into a browser
+
+--b1_a71bb06e2bf58891bf8985443f7f463b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgco=
+lor=3D"#DDDDDD"  style=3D"width: 100%; background: #DDDDDD;">=0A=09<tr>=0A=
+=09=09<td>=0A=0A=09=09=09<table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D'center'  class=3D"subscribe-body" width=3D"550" style=3D"wi=
+dth: 100%; padding: 10px;">=0A=09=09=09=09<tr>=0A=09=09=09=09=09<td>=0A=0A=
+=09=09=09=09=09<div style=3D"max-width: 600px; margin: 0 auto;">=0A=09=09=
+=09=09=09=09<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=
+=3D"#ffffff"  class=3D"subscribe-wrapper" style=3D"width: 100%; background-=
+color: #fff; text-align: left; margin: 0 auto; max-width: 1024px; min-width=
+: 320px;">=0A=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09<td>=0A=0A=
+=09=09=09=09=09=09=09=09=09<table width=3D"100%" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" height=3D"8" background=3D"http://s.wordpress.com/=
+i/emails/stripes.gif"  class=3D"subscribe-header-wrap" style=3D"width: 100%=
+; background-image: url( 'http:/s.wordpress.com/i/emails/stripes.gif'); bac=
+kground-repeat: repeat-x; background-color: #43A4D0; height: 8px;">=0A=09=
+=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09<td></td=
+>=0A=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09</tabl=
+e>=0A=0A=09=09=09=09=09=09=09=09=09<table width=3D"100%" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0"  class=3D"subscribe-header" style=3D"width: =
+100%; background-color: #EFEFEF; padding: 0; border-bottom: 1px solid #DDD;=
+">=0A=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<h2 style=3D"padding: 0; margin:=
+ 5px 20px; font-size: 16px; line-height: 1.4em; font-weight: normal; color:=
+ #464646; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-s=
+erif;"  class=3D"subscribe-title">=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09Account Recovery Changed=09=09=09=09=09=09=09=09=09=09=09=09</h2>=0A=09=
+=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09<td =
+style=3D"vertical-align: middle;" height=3D"32" width=3D"32" valign=3D"midd=
+le" align=3D"right">=0A=09=09=09=09=09=09=09=09=09=09=09=09<img border=3D"0=
+" class=3D"head-avatar" src=3D"" alt=3D""  / style=3D"margin: 5px 20px 5px =
+0; vertical-align: middle; vertical-align: middle;">=0A=09=09=09=09=09=09=
+=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09<table style=3D"wid=
+th: 100%;"  width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"20=
+" bgcolor=3D"#ffffff">=0A=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<table styl=
+e=3D"width: 100%;"  border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<td valign=3D"top" style=3D"width: 60px;">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<a style=3D"text-decoration: underline; color: #=
+2585B2;"  href=3D'http://gravatar.com/miguelpita'><img border=3D"0" alt=3D'=
+' src=3D'https://2.gravatar.com/avatar/bbb35a388b0371647aa8bfb4eea65d2a?s=
+=3D60&amp;d=3Dretro&amp;r=3DG' class=3D'avatar avatar-60' height=3D'60' wid=
+th=3D'60' /></a>=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" style=3D"padding: 0 =
+0 0 20px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"font=
+-size: 14px; line-height: 1.4em; color: #444444; font-family: &quot;Helveti=
+ca Neue&quot;, Helvetica, Arial, sans-serif; margin: 0 0 1em 0; margin: 0 0=
+ 20px 0;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09The WordPress.=
+com phone number account recovery options have changed for <strong>miguelpi=
+ta</strong>.=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"font-size: 14px; line-he=
+ight: 1.4em; color: #444444; font-family: &quot;Helvetica Neue&quot;, Helve=
+tica, Arial, sans-serif; margin: 0 0 1em 0; margin: 0 0 20px 0;">=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09If you did not request this chang=
+e please <a style=3D"text-decoration: underline; color: #2585B2;"  href=3D"=
+http://support.wordpress.com/contact/">contact WordPress.com support</a>, o=
+r access your profile page and reset your password by clicking the button b=
+elow:=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<div style=3D"margin: 0 0 20px 0; font-size: 14p=
+x; text-align: center">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+p style=3D"font-size: 14px; line-height: 1.4em; color: #444444; font-family=
+: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; margin: 0 0 1em=
+ 0;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https=
+://wordpress.com/wp-login.php?login=3Dmiguelpita"  style=3D"text-decoration=
+: underline; color: #2585B2; -moz-border-radius: 10em; -webkit-border-radiu=
+s: 10em; border-radius: 10em; border: 1px solid #11729E; text-decoration: n=
+one; color: #fff; text-shadow: 0 1px 0 #11729E; background-color: #2585B2; =
+padding: 5px 15px; font-size: 16px; line-height: 1.4em; font-family: Helvet=
+ica Neue, Helvetica, Arial, sans-serif; font-weight: normal; margin-left: 0=
+; white-space: nowrap;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09Access your account=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</div>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09<=
+/td>=0A=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09</t=
+able>=0A=09=09=09=09=09=09=09=09=09=0A=09=09=09=09=09=09=09=09=09<table bor=
+der=3D"0" cellspacing=3D"0" width=3D"100%" cellpadding=3D"20" bgcolor=3D"#e=
+fefef"  class=3D"subscribe-wrapper-sub" style=3D"width: 100%; background-co=
+lor: #efefef; text-align: left; border-top: 1px solid #dddddd;">=0A=09=09=
+=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09<td class=
+=3D"subscribe-content"  style=3D"border-top: 1px solid #f3f3f3; color: #888=
+; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; fo=
+nt-size: 14px; background: #efefef; margin: 0; padding: 10px 20px 20px;">=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"font-size: 14px; line-he=
+ight: 1.4em; color: #444444; font-family: &quot;Helvetica Neue&quot;, Helve=
+tica, Arial, sans-serif; margin: 0 0 1em 0; font-size: 12px; line-height: 1=
+.4em; margin: 0 0 0 0;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<strong>T=
+rouble clicking?</strong> Copy and paste this URL into your browser: <br />=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<a style=3D"text-decoration: unde=
+rline; color: #2585B2;"  href=3D"https://wordpress.com/wp-login.php?login=
+=3Dmiguelpita">https://wordpress.com/wp-login.php?login=3Dmiguelpita</a>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=09=09=09=09=09=09=09=09=09=09=
+=09</td>=0A=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=
+=09</table>=0A=09=09=09=09=09=09=09=09=09=0A=09=09=09=09=09=09=09=09</td>=
+=0A=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09</table>=0A=0A=09=09=09=
+=09=09=09<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" height=3D"3" background=3D"http://s.wordpress.com/i/emails/stripes.g=
+if"  class=3D"subscribe-footer-wrap" style=3D"width: 100%; background-image=
+: url( 'http://s.wordpress.com/i/emails/stripes.gif'); background-repeat: r=
+epeat-x; background-color: #43A4D0; height: 3px;">=0A=09=09=09=09=09=09=09<=
+tr>=0A=09=09=09=09=09=09=09=09<td></td>=0A=09=09=09=09=09=09=09</tr>=0A=09=
+=09=09=09=09=09</table>=0A=0A=09=09=09=09=09</div>=0A=09=09=09=09=09</td>=
+=0A=09=09=09=09</tr>=0A=09=09=09</table>=0A=0A=09=09=09<table width=3D"100%=
+" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D'center'  class=
+=3D"subscribe-footer" style=3D"width: 100%; padding-bottom: 2em; color: #55=
+5555; font-size: 12px; height: 18px; text-align: center; font-family: &quot=
+;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">=0A=09=09=09=09<tr>=
+=0A=09=09=09=09=09<td align=3D'center'>=0A=09=09=09=09=09<a class=3D"subscr=
+ibe-footer-link"  href=3D"http://wordpress.com" style=3D"text-decoration: u=
+nderline; color: #2585B2; font-size: 14px; color: #555555 !important; text-=
+decoration: none; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial=
+, sans-serif; color: #555 !important; font-size: 14px; text-decoration: non=
+e;">Thanks for flying with <img border=3D"0" src=3D"http://s.wordpress.com/=
+i/emails/wp-footericon.png" alt=3D"" style=3D"vertical-align: middle;" widt=
+h=3D"16" and height=3D"17" /> WordPress.com</a>=09=09=09=09=09</td>=0A=09=
+=09=09=09</tr>=0A=09=09=09</table>=0A=0A=09=09</td>=0A=09</tr>=0A</table>=
+=0A
+
+
+--b1_a71bb06e2bf58891bf8985443f7f463b--
+
+

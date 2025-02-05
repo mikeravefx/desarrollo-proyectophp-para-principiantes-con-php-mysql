@@ -1,0 +1,85 @@
+Return-path: <prvs=6512e4614c=ptsemail@samtcatwe0d0.usps.gov>
+Envelope-to: INFO@COURIERPACK.COM.VE
+Delivery-date: Thu, 14 Jun 2012 11:45:58 -0430
+Received: from mailwest1.usps.gov ([56.0.84.21]:62692 helo=mailwest16.srvs.usps.gov)
+	by host.caracasftp.com with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.77)
+	(envelope-from <prvs=6512e4614c=ptsemail@samtcatwe0d0.usps.gov>)
+	id 1SfCiD-0008Ga-SY
+	for INFO@COURIERPACK.COM.VE; Thu, 14 Jun 2012 11:45:58 -0430
+DKIM-Signature: v=1; a=rsa-sha256; d=usps.gov; s=uspsgov0607; c=relaxed/simple;
+	q=dns/txt; i=@usps.gov; t=1339690555; x=1342282555;
+	h=From:Sender:Reply-To:Subject:Date:Message-Id:To:Cc:MIME-Version:Content-Type:
+	Content-Transfer-Encoding:Content-ID:Content-Description:Resent-Date:Resent-From:
+	Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=UEZrFnZPUlQeDjj1f0cWU2MG7Q7j18FavmUzUZsP1tA=;
+	b=Pfc9Lecc/cqMXikDiXm3k328UNkadsvl/XNseZwU29wAgwWxFvFcN6mrYouX6O/h
+	sD34y2S2fWIb2Nw+kKQSOEtzhJYJgdYDM/VE84BiVEDsPz8AuTAL7c+tdPRgs4cd
+	V4aR2RVRiyiNegNMkbT78cZKjZ7Uroik0PTevY4lYj8=;
+Received: from mailrelay-w4i.usps.gov (Unknown_Domain [56.224.66.59])
+	by mailwest16.srvs.usps.gov (Sendmail 8.14.3) with SMTP id EC.BB.27516.B3E0ADF4; Thu, 14 Jun 2012 11:15:55 -0500 (CDT)
+X-AuditID: 38005410-b7fb26d000006b7c-a7-4fda0e3b001c
+Received: from samtcatwe0d0.usps.gov (samtcatwe0d0.usps.gov [56.224.69.115])
+	by mailrelay-w4i.usps.gov (Symantec Messaging Gateway) with SMTP id 4E.CF.14353.B3E0ADF4; Thu, 14 Jun 2012 09:15:55 -0700 (PDT)
+Received: (from pptsemal@localhost)
+	by samtcatwe0d0.usps.gov (8.14.4+Sun/8.13.8/Submit) id q5EGFrr1000861;
+	Thu, 14 Jun 2012 11:15:53 -0500 (CDT)
+Date: Thu, 14 Jun 2012 11:15:53 -0500 (CDT)
+Message-Id: <201206141615.q5EGFrr1000861@samtcatwe0d0.usps.gov>
+X-Authentication-Warning: samtcatwe0d0.usps.gov: pptsemal set sender to ptsemail@samtcatwe0d0.usps.gov using -f
+To: INFO@COURIERPACK.COM.VE
+From: "U.S._Postal_Service_"<U.S._Postal_Service@usps.com>
+Subject: USPS Shipment Info for 0293 2508 0420 2556 7961
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFvrFJMWRmVeSWpSXmKPExsViwRCiqWvNd8vfoP2RmMWtZ+9YHRg9Oi58
+	YQ9gjOK2SUosKQvOTM/Tt0vgzrg8+wRbwT/Oiskrt7M3MC5k72Lk5JAQMJHYcPE+K4QtJnHh
+	3nq2LkYuDiGBfYwSS7qWscAU7dt8iwUicY5RYt4LmKopjBInHzWzgVSxCGhLLPwxEczmFbCX
+	+DztCDNEd77ExyvfGUFsEQFpiStTf4PF2QSsJK61PgKrFxawkGi6+ZAJZKiEwCxWifvnIBok
+	BKQk5v05xD6BkW8BI8MqRon0bN1y3dTcxMwcveKismK90uKCYr30/LJNjJDAENjBePiW4iFG
+	AQ5GJR7eKuZb/kKsiWXFlbmHGCU4mJVEeAN+3PQX4k1JrKxKLcqPLyrNSS0+xCjNwaIkzhut
+	eM1fSCA9sSQ1OzW1ILUIJsvEwQkiuKQaGH3e2T+Y4CpyRn1aqQKbs4idy47/k63v9gQJxgvp
+	neALM3in2bKxUuNMjPrLCdP3bd0/42PPeWNZjbkrnt06c/id37HfbFIPTt4KkLSY1x1Twit+
+	4gLbk7qq6S9q5mTs5J34/9hb3cgurt9nz5o32Yv0i9pOvNjH+u9E/R/TvTf395tHT7w7f5IS
+	S3FGoqEWc1FxIgCdZUytDQIAAA==
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFjrAJMWRmVeSWpSXmKPExsVi8cC1WNea75a/wd77vBa3nr1jdWD06Ljw
+	hT2AMYrLJiU1J7MstUjfLoEr4/LsE2wF/zgrJq/czt7AuJC9i5GTQ0LARGLf5lssELaYxIV7
+	69m6GLk4hATOMUrMewHjTGGUOPmomQ2kikVAW2Lhj4lgNq+AvcTnaUeYIbrzJT5e+c4IYosI
+	SEtcmfobLM4mYCVxrfURWL2wgIVE082HTBMYuRYwMqxiFMtNzMwpSs1JrNQtN8nUKy0uKNZL
+	zy/bxAj2l5PxDsZ7D80PMQpwMCrx8F5mveUvxJpYVlyZe4hRgoNZSYQ34MdNfyHelMTKqtSi
+	/Pii0pzU4kOM0hwsSuK8x1ct8hcSSE8sSc1OTS1ILYLJMnFwSjUwtly+G1G3+9qGdUoT8x9N
+	sKw6uPD462t3Vj3UzFryTMns7bJXGY8Zl00sKd6QnzLJ8XLvXP1J39/9m+S/uOnd65z+H9JX
+	BBpZox5J12hsXsGrFv3ystL1rWWC9ae0ZTmPPk2TPr/GukLwGGdNl+bybCePdwUzGnoFnW25
+	gtMFI35JmRrt2vfNWYmlOCPRUIu5qDgRABTYgNXTAQAA
+X-CFilter-Loop: SM DLP03-2
+
+This is a post-only message. Please do not respond.
+
+MIKE FERNANDEZ has requested that you receive the current Track & Confirm information, as shown below.
+
+Current Track & Confirm e-mail information provided by the U.S. Postal Service.
+
+Label Number: 0293 2508 0420 2556 7961
+
+Shipment Activity        Location                               Date & Time
+--------------------------------------------------------------------------------
+Departed Shipping        PHOENIX AZ 85043                       06/12/12  3:45am
+Partner Facility
+
+Electronic Shipping                                             06/13/12 
+Info Received
+
+Arrived Shipping         PHOENIX AZ 85043                       06/11/12  6:40pm
+Partner Facility
+
+Picked Up by Shipping    PHOENIX AZ 85043                       06/11/12  6:00pm
+Partner
+
+--------------------------------------------------------------------------------
+
+USPS has not verified the validity of any email addresses submitted via its online Track & Confirm tool.
+
+
+For more information, or if you have additional questions on Track & Confirm services and features, please visit the Frequently Asked Questions (FAQs) section of our Track & Confirm site at http://www.usps.com/shipping/trackandconfirmfaqs.htm
+
+
+

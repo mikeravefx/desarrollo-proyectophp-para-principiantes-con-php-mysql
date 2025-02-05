@@ -1,0 +1,56 @@
+Return-path: <ocmorenoh@yahoo.es>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Thu, 02 Aug 2012 09:52:46 -0430
+Received: from nm2-vm0.bullet.mail.ird.yahoo.com ([77.238.189.199]:41606)
+	by host.caracasftp.com with smtp (Exim 4.77)
+	(envelope-from <ocmorenoh@yahoo.es>)
+	id 1SwwIY-0005Oa-Pb
+	for info@courierpack.com.ve; Thu, 02 Aug 2012 09:52:46 -0430
+Received: from [77.238.189.48] by nm2.bullet.mail.ird.yahoo.com with NNFMP; 02 Aug 2012 14:22:45 -0000
+Received: from [212.82.108.115] by tm1.bullet.mail.ird.yahoo.com with NNFMP; 02 Aug 2012 14:22:45 -0000
+Received: from [127.0.0.1] by omp1024.mail.ird.yahoo.com with NNFMP; 02 Aug 2012 14:22:45 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 842679.88690.bm@omp1024.mail.ird.yahoo.com
+Received: (qmail 11233 invoked by uid 60001); 2 Aug 2012 14:22:45 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1343917365; bh=xNtyYf7sCqq4EcsAZUIC3+3bsgfzMhSCO4pytKParl4=; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=UMPHqIxakH2ReMZTNE6ydVUtdhePAbXOdMKZG5OqDZGqqvA9HY07ZO0ZnVp+VxgP32AQHAPk2gVKoofQo7rpGvkORJSNCNwD6bzKqY1Eo4k6pgZgD/aiVjEk4vg7YkXuCuYk7VeluRFIuVoO99shKLEbTP6+FlPUxCaLPXnT2zQ=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.es;
+  h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=QyDVSmcIrq0qMhBiquir51/ZjVmD1C5uAQ3jRsQ04QWfNsc9YpwuuVa6JOTRrBOA5/PDq1HXKyG6COijhVEOD5KvEmk53qT2C/JbJ0lth5ZE574rD4bssBRAZCJRMbgQCLhJW62x19BE05uYabv4sp9FcFR5qCIfJ5A2b6ZK4jU=;
+X-YMail-OSG: KbMPxM8VM1nmG5COXBeUIX4UrAeUtzGdhkohj8AqZH9kkJX
+ ZxCcwxGZ5m7h61BbcrKCMmxCPsQF2_WiTUOYJitwBOnWER5CSF3TuY1curBJ
+ blB5y0Y0zLKu4Ov0sJOiSGDi7GBZ3FdF5w4n62CYnNzugy7dEdbf6hs3N7nb
+ vMvwq50nZUEC6vMt8qFmGbsO2gesTOUVMrdTxru_1h9kqiT25vQTHRMipPnk
+ br7j8xGLmhqLBix.yRFHpcL7j50bAr7KT5zHLVtxNFfw3sWFfAXjNdE2mif5
+ BQzOEvs21PIz0O7QewzKpDJtItaSGLXt3SsrfWqNA6rYV_cDIUVPVZ1QNhWN
+ ASf5Q766cKJNEuGYCOGuq.AzpZ3ObFz7PH4DWa0T_SGZCBfJ_viz0dyqXSGo
+ jOluV.pe485jJlLEwHJ85AU8XOmJSyEHrwoJqGrtnayBrd4zb
+Received: from [190.37.45.97] by web29702.mail.ird.yahoo.com via HTTP; Thu, 02 Aug 2012 15:22:45 BST
+X-Mailer: YahooMailWebService/0.8.120.356233
+Message-ID: <1343917365.11112.YahooMailNeo@web29702.mail.ird.yahoo.com>
+Date: Thu, 2 Aug 2012 15:22:45 +0100 (BST)
+From: osmarlyn moreno <ocmorenoh@yahoo.es>
+Reply-To: osmarlyn moreno <ocmorenoh@yahoo.es>
+Subject: informacion
+To: "info@courierpack.com.ve" <info@courierpack.com.ve>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="85574732-2014429400-1343917365=:11112"
+
+--85574732-2014429400-1343917365=:11112
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Buenos dias, Saludos!=A0=0A=A0=0APor favor indiquenme el numero de cuenta p=
+ara depositar el costo del envio.=0A=A0=0AAtentamente,=0A=A0=0AOsmarlyn Mor=
+eno.=0ATLF: 0424-9724722
+--85574732-2014429400-1343917365=:11112
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:; background-color:; font-family:times new =
+roman, new york, times, serif;font-size:12pt"><div>Buenos dias, Saludos!&nb=
+sp;</div><div>&nbsp;</div><div>Por favor indiquenme el numero de cuenta par=
+a depositar el costo del envio.</div><div>&nbsp;</div><div>Atentamente,</di=
+v><div>&nbsp;</div><div>Osmarlyn Moreno.</div><div>TLF: 0424-9724722</div><=
+/div></body></html>
+--85574732-2014429400-1343917365=:11112--

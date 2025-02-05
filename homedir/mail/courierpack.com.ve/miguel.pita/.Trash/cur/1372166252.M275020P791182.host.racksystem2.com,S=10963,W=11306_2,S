@@ -1,0 +1,343 @@
+Return-path: <olx-bounce@olx-inc.com>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Tue, 04 Jun 2013 20:33:23 -0430
+Received: from relay1.olx.com ([204.232.252.90]:35480)
+	by host.racksystem2.com with esmtp (Exim 4.80)
+	(envelope-from <olx-bounce@olx-inc.com>)
+	id 1Uk28I-002icU-RT
+	for miguel.pita@courierpack.com.ve; Tue, 04 Jun 2013 20:33:23 -0430
+Received: from relay1.olx.com (localhost [127.0.0.1])
+	by relay1.olx.com (Postfix) with ESMTP id E48597D51E4
+	for <miguel.pita@courierpack.com.ve>; Tue,  4 Jun 2013 21:03:21 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=olx.com; h=date:to:from
+	:reply-to:subject:message-id:mime-version:content-type; s=
+	relay1; bh=a96Hp8Jg9Zn74QMf8T247nlLkII=; b=YtLPihwDdLvGC7AIZEMTu
+	6SzITNwVLrTLP2H4v/h/Dzj94JT4iOO7qQWmhkjChEcH+/sTbdYmXuFGMaeXhQ4q
+	uldy7I5EUWUMLJJxAHtm5yaGYBStX3k/M145z8QUy/eIf77TpcCf3zh87JMMDnyB
+	dW24Rus/shNkjZ7aJln+Ts=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=olx.com; h=date:to:from
+	:reply-to:subject:message-id:mime-version:content-type; q=dns;
+	 s=relay1; b=XSjpKiejnfAClUVaDnQGnbUFhIYhbWsijy8M/r4EsMlnfRzg4gs
+	rkVGFp+pGuWy8Y2elrHgUDfgz/G2hkWISnxKmVKlvtfssKLPSGEZ9tIh1wbeQSkx
+	XWidiaYr+8w6NA2n32lPQP3WrRbq4QOc0q7FSon95ZpTNK15iSc08qVE=
+Date: Tue, 4 Jun 2013 21:03:20 -0400
+To: miguel.pita@courierpack.com.ve
+From: OLX <support@olx.com>
+Reply-to: OLX <support@olx.com>
+Subject: =?utf-8?Q?La_informaci=C3=B3n_solicitada_para_entrar_al_sitio?=
+Message-ID: <dbf8ac96f7af5b732b61b5860745f8d4@relay1.olx.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+Bounces-To: olx-bounce@olx-inc.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_dbf8ac96f7af5b732b61b5860745f8d4"
+
+
+--b1_dbf8ac96f7af5b732b61b5860745f8d4
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+ =20
+  OLX | MAIL TYPE 2 | El usuario clickea en el link Forgot your
+password e ingresa su email=20
+  =20
+ =20
+ =20
+  =20
+  =20
+    =20
+     =20
+     =20
+     =20
+     =20
+     =20
+    =20
+    =20
+     =20
+       =20
+     =20
+    =20
+    =20
+     =20
+     =20
+     =20
+    =20
+    =20
+     =20
+     =20
+      A continuaci=C3=B3n encontrar=C3=A1s la informaci=C3=B3n que
+solicitaste para loguearte. =20
+     =20
+     =20
+    =20
+    =20
+     =20
+     =20
+     =20
+    =20
+    =20
+     =20
+     =20
+     =20
+      =20
+      =20
+       =20
+        =20
+        =20
+       =20
+         Nombre de Usuario courierpack
+        =20
+       =20
+        =20
+        =20
+       =20
+         Contrase=C3=B1a tne5tfqr
+        =20
+       =20
+        =20
+        =20
+        =20
+      =20
+       =20
+     =20
+     =20
+    =20
+    =20
+     =20
+     =20
+     =20
+    =20
+    =20
+     =20
+     =20
+      =C2=A1Gracias por usar OLX! =20
+     =20
+     =20
+    =20
+    =20
+     =20
+     =20
+     =20
+    =20
+    =20
+     =20
+     =20
+     =20
+     =20
+     =20
+    =20
+    =20
+     =20
+     =20
+     =20
+    =20
+    =20
+     =20
+     =20
+       =C2=BFAlguna pregunta? Cont=C3=A1ctanos. No responder a este
+email. =20
+ =C2=BFHas recibido este mensaje en tu carpeta de Spam? A=C3=B1ade
+support@olx.com a tu lista de contactos. =20
+     =20
+     =20
+    =20
+    =20
+     =20
+     =20
+     =20
+    =20
+   =20
+    =20
+    =20
+   =20
+    =20
+    =20
+  =20
+   =20
+=20
+
+
+
+--b1_dbf8ac96f7af5b732b61b5860745f8d4
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" =
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <head>=20
+  <title>OLX | MAIL TYPE 2 | El usuario clickea en el link Forgot your =
+password e ingresa su email</title>=20
+  <meta http-equiv=3D"Content-type" content=3D"text/html; =
+charset=3DUTF-8;" />=20
+ </head>=20
+ <body bgcolor=3D"#FFFFFF" text=3D"#000000" link=3D"#0066CC" =
+style=3D"margin:0; padding:0; background-color:#FFF;">=20
+  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" =
+bgcolor=3D"#FFFFFF" style=3D"max-width:840px; margin:0 auto; =
+background-color:#FFF; font-family:Arial, Helvetica, Sans-Serif; =
+font-size:12px; line-height:normal; color:#000;">=20
+   <tbody>
+    <tr style=3D"font-size:0; line-height:0;">=20
+     <td width=3D"1" height=3D"20"></td>=20
+     <td width=3D"20" height=3D"20"></td>=20
+     <td height=3D"20"></td>=20
+     <td width=3D"20" height=3D"20"></td>=20
+     <td width=3D"1" height=3D"20"></td>=20
+    </tr>=20
+    <tr>=20
+     <td height=3D"60" colspan=3D"2" bgcolor=3D"#0076BE"></td>=20
+     <td height=3D"60" bgcolor=3D"#0076BE"> <a id=3D"site" =
+href=3D"http://www.olx.com.ve?invite=3DCRMforgot-password-VZ_logo&a=3D99&u=
+tm_source=3Dcrm_email&utm_medium=3Demail&utm_content=3Dlogo&utm_campaign=
+=3Dforgot-password" target=3D"_blank"><img id=3D"site_logo" =
+src=3D"http://images01.olx-st.com/images/crm/generic_olx_logo.png" =
+alt=3D"OLX" width=3D"168" height=3D"60" border=3D"0" =
+style=3D"display:block; border:none;" /></a> </td>=20
+     <td height=3D"60" colspan=3D"2" bgcolor=3D"#0076BE"></td>=20
+    </tr>=20
+    <tr style=3D"font-size:0; line-height:0;">=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC"></td>=20
+     <td height=3D"20" colspan=3D"3"></td>=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC"></td>=20
+    </tr>=20
+    <tr>=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC" style=3D"font-size:0; =
+line-height:0;"></td>=20
+     <td width=3D"20"></td>=20
+     <td valign=3D"top"> <span id=3D"lostform.BelowIsThe">A =
+continuaci=C3=B3n encontrar=C3=A1s la informaci=C3=B3n que solicitaste =
+para loguearte.</span> </td>=20
+     <td width=3D"20"></td>=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC" style=3D"font-size:0; =
+line-height:0;"></td>=20
+    </tr>=20
+    <tr style=3D"font-size:0; line-height:0;">=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC"></td>=20
+     <td height=3D"20" colspan=3D"3"></td>=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC"></td>=20
+    </tr>=20
+    <tr>=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC" style=3D"font-size:0; =
+line-height:0;"></td>=20
+     <td width=3D"20" bgcolor=3D"#EEEEEE"></td>=20
+     <td valign=3D"top" bgcolor=3D"#EEEEEE">=20
+      <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=20
+       <tbody>
+        <tr style=3D"font-size:0; line-height:0;">
+         <td height=3D"20"></td>
+        </tr>=20
+        <tr>
+         <td valign=3D"top"><strong id=3D"lostform.Username">Nombre de =
+Usuario</strong> <span id=3D"crm2.username">courierpack</span></td>
+        </tr>=20
+        <tr style=3D"font-size:0; line-height:0;">
+         <td height=3D"20"></td>
+        </tr>=20
+        <tr>
+         <td valign=3D"top"><strong =
+id=3D"lostform.Password">Contrase=C3=B1a</strong> <span =
+id=3D"crm2.password">tne5tfqr</span></td>
+        </tr>=20
+        <tr>
+         <td style=3D"font-size:0; line-height:0;"></td>
+         <td height=3D"20"></td>
+        </tr>=20
+       </tbody>
+      </table> </td>=20
+     <td width=3D"20" bgcolor=3D"#EEEEEE"></td>=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC" style=3D"font-size:0; =
+line-height:0;"></td>=20
+    </tr>=20
+    <tr style=3D"font-size:0; line-height:0;">=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC"></td>=20
+     <td height=3D"20" colspan=3D"3"></td>=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC"></td>=20
+    </tr>=20
+    <tr>=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC" style=3D"font-size:0; =
+line-height:0;"></td>=20
+     <td width=3D"20"></td>=20
+     <td> <span id=3D"mail_crm.ThankYou" =
+style=3D"display:block;">=C2=A1Gracias por usar OLX!</span> </td>=20
+     <td width=3D"20"></td>=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC" style=3D"font-size:0; =
+line-height:0;"></td>=20
+    </tr>=20
+    <tr style=3D"font-size:0; line-height:0;">=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC"></td>=20
+     <td height=3D"20" colspan=3D"3"></td>=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC"></td>=20
+    </tr>=20
+    <tr style=3D"font-size:0; line-height:0;">=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC" style=3D"font-size:0; =
+line-height:0;"></td>=20
+     <td width=3D"20" style=3D"font-size:0; line-height:0;"></td>=20
+     <td height=3D"1" bgcolor=3D"#CCCCCC" style=3D"font-size:0; =
+line-height:0;"></td>=20
+     <td width=3D"20" style=3D"font-size:0; line-height:0;"></td>=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC" style=3D"font-size:0; =
+line-height:0;"></td>=20
+    </tr>=20
+    <tr style=3D"font-size:0; line-height:0;">=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC"></td>=20
+     <td height=3D"20" colspan=3D"3"></td>=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC"></td>=20
+    </tr>=20
+    <tr>=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC" style=3D"font-size:0; =
+line-height:0;"></td>=20
+     <td width=3D"20"></td>=20
+     <td style=3D"color:#666;"> <small style=3D"font-size:11px;"> <a =
+id=3D"mail_crm.HaveQuestionLink" href=3D"http://www.olx.com.ve/help.php?in=
+vite=3DCRMforgot-password-VZ_help&a=3D99&utm_source=3Dcrm_email&utm_medium=
+=3Demail&utm_content=3Dhelp&utm_campaign=3Dforgot-password" =
+target=3D"_blank" style=3D"color:#06C; text-decoration:none;">=C2=BFAlguna =
+pregunta?</a> <a id=3D"mail_crm.ContactUsLink" href=3D"http://www.olx.com.=
+ve/contacts.php?invite=3DCRMforgot-password-VZ_contact_us&a=3D99&utm_sourc=
+e=3Dcrm_email&utm_medium=3Demail&utm_content=3Dcontact_us&utm_campaign=3Df=
+orgot-password" target=3D"_blank" style=3D"color:#06C; =
+text-decoration:none;">Cont=C3=A1ctanos</a>. <span =
+id=3D"mail_crm.DoNotReply">No responder a este email.</span> </small> <br =
+/> <small id=3D"mail_crm.SpamFolderAddOLX" =
+style=3D"font-size:11px;">=C2=BFHas recibido este mensaje en tu carpeta de =
+Spam? A=C3=B1ade <a href=3Dmailto:"support@olx.com" >support@olx.com</a> a =
+tu lista de contactos.</small> </td>=20
+     <td width=3D"20"></td>=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC" style=3D"font-size:0; =
+line-height:0;"></td>=20
+    </tr>=20
+    <tr style=3D"font-size:0; line-height:0;">=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC"></td>=20
+     <td height=3D"20" colspan=3D"3"></td>=20
+     <td width=3D"1" bgcolor=3D"#CCCCCC"></td>=20
+    </tr>=20
+    <tr style=3D"font-size:0; line-height:0;">
+     <td height=3D"1" colspan=3D"5" bgcolor=3D"#CCCCCC" =
+style=3D"font-size:0; line-height:0;"></td>
+    </tr>=20
+    <tr style=3D"font-size:0; line-height:0;">
+     <td height=3D"20" colspan=3D"5"></td>
+    </tr>=20
+   </tbody>
+  </table> =20
+ </body>
+</html>
+<img src=3D"http://www.google-analytics.com/__utm.gif?utmwv=3D5.3.7&utmac=
+=3DUA-2530746-3&utms=3D1&utmn=3D276384331&utmcs=3DUTF-8&utmsr=3D1x1&utmvp=
+=3D1x1&utmsc=3D24-bit&utmul=3Des-mx&utmje=3D0&utmfl=3D11.4%20r402&utmhid=
+=3D1556084628&utmcc=3D__utma%3D18082220.-1129135710.1351890289.1351890289.=
+1351890289.1%3B%2B__utmz%3D18082220.1351890289.1.1.utmcsr%3D(direct)%7Cutm=
+ccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=3Dq~&utmr=3Dcourierpack.com.ve&ut=
+mhn=3Dwww.olx.com.ve&utmp=3DcampaignName%3Dforgot-password%26recipientDoma=
+in%3Dcourierpack.com.ve%26countryUrl%3Dwww.olx.com.ve%26registerdUser%3Dtr=
+ue" />
+
+
+
+--b1_dbf8ac96f7af5b732b61b5860745f8d4--
+
+

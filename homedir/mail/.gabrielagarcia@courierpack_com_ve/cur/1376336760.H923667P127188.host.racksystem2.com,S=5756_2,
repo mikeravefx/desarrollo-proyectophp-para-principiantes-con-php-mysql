@@ -1,0 +1,107 @@
+Return-path: <>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Mon, 12 Aug 2013 15:16:00 -0430
+Received: from smtp05.bis6.us.blackberry.com ([74.82.85.5]:9675)
+	by host.racksystem2.com with esmtp (Exim 4.80)
+	id 1V8y40-000X5D-4z
+	for gabrielagarcia@courierpack.com.ve; Mon, 12 Aug 2013 15:16:00 -0430
+Received: from antispam8.c0.bise5.blackberry ([192.168.0.23])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r7CJjsrX009744
+	for <SRS0=d5jKYI=RW=courierpack.com.ve=gabrielagarcia@srs.bis6.us.blackberry.com>; Mon, 12 Aug 2013 19:45:56 GMT
+X-SBRS: 5.6
+Received: from smtp05.bis6.us.blackberry.com ([74.82.85.5])
+  by antispam8.c0.bise5.blackberry with ESMTP; 12 Aug 2013 19:45:56 +0000
+Received: from localhost by smtp05.bis6.us.blackberry.com;
+  12 Aug 2013 19:45:57 +0000
+Message-Id: <58b8ea$uomadq@smtp5.c0.bise6.blackberry>
+Date: 12 Aug 2013 19:45:57 +0000
+To: SRS0=d5jKYI=RW=courierpack.com.ve=gabrielagarcia@srs.bis6.us.blackberry.com
+From: "Mail Delivery System" <MAILER-DAEMON@smtp5.c0.bise6.blackberry>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="zUMHa.4uyLVVb1E.oIA2a.4PZ+qML"
+
+--zUMHa.4uyLVVb1E.oIA2a.4PZ+qML
+content-type: text/plain;
+    charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <gabyalexa23@gmail.com.ve> was undeliverable.
+The reason for the problem:
+5.4.7 - Delivery expired (message too old) 'DNS Soft Error looking up gmail=
+.com.ve (MX) while asking ns1.google.com. Error was: unable to reach namese=
+rver on any valid IP'
+
+--zUMHa.4uyLVVb1E.oIA2a.4PZ+qML
+content-type: message/delivery-status
+
+Reporting-MTA: dns; smtp5.c0.bise6.blackberry
+
+Final-Recipient: rfc822;gabyalexa23@gmail.com.ve
+Action: failed
+Status: 5.0.0 (permanent failure)
+Diagnostic-Code: smtp; 5.4.7 - Delivery expired (message too old) 'DNS Soft Error looking up gmail.com.ve (MX) while asking ns1.google.com. Error was: unable to reach nameserver on any valid IP' (delivery attempts: 0)
+
+--zUMHa.4uyLVVb1E.oIA2a.4PZ+qML
+content-type: message/rfc822
+
+Received: from unknown (HELO srs.bis6.us.blackberry.com) ([172.29.231.134])
+  by smtp05.bis6.us.blackberry.com with ESMTP; 09 Aug 2013 18:52:55 +0000
+Received: from b17.c4.bise6.blackberry ([192.168.0.117])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r79Ir6U3021596
+	for <gabyalexa23@gmail.com.ve>; Fri, 9 Aug 2013 18:53:06 GMT
+Received: from 172.29.197.203 (cmp33.c4.bise6.blackberry [172.29.197.203])
+	by b17.c4.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id r79Ir40s022678
+	for <gabyalexa23@gmail.com.ve>; Fri, 9 Aug 2013 18:53:04 GMT
+X-rim-org-msg-ref-id: 1952266280
+Message-ID: <1952266280-1376074382-cardhu_decombobulator_blackberry.rim.net-1694798599-@b12.c4.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: gabrielagarcia@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: =?Windows-1252?B?UlY6IE1lcmNhbmPtYSBMdWlzIENvZWxsbw==?=
+To: gabyalexa23@gmail.com.ve
+From: gabrielagarcia@courierpack.com.ve
+Date: Fri, 9 Aug 2013 18:52:47 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+
+DQotLS0tLS1NZW5zYWplIG9yaWdpbmFsLS0tLS0tDQpEZTogTHVpcyBGcmFuY2lzY28gQ29lbGxv
+IE1hcmNhbm8NClBhcmE6IGdhYnJpZWxhZ2FyY2lhQGNvdXJpZXJwYWNrLmNvbS52ZQ0KQXN1bnRv
+OiBSZTogTWVyY2FuY+1hIEx1aXMgQ29lbGxvDQpFbnZpYWRvOiA2IGRlIGFnbyBkZSAyMDEzIDk6
+MTUgQU0NCg0KQnVlbm9zIETtYXMgISBTYWx1ZG9zIEdhYnJpZWxhLi4ucG9yIGFtYXpvbiBiYWpl
+IGxvIHF1ZSBlbGxvcyBsbGFtYW4gZmFjdHVyYSwgbm8gZXN0b3kgc2VndXJvIHF1ZSBzZSBsbyBj
+b3JyZWN0bywgcG9yIGZhdm9yLCDpY2hhbGUgdW4gdmlzdGF6byB0ZSBsbyBlc3RveSBhZGp1bnRh
+bmRvLi4uLmKhZ3JhY2lhcyANCg0KRWwgMiBkZSBhZ29zdG8gZGUgMjAxMyAwOTo0NywgPGdhYnJp
+ZWxhZ2FyY2lhQGNvdXJpZXJwYWNrLmNvbS52ZT4gZXNjcmliafM6DQpCdWVuIGRpYSBzZW5vciBj
+b2VsbG8gc2kgbG8gcmVjb3JkYW1vcyBwZXJmZWN0YW1lbnRlIHBlcm8gYWhvcmEgYm9saXB1ZXJ0
+b3Mgbm9vcyBwaWRlIGZhY3R1cmEgZGUgYXJ0aWN1bG9zIEVudmlhZG8gZGVzZGUgbWkgQmxhY2tC
+ZXJyeSBkZSBNb3Zpc3RhciBGcm9tOiBMdWlzIEZyYW5jaXNjbyBDb2VsbG8gTWFyY2FubyA8bHVp
+cy5jb2VsbG8ubWFyY2Fub0BnbWFpbC5jb20+IERhdGU6IEZyaSwgMiBBdWcgMjAxMyAwOTo0Njow
+NSAtMDQzMCBUbzogR2FicmllbGEgR2FyY2lhIC0gQ291cmllcnBhY2s8Z2FicmllbGFnYXJjaWFA
+Y291cmllcnBhY2suY29tLnZlPiBTdWJqZWN0OiBNZXJjYW5j7WEgTHVpcyBDb2VsbG8gDQpCdWVu
+b3MgRO1hcyAhIKAgU2FsdWRvcyBDb3JkaWFsZXMgR2FicmllbGEgoCBDb21vIHRlIGNvbWVudGUg
+aGFjZSB2YXJpb3MgZO1hcyBwb3IgcmVzcGVjdG8gZW4gbWkgY2FzbyBhIGxvIHF1ZSBmYWx0YWJh
+IGRlbCBlbnbtbyBhbnRlcmlvciB5IGVuIGJhc2WgYSBsYSBhcGVydHVyYSBudWV2YW1lbnRlIGRl
+IGxhIGFkdWFuYSBjdW1wbGllbmRvIGNvbqB0dSBzb2xpY2l0dWQsIHRlIHJlY3VlcmRvIHF1ZSB0
+cmF0YSBkZSAwMqBmcmFzY29zIGRlIHBlcmZ1bWUgQW5haXMgQW5haXMgZGUgMTAwbWwuLi5oaWNl
+IHJlZ2lzdHJvIGVuIHR1IHBvcnRhbCBjb24gZWwgbnVldm8gdHJhY2tpbmcuLi5kZSB0b2RhcyBm
+b3JtYXMgYWPhIHRlIGxvIGNvbG9jbyB0YW1iaeluLi4uZ3JhY2lhc6CgIKAgoERldGFsbGVzIGRl
+bCBjb3JyZW8gZW52aWFkbyBlbCBk7WEgMjUvMDcvMjAxMyCgIFNhbHVkb3MgQ29yZGlhbGVzIEdh
+YnJpZWxhLCBlc3Blcm8gcXVlIGVzdOlzIGJpZW4uLi5hbWF6b24gcmVzcG9uZGnzIGVsIHJlY2xh
+bW8gY29uIHJlc3BlY3RvIGEgbG9zIDAyIHBlcmZ1bWVzIEFuYWlzIEFuYWlzLCBtYXMgYWJham8g
+ZW4gZXN0ZSBjb3JyZW8gZXN04SBsYSByZXNwdWVzdGEsIHlhIGhpY2UgZWwgcmVnaXN0cm8gZW4g
+ZWwgcG9ydGFsIGRlIGNvdXJpZXJwYWNrLi4udGUgYWdyYWRlemNvIGxhIGNvbmZpcm1hY2nzbi4u
+LmdyYWNpYXMgoCBQb3IgZmF2b3IsIHRlbmdhIGVuIGN1ZW50YSBudWVzdHJvcyBkYXRvcyBpbmRp
+Y2FuIHF1ZSBzdSByZWVtcGxhem8gZnVlIGVtaXRpZG8geSBlbnZpYWRvIGVsIDI3LzA2LzIwMTMg
+MVo4Njg1OUVZVzQyMDEwODU2oC4gRWwgc2VndWltaWVudG8gaW5kaWNhIHF1ZSBlbCBlbnbtbyBm
+dWUgcmVjaWJpZG8gZWwgNy81LzIxMyAxMDoxOCBhbS4gUG9yIGZhdm9yLCBw825nYXNlIGVuIGNv
+bnRhY3RvIGNvbiBzdSBjb21wYfHtYSBkZSBleHBlZGljafNuIHBhcmEgb2ZyZWNlcmxlIG3hcyBk
+ZXRhbGxlcyBkZSBzdSBlbnbtbyBhIHN1IGRlc3Rpbm8uIKAgR3JhY2lhcyANCg0KDQpFbnZpYWRv
+IGRlc2RlIG1pIEJsYWNrQmVycnkgZGUgTW92aXN0YXI=
+
+
+--zUMHa.4uyLVVb1E.oIA2a.4PZ+qML--
+
+

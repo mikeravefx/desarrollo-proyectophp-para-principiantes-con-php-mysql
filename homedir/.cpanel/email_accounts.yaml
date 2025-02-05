@@ -1,0 +1,28 @@
+--- 
+__version: '2.1'
+courierpack.com.ve: 
+  account_count: 5
+  accounts: 
+    gabrielagarcia: 
+      disk_mtime: '1403834837'
+      diskquota: 262144000
+      diskused: 136816604
+    ig_losroques: 
+      disk_mtime: '1403834837'
+      diskquota: 104857600
+      diskused: 4713
+    info: 
+      disk_mtime: '1403834837'
+      diskquota: 262144000
+      diskused: 80120259
+    manager: 
+      disk_mtime: '1403834837'
+      diskquota: 262144000
+      diskused: 2507
+    miguel.pita: 
+      disk_mtime: '1403834837'
+      diskquota: 262144000
+      diskused: 60183209
+  disk_mtime: '1403834837'
+  passwd_mtime: '1403834837'
+  quota_mtime: '1403834837'

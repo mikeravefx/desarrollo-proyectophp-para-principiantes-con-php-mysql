@@ -1,0 +1,49 @@
+Return-path: <logistikos.ccs@gmail.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Mon, 25 Feb 2013 16:27:45 -0430
+Received: from mail-lb0-f175.google.com ([209.85.217.175]:41832)
+	by host.caracasftp.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <logistikos.ccs@gmail.com>)
+	id 1UA57I-0002gZ-Te
+	for gabrielagarcia@courierpack.com.ve; Mon, 25 Feb 2013 16:27:45 -0430
+Received: by mail-lb0-f175.google.com with SMTP id n3so2539521lbo.6
+        for <gabrielagarcia@courierpack.com.ve>; Mon, 25 Feb 2013 12:57:43 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:x-received:date:message-id:subject:from:to
+         :content-type;
+        bh=ANYWDEOAzy2re8dUakLKlZ+TZjraPWSjgtxJY0jSWB4=;
+        b=fSqKVUmlD1v9WBn8q3LjNAQ5nyEFvTV/FFEpsnh+68t81KsMMesS6XSuHlFqVO//Dy
+         mNE2vz10zkf5T7Qqc/LOhQv57P7vGtHaMkaPhbIFvc4gdDE2A8WmqRM8BotqvAEXC/Tt
+         EolyTx5cU7pvHjfRvRaKsly35MTyS3xjoNcyOTA6UmaUXprpDfndmdBK71nXsI/tQV6d
+         +vquZKBdOJ2zduhaW+kjN+VJbRq1ZHwYghtqqUcl/x65gHnBAv4Cr71QmlXkXaZflbkn
+         f/FmfBRwZ8jLqj6wPhBFytwFnlvsHhwQUCJQAxQ1WpEQw2AchDlfVKOI62mWPwLNXk/S
+         HJMA==
+MIME-Version: 1.0
+X-Received: by 10.152.104.18 with SMTP id ga18mr11196114lab.33.1361825863594;
+ Mon, 25 Feb 2013 12:57:43 -0800 (PST)
+Received: by 10.112.27.4 with HTTP; Mon, 25 Feb 2013 12:57:43 -0800 (PST)
+Date: Mon, 25 Feb 2013 16:27:43 -0430
+Message-ID: <CAEAj3XBBm-v5FuQgBY-=5Y78-+xxBMO9Nng0BknTM-fAKzTEVw@mail.gmail.com>
+Subject: envio de mercancia
+From: Israel Edgardo E scobar Jaimes <logistikos.ccs@gmail.com>
+To: gabrielagarcia@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=f46d04071061d8723b04d692ca34
+
+--f46d04071061d8723b04d692ca34
+Content-Type: text/plain; charset=ISO-8859-1
+
+Buenas tardes, ante todo permitanme saludarlos, el presente es para
+solicitarles la informacion si ya se envio a el zoom Plaza venezuela mi
+mercancia.
+
+
+Saludos cordiales y atentos a tus comentarios.
+
+--f46d04071061d8723b04d692ca34
+Content-Type: text/html; charset=ISO-8859-1
+
+Buenas tardes, ante todo permitanme saludarlos, el presente es para solicitarles la informacion si ya se envio a el zoom Plaza venezuela mi mercancia.<br><br><br>Saludos cordiales y atentos a tus comentarios.<br>
+
+--f46d04071061d8723b04d692ca34--

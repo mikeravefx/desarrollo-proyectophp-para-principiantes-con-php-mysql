@@ -1,0 +1,133 @@
+Return-path: <2014050605530058b00c972b2e422c93916000ea42cf48@bounces.amazon.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Tue, 06 May 2014 01:23:04 -0430
+Received: from a13-3.smtp-out.amazonses.com ([54.240.13.3]:42368)
+	by host.racksystem2.com with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <2014050605530058b00c972b2e422c93916000ea42cf48@bounces.amazon.com>)
+	id 1WhYJK-003gex-G2
+	for info@courierpack.com.ve; Tue, 06 May 2014 01:23:04 -0430
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=jvxsykglqiaiibkijmhy37vqxh4mzqr6; d=amazon.com; t=1399355580;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=Q6nR7lDLzenRgFk8bk1+IWCDlf08nBaFckFRkv/cyBs=;
+	b=IbfPPCSiGEf/xbT8GoK9FIWAM9AhI+svUo9/f/yHYWD1Z1QX73WPJyesWglLrqJ2
+	peoh0+yF5kWTMqPoRN2iU72gJt0rEhgzKsrHCFbDD8kIHpBUVzBmgYOt4V02FiuB0qv
+	5+rUqadB5JjevGs2v9sTRZRSllLqr97CUlg7SzVo=
+Date: Tue, 6 May 2014 05:53:00 +0000
+From: "Amazon.com" <account-update@amazon.com>
+Reply-To: "account-update@amazon.com" <account-update@amazon.com>
+To: "info@courierpack.com.ve" <info@courierpack.com.ve>
+Message-ID: <00000145d0179f36-3f70c880-6919-477c-9964-8c1f5f624b80-000000@email.amazonses.com>
+Subject: Revision to Your Amazon.com Account
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_3272845_2126218584.1399355580145"
+Bounces-to: 2014050605530058b00c972b2e422c93916000ea42cf48@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.2014050605530058b00c972b2e422c93916000ea42cf48@1399355580147.rte-svc-1e-i-3f9f8445.us-east-1.amazon.com>
+X-SES-Outgoing: 2014.05.06-54.240.13.3
+X-Spam-Status: No, score=-7.6
+X-Spam-Score: -75
+X-Spam-Bar: -------
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Thanks for visiting Amazon.com! Per your request, we have
+    changed the e-mail address associated with your account The e-mail address
+    associated with your account has been changed. The old address was info@courierpack.com.ve.
+    The new address is maryele230@gmail.com. [...] 
+ 
+ Content analysis details:   (-7.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF white-list
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+------=_Part_3272845_2126218584.1399355580145
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3272846_1227855208.1399355580145"
+
+------=_Part_3272846_1227855208.1399355580145
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Thanks for visiting Amazon.com! 
+  Per your request, we have changed the e-mail address associated with your account
+    
+  The e-mail address associated with your account has been changed. The old address was info@courierpack.com.ve. The new address is maryele230@gmail.com.
+    
+    
+  Visit Your Account at Amazon.com to view your orders, make changes to any order that hasn't yet entered the shipping process, update your subscriptions, and much more.
+    
+  Should you need to contact us for any reason, please know that we can give out order information only to the name and e-mail address associated with your account.
+    
+  Thanks again for shopping with us.
+
+
+
+
+------=_Part_3272846_1227855208.1399355580145
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+
+<html>
+<head>
+</head>
+<body>
+
+
+
+
+
+
+
+  <p>
+    Thanks for visiting Amazon.com! 
+    Per your request, we have changed the e-mail address associated with your account
+  </p>
+    
+  <p>The e-mail address associated with your account has been changed. The old address was info@courierpack.com.ve. The new address is maryele230@gmail.com.</p>
+    
+  <p>Visit Your Account at Amazon.com to view your orders, make changes to any order that hasn't yet entered the shipping process, update your subscriptions, and much more.</p>
+    
+  <p>Should you need to contact us for any reason, please know that we can give out order information only to the name and e-mail address associated with your account.</p>
+    
+  <p>Thanks again for shopping with us.</p>
+
+
+
+
+
+</body>
+</html>
+
+
+------=_Part_3272846_1227855208.1399355580145--
+
+------=_Part_3272845_2126218584.1399355580145--

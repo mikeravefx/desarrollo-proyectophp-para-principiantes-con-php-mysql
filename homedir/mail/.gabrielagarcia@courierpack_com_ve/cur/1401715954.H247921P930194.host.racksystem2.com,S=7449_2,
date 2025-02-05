@@ -1,0 +1,123 @@
+Return-path: <mati_karizavar27@yahoo.es>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Mon, 02 Jun 2014 09:02:34 -0430
+Received: from nm17-vm8.bullet.mail.ir2.yahoo.com ([212.82.96.223]:31067)
+	by host.racksystem2.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <mati_karizavar27@yahoo.es>)
+	id 1WrSJt-003tYb-NG
+	for gabrielagarcia@courierpack.com.ve; Mon, 02 Jun 2014 09:02:33 -0430
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1401715832; bh=zJHkhIiwhb/ZEMBu6NkPZ0kIJDsrDD9mbmYjLiGrfOM=; h=Received:Received:Received:DKIM-Signature:X-Yahoo-Newman-Id:X-Yahoo-Newman-Property:X-YMail-OSG:X-Yahoo-SMTP:X-Rocket-Received:Content-Type:MIME-Version:Content-Transfer-Encoding:X-Mailer:Message-ID:Date:Subject:From:In-Reply-To:References:To; b=FpYZtrPEsvWAwnTpfjlSS7AIH5p2PQGAekPGphNq7IQ685N8fmkTP1CmtJ4zquAHy5lgydSBFzEQ7er0hYOGlsLAR5HsTgA+GYzdjQXa0fCP/IX5nxQQgc5n3FkaSAJjoeRUq5ZuU7WesWi4VgGkZkvJkQ8CcSX3iTJqhlPf/A8=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=s1024; d=yahoo.es;
+	b=tvJnMBuQpdwxzt53tLERAsSm2DyjJ/2rvw4gYlioqFI3BcX5mKY9yOf3VJFwF9pgWeevP/MWHbBI+SxnurCyLqO4vUM9Jn/mV1EjXszy6RZsASUeJUXT4ypqPsVeCtIDIz855q+D1tum3w+v2mVt7ypoOxhsjMv5e8m4Ab5Od8Y=;
+Received: from [212.82.98.49] by nm17.bullet.mail.ir2.yahoo.com with NNFMP; 02 Jun 2014 13:30:32 -0000
+Received: from [46.228.39.92] by tm2.bullet.mail.ir2.yahoo.com with NNFMP; 02 Jun 2014 13:30:32 -0000
+Received: from [127.0.0.1] by smtp129.mail.ir2.yahoo.com with NNFMP; 02 Jun 2014 13:30:32 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1401715832; bh=zJHkhIiwhb/ZEMBu6NkPZ0kIJDsrDD9mbmYjLiGrfOM=; h=X-Yahoo-Newman-Id:X-Yahoo-Newman-Property:X-YMail-OSG:X-Yahoo-SMTP:X-Rocket-Received:Content-Type:MIME-Version:Content-Transfer-Encoding:X-Mailer:Message-ID:Date:Subject:From:In-Reply-To:References:To; b=T6KyJb9PTqHLbwrctUuyb8dCWtapDyFdc1RDvhHtnTE1t9AfRTv+V3V5MZTqN1TCLrXEXEULBZ23LFH9qUqOHOEfaS96EdY7Gsi4bprkQ+KmD7IEwXX5ehQz2E7t4iGeJqFCpCgtOd034xSTFdFegi067HF+94P44W1WU+uIysY=
+X-Yahoo-Newman-Id: 502640.60817.bm@smtp129.mail.ir2.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: mJZ9vv4VM1m1ATnWtVO6EZezH5AipJa_2uBSxRFEveFZEJL
+ aF4Y.HH7DQhwGxgtBie7MFLqPjo3KB.MaLsksJaSHK4iFlatG7rc0A.sxPWB
+ GSqI0UaLnsq3.rhJG0lSzL8ri6gBJQG8f3BojFiN.8cx1ewMsLWpR_qF01Va
+ G5jaq4.THBZq08.BtfBhuMtqC4fgi6W8gIFaTyC8KdZ7ovNcWiLSnASHAaRg
+ Dt3eLzSOm7dAl_VmK74X7rz.nEI_W14YROEI7OwBD5S3JgbnQpq34IzVzQRx
+ Jxzl2xdEKKSxIYRWIlBtxmRjI9fceHEUqIQyh7jg5iDxX6Ly0u2oCduF7Ny_
+ gHLUK5cr70OOEhliaRdE7UdIhzFJfdCiyOmbtsqM2W.ZgAT9_.bBuD4VWYi9
+ YJFaXuw9aiO.F7MAiTVYFiFpxSXmBHRo1cuXp0xqAEFHGQvGSUV6p1kmIsbe
+ Fs77rdiisFWWmr7oPLkrhGKqvtr8DjEP7wyfFob6Ba8h_D_aQJcTqHWLrLIe
+ 2dpor.2kWjOMD5HDR8D9MVP5M1hiB8yxkwFKG
+X-Yahoo-SMTP: UyyeOhWswBCCMFnp_OT6qq5JQAGC932GjBxMviI-
+X-Rocket-Received: from [127.0.0.1] (mati_karizavar27@186.94.102.21 with xymcookie [98.138.86.130])
+        by smtp129.mail.ir2.yahoo.com with SMTP; 02 Jun 2014 13:30:32 +0000 UTC
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: BlackBerry Email (10.2.1.2174)
+Message-ID: <20140602133030.5865616.20398.792@yahoo.es>
+Date: Mon, 02 Jun 2014 09:00:30 -0430
+Subject: Re: CPK
+From: mati_karizavar27@yahoo.es
+In-Reply-To: <870185993-1400612299-cardhu_decombobulator_blackberry.rim.net-546785059-@b3.c4.bise6.blackberry>
+References: <2033489266-1400562258-cardhu_decombobulator_blackberry.rim.net-1334623864-@b3.c4.bise6.blackberry>
+ <20140520184445.5890194.14824.660@yahoo.es>
+ <870185993-1400612299-cardhu_decombobulator_blackberry.rim.net-546785059-@b3.c4.bise6.blackberry>
+To: gabrielagarcia@courierpack.com.ve
+X-Spam-Status: No, score=
+X-Spam-Score: 
+X-Spam-Bar: 
+X-Ham-Report: 
+X-Spam-Flag: NO
+
+Hola buen d=C3=ADa Gabriela perdona que te importune, y que sea por lo mism=
+o, ya yo se que tu est=C3=A1s en Sidunea, pero te escribo porque quiero sab=
+er que pas=C3=B3 con el env=C3=ADo de la micro sd=E2=80=8E, esperando tu re=
+ceptividad, quedo de ti.
+
+Atte.=C2=A0
+
+Matiosca Izaguirre=C2=A0
+
+Enviado desde mi smartphone BlackBerry 10.
+=C2=A0 Mensaje original =C2=A0
+De: Gabriela Garcia Agente de envios
+Enviado: martes, 20 de mayo de 2014 14:28
+Para: mati_karizavar27@yahoo.es
+Responder a: gabrielagarcia@courierpack.com.ve
+Asunto: Re: CPK
+
+Entiendo perfectamente madre, pero como te dije no estoy con eso.. Manana s=
+e te enviara de esa manera muchas gracias. Pero no se asegurara la tarjeta =
+xq no aseguran documentos
+CourierPack.
+
+-----Original Message-----
+From: mati_karizavar27@yahoo.es
+Date: Tue, 20 May 2014 14:14:45=20
+To: <gabrielagarcia@courierpack.com.ve>
+Subject: Re: CPK
+
+Buenas tardes Gabriela, perdoname pero molesta la actitud de no contestar e=
+l tel=C3=A9fono, y darme respuesta efectiva a mi requisici=C3=B3n llevo 3 m=
+eses tratando de comunicarme y nada que me atiende, una sola vez pude habla=
+r con el Sr. Pita; por otra parte la otra vez escrib=C3=AD directamente =E2=
+=80=8Een la p=C3=A1gina y nunca me respondieron, no estoy poniendo en duda =
+la reputaci=C3=B3n de CourierPack, te reitero lo dicho anteriormente los re=
+comiendo por ser responsables es por eso que me ha extra=C3=B1ado que no me=
+ han enviado la tarjeta, por eso me pregunto si era necesario llegar a mole=
+starme para poder recibir una respuesta acertiva de parte de Uds. Porque da=
+ba lo mismo que lo que me respondieron ayer por mi tarjeta me lo hubiesen r=
+espondido hace mes y medio, dos meses que se yo, as=C3=AD mismo te doy una =
+idea para que me la manden metanla en un sobre con un poco de hojas blanca =
+como si fuera un documento y me la env=C3=ADan, disculpame si te sentiste o=
+fendida pero que puedes esperar de como est=C3=A9 yo si no hab=C3=ADa recib=
+ido una respuesta acertiva de parte de Uds. Ponte en mi lugar, no es lo que=
+ vale la tarjeta xq si te pones a ver por all=C3=A1 no costo nada, es porqu=
+e se necesita sino tan sencillamente no la hubiese comprado, y yo no creo q=
+ue si fuese al rev=C3=A9s, que fueses t=C3=BA la que estuvieras en mi situa=
+ci=C3=B3n no estuvieras molesta y errar es de humano.
+
+Enviado desde mi smartphone BlackBerry 10.
+=C2=A0 Mensaje original =C2=A0
+De: Gabriela Garcia Agente de envios
+Enviado: martes, 20 de mayo de 2014 00:34
+Para: mati_karizavar27@yahoo.es
+Responder a: gabrielagarcia@courierpack.com.ve
+Asunto: CPK
+
+Hola Matioska, como ya te he dicho en varias oprtunidades, yo no estoy en a=
+lmacen, estoy con SIDUNEA y desconozco por completo que mercancia entra y s=
+ale x ende no sabria decirte que paso con eso...=20
+Por otro lado... Pongo en duda tu palabra completamente respecto a tu cu=C3=
+=B1ado ya que a el Sr Marcos Mogollon se le hizo entrega total de sus artic=
+ulos ya que fui yo misma la que trabajo con sus numero de guias Siendo el, =
+el grosero hasta de trancarme una llamada telefonica explicandole el proced=
+imiento de como cargar una orden en nuestro sistema.. Que hubo un peque=C3=
+=B1o retraso si correctamente algo que se escapa de mis manos pero no se le=
+ perdio nada ya que no se pierde nunca con CPK asi que Matioska te agradezc=
+o que respetes un poco la integridad de CourierPack por que somos una empre=
+sa con 12 a=C3=91os en el mercado lideres en los altos mirandinos, y de ver=
+dad el estar donde estamos nos ha costado demasiado para que personas como =
+tu y una tarjeta DS digan que sienten verguenza. Asi que nuevamente te agra=
+dezco..=20
+Sin mas nada que decir.... Me despido.
+CourierPack.

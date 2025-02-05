@@ -1,0 +1,325 @@
+head	1.20;
+access;
+symbols;
+locks
+	courierp:1.20; strict;
+comment	@# @;
+
+
+1.20
+date	2014.03.11.21.14.14;	author courierp;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2013.11.07.05.34.12;	author courierp;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2013.11.07.05.33.50;	author courierp;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2013.11.07.05.33.50;	author courierp;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2013.09.24.21.41.29;	author courierp;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2012.05.14.02.41.04;	author courierp;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2012.05.14.02.37.55;	author courierp;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2012.05.14.02.37.55;	author courierp;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2012.04.18.23.35.35;	author courierp;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2012.04.18.23.35.30;	author courierp;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2009.11.05.04.09.53;	author courierp;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2009.11.05.03.38.35;	author courierp;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2009.11.05.03.38.34;	author courierp;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2009.09.09.14.52.53;	author courierp;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2009.09.04.16.56.08;	author courierp;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2009.08.15.02.57.58;	author courierp;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2009.08.15.02.57.58;	author courierp;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2009.08.15.02.42.29;	author courierp;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2009.08.15.02.42.29;	author courierp;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.07.14.00.54.09;	author courierp;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.20
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@info:$1$rC8KTkiu$pFXvyTyqLoQu5Gk2K5IL2.:14439::::::
+manager:$1$TwRkiCQI$CFec6jp6UaqZEx1lo5Oxv/:14471::::::
+miguel.pita:$1$68ppnkUK$kLhlvyHnZ4loynAnw6qhQ.:14491::::::
+gabrielagarcia:$1$vDPiaPTj$H74LdkA4fb3Lti44cCBh4/:15474::::::
+ig_losroques:$1$rfvxVKrC$1jmOBh6EwFSbKyHP66o9V/:15972::::::
+@
+
+
+1.19
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a5 1
+gabriela:$1$hhUKnqvq$qZXyMBuZaU22czDUk/VWG/:16016::::::
+@
+
+
+1.18
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a3 1
+denuncias:$1$ksxmc99d$ZhuGNBCwMBS0Y70m9W0mP1:15474::::::
+@
+
+
+1.17
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d7 1
+@
+
+
+1.16
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+info:$1$MPRcWUrW$g4Pm3VNlf/iszrUIvQ82J.:14439::::::
+d5 1
+a5 1
+gabrielagarcia:$1$zy1_27AI$z3r63xOrltquyH.XpaAKc1:15474::::::
+@
+
+
+1.15
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d6 1
+@
+
+
+1.14
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+@
+
+
+1.13
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.12
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+info:$1$JZxcAWYZ$B42nWCY/bry.tR392L5Rz0:14439::::::
+d3 1
+a3 1
+miguel.pita:$1$MzUpRxQT$SLCNFbrkTCy1wh6dsqbeN1:14491::::::
+@
+
+
+1.11
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a3 1
+nvelazquez:$1$O1mBuDdp$sD7gYsqXx9NiB8QPtP.7l1:14553::::::
+@
+
+
+1.10
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+info:$1$bVSzj0O2$LOqslb8Gms7c/s7fieHr.1:14439::::::
+d4 1
+a4 1
+nvelazquez:$1$vbyTc0TE$HF1bZCpMnq58m.N0/xwjz/:14553::::::
+@
+
+
+1.9
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a2 1
+salesmanager:$1$4ikDpAS5$HQ6dSwnrA.LEDLsmG3oMD0:14471::::::
+@
+
+
+1.8
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+info:$1$U_FdQ0Wr$GOA5BDIgFJY2t4dWmL6zk1:14439::::::
+@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+info:$1$tM9wxbHK$2PKfVF.k/2WQrz20/MpRg0:14439::::::
+d4 1
+a4 1
+miguel.pita:$1$L4PNEcoj$9t49RxQsEQ9n04umPp9n80:14491::::::
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+info:$1$BMyoROhn$GDJ6D3t84Mrrqz2gDRVTz1:14439::::::
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+info:$1$YqgwbNmJ$mGX4kqnMgIrDOm1E2OWkE1:14439::::::
+@

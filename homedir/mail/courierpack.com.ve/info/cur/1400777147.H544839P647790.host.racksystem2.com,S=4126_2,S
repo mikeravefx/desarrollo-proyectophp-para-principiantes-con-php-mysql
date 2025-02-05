@@ -1,0 +1,86 @@
+Return-path: <gabyalexa23@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Thu, 22 May 2014 12:15:47 -0430
+Received: from mail-wg0-f46.google.com ([74.125.82.46]:51461)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <gabyalexa23@gmail.com>)
+	id 1WnW7l-002iVn-Iw
+	for info@courierpack.com.ve; Thu, 22 May 2014 12:15:47 -0430
+Received: by mail-wg0-f46.google.com with SMTP id n12so3675571wgh.29
+        for <info@courierpack.com.ve>; Thu, 22 May 2014 09:45:44 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=vnwg2jY1jDQdjD9EFLBFDssz10G4mFGFuZkx+5s1zNE=;
+        b=FpRJZQhUfyHlihYXtTzlIWwKeS0sRmlo7X8aDKjHehlfMWT0Pg0jbj/5DijRG35gYP
+         lEUZhL7uP1rPIJgDfopBQ/b0y9v3vsDmdBpawCplv6N4aYWyCIbz9Z2e7k+zo7vqXA7i
+         PbBjrVG8ubqZqq5Op5CmFrQ8Bo/zs09EwNQ9LqCZ5pYorShvLHe0ejPqopp981AdUTUE
+         YZDFxgPisXltkBCoAOMV3Xa4PnLNsnmbCvcEQdzRdtxaiROxNJidpSHmzfxBeEjYuHuE
+         MQdCSXJdne1FrQ7+1w/Dpc/MQ95t/uGX454zMGVTuoMafsq2PJuN96dbkE/ghhC3coJc
+         i0lw==
+MIME-Version: 1.0
+X-Received: by 10.194.7.232 with SMTP id m8mr51688617wja.47.1400777144674;
+ Thu, 22 May 2014 09:45:44 -0700 (PDT)
+Received: by 10.194.124.12 with HTTP; Thu, 22 May 2014 09:45:44 -0700 (PDT)
+Date: Thu, 22 May 2014 12:15:44 -0430
+Message-ID: <CAGYt5dSUvw_sVt-h_hcdH2am1-1kcSeTFUctxGr0E+hpB_ubQA@mail.gmail.com>
+Subject: MASTERCARD
+From: Gabriela A Garcia P <gabyalexa23@gmail.com>
+To: Aduanair Atencion Cliente <info@aduanaircargo.com>, info@courierpack.com.ve, m_pita@hotmail.com
+Content-Type: multipart/alternative; boundary=047d7b5d327c1e76a804f9ffd8cd
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Gaby, te paso los datos de la tarjeta pasala manana, si la
+    pasas hoy no creo que se haga efectivo igual prueba a ver. pasala por 183$
+    y dime cuanto resta de las guias. 5401 3930 1361 2695 valida= 05-16 MIGUEL
+    A PITA F codigo de seguridad 111 MASTER CARD [...] 
+ 
+ Content analysis details:   (0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (gabyalexa23[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (gabyalexa23[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--047d7b5d327c1e76a804f9ffd8cd
+Content-Type: text/plain; charset=UTF-8
+
+Gaby, te paso los datos de la tarjeta pasala manana, si la pasas hoy no
+creo que se haga efectivo igual prueba a ver.
+
+pasala por 183$ y dime cuanto resta de las guias.
+
+5401 3930 1361 2695
+valida= 05-16
+MIGUEL A PITA F
+codigo de seguridad 111
+MASTER CARD
+
+--047d7b5d327c1e76a804f9ffd8cd
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Gaby, te paso los datos de la tarjeta pasala manana, si la=
+ pasas hoy no creo que se haga efectivo igual prueba a ver.<div><br></div><=
+div>pasala por 183$ y dime cuanto resta de las guias.</div><div><br></div>
+<div>5401 3930 1361 2695</div><div>valida=3D 05-16</div><div>MIGUEL A PITA =
+F=C2=A0</div><div>codigo de seguridad 111</div><div>MASTER CARD</div></div>
+
+--047d7b5d327c1e76a804f9ffd8cd--

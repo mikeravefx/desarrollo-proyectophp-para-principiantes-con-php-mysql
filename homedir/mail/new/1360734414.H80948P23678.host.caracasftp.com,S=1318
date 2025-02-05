@@ -1,0 +1,29 @@
+Return-path: <>
+Envelope-to: courierp@host.caracasftp.com
+Delivery-date: Wed, 13 Feb 2013 01:16:54 -0430
+Received: from mailnull by host.caracasftp.com with local (Exim 4.80)
+	id 1U5VBF-00069o-TD
+	for courierp@host.caracasftp.com; Wed, 13 Feb 2013 01:16:53 -0430
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@host.caracasftp.com>
+To: courierp@host.caracasftp.com
+Subject: Warning: message 1U4PGY-0003Rh-R9 delayed 72 hours
+Message-Id: <E1U5VBF-00069o-TD@host.caracasftp.com>
+Date: Wed, 13 Feb 2013 01:16:53 -0430
+
+This message was created automatically by mail delivery software.
+A message that you sent has not yet been delivered to one or more of its
+recipients after more than 72 hours on the queue on host.caracasftp.com.
+
+The message identifier is:     1U4PGY-0003Rh-R9
+The subject of the message is:  Bienvenido a Nuestra Familia de Clientes Satisfechos
+The date of the message is:    Sun, 10 Feb 2013 00:45:50 -0430
+
+The address to which the message has not yet been delivered is:
+
+  ronaldo_2380@homail.com
+
+No action is required on your part. Delivery attempts will continue for
+some time, and this warning may be repeated at intervals if the message
+remains undelivered. Eventually the mail delivery software will give up,
+and when that happens, the message will be returned to you.

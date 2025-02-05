@@ -1,0 +1,146 @@
+Return-path: <c-vasb=pbhevrecnpx.pbz.ir-3fd03@postmaster.twitter.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Thu, 10 May 2012 15:26:52 -0430
+Received: from ham-cannon.twitter.com ([199.59.148.232]:37726)
+	by host.caracasftp.com with esmtp (Exim 4.77)
+	(envelope-from <c-vasb=pbhevrecnpx.pbz.ir-3fd03@postmaster.twitter.com>)
+	id 1SSZTn-0004Gk-HR
+	for info@courierpack.com.ve; Thu, 10 May 2012 15:26:52 -0430
+X-DKIM: Sendmail DKIM Filter v2.8.2 258549111.twitter.com 159F53338966
+DKIM-Signature: v=1; a=rsa-sha1; c=simple/simple; d=twitter.com; s=dkim;
+	t=1336679810; i=@twitter.com; bh=+1POc44m421YmDlASnOLgp/Yz6s=;
+	h=Date:From:Reply-To:To:Subject:Mime-Version:Content-Type;
+	b=huzeVr5bocXiHyQ1RMKk9YsJ7c5cngU5l+qH+MjA3NuYHqwSosDN+H8aMdBsrbXuM
+	 X7coA3cMdRCrSFBMxcuJAh1iUAoOiFt97is+JRweZ7NgsTs/OWGK3jPA4Q6zVyOwWE
+	 mHm7qxyjf+i/Y6wVva/pc8ZMMo7wZPwJrJyWK1ig=
+X-DomainKeys: Sendmail DomainKeys Filter v1.0.2 258549111.twitter.com 159F53338966
+DomainKey-Signature: a=rsa-sha1; s=default; d=twitter.com; c=simple; q=dns;
+	h=date:from:reply-to:to:subject:mime-version:content-type:
+	x-campaignid:x-twitterimpressionid:errors-to:bounces-to;
+	b=iNIBNY00uvqP9IKOGfdbIaceCTfj0mgp8ZqlX4GnzU9xf5ERBSdM5mSe53HRt/fRy
+	KFZAggLq1//CtIoeDsLNA==
+Date: Thu, 10 May 2012 19:56:50 +0000
+From: Twitter <c-vasb=pbhevrecnpx.pbz.ir-3fd03@postmaster.twitter.com>
+Reply-To: noreply@postmaster.twitter.com
+To: info@courierpack.com.ve
+Message-Id: <4fac1d8214c66_29f4e9e829499951c@258549111.twitter.com.tmail>
+Subject: =?utf-8?Q?=c2=a1Confirma_tu_cuenta_de_Twitter=2c_courierpack=21?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=mimepart_4fac1d82150c9_29f4e9e82949996fd
+X-Campaignid: twitter20080313004044
+X-Twitterimpressionid: am-111949529413366798100504700
+Errors-To: Twitter <c-vasb=pbhevrecnpx.pbz.ir-3fd03@postmaster.twitter.com>
+Bounces-To: Twitter <c-vasb=pbhevrecnpx.pbz.ir-3fd03@postmaster.twitter.com>
+
+
+--mimepart_4fac1d82150c9_29f4e9e82949996fd
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: Quoted-printable
+Content-Disposition: inline
+
+Hola, courierpack.
+
+Por favor, confirma tu cuenta Twitter haciendo click en este enlace:
+https://twitter.com/account/confirm_email/courierpack/8CAH5-76GF3-133667
+
+Una vez confirmado, tendr=C3=A1s acceso total a Twitter y todas las notif=
+icaciones futuras ser=C3=A1n enviadas a esta direcci=C3=B3n de email.
+
+
+- El Equipo de Twitter
+
+
+ Si recibiste este mensaje por error y no te registrastes para una cuenta=
+ de Twitter, haz click en el enlace de abajo:
+
+https://twitter.com/account/not_my_account/courierpack/8CAH5-76GF3-133667=
+
+
+Por favor, no respondas a este mensaje; fue enviado desde una direcci=C3=B3=
+n de correo electr=C3=B3nico no motorizada. Este mensaje es un servicio d=
+e correo electr=C3=B3nico relacionado con tu uso de Twitter. Para consult=
+as generales o para solicitar asistencia con tu cuenta de Twitter, por fa=
+vor, contacta con el soporte de Twitter visitando: http://support.twitter=
+.com/
+
+
+--mimepart_4fac1d82150c9_29f4e9e82949996fd
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: Quoted-printable
+Content-Disposition: inline
+
+<html>
+<body lang=3D"es" style=3D"background-color:#fff; color: #222">
+  <div style=3D"padding:14px; margin-bottom:4px; background-color:#008eb9=
+; -moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px">
+    <a style=3D"color:#FFF" href=3D"https://twitter.com/?from=3Demailhead=
+er&iid=3Dam-111949529413366798100504700&nid=3D18&uid=3D576527407"><img al=
+t=3D"Twitter" height=3D"24" src=3D"http://a0.twimg.com/a/1336623207/image=
+s/twttr_bird_hd-008eb9.gif" style=3D"display:block;border: 0;" width=3D"1=
+30" /></a>
+  </div>
+  <div style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-ser=
+if; font-size:13px; margin: 14px; position:relative">
+    <h2 style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-se=
+rif;margin:0 0 16px; font-size:18px; font-weight:normal">Hola, courierpac=
+k.</h2>
+
+<p>
+Por favor, confirma tu cuenta Twitter haciendo click en este enlace:<br/>=
+
+
+<a href=3D"https://twitter.com/account/confirm_email/courierpack/8CAH5-76=
+GF3-133667?iid=3Dam-111949529413366798100504700&nid=3D18&uid=3D576527407"=
+>https://twitter.com/account/confirm_email/courierpack/8CAH5-76GF3-133667=
+</a>
+</p>
+
+<p>
+  Una vez confirmado, tendr=C3=A1s acceso total a Twitter y todas las not=
+ificaciones futuras ser=C3=A1n enviadas a esta direcci=C3=B3n de email.
+</p>
+
+<p style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;f=
+ont-size: 13px; line-height:18px;border-bottom: 1px solid rgb(238, 238, 2=
+38); padding-bottom: 10px; margin: 0 0 10px;">
+    <span style=3D"font: italic 13px Georgia,serif; color: rgb(102, 102, =
+102);">El Equipo de Twitter</span>
+  =
+
+</p>
+
+
+  <p style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif=
+;margin-top:5px;font-size:10px;color:#888888;">
+         Si recibiste este mensaje por error y no te registrastes para un=
+a cuenta de Twitter, haz click <a href=3D'https://twitter.com/account/not=
+_my_account/courierpack/8CAH5-76GF3-133667?iid=3Dam-111949529413366798100=
+504700&nid=3D18&uid=3D576527407'>esta cuenta no es m=C3=ADa</a>.
+
+  </p>
+
+
+  <p style=3D"font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif=
+;margin-top:5px;font-size:10px;color:#888888;">
+    =
+
+    Por favor, no respondas a este mensaje; fue enviado desde una direcci=
+=C3=B3n de correo electr=C3=B3nico no monitorizada. Este mensaje es un se=
+rvicio de correo electr=C3=B3nico relacionado con tu uso de Twitter. Para=
+ informaci=C3=B3n general o para solicitar ayuda con tu cuenta de Twitter=
+, por favor vis=C3=ADtanos en <a href=3D"https://support.twitter.com/">So=
+porte de Twitter</a>.
+  </p>
+
+
+
+<img width=3D"1" height=3D"1" style=3D"display: block;" src=3D"https://tw=
+itter.com/scribes/ibis?iid=3Dam-111949529413366798100504700&amp;nid=3D18&=
+amp;uid=3D576527407" />
+
+
+  </div>
+</body>
+</html>
+
+--mimepart_4fac1d82150c9_29f4e9e82949996fd--

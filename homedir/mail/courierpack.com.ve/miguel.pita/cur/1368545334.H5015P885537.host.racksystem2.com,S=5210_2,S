@@ -1,0 +1,84 @@
+Return-path: <gabyalexa23@gmail.com>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Tue, 14 May 2013 10:58:54 -0430
+Received: from mail-ie0-f179.google.com ([209.85.223.179]:55177)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <gabyalexa23@gmail.com>)
+	id 1UcH9p-003iL0-F5
+	for miguel.pita@courierpack.com.ve; Tue, 14 May 2013 10:58:53 -0430
+Received: by mail-ie0-f179.google.com with SMTP id c13so1282551ieb.24
+        for <miguel.pita@courierpack.com.ve>; Tue, 14 May 2013 08:28:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=x-received:x-rim-org-msg-ref-id:message-id
+         :content-transfer-encoding:reply-to:x-priority:sensitivity
+         :importance:subject:to:from:date:content-type:mime-version;
+        bh=8E0HQkHqMyHmomMymmKa8yNqsic3tIhc9jqU3GPUhb8=;
+        b=BwmeBjYlZq9Y3l8Ki48O8vAOzGpJichrq72U2KssDPA/xEJwur8ZP6rOov9KBuPv0u
+         wJAesSJUaJHQs4gJxxlRuhUx7JqF4Y4L4yIzM0B/mff/p5fyFf2DCe+D7zlJ0Z2u8SMv
+         0XFmS2OUsCyY8Q8m1gpXadzr29sApg8X3AdQnOFfNWOCeP4MRI4EegLjJbZS7dszSdc2
+         95YR1vCmK0jPfl5dpkwwxBXbClMD3ZntNWGwxnDTf1XQO/8ic9Q10f6cfa+8Svwy7HMG
+         TzY+oemGDxt2Io1zL5cQZoJC8qOu5VRZd4t/t72iggp5Sd0lkcMgFKl+fYVWk11rypGS
+         eVlA==
+X-Received: by 10.50.72.18 with SMTP id z18mr2471998igu.0.1368545329591;
+        Tue, 14 May 2013 08:28:49 -0700 (PDT)
+Received: from 172.29.197.204 (bda-74-82-80-64.bis6.us.blackberry.com. [74.82.80.64])
+        by mx.google.com with ESMTPSA id wx2sm25901835igb.4.2013.05.14.08.28.47
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Tue, 14 May 2013 08:28:48 -0700 (PDT)
+X-rim-org-msg-ref-id:884657366
+Message-ID:<884657366-1368545326-cardhu_decombobulator_blackberry.rim.net-1993393828-@b1.c4.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: gabyalexa23@gmail.com
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: RV: FedEx Shipment 942570772504947 Delivered
+To: "Miguel A Pita" <mikeravefx@yahoo.es>,"miguel.pita@courierpack.com.ve" <miguel.pita@courierpack.com.ve>
+From: gabyalexa23@gmail.com
+Date: Tue, 14 May 2013 15:28:44 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+
+DQpFbnZpYWRvIGRlc2RlIG1pIEJsYWNrQmVycnkgZGUgTW92aXN0YXINCg0KLS0tLS1PcmlnaW5h
+bCBNZXNzYWdlLS0tLS0NCkZyb206IHRyYWNraW5ndXBkYXRlc0BmZWRleC5jb20NCkRhdGU6IFR1
+ZSwgMTQgTWF5IDIwMTMgMTA6MDY6MTIgDQpUbzogPGdhYnlhbGV4YTIzQGdtYWlsLmNvbT4NClJl
+cGx5LVRvOiB0cmFja2luZ21haWxAZmVkZXguY29tDQpTdWJqZWN0OiBGZWRFeCBTaGlwbWVudCA5
+NDI1NzA3NzI1MDQ5NDcgRGVsaXZlcmVkDQoNCl9fX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fDQoNCkxh
+IGFjdHVhbGl6YWNp824gZGUgcmFzdHJlbyBoYSBzaWRvIHNvbGljaXRhZGEgcG9yOg0KDQpOb21i
+cmU6ICAgICAgICAgICAgICAgICAgICAgICAgIEFub255bW91cw0KQ29ycmVvIEVsZWN0cvNuaWNv
+OiAgICAgICAgICAgICBub3JlcGx5QGZlZGV4LmNvbQ0KX19fX19fX19fX19fX19fX19fX19fX19f
+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18N
+Cg0KTnVlc3Ryb3MgcmVnaXN0cm9zIGluZGljYW4gcXVlIGVsIHNpZ3VpZW50ZSBlbnbtbyAgaGEg
+c2lkbyBlbnRyZWdhZG86DQoNCklkZW50aWZpY2FjafNuIGRlbCBlbnbtbzogICAgICAgOTQyNTcw
+NzcyNTA0OTQ3DQpGZWNoYSBkZSByZWNvbGVjdGEgZGUgZW527W86ICAgIDEwIG1heSAyMDEzDQpG
+ZWNoYSBkZSBlbnRyZWdhOiAgICAgICAgICAgICAgIDE0IG1heSAyMDEzIDExOjA0DQpUaXBvIGRl
+IHNlcnZpY2lvOiAgICAgICAgICAgICAgIEZlZEV4IEhvbWUgRGVsaXZlcnkNClRpcG8gZGUgZW1w
+YXF1ZTogICAgICAgICAgICAgICAgUGFja2FnZQ0KTvptZXJvIGRlIHBpZXphczogICAgICAgICAg
+ICAgICAxDQpQZXNvOiAgICAgICAgICAgICAgICAgICAgICAgICAgIDksOTAgbGIuDQoNCk76bWVy
+byBkZSByYXN0cmVvOiAgICAgICAgICAgICAgOTQyNTcwNzcyNTA0OTQ3DQoNCkluZm9ybWFjafNu
+IGRlbCByZW1pdGVudGU6ICAgICAgICAgICAgIEluZm9ybWFjafNuIGRlbCBkZXN0aW5hdGFyaW86
+DQpCcmFzZWx0b24gICAgICAgICAgICAgICAgICAgICAgICAgICAgICBET1JBTA0KR0EgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRkwNClVTICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIFVTDQoNClBvciBmYXZvciwgbm8gcmVzcG9uZGEgYSBlc3RlIG1lbnNh
+amUuIEVzdGEgY2FydGEgaGEgc2lkbyBlbnZpYWRhIGRlIHVuICBidXrzbiBkZSBjb3JyZW8NCmRl
+c2F0ZW5kaWRvLiBFc3RlIGluZm9ybWUgaGEgc2lkbyBnZW5lcmFkbyBhcHJveGltYWRhbWVudGUg
+YSBsYXMgMTA6MDYgICBVVEMtNQ0KZWwgMTQvMDUvMjAxMy4NCg0KUGFyYSBvYnRlbmVyIG3hcyBp
+bmZvcm1hY2nzbiBzb2JyZSBGZWRFeCBHcm91bmQsIHZpc2l0ZSBudWVzdHJhIHDhZ2luYSB3ZWIg
+IGVuIGZlZGV4LmNvbS4NCg0KVG9kb3MgbG9zIHBlc29zIHNvbiBhcHJveGltYWRvcy4NCg0KUGFy
+YSByZWFsaXphciB1biByYXN0cmVvIGRlbCBlc3RhZG8gZGUgZXN0ZSBlbnbtbyBlbiBs7W5lYSwg
+cG9yIGZhdm9yLCB1dGlsaWNlICBlbCBzaWd1aWVudGUgbGluazoNCmh0dHBzOi8vd3d3LmZlZGV4
+LmNvbS9pbnNpZ2h0L2ZpbmRpdC9ucnAuanNwP3RyYWNrbnVtYmVycz05NDI1NzA3NzI1MDQ5NDcm
+bGFuZ3VhZ2U9ZXMmb3Bjbz1GREVHJmNsaWVudHlwZT1pdnBvZGFscnQNCg0KTGEgYWN0dWFsaXph
+Y2nzbiBkZSByYXN0cmVvIGxlIGhhIHNpZG8gZW52aWFkYSBwb3IgRmVkRXgsIGEgc29saWNpdHVk
+IGRlICBsYQ0KcGFydGUgYW50ZXMgbWVuY2lvbmFkYS4gRmVkRXggbm8gY29udmFsaWRhIGxhIGF1
+dGVudGljaWRhZCBkZWwgc29saWNpdGFudGUgIHkgbm8NCmNvbnZhbGlkYSwgZ2FyYW50aXphIG5p
+IGFzZWd1cmEgbGEgYXV0ZW50aWNpZGFkIGRlIGxhIHNvbGljaXR1ZCwgZGVsIG1lbnNhamUNCmRl
+bCBzb2xpY2l0YW50ZSBuaSBsYSBwcmVjaXNp824gZGUgZXN0YSBhY3R1YWxpemFjafNuIGRlIHJh
+c3RyZW8uIFBhcmEgdmVyDQpsb3MgcmVzdWx0YWRvcyBkZWwgcmFzdHJlbyB5IGxvcyB06XJtaW5v
+cyBkZSB1c28gZGUgZmVkZXguY29tLCBpciBhIGZlZGV4LmNvbS4NCg0KR3JhY2lhcyBwb3Igc3Ug
+aW50ZXLpcy4NCg==
+

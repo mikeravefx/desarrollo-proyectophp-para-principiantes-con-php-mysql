@@ -1,0 +1,138 @@
+Return-path: <>
+Envelope-to: courierp@host.caracasftp.com
+Delivery-date: Fri, 14 Sep 2012 12:11:26 -0430
+Received: from mailnull by host.caracasftp.com with local (Exim 4.77)
+	id 1TCYxJ-000155-Sl
+	for courierp@host.caracasftp.com; Fri, 14 Sep 2012 12:11:26 -0430
+X-Failed-Recipients: juiliocgarcia4@hotmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@host.caracasftp.com>
+To: courierp@host.caracasftp.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TCYxJ-000155-Sl@host.caracasftp.com>
+Date: Fri, 14 Sep 2012 12:11:25 -0430
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  juiliocgarcia4@hotmail.com
+    SMTP error from remote mail server after RCPT TO:<juiliocgarcia4@hotmail.com>:
+    host mx2.hotmail.com [65.55.92.152]: 550 Requested action not taken:
+    mailbox unavailable
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <courierp@host.caracasftp.com>
+Received: from courierp by host.caracasftp.com with local (Exim 4.77)
+	(envelope-from <courierp@host.caracasftp.com>)
+	id 1TCYxI-00014y-E4
+	for juiliocgarcia4@hotmail.com; Fri, 14 Sep 2012 12:11:24 -0430
+To: juiliocgarcia4@hotmail.com
+Subject: Gracias por realizar el Registro de su Orden:
+X-PHP-Script: www.courierpack.com.ve/track.php for 190.121.238.141
+From: info@courierpack.com.ve
+Content-type: text/html
+Message-Id: <E1TCYxI-00014y-E4@host.caracasftp.com>
+Date: Fri, 14 Sep 2012 12:11:24 -0430
+
+<html> <head>
+<style type='text/css'>
+<!--
+.style1 {color: #333333}
+.style2 {color: #FF6600}
+.style98 {font-style: italic}
+.style100 {font-style: italic}
+.style105 {font-style: italic}
+.style106 {font-style: italic}
+.style112 {font-size: 12px; color: #333333;}
+.style113 {font-size: 12px}
+.style115 {color: #333333; font-weight: bold; }
+.style116 {color: #FF0000}
+-->
+</style>
+</head>  <body style='background:#FFFFFF;font-size:12px;font-family:Verdana, Arial, Helvetica, sans-serif;color:#42679E;'> 
+<em>
+<html> 
+<head>  
+</em>
+<title> '..' </title>  
+<em>
+<style type='text/css'>
+<!--
+.style1 {
+	font-size: 9px;
+	font-weight: bold;
+}
+.style3 {color: #FFFFFF}
+-->
+</style>
+</head>  
+<body style='background:#FFFFFF;font-size:12px;font-family:Verdana, Arial, Helvetica, sans-serif;color:#333333;'> 
+</em>
+<p>&nbsp;</p>  
+<table width='754' border='0'>
+  <tr>
+    <td width='562' bgcolor='#FFFFFF' class='style98'><div align='center' class='style112'><img src='http://www.courierpack.com.ve/images/kubrickheader.jpg' alt='' width='380' height='138'></div></td>
+    <td width='182' bgcolor='#FFFFFF'><span class='style112'><b>Caracas, '.14-09-12.'</b></span></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFFFF' class='style100'><div align='right' class='style112'>Estimado(a):</div></td>
+    <td bgcolor='#FFFFFF'><span class='style112'><b>juiliocgarcia4@hotmail.com</b></span></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFFFF'>&nbsp;</td>
+    <td bgcolor='#FFFFFF'>&nbsp;</td>
+  </tr>
+  <tr>
+    <td bordercolor='#AAD2FF' bgcolor='#AAD2FF' class='style113'><p align='justify' class='style115'>Gracias por Registrar su Orden.</p>
+      <p align='justify' class='style1'><span style='color:#42679E;font-size:10pt;'><span class='style115'>Tracking de su orden USA:</span> <b class='style2'><i>103-9680846-1731451</b></i><br>
+          <span class='style115'>Status de su orden en USA: </span><b class='style2'><i>Delivered</b></i><br>
+        <span class='style115'>Empresa de Envio:</span><b class='style2'><i>UPS</b></i><br>
+        <span class='style115'>Recibido en Almacen:</span><b><i><span class='style2'>19-09-12</span></b></i><br>
+        <span class='style1'><strong>Su Guia de Carga es: </strong></span><b class='style2'><i><span class='style116'>394a8c572</span></b></i><br>
+        <span class='style115'>La Fecha de entrega estimada:</span><b><i> <span class='style2'>10-10-12</span></b></i></span></p>
+      <p align='justify' class='style1'><strong>Verifique Sus datos personales, si observa algun error recuerde</strong> <a href='http://www.courierpack.com.ve/actualizar.php'>actualizarlos</a> </p>
+      <p align='justify' class='style1'><br>
+          <strong>Correo:   <i> <span class='style2'>juiliocgarcia4@hotmail.com</span><br>
+        Nombre: <span class='style2'><i>Julio Garcia / CPK</span><br>
+        Cedula y/o Rif :<i> <span class='style2'>21251065</span><br>
+        Responsable de la carga: <i><span class='style2'>Julio Garcia</span><br>
+        Direccion: <i><span class='style2'>Alta Vista Norte. Av. Las Americas Parque residencial la llovizna.</span></strong><br>
+        <strong>Direccion Alternativa:</strong><strong><span class='style2'>Urb. Villa Asia Carrera la india.</span></strong><br>
+        </b></i>Tel&eacute;fono Fijo:<i><span class='style2'>02869629109</span><br>
+        Tel&eacute;fono Celular: <i><span class='style2'>04148820353</span><br>
+        </strong><br>
+        Si desea registrar una nueva orden hagalo <a href='http://www.courierpack.com.ve/cargar_ordenes.php'>aqui</a> </p>
+      <p align='justify' class='style1'><br>
+        Recuerde que los datos mostrados a continuaci&oacute;n, son estrictamente confidenciales y se usaran para efectos de facturaci&oacute;n, consolidaci&oacute;n y nacionalizaci&oacute;n de carga.</p>
+      <p align='justify' class='style1'><br>
+        <a href='contacto.html'><br>
+        </a></p></td>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF' class='style105'><div align='center' class='style112'><img src='http://www.courierpack.com.ve/images/mundocourierpack.jpg' alt='courier internacional puerta a puerta' width='174' height='172'></div></td>
+  </tr>
+  <tr>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF' class='style106'><div align='center' class='style112'>
+      <p class='style1'><a href='www.courierpack.com.ve'>Sencillamente marcamos la diferencia en transporte internacional de carga </a><br>
+  Copyright &copy; 2006 - 2009. Todos los derechos reservados, CourierPack &reg; Consulting C.A.</span></p>
+    </div></td>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'>&nbsp;</td>
+  </tr>
+  <tr>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF' class='style113'><br>
+    <p align='justify' style='color:#333333;' >&nbsp;</p></td>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'>&nbsp;</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+<p><html>
+</body>  </html>&nbsp;</p>
+<p></p>  
+<p align='justify' style='color:#42679E;font-size:12pt;' ><em><b><br>
+    <br>
+</b>
+</em>
+</body>  
+</html>

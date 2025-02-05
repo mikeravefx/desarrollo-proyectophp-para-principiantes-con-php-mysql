@@ -1,0 +1,99 @@
+Return-path: <>
+Envelope-to: courierp@host.caracasftp.com
+Delivery-date: Sun, 09 Sep 2012 14:55:16 -0430
+Received: from mailnull by host.caracasftp.com with local (Exim 4.77)
+	id 1TAn87-00062H-A5
+	for courierp@host.caracasftp.com; Sun, 09 Sep 2012 14:55:15 -0430
+X-Failed-Recipients: simon-71160@hotmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@host.caracasftp.com>
+To: courierp@host.caracasftp.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1TAn87-00062H-A5@host.caracasftp.com>
+Date: Sun, 09 Sep 2012 14:55:15 -0430
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  simon-71160@hotmail.com
+    SMTP error from remote mail server after RCPT TO:<simon-71160@hotmail.com>:
+    host mx3.hotmail.com [65.55.92.184]: 550 Requested action not taken:
+    mailbox unavailable
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <courierp@host.caracasftp.com>
+Received: from courierp by host.caracasftp.com with local (Exim 4.77)
+	(envelope-from <courierp@host.caracasftp.com>)
+	id 1TAn86-000629-Ab
+	for simon-71160@hotmail.com; Sun, 09 Sep 2012 14:55:14 -0430
+To: simon-71160@hotmail.com
+Subject:  Bienvenido a Nuestra Familia de Clientes Satisfechos
+X-PHP-Script: www.courierpack.com.ve/registrado.php for 190.78.53.57
+From: info@courierpack.com.ve.com.ve
+Content-type: text/html
+Message-Id: <E1TAn86-000629-Ab@host.caracasftp.com>
+Date: Sun, 09 Sep 2012 14:55:14 -0430
+
+<html> <head>  <title>  </title>  
+<style type='text/css'>
+<!--
+.style1 {
+	font-size: 9px;
+	font-weight: bold;
+}
+-->
+</style>
+</head>  
+<body style='background:#FFFFFF;font-size:12px;font-family:Verdana, Arial, Helvetica, sans-serif;color:#333333;'> <p>&nbsp;</p>  
+<table width='754' border='0'>
+  <tr>
+    <td width='562' bgcolor='#FFFFFF'><div align='center'><img src='http://www.courierpack.com.ve/images/kubrickheader.jpg' alt='' width='380' height='138'></div></td>
+    <td width='182' bgcolor='#FFFFFF'><b>Caracas, 9-09-12</b></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFFFF'><div align='right'><span style='color:#333333;font-size:12pt;'>Estimado(a):</span></div></td>
+    <td bgcolor='#FFFFFF'><b>simon quintero</b></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFFFF'>&nbsp;</td>
+    <td bgcolor='#FFFFFF'>&nbsp;</td>
+  </tr>
+  <tr>
+    <td bordercolor='#AAD2FF' bgcolor='#AAD2FF'><p align='justify'><span style='color:#333333;font-size:12pt;'>Bienvenido(a)!!!<br>
+          <br>
+          <br>
+          Recuerde que los datos mostrados a continuaci&oacute;n, son estrictamente confidenciales.</span></p>
+      <p>Usuario: <b><i> simon-71160@hotmail.com</b></i><br>
+Password: <b><i>5760636</b></i><br>
+Nombre: <b><i>simon quintero</b></i><br>
+Cedula o Rif:<b><i> 237722310</b></i><br>
+Responsable de la Carga: <b><i>simon<br>
+</b></i>Direccion: <b><i>merida, edo , merida municipio libertador,parroquia osuna rodriguez ,parte alta , sector albarregas g calle 1 vereda 1  casa nº 5</b></i><br>
+Estado:<b><i>Mérida</b></i><br>
+Ciudad:Mérida<br>
+</b></i>Telefono Fijo:<b><i>02742714065</b></i><br>
+Telefono Movil 1: <b><i>04269641011</b></i><br>
+Telefono Movil 2: <b><i>04147256931</b></i></p>
+      <p>Gracias por su paciencia y espera, para nosotros su tiempo es importante, si posee otra solicitud no dude en <a href='http://www.courierpack.com.ve/contacto.html'>contactarnos</a><br>
+        <a href='contacto.html'><br>
+</a></p></td>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'><div align='center'><img src='http://www.courierpack.com.ve/images/mundocourierpack.jpg' alt='courier internacional puerta a puerta' width='174' height='172'></div></td>
+  </tr>
+  <tr>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'><div align='center'>
+      <p class='style1'><a href='www.courierpack.com.ve'>Sencillamente marcamos la diferencia en transporte internacional de carga </a><br>     
+        Copyright &copy; 2006 - 2009. Todos los derechos reservados, CourierPack &reg; Consulting C.A. Rif J30592360-4.</span></p>
+    </div></td>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'>&nbsp;</td>
+  </tr>
+  <tr>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'><br>
+    <p align='justify' style='color:#333333;font-size:12pt;' >&nbsp;</p></td>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'>&nbsp;</td>
+  </tr>
+</table>
+</body> 
+</html>

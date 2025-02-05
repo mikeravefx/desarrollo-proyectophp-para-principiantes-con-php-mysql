@@ -1,0 +1,91 @@
+Return-path: <odasprino@gmail.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Mon, 10 Dec 2012 08:59:29 -0430
+Received: from mail-ia0-f180.google.com ([209.85.210.180]:53779)
+	by host.caracasftp.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.77)
+	(envelope-from <odasprino@gmail.com>)
+	id 1Ti3QG-0006Ck-Mq
+	for gabrielagarcia@courierpack.com.ve; Mon, 10 Dec 2012 08:59:29 -0430
+Received: by mail-ia0-f180.google.com with SMTP id t4so5449537iag.39
+        for <gabrielagarcia@courierpack.com.ve>; Mon, 10 Dec 2012 05:29:27 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=x-rim-org-msg-ref-id:message-id:content-transfer-encoding:reply-to
+         :x-priority:references:in-reply-to:sensitivity:importance:subject:to
+         :from:date:content-type:mime-version;
+        bh=saSqJlIXUSJq9P4P9fGND9lnkF7esjrba1AWORBzOgo=;
+        b=I8XRPEDCRg22QHD9wbPvQIP0oIfa/zAGZJxQZZldlswBODIaJ6NghulxsJTKDd86AX
+         Ut/vsLrVmxrLxAfkar2CkwHdMVO2fPC3ee2djvjaHQgk9X9B3JEi7Xb6XQ47nBLp8rWy
+         XxgpVp0FnSfWwyBNMeIte2a8P8wUYNGkI0X17Dia8rS9XdPq18DMDjIzXfBieYoSVUoz
+         Trdh6Eub2xy/bBpsvMlwnBWJ3jeJC4LZKlDKCQrzqZpC/XNv9ysGH+2MBzq6pwQo5tTh
+         F3CuUNxKM7RSSTpE1DTNSp0cROjiM042zc77b7LuukSNB0yMRz4pBRn2S0oJzjI68j1l
+         OSVg==
+Received: by 10.42.180.65 with SMTP id bt1mr10991357icb.41.1355146166983;
+        Mon, 10 Dec 2012 05:29:26 -0800 (PST)
+Received: from 172.29.203.188 (bda-74-82-82-199.bis6.us.blackberry.com. [74.82.82.199])
+        by mx.google.com with ESMTPS id vq4sm5911924igb.10.2012.12.10.05.29.26
+        (version=SSLv3 cipher=OTHER);
+        Mon, 10 Dec 2012 05:29:26 -0800 (PST)
+X-rim-org-msg-ref-id:526433414
+Message-ID:<526433414-1355146165-cardhu_decombobulator_blackberry.rim.net-1512244567-@b13.c10.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: odasprino@gmail.com
+X-Priority: Normal
+References: <1160446364-1355145875-cardhu_decombobulator_blackberry.rim.net-216575574-@b12.c2.bise6.blackberry>
+In-Reply-To: <1160446364-1355145875-cardhu_decombobulator_blackberry.rim.net-216575574-@b12.c2.bise6.blackberry>
+Sensitivity: Normal
+Importance: Normal
+Subject: Re: Gastos por almacenaje
+To: gabrielagarcia@courierpack.com.ve
+From: odasprino@gmail.com
+Date: Mon, 10 Dec 2012 13:30:00 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+
+RW4gc2VyaW8/IE95ZSBnYWJyaWVsYSBjb24gdG9kbyBlbCByZXNwZXRvIGRlbCBtdW5kbywgcGVy
+byB1c3RlZGVzIG5vIGluZm9ybWFuIGRlIGVzb3MgZ2FzdG9zLi4uIFRhbXBvY28gbGFzIGNvc2Fz
+IHNvbiBhc2ksIHVzdGVkZXMgZGVzZGUgdW4gcHJpbmNpcGlvIHRpZW5lbiBxdWUgbm90aWZpY2Fy
+IGxhcyBjb3NhcyB5IG5vIGFnYXJyYXJsbyBhIHVubyBkZXNwcmV2ZW5pZG8hIFJlY3VlcmRhIHF1
+ZSB0YW1iaWVuIGhheSBxdWUgdGVuZXIgY29uc2lkZXJhY2lvbiBjb24gZWwgY2xpZW50ZSB5IG1h
+cyBjdWFuZG8gc2UgdmFuIGEgcGFnYXIgY2FzaSAxNDAwMCBib2xpdmFyZXMuLi4gTWUgcHVlZGVz
+IGRlY2lyIHBvciBmYXZvciBjdWFudG8gZXMgZWwgZ2FzdG8gZGUgYWxtYWNlbmFqZT8/PyANCg0K
+WW8gY3VhbmRvIGhhYmxlIGNvbiBtaWd1ZWwgZWwgbm8gbWUgZGlqbyBhYnNvbHV0YW1lbnRlIG5h
+ZGEgZGUgZXN0by4uLiBZIHR1IHRhbXBvY28gY3VhbmRvIG1lIGVzY3JpYmlzdGUNCkVzdGUgbWVu
+c2FqZSBoYSBzaWRvIGVudmlhZG8gZ3JhY2lhcyBhbCBzZXJ2aWNpbyBCbGFja0JlcnJ5IGRlIE1v
+dmlsbmV0DQoNCi0tLS0tT3JpZ2luYWwgTWVzc2FnZS0tLS0tDQpGcm9tOiAiR2FicmllbGEgRyIg
+PGdhYnJpZWxhZ2FyY2lhQGNvdXJpZXJwYWNrLmNvbS52ZT4NCkRhdGU6IE1vbiwgMTAgRGVjIDIw
+MTIgMTM6MjQ6MjkgDQpUbzogPG9kYXNwcmlub0BnbWFpbC5jb20+DQpSZXBseS1UbzogZ2Ficmll
+bGFnYXJjaWFAY291cmllcnBhY2suY29tLnZlDQpTdWJqZWN0OiBSZTogR2FzdG9zIHBvciBhbG1h
+Y2VuYWplDQoNCk5vLCBwYXJhIHF1ZSBlbCBtb250byBxdWUgc3UgZmxldGUgbm8gYXVtZW50YXJh
+IGNvbiBlbCBjb3N0byBkZWwgZG9sYXIgcGFyYWxlbG8geWEgcXVlIGFsIGTtYSBlc3RhIGEgMTgu
+MTBicy4gRXMgY29zdG8gcXVlIG5vcyBhbmV4ZW4gYSBub3NvdHJvcyBwb3IgYWxtYWNlbmFqZSBz
+ZXJhIGFuZXhhZG8gYSB1c3RlZCB5YSBxdWUgbm9zIGVzdGEgZ2VuZXJhbmRvIGVzZSBhZGljaW9u
+YWwuIA0KLS0tLS0tTWVuc2FqZSBvcmlnaW5hbC0tLS0tLQ0KRGU6IG9kYXNwcmlub0BnbWFpbC5j
+b20NClBhcmE6IGdhYnJpZWxhZ2FyY2lhQGNvdXJpZXJwYWNrLmNvbS52ZQ0KUmVzcG9uZGVyIGE6
+IG9kYXNwcmlub0BnbWFpbC5jb20NCkFzdW50bzogUmU6IEdhc3RvcyBwb3IgYWxtYWNlbmFqZQ0K
+RW52aWFkbzogMTAgZGUgZGljIGRlIDIwMTIgODo1MCBBTQ0KDQpHYWJyaWVsYSBtZSBkaWppc3Rl
+IHF1ZSB0ZW5pYSAxMCBkaWFzIHBhcmEgcGFnYXIgY29udGFuZG8gZGVzZGUgZWwgZGlhIDUgcXVl
+IG1lIG5vdGlmaWNhcm9uIGVsIG1vbnRvLi4uDQoNCkRlIHRvZGFzIG1hbmVyYXMgZ3JhY2lhcyBw
+b3IgZWwgcmVjb3JkYXRvcmlvLiBFbnRyZSBtYW5hbmEgeSBlbCBtaWVyY29sZXMgdGUgZXN0b3kg
+dHJhbnNmaXJpZW5kbyEgVW4gc2FsdWRvDQotLS0tLS1NZW5zYWplIG9yaWdpbmFsLS0tLS0tDQpE
+ZTogR2FicmllbGEgRw0KUGFyYTpPbWFyIEFzcHJpbm8NClJlc3BvbmRlciBhOmdhYnJpZWxhZ2Fy
+Y2lhQGNvdXJpZXJwYWNrLmNvbS52ZQ0KQXN1bnRvOiBHYXN0b3MgcG9yIGFsbWFjZW5hamUNCkVu
+dmlhZG86IDEwIERpYywgMjAxMiAwODoyOQ0KDQpCdWVuYXMgRO1hc6AgU3IgT3NtYXIgQXNwcmlu
+bw0KUG9yIGVzdGUgbWVkaW8gc2UgbGUgaW5mb3JtYSBxdWUgc3UgY2FyZ2Egc2UgZW5jdWVudHJh
+IGVuIG51ZXN0cm9zIGFsbWFjZW5lcyBkZXNkZSBlbCBk7WEgbWFydGVzIDQgZGUgZGljaWVtYnJl
+IGRlbCBwcmVzZW50ZSBh8W8gbG8gY3VhbCBub3MgZXN0YSBnZW5lcmFuZG8gZ2FzdG9zIGRlIGFs
+bWFjZW5hamUsIHNlIGxlIHJlY3VlcmRhIFNl8W9yIEFzcHJpbm8gcXVlIHRyYWJhamFtb3MgYmFq
+byBsYSBwb2ztdGljYSBkZSBhYmFuZG9ubyB2b2x1bnRhcmlvLCBldml0YW5kbyBlbCBtaXNtbyB5
+IGNvbnNpZGVyYW5kbyBzdSBjYXJnYSB5L28gZmxldGUgc2UgbGUgYW5leGEgZWwgZGV0YWxsZSBi
+YW5jYXJpbyBhZ3JhZGVjaWVuZG8gc3UgY2FuY2VsYWNp824gcGFyYSBwcm9jZWRlciBhIHN1IGVu
+du1vIG8gZW50cmVnYS4gU2luIG1hcyBuYWRhIGEgcXVlIGhhY2VyIHJlZmVyZW5jaWEgbWUgZGVz
+cGlkby4gVGl0dWxhcjogR2FicmllbGEgQSBHYXJjaWEgUC4gICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgQ29ycmllbnRlOiAwMTM0IDAwNjYgMTIgMDY2MzA2OTYxMy4gICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQmFuY286IEJBTkVTQ08uICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEMuSS4gMTgu
+NTM5LjEzOC4gDQpDT1VSSUVSUEFDSywgbWFyY2FuZG8gbGEgZGlmZXJlbmNpYSBlbiBlbnZpbyBp
+bnRlcm5hY2lvbmFsDQoNCkVzdGUgbWVuc2FqZSBoYSBzaWRvIGVudmlhZG8gZ3JhY2lhcyBhbCBz
+ZXJ2aWNpbyBCbGFja0JlcnJ5IGRlIE1vdmlsbmV0DQpDT1VSSUVSUEFDSywgbWFyY2FuZG8gbGEg
+ZGlmZXJlbmNpYSBlbiBlbnZpbyBpbnRlcm5hY2lvbmFs
+

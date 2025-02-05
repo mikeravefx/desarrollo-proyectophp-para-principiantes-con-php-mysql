@@ -1,0 +1,238 @@
+Return-path: <mati_karizavar27@yahoo.es>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Sun, 12 Jan 2014 22:18:13 -0430
+Received: from nm43.bullet.mail.ne1.yahoo.com ([98.138.120.50]:21010)
+	by host.racksystem2.com with smtp (Exim 4.82)
+	(envelope-from <mati_karizavar27@yahoo.es>)
+	id 1W2XZN-001fOg-FJ
+	for gabrielagarcia@courierpack.com.ve; Sun, 12 Jan 2014 22:18:12 -0430
+Received: from [127.0.0.1] by nm43.bullet.mail.ne1.yahoo.com with NNFMP; 13 Jan 2014 02:48:03 -0000
+Received: from [98.138.100.111] by nm43.bullet.mail.ne1.yahoo.com with NNFMP; 13 Jan 2014 02:45:13 -0000
+Received: from [77.238.189.230] by tm100.bullet.mail.ne1.yahoo.com with NNFMP; 13 Jan 2014 02:45:13 -0000
+Received: from [212.82.98.86] by tm11.bullet.mail.ird.yahoo.com with NNFMP; 13 Jan 2014 02:45:12 -0000
+Received: from [127.0.0.1] by omp1023.mail.ir2.yahoo.com with NNFMP; 13 Jan 2014 02:45:12 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 686424.65794.bm@omp1023.mail.ir2.yahoo.com
+Received: (qmail 76869 invoked by uid 60001); 13 Jan 2014 02:45:12 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1389581112; bh=sRYyH7/qnHq21+C2V/Ai2jso/9BKc1SsNhsMqpLarT4=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=Cs1am3J6b3bZyfGjL5vQgkgop0FvRN03S1i3E9Auw9Lr/5I9+LZ7lhlTp9zkNx5r5eLTfM4RVykN0fuMThytFjtnRzKZYUcjGNW4dljNtjnFAWWZJYyf9IjJ69C4jLaDK9R+17zL8kkoogFGwlWDRvjQ9vE7AUjaLoJo2XOEWi0=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.es;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type;
+  b=JrXEnajhiYZFbkO5yj3YDQSdFMvD+T4ufWHDobaiBInzbFCy3yKfCtKJxF4PatgpVlexPmlnELRXMS1aQhbKi4HyHlFE0NLMdNbsGIpuEjIri1cxOvbeTuDtBIeda3URc+SZRm0JBxnzHNTZU64Cey9XoYueOfnJRsMLSa50HI0=;
+X-YMail-OSG: m6rzCekVM1ldngETMMxqMU8TDCSBgwUyeZZhclADqq9XJg1
+ dBPZNPXfWx2blwhDBiNI0kGrM0nWNiqFNmoTtFPKir6mpNhEoFy8206avrr1
+ IrWYMvKbCp9q1p8IfXmoibb70c8x0PH2ILmenVecuTK2IL1.jw.xsTX5nZno
+ sNg1ZM8w0JWMqsYxUB_CSU3grUn9Qmngw.Et_8BRdwragPk9o_hXwLajBCZM
+ ExMQAp8Ou.QhhCfsaoWtfCJdcco5ix8AuqCJA2YaEcJZG_RNxe0MYlXx5UuG
+ zMneAlk9uihGmqBFsibsGgHC_G4_TTzB2kKkAWrtDytWxw2Tvs0Fn_STP8_a
+ F_2bPYDBHh5EwpD6OzoDjlmntYyiUcRuiy6MEoeQnpuLnw.mMltClfU6SsTD
+ FHGuKeNbygCVArR3Q1c7yIQmDmqFmpaTpunFae6sqWyYvdarVRZI7i8J1GV5
+ A6QuX4BIocxY1cUy6zQ8kzOPu3I8FcDSyKqfFTnahH9sk6Qwh0k.uJVs.jcJ
+ .giTBM12zTp7iZ4hHqbauWLsSpEcKmTI1_c_45WBPpyRFMyqY2Xruh0Ho9am
+ 6tlsQslE4aIqQ
+Received: from [201.211.108.152] by web171803.mail.ir2.yahoo.com via HTTP; Mon, 13 Jan 2014 02:45:12 GMT
+X-Rocket-MIMEInfo: 002.001,SG9sYSBHYWJyaWVsYSBlcyBNYXRpb3NjYSBwYXJhIHF1ZSBwb3IgZmF2b3IgbWUgcmVlbnZpZW4gZWwgY29ycmVvLCBwYXJhIG1hbmRhcnNlbG8gYSBtaSBwcmltYSBwYXJhIHF1ZSBoYWdhIGVsIGRlcG9zaXRvLgrCoAoKCgoKRWwgVmllcm5lcyAyNSBkZSBlbmVybyBkZSAyMDEzIDExOjEyLCAibWF0aV9rYXJpemF2YXIyN0B5YWhvby5lcyIgPG1hdGlfa2FyaXphdmFyMjdAeWFob28uZXM.IGVzY3JpYmnDszoKIApPayBlcyBwYXJhIHRlbmVyIHVuYSBpZGVhLCBjdWFudG8gZXMgZWwgZW52w61vIGRlIGNhcmEBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.172.614
+References: <595098469-1359119081-cardhu_decombobulator_blackberry.rim.net-371775172-@b1.c22.bise6.blackberry>  <434404552-1359125939-cardhu_decombobulator_blackberry.rim.net-1416256431-@b26.c4.bise6.blackberry>  <1121365140-1359126189-cardhu_decombobulator_blackberry.rim.net-1146640850-@b1.c22.bise6.blackberry>  <1165422510-1359126350-cardhu_decombobulator_blackberry.rim.net-2018158300-@b26.c4.bise6.blackberry>  <1903682163-1359126567-cardhu_decombobulator_blackberry.rim.net-1863411506-@b1.c22.bise6.blackberry>  <1924076299-1359126663-cardhu_decombobulator_blackberry.rim.net-1895739447-@b26.c4.bise6.blackberry> <2132283314-1359126733-cardhu_decombobulator_blackberry.rim.net-80042231-@b1.c22.bise6.blackberry>
+Message-ID: <1389581112.58466.YahooMailNeo@web171803.mail.ir2.yahoo.com>
+Date: Mon, 13 Jan 2014 02:45:12 +0000 (GMT)
+From: Matiosca Izaguirre Vargas <mati_karizavar27@yahoo.es>
+Reply-To: Matiosca Izaguirre Vargas <mati_karizavar27@yahoo.es>
+Subject: Re: 
+To: "gabrielagarcia@courierpack.com.ve" <gabrielagarcia@courierpack.com.ve>
+In-Reply-To: <2132283314-1359126733-cardhu_decombobulator_blackberry.rim.net-80042231-@b1.c22.bise6.blackberry>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1353131092-579930109-1389581112=:58466"
+X-Spam-Status: No, score=0.4
+X-Spam-Score: 4
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hola Gabriela es Matiosca para que por favor me reenvien el
+    correo, para mandarselo a mi prima para que haga el deposito. El Viernes
+   25 de enero de 2013 11:12, "mati_karizavar27@yahoo.es" escribió: [...] 
+ 
+ Content analysis details:   (0.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (mati_karizavar27[at]yahoo.es)
+  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+                             (matiosca izaguirre vargas
+                             <mati_karizavar27[at]yahoo.es>
+ )
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (mati_karizavar27[at]yahoo.es)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--1353131092-579930109-1389581112=:58466
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hola Gabriela es Matiosca para que por favor me reenvien el correo, para ma=
+ndarselo a mi prima para que haga el deposito.=0A=A0=0A=0A=0A=0A=0AEl Viern=
+es 25 de enero de 2013 11:12, "mati_karizavar27@yahoo.es" <mati_karizavar27=
+@yahoo.es> escribi=F3:=0A =0AOk es para tener una idea, cuanto es el env=ED=
+o de caracas a aqu=ED.=0A=0AMatiosca Izaguirre=0A=0A-----Original Message--=
+---=0AFrom: gabrielagarcia@courierpack.com.ve=0ADate: Fri, 25 Jan 2013 15:1=
+0:48 =0ATo: <mati_karizavar27@yahoo.es>=0AReply-To: gabrielagarcia@courierp=
+ack.com.ve=0ASubject: Re:=0A=0ASu dimension es grande full articulos dejame=
+ pedir una foto a almacen=0AEnviado desde mi BlackBerry de Movistar=0A=0A--=
+---Original Message-----=0AFrom: mati_karizavar27@yahoo.es=0ADate: Fri, 25 =
+Jan 2013 15:09:18 =0ATo: gabrielagarcia@courierpack.com.ve<gabrielagarcia@c=
+ourierpack.com.ve>=0AReply-To: mati_karizavar27@yahoo.es=0ASubject: Re:=0A=
+=0ASi claro, gracias, estamos en contacto, me avisas cuando ya tengas el # =
+de gu=EDa, cuanto pesa la carga m=E1s o menos.=0A=0AMatiosca Izaguirre=0A=
+=0A-----Original Message-----=0AFrom: gabrielagarcia@courierpack.com.ve=0AD=
+ate: Fri, 25 Jan 2013 15:05:33 =0ATo: <mati_karizavar27@yahoo.es>=0AReply-T=
+o: gabrielagarcia@courierpack.com.ve=0ASubject: Re:=0A=0AAh ok entiendo. Pe=
+ro la que estan cargadas ya estan aqui. =0AEnviado desde mi BlackBerry de M=
+ovistar=0A=0A-----Original Message-----=0AFrom: mati_karizavar27@yahoo.es=
+=0ADate: Fri, 25 Jan 2013 15:03:07 =0ATo: gabrielagarcia@courierpack.com.ve=
+<gabrielagarcia@courierpack.com.ve>=0AReply-To: mati_karizavar27@yahoo.es=
+=0ASubject: Re:=0A=0Aok. Gabriela, ya te hice la transferencia, la direcci=
+=F3n es Quintas de Flor Amarillo, calle El roble, Sector G, casa # 27, vale=
+ncia, edo. Carabobo, por fa mandalo por zoom, est=E1n pendientes unas cosas=
+ que no me han mandado estoy esperando el # de tracking para ingresarlas al=
+ sistema.=0A=0AMatiosca Izaguirre=0A=0A-----Original Message-----=0AFrom: g=
+abrielagarcia@courierpack.com.ve=0ADate: Fri, 25 Jan 2013 14:58:43 =0ATo: <=
+mati_karizavar27@yahoo.es>=0AReply-To: gabrielagarcia@courierpack.com.ve=0A=
+Subject: Re:=0A=0AHola Matioska, en tu carga no falta nada esta completa x =
+sistema. Y la facturacion me encantaria ayudarte pero eso se hace antes de =
+embalar, luego la mercancia embalada no se abre porque esta en almacen. Fac=
+ilitame tu direccion de env=EDo porfavor para gestionar envio=0AEnviado des=
+de mi BlackBerry de Movistar=0A=0A-----Original Message-----=0AFrom: mati_k=
+arizavar27@yahoo.es=0ADate: Fri, 25 Jan 2013 13:04:40 =0ATo: gabrielagarcia=
+@courierpack.com.ve<gabrielagarcia@courierpack.com.ve>=0AReply-To: mati_kar=
+izavar27@yahoo.es=0ASubject: Re:=0A=0AHola Gabriela, buenas noches, te escr=
+ibo para saber que mercanc=EDa me lleg=F3, ya que en el sistema dice que ha=
+y unas cosas que no llegaron, as=ED mismo te informo que hay otra mercanc=
+=EDa que compre hace tiempo cuando compre esta y no me la hab=EDan enviado =
+al almac=E9n en Miami, porque luego que la hab=EDa comprado resulta que no =
+hab=EDa en stock,=A0 lo otro es que necesito que por favor me env=EDes una =
+factura sencilla no importa que no sea fiscal, hecha en computadora normal.=
+=0ASin m=E1s a que hacer referencia quedo de ti.=0A------Mensaje original--=
+----=0ADe: gabrielagarcia@courierpack.com.ve=0APara: Matiosca Izaguirre de =
+Mogoll=F3n=0AResponder a: gabrielagarcia@courierpack.com.ve=0AAsunto: =0AEn=
+viado: 24 de ene de 2013 5:28 AM=0A=0ABuenas Tardes=A0 Sra .Matioska Izagui=
+rre Por este medio se le informa que su carga se encuentra en nuestros alma=
+neces disponible para su envio y entrega .=0A=0AAprovechamos para indicar q=
+ue el costo por el servicio de flete es de Bs., 3.240.00=0A=0AConjuntamente=
+ se le indica el detalle bancario=A0=0A=0ATitular: Gabriela Garcia=A0=0ACue=
+nta Corriente: =A00134.0066.12.066.306.9613=A0=0ABanco: Banesco=0AC.I.: 18.=
+539.138=A0=0A=0A=0AEnviado desde mi BlackBerry de Movistar=0AMatiosca Izagu=
+irre
+--1353131092-579930109-1389581112=:58466
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:18pt"><div><span>Hola Gabriela es Matiosca para que por favor me re=
+envien el correo, para mandarselo a mi prima para que haga el deposito.</sp=
+an></div><div></div><div>&nbsp;</div><div><br></div><div class=3D"yahoo_quo=
+ted" style=3D"display: block;"> <br> <br> <div style=3D"font-family: Helvet=
+icaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; f=
+ont-size: 18pt;"> <div style=3D"font-family: HelveticaNeue, 'Helvetica Neue=
+', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 12pt;"> <div d=
+ir=3D"ltr"> <font size=3D"2" face=3D"Arial"> El Viernes 25 de enero de 2013=
+ 11:12, "mati_karizavar27@yahoo.es" &lt;mati_karizavar27@yahoo.es&gt; escri=
+bi=F3:<br> </font> </div>  <div class=3D"y_msg_container">Ok es para tener =
+una idea, cuanto es el env=EDo de caracas a aqu=ED.<br><br>Matiosca
+ Izaguirre<br><br>-----Original Message-----<br>From: <a ymailto=3D"mailto:=
+gabrielagarcia@courierpack.com.ve" href=3D"mailto:gabrielagarcia@courierpac=
+k.com.ve">gabrielagarcia@courierpack.com.ve</a><br>Date: Fri, 25 Jan 2013 1=
+5:10:48 <br>To: &lt;<a ymailto=3D"mailto:mati_karizavar27@yahoo.es" href=3D=
+"mailto:mati_karizavar27@yahoo.es">mati_karizavar27@yahoo.es</a>&gt;<br>Rep=
+ly-To: <a ymailto=3D"mailto:gabrielagarcia@courierpack.com.ve" href=3D"mail=
+to:gabrielagarcia@courierpack.com.ve">gabrielagarcia@courierpack.com.ve</a>=
+<br>Subject: Re:<br><br>Su dimension es grande full articulos dejame pedir =
+una foto a almacen<br>Enviado desde mi BlackBerry de Movistar<br><br>-----O=
+riginal Message-----<br>From: <a ymailto=3D"mailto:mati_karizavar27@yahoo.e=
+s" href=3D"mailto:mati_karizavar27@yahoo.es">mati_karizavar27@yahoo.es</a><=
+br>Date: Fri, 25 Jan 2013 15:09:18 <br>To: <a ymailto=3D"mailto:gabrielagar=
+cia@courierpack.com.ve"
+ href=3D"mailto:gabrielagarcia@courierpack.com.ve">gabrielagarcia@courierpa=
+ck.com.ve</a>&lt;<a ymailto=3D"mailto:gabrielagarcia@courierpack.com.ve" hr=
+ef=3D"mailto:gabrielagarcia@courierpack.com.ve">gabrielagarcia@courierpack.=
+com.ve</a>&gt;<br>Reply-To: <a ymailto=3D"mailto:mati_karizavar27@yahoo.es"=
+ href=3D"mailto:mati_karizavar27@yahoo.es">mati_karizavar27@yahoo.es</a><br=
+>Subject: Re:<br><br>Si claro, gracias, estamos en contacto, me avisas cuan=
+do ya tengas el # de gu=EDa, cuanto pesa la carga m=E1s o menos.<br><br>Mat=
+iosca Izaguirre<br><br>-----Original Message-----<br>From: <a ymailto=3D"ma=
+ilto:gabrielagarcia@courierpack.com.ve" href=3D"mailto:gabrielagarcia@couri=
+erpack.com.ve">gabrielagarcia@courierpack.com.ve</a><br>Date: Fri, 25 Jan 2=
+013 15:05:33 <br>To: &lt;<a ymailto=3D"mailto:mati_karizavar27@yahoo.es" hr=
+ef=3D"mailto:mati_karizavar27@yahoo.es">mati_karizavar27@yahoo.es</a>&gt;<b=
+r>Reply-To: <a ymailto=3D"mailto:gabrielagarcia@courierpack.com.ve"
+ href=3D"mailto:gabrielagarcia@courierpack.com.ve">gabrielagarcia@courierpa=
+ck.com.ve</a><br>Subject: Re:<br><br>Ah ok entiendo. Pero la que estan carg=
+adas ya estan aqui. <br>Enviado desde mi BlackBerry de Movistar<br><br>----=
+-Original Message-----<br>From: <a ymailto=3D"mailto:mati_karizavar27@yahoo=
+.es" href=3D"mailto:mati_karizavar27@yahoo.es">mati_karizavar27@yahoo.es</a=
+><br>Date: Fri, 25 Jan 2013 15:03:07 <br>To: <a ymailto=3D"mailto:gabrielag=
+arcia@courierpack.com.ve" href=3D"mailto:gabrielagarcia@courierpack.com.ve"=
+>gabrielagarcia@courierpack.com.ve</a>&lt;<a ymailto=3D"mailto:gabrielagarc=
+ia@courierpack.com.ve" href=3D"mailto:gabrielagarcia@courierpack.com.ve">ga=
+brielagarcia@courierpack.com.ve</a>&gt;<br>Reply-To: <a ymailto=3D"mailto:m=
+ati_karizavar27@yahoo.es" href=3D"mailto:mati_karizavar27@yahoo.es">mati_ka=
+rizavar27@yahoo.es</a><br>Subject: Re:<br><br>ok. Gabriela, ya te hice la t=
+ransferencia, la direcci=F3n es Quintas de Flor Amarillo, calle El roble, S=
+ector G,
+ casa # 27, valencia, edo. Carabobo, por fa mandalo por zoom, est=E1n pendi=
+entes unas cosas que no me han mandado estoy esperando el # de tracking par=
+a ingresarlas al sistema.<br><br>Matiosca Izaguirre<br><br>-----Original Me=
+ssage-----<br>From: <a ymailto=3D"mailto:gabrielagarcia@courierpack.com.ve"=
+ href=3D"mailto:gabrielagarcia@courierpack.com.ve">gabrielagarcia@courierpa=
+ck.com.ve</a><br>Date: Fri, 25 Jan 2013 14:58:43 <br>To: &lt;<a ymailto=3D"=
+mailto:mati_karizavar27@yahoo.es" href=3D"mailto:mati_karizavar27@yahoo.es"=
+>mati_karizavar27@yahoo.es</a>&gt;<br>Reply-To: <a ymailto=3D"mailto:gabrie=
+lagarcia@courierpack.com.ve" href=3D"mailto:gabrielagarcia@courierpack.com.=
+ve">gabrielagarcia@courierpack.com.ve</a><br>Subject: Re:<br><br>Hola Matio=
+ska, en tu carga no falta nada esta completa x sistema. Y la facturacion me=
+ encantaria ayudarte pero eso se hace antes de embalar, luego la mercancia =
+embalada no se abre porque esta en almacen. Facilitame tu direccion de env=
+=EDo
+ porfavor para gestionar envio<br>Enviado desde mi BlackBerry de Movistar<b=
+r><br>-----Original Message-----<br>From: <a ymailto=3D"mailto:mati_karizav=
+ar27@yahoo.es" href=3D"mailto:mati_karizavar27@yahoo.es">mati_karizavar27@y=
+ahoo.es</a><br>Date: Fri, 25 Jan 2013 13:04:40 <br>To: <a ymailto=3D"mailto=
+:gabrielagarcia@courierpack.com.ve" href=3D"mailto:gabrielagarcia@courierpa=
+ck.com.ve">gabrielagarcia@courierpack.com.ve</a>&lt;<a ymailto=3D"mailto:ga=
+brielagarcia@courierpack.com.ve" href=3D"mailto:gabrielagarcia@courierpack.=
+com.ve">gabrielagarcia@courierpack.com.ve</a>&gt;<br>Reply-To: <a ymailto=
+=3D"mailto:mati_karizavar27@yahoo.es" href=3D"mailto:mati_karizavar27@yahoo=
+.es">mati_karizavar27@yahoo.es</a><br>Subject: Re:<br><br>Hola Gabriela, bu=
+enas noches, te escribo para saber que mercanc=EDa me lleg=F3, ya que en el=
+ sistema dice que hay unas cosas que no llegaron, as=ED mismo te informo qu=
+e hay otra mercanc=EDa que compre hace tiempo cuando compre esta y no me la=
+ hab=EDan
+ enviado al almac=E9n en Miami, porque luego que la hab=EDa comprado result=
+a que no hab=EDa en stock,&nbsp; lo otro es que necesito que por favor me e=
+nv=EDes una factura sencilla no importa que no sea fiscal, hecha en computa=
+dora normal.<br>Sin m=E1s a que hacer referencia quedo de ti.<br>------Mens=
+aje original------<br>De: <a ymailto=3D"mailto:gabrielagarcia@courierpack.c=
+om.ve" href=3D"mailto:gabrielagarcia@courierpack.com.ve">gabrielagarcia@cou=
+rierpack.com.ve</a><br>Para: Matiosca Izaguirre de Mogoll=F3n<br>Responder =
+a: <a ymailto=3D"mailto:gabrielagarcia@courierpack.com.ve" href=3D"mailto:g=
+abrielagarcia@courierpack.com.ve">gabrielagarcia@courierpack.com.ve</a><br>=
+Asunto: <br>Enviado: 24 de ene de 2013 5:28 AM<br><br>Buenas Tardes&nbsp; S=
+ra .Matioska Izaguirre Por este medio se le informa que su carga se encuent=
+ra en nuestros almaneces disponible para su envio y entrega .<br><br>Aprove=
+chamos para indicar que el costo por el servicio de flete es de Bs.,
+ 3.240.00<br><br>Conjuntamente se le indica el detalle bancario&nbsp;<br><b=
+r>Titular: Gabriela Garcia&nbsp;<br>Cuenta Corriente: &nbsp;0134.0066.12.06=
+6.306.9613&nbsp;<br>Banco: Banesco<br>C.I.: 18.539.138&nbsp;<br><br><br>Env=
+iado desde mi BlackBerry de Movistar<br>Matiosca Izaguirre<br><br></div>  <=
+/div> </div>  </div> </div></body></html>
+--1353131092-579930109-1389581112=:58466--

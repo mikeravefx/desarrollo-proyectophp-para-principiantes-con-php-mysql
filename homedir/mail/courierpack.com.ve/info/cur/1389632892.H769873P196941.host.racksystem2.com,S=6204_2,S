@@ -1,0 +1,130 @@
+Return-path: <joseramireza076@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Mon, 13 Jan 2014 12:38:12 -0430
+Received: from mail-pd0-f174.google.com ([209.85.192.174]:46082)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <joseramireza076@gmail.com>)
+	id 1W2kzi-000pDm-Dw
+	for info@courierpack.com.ve; Mon, 13 Jan 2014 12:38:12 -0430
+Received: by mail-pd0-f174.google.com with SMTP id w10so2928098pde.5
+        for <info@courierpack.com.ve>; Mon, 13 Jan 2014 09:08:07 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=4dPiQL8UnnIkwQbj6v7u21tfschNQA8xFznOnOAnx5c=;
+        b=iow8KIE62tF+IlK+ESsm7k6omssJtNGJ7FbB5JWEhfp+g4zdQqC6IEPZFjPZ+bnih6
+         /ium1GurnBHzcyBqb0dhVJ8hWUwHNKM1lVfOYDgBUjsq+xE6nLS4/CGxtv/FnCKphmDy
+         t9P3l3omf6YrUpfklpmOE95rJfU+4jEisNKr0cVKxrwyfPWGW/k0C9S0xtHJ/JuFWjiq
+         m3zKjSvJFG3crZPVqTeyaTXrJGenPRQmwMWI2U8BZHzccKAlw0MUCzSgue4Rkqgy9cSq
+         QcAZAFkGmhyQpdXOlk+1yLD1iHveaHfROPRaSb2ncmqCFfklIl4FT5jPWj0lPoOuIZ8Q
+         xZdw==
+MIME-Version: 1.0
+X-Received: by 10.66.179.143 with SMTP id dg15mr31417297pac.52.1389632887293;
+ Mon, 13 Jan 2014 09:08:07 -0800 (PST)
+Received: by 10.66.89.104 with HTTP; Mon, 13 Jan 2014 09:08:07 -0800 (PST)
+In-Reply-To: <2015040474-1389632796-cardhu_decombobulator_blackberry.rim.net-2096161503-@b3.c4.bise6.blackberry>
+References: <2015040474-1389632796-cardhu_decombobulator_blackberry.rim.net-2096161503-@b3.c4.bise6.blackberry>
+Date: Mon, 13 Jan 2014 12:38:07 -0430
+Message-ID: <CAKpjBUwRz7vytTgdZMge5+gzOs2qb=A-9LQgzT8YBa7AfeK5hA@mail.gmail.com>
+Subject: Re: Requisicion del Email desde el Web Site
+From: jose ramirez <joseramireza076@gmail.com>
+To: info@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=047d7bea3f649d8f1d04efdd1ec4
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  amigo no me da tiempo para hacer la compra solo quiero comprar
+    un celular y no se mucho comprar por internet.. ustedes pueden hacer la compra
+    por mi.. El 13 de enero de 2014, 8:36, escribió: > Buenos dias. Perfecto
+   en nuestra pagina tienes todos los pasos > ------Mensaje original------ >
+   De: joseramireza076@gmail.com > Para: info@courierpack.com.ve > Responder
+   a: joseramireza076@gmail.com > Asunto: Requisicion del Email desde el Web
+   Site > Enviado: 12 de ene de 2014 10:42 PM > > jose Escribio : > hola buenas
+    noches amigo quisiera hacer una compra de dos equipos > celulares con cupos
+    electronicos > > Mensaje Enviado el Dia: 12-01-14 > > Enviado desde mi BlackBerry
+    de Movistar > [...] 
+ 
+ Content analysis details:   (0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (joseramireza076[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (joseramireza076[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--047d7bea3f649d8f1d04efdd1ec4
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+amigo no me da tiempo para hacer la compra solo quiero comprar un celular y
+no se mucho comprar por internet.. ustedes pueden hacer la compra por mi..
+
+
+El 13 de enero de 2014, 8:36, <info@courierpack.com.ve> escribi=F3:
+
+> Buenos dias. Perfecto en nuestra pagina tienes todos los pasos
+> ------Mensaje original------
+> De: joseramireza076@gmail.com
+> Para: info@courierpack.com.ve
+> Responder a: joseramireza076@gmail.com
+> Asunto: Requisicion del Email desde el Web Site
+> Enviado: 12 de ene de 2014 10:42 PM
+>
+> jose Escribio :
+>         hola buenas noches amigo quisiera hacer una compra de dos equipos
+> celulares con cupos electronicos
+>
+> Mensaje Enviado el Dia:  12-01-14
+>
+> Enviado desde mi BlackBerry de Movistar
+>
+
+--047d7bea3f649d8f1d04efdd1ec4
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">amigo no me da tiempo para hacer la compra solo quiero com=
+prar un celular y no se mucho comprar por internet.. ustedes pueden hacer l=
+a compra por mi..</div><div class=3D"gmail_extra"><br><br><div class=3D"gma=
+il_quote">
+El 13 de enero de 2014, 8:36,  <span dir=3D"ltr">&lt;<a href=3D"mailto:info=
+@courierpack.com.ve" target=3D"_blank">info@courierpack.com.ve</a>&gt;</spa=
+n> escribi=F3:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .=
+8ex;border-left:1px #ccc solid;padding-left:1ex">
+Buenos dias. Perfecto en nuestra pagina tienes todos los pasos<br>
+------Mensaje original------<br>
+De: <a href=3D"mailto:joseramireza076@gmail.com">joseramireza076@gmail.com<=
+/a><br>
+Para: <a href=3D"mailto:info@courierpack.com.ve">info@courierpack.com.ve</a=
+><br>
+Responder a: <a href=3D"mailto:joseramireza076@gmail.com">joseramireza076@g=
+mail.com</a><br>
+Asunto: Requisicion del Email desde el Web Site<br>
+Enviado: 12 de ene de 2014 10:42 PM<br>
+<br>
+jose Escribio :<br>
+=A0 =A0 =A0 =A0 hola buenas noches amigo quisiera hacer una compra de dos e=
+quipos celulares con cupos electronicos<br>
+<br>
+Mensaje Enviado el Dia: =A012-01-14<br>
+<br>
+Enviado desde mi BlackBerry de Movistar<br>
+</blockquote></div><br></div>
+
+--047d7bea3f649d8f1d04efdd1ec4--

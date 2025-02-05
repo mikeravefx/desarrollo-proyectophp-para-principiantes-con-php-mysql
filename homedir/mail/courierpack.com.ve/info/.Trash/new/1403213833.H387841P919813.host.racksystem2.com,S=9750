@@ -1,0 +1,162 @@
+Return-path: <noreply+998427390@badoo.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Thu, 19 Jun 2014 17:07:13 -0430
+Received: from cluster2034.monopost.com ([159.253.180.145]:55230)
+	by host.racksystem2.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <noreply+998427390@badoo.com>)
+	id 1Wxk18-003rGt-BC
+	for info@courierpack.com.ve; Thu, 19 Jun 2014 17:07:13 -0430
+Received: from scripts45.ulan (scripts45.ulan [10.20.55.46])
+	by cluster2034.monopost.com (Postfix) with SMTP id 0D487D8415F
+	for <info@courierpack.com.ve>; Thu, 19 Jun 2014 21:37:07 +0000 (UTC)
+X-DomainKeys: Sendmail DomainKeys Filter v1.0.2 cluster2034.monopost.com 0D487D8415F
+DomainKey-Signature: a=rsa-sha1; s=m23uiy45; d=badoo.com; c=nofws; q=dns;
+	b=PH8rUvFwLiIyQB539xiXoZk46eH/NgFAdDzOkKbnr/CNXVLmX7JvJl9+6vJUSm1YW
+	8p9SMEGGy0un7hj1d2YiL0L+HoO5sq4mt9Ci0ur5fbqbTXVHu4b/Z1+PHKti0Z31Pbo
+	YoZLKhKM60dqm3eHpvEREVEn0O3caXCQoYa8blA=
+X-DKIM: Sendmail DKIM Filter v2.7.2 cluster2034.monopost.com 0D487D8415F
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=badoo.com;
+	s=m23uiy45; t=1403213827; bh=UuDgf1zS3bVUsDTCrYq+OxtBNOdt117JxZ26j7
+	nFaA0=; h=Date:To:MIME-Version:Reply-to:From:List-Unsubscribe:
+	 Content-Type:Subject:Message-Id; b=FWaIBUDs2dqUGD8o6Z1aDMrMCe2LTpO
+	dqlwJHciqwU0og5eD8I/ZqllNbaVK4sZ+gjDwiBtD3K7WzE1BezloLYh21BVgdF2N10
+	w8MNQ3FPJrNQCIw5buKk1QkpbwQbuMd6iE5H9/+s/frzM50BoU21F9DJ57x+I48NfLc
+	91vjpw=
+Received: by scripts45.ulan (sSMTP sendmail emulation); Thu, 19 Jun 2014 21:37:06 +0000
+Date: Thu, 19 Jun 2014 21:37:06 +0000
+To: info@courierpack.com.ve
+MIME-Version: 1.0
+Reply-to: ex_cali_bur74@hotmail.com
+From: Gregory <noreply+998427390@badoo.com>
+X-campaignid: badoo 007.65.2.140619213705
+List-Unsubscribe: <mailto:unsubscribe+65_2134187299735123977_7_49d160@badoo.com?subject=BMzLh0hVPbibq4sb76iPerYmpkLI684qVGrFLr0/JCk>
+Content-Type: multipart/alternative;
+	boundary="=_07e68d825e4c332da7afd01173a4be1f"
+Subject: =?UTF-8?B?4piFIMKhTGVlIHR1IG1lbnNhamUgYW50ZXMgZGUgcXVlIHNlYSBib3JyYWRvIQ==?=
+Message-Id: <20140619213707.0D487D8415F@cluster2034.monopost.com>
+X-Spam-Status: No, score=2.7
+X-Spam-Score: 27
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  ¡Lee el mensaje de Gregory antes de que sea borrado! Para
+    leer el mensaje, haz clic en este enlace: http://us1.badoo.com/douglas.gregory.1/in/fNEEwgmnHHc/?lang_id=7&g=57-0-4&m=65&mid=53a35801000000000007004d03b3c50101566e5c0009
+    [...] 
+ 
+ Content analysis details:   (2.7 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+                             (ex_cali_bur74[at]hotmail.com
+ )
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: badoocdn.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+--=_07e68d825e4c332da7afd01173a4be1f
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A1Lee el mensaje de Gregory antes de que sea borrado!=0A=0APara leer el=
+ mensaje, haz clic en este enlace:
+http://us1.badoo.com/douglas.gregory.1/in/fNEEwgmnHHc/?lang_id=3D7&g=3D57-0=
+-4&m=3D65&mid=3D53a35801000000000007004d03b3c50101566e5c0009=0A=0A=0ASi al =
+hacer clic en el enlace de este mensaje no funciona, copia y p=C3=A9galo en=
+ la barra de tu navegador.=0A=0A=0AEste email forma parte del proceso de en=
+trega del mensaje enviado por Gregory. Si has recibido este email por error=
+, por favor ign=C3=B3ralo. En un breve periodo de tiempo, la petici=C3=B3n =
+se eliminar=C3=A1 del sistema.=0A=0A=0A=C2=A1Divi=C3=A9rtete!
+El Equipo de Badoo
+=0AHas recibido este email de Badoo Trading Limited (direcci=C3=B3n postal =
+a continuaci=C3=B3n).=20
+Si no desea recibir futuras comunicaciones por parte de Badoo, haz clic aqu=
+=C3=AD para desactivarlas:
+https://us1.badoo.com/impersonation.phtml?lang_id=3D7&email=3Dinfo%40courie=
+rpack.com.ve&block_code=3D024564&m=3D65&mid=3D53a35801000000000007004d03b3c=
+50101566e5c0009&g=3D0-0-4.
+=0ABadoo Trading Limited es una sociedad de responsabilidad limitada regist=
+rada en Inglaterra y Gales con n=C3=BAmero 7540255 y domicilio en Media Vil=
+lage, 131 - 151 Great Titchfield Street, Londres, W1W 5BB.
+--=_07e68d825e4c332da7afd01173a4be1f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A<head><meta http-equiv=3D"content-type" content=3D"te=
+xt/html; charset=3DUTF-8" />=0A=0A=0A<title>=C2=A1Lee tu mensaje antes de q=
+ue sea borrado!</title>=0A</head>=0A<body dir=3D"ltr">=0A<div style=3D"max-=
+width: 800px; margin: 0; padding: 15px 0; direction:ltr;">=0A<table width=
+=3D"80%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tr>=0A<td wid=
+th=3D"10%"></td>=0A<td align=3D"left" width=3D"90%" style=3D"font: 13px/18p=
+x Arial, sans-serif;">=0A<div style=3D"color: #666; padding: 0 0 20px; font=
+-size: 13px/18px; line-height: 18px;">See this email in <a href=3D"http://u=
+s1.badoo.com/douglas.gregory.1/in/fNEEwgmnHHc/?lang_id=3D3&g=3D57-0-1&m=3D6=
+5&mid=3D53a35801000000000007004d03b3c50101566e5c0009" style=3D"color: #3366=
+cc;">English</a>, <a href=3D"http://us1.badoo.com/douglas.gregory.1/in/fNEE=
+wgmnHHc/?lang_id=3D5&g=3D57-1-1&m=3D65&mid=3D53a35801000000000007004d03b3c5=
+0101566e5c0009" style=3D"color: #3366cc;">Deutsch</a>, <a href=3D"http://us=
+1.badoo.com/douglas.gregory.1/in/fNEEwgmnHHc/?lang_id=3D6&g=3D57-2-1&m=3D65=
+&mid=3D53a35801000000000007004d03b3c50101566e5c0009" style=3D"color: #3366c=
+c;">Fran=C3=A7ais</a>, <a href=3D"http://us1.badoo.com/douglas.gregory.1/in=
+/fNEEwgmnHHc/?lang_id=3D8&g=3D57-3-1&m=3D65&mid=3D53a35801000000000007004d0=
+3b3c50101566e5c0009" style=3D"color: #3366cc;">Italiano</a>, <a href=3D"htt=
+p://us1.badoo.com/douglas.gregory.1/in/fNEEwgmnHHc/?lang_id=3D61&g=3D57-4-1=
+&m=3D65&mid=3D53a35801000000000007004d03b3c50101566e5c0009" style=3D"color:=
+ #3366cc;">Portugu=C3=AAs</a> or <a href=3D"http://us1.badoo.com/douglas.gr=
+egory.1/in/fNEEwgmnHHc/?lang_id=3D7&g=3D57-5-1&m=3D65&mid=3D53a358010000000=
+00007004d03b3c50101566e5c0009" style=3D"color: #3366cc;">37 other languages=
+</a>.</div>=0A<h2 style=3D"font: normal 24px/27px Arial, sans-serif; margin=
+: 0; padding: 0 0 18px; color: black;">=C2=A1Lee el mensaje de Gregory ante=
+s de que sea borrado!</h2>=0A<br /><br />=0A<table style=3D"border-collapse=
+: collapse;" cellpadding=3D"0" cellspacing=3D"0">=0A<tr>=0A<td style=3D"pad=
+ding-right: 22px;"><a href=3D"http://us1.badoo.com/douglas.gregory.1/in/fNE=
+EwgmnHHc/?lang_id=3D7&g=3D57-6-2&m=3D65&mid=3D53a35801000000000007004d03b3c=
+50101566e5c0009"><img src=3D"http://p510.badoo.com/949/2/4/5/1286824500/447=
+938/t1402238326/c_IwIW0iv3.HozyWX5MmKb-x0GamnohaW6tfCcwK4DsnA/448112_medium=
+.jpg" width=3D"72" height=3D"72" border=3D"0" style=3D"background-color: #e=
+beef1;" alt=3D"" /></a></td>=0A<td><big style=3D"font: 16px/18px Arial, san=
+s-serif;"><b><a href=3D"http://us1.badoo.com/douglas.gregory.1/in/fNEEwgmnH=
+Hc/?lang_id=3D7&g=3D57-7-1&m=3D65&mid=3D53a35801000000000007004d03b3c501015=
+66e5c0009" style=3D"color: #3366cc;">Lee tu mensaje</a></b></big></td>=0A</=
+tr>=0A</table>=0A<br />=0A<br />=0A<br />=0AEste email forma parte del proc=
+eso de entrega del mensaje enviado por Gregory. Si has recibido este email =
+por error, por favor ign=C3=B3ralo. En un breve periodo de tiempo, la petic=
+i=C3=B3n se eliminar=C3=A1 del sistema.
+<br />
+<br />
+=C2=A1Divi=C3=A9rtete!<br />
+El Equipo de Badoo
+=0A<br /><br />=0A<img src=3D"http://badoocdn.com/53a35801000000000007004d0=
+0000000000000414cb36234-2134187299735123977/v2/-/-/i/badoo.16.gif" width=3D=
+"80" height=3D"23" alt=3D"" />=0A<p style=3D"margin-top:10px;color:#666666;=
+font:13px/18px Arial,sans-serif;">Has recibido este email de Badoo Trading =
+Limited (direcci=C3=B3n postal a continuaci=C3=B3n). Si no deseas recibir f=
+uturas comunicaciones de Badoo, por favor <a href=3D"https://us1.badoo.com/=
+impersonation.phtml?lang_id=3D7&email=3Dinfo%40courierpack.com.ve&block_cod=
+e=3D024564&m=3D65&mid=3D53a35801000000000007004d03b3c50101566e5c0009&g=3D0-=
+0-1" style=3D"color: #3366cc;">haz clic aqu=C3=AD</a> para desactivarlas.<b=
+r />=0ABadoo Trading Limited es una sociedad de responsabilidad limitada re=
+gistrada en Inglaterra y Gales con n=C3=BAmero 7540255 y domicilio en Media=
+ Village, 131 - 151 Great Titchfield Street, Londres, W1W 5BB.=0A</p>=0A=0A=
+</td>=0A</tr>=0A</table>=0A</div>=0A</body>=0A</html>
+--=_07e68d825e4c332da7afd01173a4be1f--
+

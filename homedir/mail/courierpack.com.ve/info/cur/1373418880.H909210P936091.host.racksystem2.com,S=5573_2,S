@@ -1,0 +1,79 @@
+Return-path: <ocmorenoh@yahoo.es>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Tue, 09 Jul 2013 20:44:41 -0430
+Received: from nm12-vm0.bullet.mail.ird.yahoo.com ([77.238.189.196]:22566)
+	by host.racksystem2.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <ocmorenoh@yahoo.es>)
+	id 1UwizQ-003vVt-Ia
+	for info@courierpack.com.ve; Tue, 09 Jul 2013 20:44:40 -0430
+Received: from [77.238.189.57] by nm12.bullet.mail.ird.yahoo.com with NNFMP; 10 Jul 2013 01:14:38 -0000
+Received: from [212.82.98.65] by tm10.bullet.mail.ird.yahoo.com with NNFMP; 10 Jul 2013 01:14:38 -0000
+Received: from [127.0.0.1] by omp1002.mail.ir2.yahoo.com with NNFMP; 10 Jul 2013 01:14:38 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 828370.12571.bm@omp1002.mail.ir2.yahoo.com
+Received: (qmail 15985 invoked by uid 60001); 10 Jul 2013 01:14:38 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1373418878; bh=EZfSCgnfnQIJmTB38VtbrVA2bie1nuzecnhnEOYLa2U=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=HHQZQqwBCrsqkPc0Tr9mpm1qs6oQRY7cXRXxmWOOrXw54X5VN+EHshhze1lrPo46ICcr5Ro4Lv68NvHAfkf8B3WLTOxUBFqAl/LfOTcxZ/t5/EcDhEuHhxwTx1dszbhuasrLiW7nOF6R+xUJmS0U3jcxxrzCUJl24ZWGQR6EoSs=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.es;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=lz9lqXfeuoDm51JB/XHthYdKnXlsx6Z9HpzeU/HcTMr2AmTwFrJC+9Kt9sOmimO+YmpfUJHxC7VK9I3mcG3/U25K0kGQNF8sUBvzflrR+KJRoOBD0gYDYp+diLE+q9NGcoRpFxkORD4I5WBrp8TbC0z23EsdxTGXcauE980forg=  ;
+X-YMail-OSG: Q_HYcAMVM1kQyfJaqDxFh8wNs.AXL07KWfeBSjpYraIsSGV
+ P_eazwrzw5ERvnEZC8dzI5pWB4cMq10BWzzcG5JGAS2T60A.m5WQg_02tav7
+ VUrKeXOelZUNZcKTzexmuVhJtGfbjUjdqGHzN1dAQ2c8n_gybecGNGshCp90
+ EGWERH17JzEKnfdawHxFPKno9ADFAgWPZqrHEDL18FEhYHrqeJpEVLNLs.9s
+ SsmtY1FCWIksyi31.wVyOnTlyFZhkKlreJrkbKaXWb0_zMY9whK8MXIJHhDh
+ 4p3xkJKnTdkPWtGa2QvwSwypXnAQuoggbryoIxdLKr26Q8Y6BZtHp0.cpo0D
+ XKjPQnD47kqsJvEWG.hGY8IxIxj_wJf_GfmO.egui.SLCKwTdtApUly_QzKl
+ qvoWzHf66tZVVr95Xk_SgBbtviO3D9LpT0BniDvVKqu5KgABPZtX1XgFBM4k
+ LY43hkaE9NTkS_ZLFQDKT447FT1rBx0l5J0nwOvZoWycBIwZ1IkV9Ga2yVTd
+ ELCFNKLhWyuAsVqxnRV45g040zw0FCpOafjRPzDLHCN.mkJf_yI5YC7J8iPy
+ hp7Qv9fveha0Survi9w_2xYOmalvn1djICnYv4telNIgw7MnEmwXRVsCXmSK
+ 58mUQqSJdDbSi1CwgZO9fvsIgXw37ySjOzZ.eV599ohAIKrLUM9eb3nn3BbT
+ kv8ZuERkqs9shSTdqobPftgWZHY1ShMD0HEBzaA7tw8uA8BwetvH7c.4b2gJ
+ q7ic.6c36AgfMUbPFRDBVewyk9XsHDfCGOOE2p7eo4CFgFTKB
+Received: from [190.37.38.253] by web171706.mail.ir2.yahoo.com via HTTP; Wed, 10 Jul 2013 02:14:38 BST
+X-Rocket-MIMEInfo: 002.001,wqAKSE9MQSBCVUVOQVMgTk9DSEVTISBTQUxVRE9TLgrCoArCoApNRSBESVJJSk8gQSBVU1RFREVTIENPTiBMQSBGSU5BTElEQUQgREUgQ09OT0NFUiBFTCBWQUxPUiBERUwgRU5WSU8gREVMIEFSVMONQ1VMTyBBTkVYTyBFTiBFTCBMSU5LLCBFTiBMQSBNT0RBTElEQUQgREU6wqAiRVNUQU5EQVIiIFkgIkFFUkVPIi4gQURFTcOBUyBRVUUgVElFTVBPIFRBUkRBIEVOIExMRUdBUiBBIFZFTkVaVUVMQT8KwqAKTElOSyBERUwgQVJUw41DVUxPOgrCoApodHRwOi8vd3d3LmFtYXpvbi5jb20vR3JhY28tVHJhdmVsLVMBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.148.557
+Message-ID: <1373418878.15584.YahooMailNeo@web171706.mail.ir2.yahoo.com>
+Date: Wed, 10 Jul 2013 02:14:38 +0100 (BST)
+From: osmarlyn moreno <ocmorenoh@yahoo.es>
+Reply-To: osmarlyn moreno <ocmorenoh@yahoo.es>
+Subject: =?iso-8859-1?Q?INFORMACI=D3N_DE_TARIFA_SEGUN_ARTICULO?=
+To: "info@courierpack.com.ve" <info@courierpack.com.ve>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1708739093-107315783-1373418878=:15584"
+
+--1708739093-107315783-1373418878=:15584
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+=A0=0AHOLA BUENAS NOCHES! SALUDOS.=0A=A0=0A=A0=0AME DIRIJO A USTEDES CON LA=
+ FINALIDAD DE CONOCER EL VALOR DEL ENVIO DEL ART=CDCULO ANEXO EN EL LINK, E=
+N LA MODALIDAD DE:=A0"ESTANDAR" Y "AEREO". ADEM=C1S QUE TIEMPO TARDA EN LLE=
+GAR A VENEZUELA?=0A=A0=0ALINK DEL ART=CDCULO:=0A=A0=0Ahttp://www.amazon.com=
+/Graco-Travel-Stroller-SnugRide-Playard/dp/B00C3MGH6Y/ref=3Dsr_1_122?s=3Dba=
+by-products&ie=3DUTF8&qid=3D1373418116&sr=3D1-122&keywords=3Dgraco=0A=A0=0A=
+=A0=0A=A0=0AATENTAMENTE, =0A=A0=0AOSMARLYN MORENO=0A0424-972.47.22=0A0287-4=
+15.59.38=0AOCMORENOH@YAHOO.ES
+--1708739093-107315783-1373418878=:15584
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ve=
+rdana, helvetica, sans-serif;font-size:10pt"><div>&nbsp;</div><div>HOLA BUE=
+NAS NOCHES! SALUDOS.</div><div>&nbsp;</div><div>&nbsp;</div><div>ME DIRIJO =
+A USTEDES CON LA FINALIDAD DE CONOCER EL VALOR DEL ENVIO DEL ART=CDCULO ANE=
+XO EN EL LINK, EN LA MODALIDAD DE:&nbsp;"ESTANDAR" Y "AEREO". ADEM=C1S QUE =
+TIEMPO TARDA EN LLEGAR A VENEZUELA?</div><div>&nbsp;</div><div>LINK DEL ART=
+=CDCULO:</div><div>&nbsp;</div><div><a href=3D"http://www.amazon.com/Graco-=
+Travel-Stroller-SnugRide-Playard/dp/B00C3MGH6Y/ref=3Dsr_1_122?s=3Dbaby-prod=
+ucts&amp;ie=3DUTF8&amp;qid=3D1373418116&amp;sr=3D1-122&amp;keywords=3Dgraco=
+">http://www.amazon.com/Graco-Travel-Stroller-SnugRide-Playard/dp/B00C3MGH6=
+Y/ref=3Dsr_1_122?s=3Dbaby-products&amp;ie=3DUTF8&amp;qid=3D1373418116&amp;s=
+r=3D1-122&amp;keywords=3Dgraco</a></div><div>&nbsp;</div><div>&nbsp;</div><=
+div>&nbsp;</div><div>ATENTAMENTE, </div><div>&nbsp;</div><div>OSMARLYN
+ MORENO</div><div>0424-972.47.22</div><div>0287-415.59.38</div><div><a href=
+=3D"mailto:OCMORENOH@YAHOO.ES">OCMORENOH@YAHOO.ES</a></div><div>&nbsp;</div=
+></div></body></html>
+--1708739093-107315783-1373418878=:15584--

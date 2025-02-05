@@ -1,0 +1,124 @@
+Return-path: <pellingomez@yahoo.es>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Mon, 10 Dec 2012 12:01:39 -0430
+Received: from nm12-vm0.bullet.mail.ird.yahoo.com ([77.238.189.196]:40104)
+	by host.caracasftp.com with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.77)
+	(envelope-from <pellingomez@yahoo.es>)
+	id 1Ti6GZ-0005Hv-5N
+	for gabrielagarcia@courierpack.com.ve; Mon, 10 Dec 2012 12:01:39 -0430
+Received: from [212.82.105.247] by nm12.bullet.mail.ird.yahoo.com with NNFMP; 10 Dec 2012 16:31:37 -0000
+Received: from [212.82.108.237] by tm19.bullet.mail.ird.yahoo.com with NNFMP; 10 Dec 2012 16:31:37 -0000
+Received: from [127.0.0.1] by omp1002.mail.ird.yahoo.com with NNFMP; 10 Dec 2012 16:31:37 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 759662.72090.bm@omp1002.mail.ird.yahoo.com
+Received: (qmail 48141 invoked by uid 60001); 10 Dec 2012 16:31:37 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1355157097; bh=fPkk6Ba/qxMh1fursZBMwmohY4S26HDnQHNc3CFXptw=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=H8cyVWH09I+lj9fLKQIlu5cdNs4Q6Y9oxHu8puGVOlET9OxE6St90pijz6GejqEvQbbdi9DsIGvd6/6Wt/+36otmA44eP4aHyjBYH6RDFtF4yJ5BQ09O3FfLwvDZOwANm6N0FHVjk7Hi+Be9wKQa4Ek6JMCGS4UDa9y0dOPLjVY=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.es;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type;
+  b=4t8qUMvq8dPwWWB7/h7SCuGYOufyBib+uKB3/ynrtYyFCgb+BpMG3+oy/0pn0tMeVpof2uFz2DNzRQZIIr3nuFrNZm4WtLZ1p5xINI9z1C1Ro7sM3zjt72capf/rROAdvjhqfcTGElm9biHx6tbET5k8swjTJA7EvsNgSOsAgmI=;
+X-YMail-OSG: TvNpLiEVM1l1PtXui9GC1D1TyV7bRm_ABwI0psy7TE3kaGy
+ ZtLYUJ9OYLndARWw207F9mjU35GtRAqJ.VRpyCasBc9ZW90S24beMF6fJ61f
+ Y6KlEaK__FxGcNK_T.BUw9uwG5YIUwoQHywGb8_zYCnoghTgcHYjqy_6TdH8
+ dHHFXeAGvSgZxFlSfdL2cwiYvoNQpz_vr40jQlD2zqGOjpb_ca14Rf7.0Umz
+ XjIQD86.oq3yTSt9tsUXtqFtRj5gJmOfVXTl17YRmNE.OLktRr6WXobWvcO1
+ ZkhwexaChJAs097A_NbCD.1n8J5nmU79.vstFop0WYjAACNRTXrPKxOOCtUg
+ ZKkVR_ZzDdKcpQiskvJ.A7.RjnT4fhPtiyFCQM_ydKna7YE.Ceq70uPXvMdx
+ WMXprrJsW5wtPfM_Q8rWD_9bb4HoKwLkAYiiee6FGb7nYqbC8rI2YfYidSg6
+ Io3cmFiUfLCvcgXFzAiDUs0_ir0vrrIJmD7Y-
+Received: from [190.207.166.82] by web29702.mail.ird.yahoo.com via HTTP; Mon, 10 Dec 2012 16:31:34 GMT
+X-Rocket-MIMEInfo: 001.001,U2FsdWRvcywgaW5mb3JtYWNpb24gZGVsIGRlcG9zaXRvOgoKRmVjaGE6IDEwLzEyLzIwMTIKSG9yYTogMTE6MjgKCkJhbmNvIEJhbmVzY28KTnVtZXJvIGRlIG9wZXJhY2lvbjogMDA0MzAyCkJzLiA4MjAsMDAKCkRpcmVjY2lvbiBkZSBlbnZpbzoKWm9vbSwgY2FycmVyYSAyNCBlbnRyZSBjYWxsZXMgMjMgeSAyNC4gQmFycXVpc2ltZXRvLCBlc3RhZG8gTGFyYQpBIG5vbWJyZSBkZSBQZWxsaW4gR29tZXogQ2VkdWxhIDc0MzM1MjIgY2VsdWxhciAwNDI2LTU1MDY1MzUKCsKgCkxjZG8uIFBlbGxpbiBHw7NtZXoBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.128.478
+References: <590558087-1354856817-cardhu_decombobulator_blackberry.rim.net-1935944072-@b12.c2.bise6.blackberry>
+Message-ID: <1355157094.48046.YahooMailNeo@web29702.mail.ird.yahoo.com>
+Date: Mon, 10 Dec 2012 16:31:34 +0000 (GMT)
+From: Pellin Gomez <pellingomez@yahoo.es>
+Reply-To: Pellin Gomez <pellingomez@yahoo.es>
+Subject: =?iso-8859-1?Q?Re=3A_Arribo_de_mercanc=EDa?=
+To: "gabrielagarcia@courierpack.com.ve" <gabrielagarcia@courierpack.com.ve>
+In-Reply-To: <590558087-1354856817-cardhu_decombobulator_blackberry.rim.net-1935944072-@b12.c2.bise6.blackberry>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="85574732-1794186334-1355157094=:48046"
+
+--85574732-1794186334-1355157094=:48046
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Saludos, informacion del deposito:=0A=0AFecha: 10/12/2012=0AHora: 11:28=0A=
+=0ABanco Banesco=0ANumero de operacion: 004302=0ABs. 820,00=0A=0ADireccion =
+de envio:=0AZoom, carrera 24 entre calles 23 y 24. Barquisimeto, estado Lar=
+a=0AA nombre de Pellin Gomez Cedula 7433522 celular 0426-5506535=0A=0A=A0=
+=0ALcdo. Pellin G=F3mez=0A=0A=0A________________________________=0A De: Gab=
+riela G <gabrielagarcia@courierpack.com.ve>=0APara: pellingomez@yahoo.es =
+=0AEnviado: Viernes 7 de diciembre de 2012 0:35=0AAsunto: Arribo de mercanc=
+=EDa=0A =0ABuenas Tardes=A0 Sr Pellin Gomez =0APor este medio se le informa=
+ que su carga se encuentra en nuestros=A0almacenes=A0disponible para su=A0e=
+nvi=F3=A0y entrega .=0A=0AAprovechamos para indicar que el costo por el ser=
+vicio de flete es de Bs., 815.00 bs=A0=0A45$ a un precio de dolar del d=EDa=
+ 18.10bs.=A0 =A0 =A0 =A0 =A0 =A0 =A0 =0AConjuntamente se le indica el detal=
+le bancario=A0agradeciendo la direcci=F3n de env=EDo, sugiriendo grupo ZOOM=
+, no nos hacemos responsables por env=EDos de MRW y DOMESA. =0A=0ATitular: =
+Gabriela=A0Garc=EDa=A0=0ACuenta Corriente: =A00134.0066.12.066.306.9613=A0=
+=0ABanco: Banesco=0AC.I.: 18.539.138=A0=0A=0ACOURIERPACK, marcando la difer=
+encia en envio internacional
+--85574732-1794186334-1355157094=:48046
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:14pt"><div><span>Saludos, i=
+nformacion del deposito:</span></div><div style=3D"color: rgb(0, 0, 0); fon=
+t-size: 18.6667px; font-family: times new roman,new york,times,serif; backg=
+round-color: transparent; font-style: normal;"><br><span></span></div><div =
+style=3D"color: rgb(0, 0, 0); font-size: 18.6667px; font-family: times new =
+roman,new york,times,serif; background-color: transparent; font-style: norm=
+al;"><span>Fecha: 10/12/2012</span></div><div style=3D"color: rgb(0, 0, 0);=
+ font-size: 18.6667px; font-family: times new roman,new york,times,serif; b=
+ackground-color: transparent; font-style: normal;"><span>Hora: 11:28<br></s=
+pan></div><div style=3D"color: rgb(0, 0, 0); font-size: 18.6667px; font-fam=
+ily: times new roman,new york,times,serif; background-color: transparent; f=
+ont-style: normal;"><span>Banco Banesco</span></div><div style=3D"color: rg=
+b(0,
+ 0, 0); font-size: 18.6667px; font-family: times new roman,new york,times,s=
+erif; background-color: transparent; font-style: normal;"><span>Numero de o=
+peracion: 004302</span></div><div style=3D"color: rgb(0, 0, 0); font-size: =
+18.6667px; font-family: times new roman,new york,times,serif; background-co=
+lor: transparent; font-style: normal;"><span>Bs. 820,00</span></div><div st=
+yle=3D"color: rgb(0, 0, 0); font-size: 18.6667px; font-family: times new ro=
+man,new york,times,serif; background-color: transparent; font-style: normal=
+;"><span><br></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 18.=
+6667px; font-family: times new roman,new york,times,serif; background-color=
+: transparent; font-style: normal;"><span>Direccion de envio:</span></div><=
+div style=3D"color: rgb(0, 0, 0); font-size: 18.6667px; font-family: times =
+new roman,new york,times,serif; background-color: transparent; font-style: =
+normal;"><span>Zoom, carrera 24 entre calles 23 y 24. Barquisimeto, estado
+ Lara</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 18.6667px; =
+font-family: times new roman,new york,times,serif; background-color: transp=
+arent; font-style: normal;"><span>A nombre de Pellin Gomez Cedula 7433522 c=
+elular 0426-5506535</span></div><div style=3D"color: rgb(0, 0, 0); font-siz=
+e: 18.6667px; font-family: times new roman,new york,times,serif; background=
+-color: transparent; font-style: normal;"><span><br></span></div><div>&nbsp=
+;</div><div><font size=3D"5"><i><font color=3D"#0000ff" face=3D"comic sans =
+ms">Lcdo. Pellin G=F3mez</font></i></font></div><div><br></div>  <div style=
+=3D"font-family: times new roman, new york, times, serif; font-size: 14pt;"=
+> <div style=3D"font-family: times new roman, new york, times, serif; font-=
+size: 12pt;"> <div dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> <hr size=
+=3D"1">  <b><span style=3D"font-weight:bold;">De:</span></b> Gabriela G &lt=
+;gabrielagarcia@courierpack.com.ve&gt;<br> <b><span style=3D"font-weight: b=
+old;">Para:</span></b>
+ pellingomez@yahoo.es <br> <b><span style=3D"font-weight: bold;">Enviado:</=
+span></b> Viernes 7 de diciembre de 2012 0:35<br> <b><span style=3D"font-we=
+ight: bold;">Asunto:</span></b> Arribo de mercanc=EDa<br> </font> </div> <b=
+r>Buenas Tardes&nbsp; Sr Pellin Gomez <br>Por este medio se le informa que =
+su carga se encuentra en nuestros&nbsp;almacenes&nbsp;disponible para su&nb=
+sp;envi=F3&nbsp;y entrega .<br><br>Aprovechamos para indicar que el costo p=
+or el servicio de flete es de Bs., 815.00 bs&nbsp;<br>45$ a un precio de do=
+lar del d=EDa 18.10bs.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <br=
+>Conjuntamente se le indica el detalle bancario&nbsp;agradeciendo la direcc=
+i=F3n de env=EDo, sugiriendo grupo ZOOM, no nos hacemos responsables por en=
+v=EDos de MRW y DOMESA. <br><br>Titular: Gabriela&nbsp;Garc=EDa&nbsp;<br>Cu=
+enta Corriente: &nbsp;0134.0066.12.066.306.9613&nbsp;<br>Banco: Banesco<br>=
+C.I.: 18.539.138&nbsp;<br><br>COURIERPACK, marcando la diferencia en envio
+ internacional<br><br> </div> </div>  </div></body></html>
+--85574732-1794186334-1355157094=:48046--

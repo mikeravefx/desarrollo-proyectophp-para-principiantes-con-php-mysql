@@ -1,0 +1,5 @@
+PASO PARA IMPORTAR LA BASE DE DATOS...
+
+1. Con tu administrador de mysql favorito crea la base de datos (ej: noticias)
+2. Desde el mismo administrador importa el archivo articulos.sql
+3. Listo

@@ -1,0 +1,131 @@
+Return-path: <tecnicokarim@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Tue, 29 Apr 2014 18:21:58 -0430
+Received: from mail-ve0-f180.google.com ([209.85.128.180]:48987)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <tecnicokarim@gmail.com>)
+	id 1WfGsW-003ffT-1S
+	for info@courierpack.com.ve; Tue, 29 Apr 2014 18:21:58 -0430
+Received: by mail-ve0-f180.google.com with SMTP id jz11so1140854veb.39
+        for <info@courierpack.com.ve>; Tue, 29 Apr 2014 15:51:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:references:from:content-type:in-reply-to:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=mQbxBaXZ7+nHV/2Ya7jEOv5g425NBRDlNRG98/xs7oU=;
+        b=pj1bt3X8fWzL0gXAf4YTDgYy38EKWOwAmrkLul1BC3HUqQ3a1iZ4S+5CviHxvWhLnV
+         GazukWrTPFwIMtm/Cu8uT0FV7ehWtxV9qd83v2T6+AFChUwCfqUWRQy5+sk4EaGoThcv
+         hyXelsscTBebprRicvfJrVmbOxy3U1aYoCBWfZe6qIQnE0K/rcUaHTJ9rFvm1eujZ2aV
+         OHzDQ55NIfhRg6DMkHhTAN+117fNzP1XQG+hHElGwWwbZL9Msgpf85n3KYmLga62z0cl
+         ycrjiMTIaxubyKR4EGnsGfAbHScP8lfccHogI6BGlBtdWRauPmy4xXk8B498jI+Vr1qY
+         z4xQ==
+X-Received: by 10.220.92.135 with SMTP id r7mr409486vcm.11.1398811914158;
+        Tue, 29 Apr 2014 15:51:54 -0700 (PDT)
+Received: from [192.168.1.5] ([200.82.140.42])
+        by mx.google.com with ESMTPSA id l4sm46156845vdb.3.2014.04.29.15.51.53
+        for <info@courierpack.com.ve>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 29 Apr 2014 15:51:53 -0700 (PDT)
+Subject: Re: Gabriela Garcia.
+References: <149221467-1398809385-cardhu_decombobulator_blackberry.rim.net-921255872-@b3.c4.bise6.blackberry>
+From: =?utf-8?Q?T=C3=A9cnico_Karim?= <tecnicokarim@gmail.com>
+Content-Type: text/plain;
+	charset=utf-8
+X-Mailer: iPhone Mail (11D201)
+In-Reply-To: <149221467-1398809385-cardhu_decombobulator_blackberry.rim.net-921255872-@b3.c4.bise6.blackberry>
+Message-Id: <EF3BD3B8-F574-4176-B924-A1F9F7920B56@gmail.com>
+Date: Tue, 29 Apr 2014 18:21:53 -0430
+To: "info@courierpack.com.ve" <info@courierpack.com.ve>
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Listo gracias ya lo revise. Mañana le hago el envió. Muchas
+    gracias. Karim. 0212 3263495 > El 29/04/2014, a las 05:39 p.m., "CourierPack"
+    escribió: > > Sr Carlos Adjuntando por este medio el capture > ------Mensaje
+    original------ > De: Técnico Karim > Para: info@courierpack.com.ve > Asunto:
+    Re: Gabriela Garcia. > Enviado: 24 de abr de 2014 11:12 AM > > Disculpe las
+    molestias causadas. Pues calló Semana Santa y por razones ajenas a nuestra
+    voluntad perdimos el vuelo de regreso de Margarita por el cual no pudimos
+    regresar al tiempo pautado. Por lo que nos disculpamos y en el transcurso
+    del día le estaremos dando respuesta sobre su equipo debido a que quien
+   lo recibió Sra. Katiuska aún no ha llegado a laborar esperando por ella
+   para que me haga entrega de su equipo. > Feliz tarde. > > Karim. > 0212 3263495
+    > > >> El 23/04/2014, a las 01:06 a.m., "CourierPack" escribió: >> >> Buenas
+    tardes, el dia 15 de el mes en curso envie mi celular a sus oficinas con
+   la intencion de ser reparado, es la 2da vez que me sirvo de sus servicios
+   ya que la primera vez fue sumamente responsable. Noto el desinteres por la
+    buena atencion al clientes de partes de ustedes ya que no contestan ni llamadas
+    ni mensajes de texto cuestion que me preocupa ya que mi celular de uso personal
+    esta en sus manos. Le agradezco mucho la respuesta del presente email con
+    motivo de respuesta de mi telf iphone s4 blanco. >> Saludos. >> Gabriela
+   Garcia >> 0424 108 27 57 >> Central de informancion al Cliente. > > Central
+    de informancion al Cliente. > <CaptureNux 2014-04-11 02.36.27.jpg> [...] 
+ 
+ Content analysis details:   (-0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (tecnicokarim[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+Listo gracias ya lo revise. Ma=C3=B1ana le hago el envi=C3=B3. Muchas gracia=
+s.=20
+
+Karim.=20
+0212 3263495
+
+
+> El 29/04/2014, a las 05:39 p.m., "CourierPack" <info@courierpack.com.ve> e=
+scribi=C3=B3:
+>=20
+> Sr Carlos Adjuntando por este medio el capture=20
+> ------Mensaje original------
+> De: T=C3=A9cnico Karim
+> Para: info@courierpack.com.ve
+> Asunto: Re: Gabriela Garcia.
+> Enviado: 24 de abr de 2014 11:12 AM
+>=20
+> Disculpe las molestias causadas. Pues call=C3=B3 Semana Santa y por razone=
+s ajenas a nuestra voluntad perdimos el vuelo de regreso de Margarita por el=
+ cual no pudimos regresar al tiempo pautado.  Por lo que nos disculpamos y e=
+n el transcurso del d=C3=ADa le estaremos dando respuesta sobre su equipo de=
+bido a que quien lo recibi=C3=B3 Sra.  Katiuska a=C3=BAn no ha llegado a lab=
+orar esperando por ella para que me haga entrega de su equipo.=20
+> Feliz tarde.=20
+>=20
+> Karim.=20
+> 0212 3263495
+>=20
+>=20
+>> El 23/04/2014, a las 01:06 a.m., "CourierPack" <info@courierpack.com.ve> e=
+scribi=C3=B3:
+>>=20
+>> Buenas tardes, el dia 15 de el mes en curso envie mi celular a sus oficin=
+as con la intencion de ser reparado, es la 2da vez que me sirvo de sus servi=
+cios ya que la primera vez fue sumamente responsable. Noto el desinteres por=
+ la buena atencion al clientes de partes de ustedes ya que no contestan ni l=
+lamadas ni mensajes de texto cuestion que me preocupa ya que mi celular de u=
+so personal esta en sus manos. Le agradezco mucho la respuesta del presente e=
+mail con motivo de respuesta de mi telf iphone s4 blanco.=20
+>> Saludos.=20
+>> Gabriela Garcia
+>> 0424 108 27 57=20
+>> Central de informancion al Cliente.
+>=20
+> Central de informancion al Cliente.
+> <CaptureNux 2014-04-11 02.36.27.jpg>

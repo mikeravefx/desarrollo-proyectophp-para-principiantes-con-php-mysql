@@ -1,0 +1,1585 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201002 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2545                
+POS_VISITOR 21263               
+POS_DAY 44472               
+POS_DOMAIN 3457                
+POS_LOGIN 4118                
+POS_ROBOT 4273                
+POS_WORMS 4894                
+POS_EMAILSENDER 5025                
+POS_EMAILRECEIVER 5168                
+POS_SESSION 45320               
+POS_SIDER 45533               
+POS_FILETYPES 5303                
+POS_OS 5534                
+POS_BROWSER 5758                
+POS_SCREENSIZE 6426                
+POS_UNKNOWNREFERER 6500                
+POS_UNKNOWNREFERERBROWSER 7611                
+POS_ORIGIN 8204                
+POS_SEREFERRALS 8352                
+POS_PAGEREFS 8570                
+POS_SEARCHWORDS 12479               
+POS_KEYWORDS 17723               
+POS_MISC 2207                
+POS_ERRORS 19959               
+POS_CLUSTER 3974                
+POS_SIDER_404 20073               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20100301031623 303 77252 37489372654
+FirstTime 20100201054557
+LastTime 20100228215140
+LastUpdate 20100301051245 303 0 302 0 0
+TotalVisits 706                 
+TotalUnique 326                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 704                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 309 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 26 215 4950947 16 38 192075
+1 21 87 2929921 30 42 292138
+2 7 71 1285553 17 25 221257
+3 9 45 1616947 12 23 92793
+4 62 154 3333685 24 63 252623
+5 36 162 2588035 16 39 390555
+6 13 17 841717 27 30 293816
+7 21 183 3137482 11 23 226761
+8 156 572 12852001 29 133 1315437
+9 80 566 10597722 15 74 171142
+10 163 772 17567601 47 146 669293
+11 356 870 17229848 53 225 1157167
+12 204 880 20078588 39 192 1005141
+13 234 1030 24057557 36 189 1046088
+14 265 1295 23542302 41 247 1331238
+15 340 1189 21924839 29 247 872732
+16 210 909 15742785 74 245 2353117
+17 282 1033 22727206 31 225 718005
+18 333 1080 21167509 39 280 544836
+19 218 822 18026459 20 187 1330921
+20 216 1085 29574705 25 186 1228622
+21 191 979 21541544 33 193 609604
+22 136 815 19259392 103 191 1394459
+23 62 254 6045372 40 76 436921
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 29
+ve 3016 12805 261971242
+us 201 482 14644740
+co 132 761 9604713
+cn 122 150 12983198
+ar 39 254 6066910
+ru 37 37 837888
+ca 36 79 1408372
+ec 15 75 1809169
+es 11 85 3199805
+mx 9 97 2465668
+pe 5 66 1747979
+pa 4 33 833229
+uy 3 19 748060
+ua 2 2 0
+cr 2 17 682286
+de 2 30 1024569
+jp 1 1 39259
+do 1 4 123037
+gb 1 29 360055
+it 1 1 39259
+gt 1 26 356839
+cl 0 18 1185000
+ba 0 1 27926
+cu 0 1 27926
+ni 0 2 55852
+sv 0 6 216294
+bo 0 2 104590
+py 0 1 27926
+an 0 1 27926
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+googlebot 168 1882497 20100228211429 37
+slurp 106 1254737 20100228214538 28
+bot[+:,\.\;\/\\-] 84 1264429 20100228235944 29
+ia_archiver 80 1209546 20100222233948 4
+robot 64 361615 20100228213645 49
+crawl 35 844412 20100223154040 2
+unknown 32 768 20100228221744 32
+no_user_agent 27 1048660 20100222081722 0
+spider 26 589149 20100227164938 11
+msnbot\-media 6 83850 20100226025649 3
+jeeves 4 86394 20100218101752 2
+[+:,\.\;\/\\-]bot 1 39259 20100212091438 0
+netcraft 1 39259 20100205174101 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 559 3395422 0 0
+png 80 11804 0 0
+swf 390 120609307 0 0
+php 1729 23412203 0 0
+html 1521 32019134 0 0
+jpg 10502 142676718 0 0
+js 31 329108 0 0
+Unknown 1 5098 0 0
+gif 272 160923 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 16
+linuxmandr 24
+winlong 2581
+winxp 9570
+win2000 4
+winnt 1
+symbian 37
+win98 1
+linuxubuntu 21
+linuxfedora 39
+linux 81
+win16 36
+macosx 203
+win2003 4
+linuxdebian 64
+Unknown 167
+win2008 2252
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 42
+msie6.0 1156
+firefox3.6 1985
+chrome 665
+firefox3.5.4 261
+sonyericsson 1
+firefox3.0.1 113
+firefox3.0.14 4
+firefox3.5.3 1
+firefox1.5.0.1 5
+firefox2.0.0.13 1
+msie8.0 3939
+firefox2.0.0.14 2
+firefox2.0.0.9 3
+firefox3.5.8 641
+msie7.0 2612
+wget 1
+firefox1.5 6
+Unknown 178
+firefox3.0.18 82
+firefox3.5.6 67
+firefox2.0.0.20 2
+firefox3.0.16 1
+firefox3.0.17 151
+firefox3.5.1 1
+opera 122
+firefox3.0 20
+ossproxy 1
+firefox3.0.11 73
+firefox3.5.2 20
+msie5.00 1
+firefox3.0.5 4
+firefox2.0.0.11 1
+firefox3.0.3 1
+nokia 4
+firefox3.5.5 81
+mozilla 88
+netscape5.0 2
+firefox3.5 2
+firefox3.0.10 25
+safari 181
+firefox3.0.15 48
+firefox3.5.7 2533
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+SonyEricssonW890i/R1EA_Browser/NetFront/3.4_Profile/MIDP-2.1_Configuration/CLDC-1.1 20100208124330
+Opera/9.50_(Nintendo_DSi;_Opera/507;_U;_es-LA) 20100228183840
+BlackBerry8320/4.5.0.55_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/215 20100214132916
+Nokia6820/2.0_(4.83)_Profile/MIDP-1.0_Configuration/CLDC-1.0 20100218103413
+Wget/1.11.4 20100220221854
+BlackBerry8900/5.0.0.461_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/100 20100206143030
+Mozilla/5.0 20100226225016
+Mediapartners-Google 20100224010447
+BlackBerry8900/4.6.1.114_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/100 20100226161802
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20100228212458
+Mozilla/4.0_(compatible;) 20100218044717
+Mozilla/5.0_(en-us)_AppleWebKit/525.13_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Version/3.1_Safari/525.13,Mozilla/5.0_(en-us)_AppleWebKit/525.13_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Version/3.1_Safari/525.13 20100223204358
+Mozilla/5.0_[Internet_Explorer] 20100227232629
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Mediapartners-Google 20100224010447
+BlackBerry8900/4.6.1.114_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/100 20100226161802
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20100228212458
+Yandex/1.01.001_(compatible;_Win16;_I) 20100225113459
+BlackBerry8320/4.5.0.55_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/215 20100214132916
+BlackBerry8900/5.0.0.461_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/100 20100206143030
+Yandex/1.01.001_(compatible;_Win16;_H) 20100212231819
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 611 823
+From1 0 0
+From2 231 260
+From3 84 604
+From4 2715 13398
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+google 219 221
+baidu 1 1
+search 2 2
+live 1 19
+google_image 6 13
+yahoo 2 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 74
+http://foros.cantv.net/forum_posts.asp 12 333
+http://www.facebook.com/posted.php 5 5
+http://caracas.olx.com.ve/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com-iid-44316114 4 110
+http://caracas.olx.com.ve/courierpack-courier-internacional-puerta-a-puerta-compra-por-intenet-con-tu-cupo-cadivi-iid-44232719 2 21
+http://www.dbsclub.org/ftemat-1045.html 2 2
+http://teenlovezone.com 2 2
+http://www.facebook.com/home.php 2 2
+http://postclass.com/list/34948,18.html 1 1
+http://postclass.com/list/7279,18.html 1 1
+http://postclass.com/list/16509,62.html 1 1
+http://postclass.com/list/24183,64.html 1 1
+http://postclass.com/list/26015,37.html 1 1
+http://postclass.com/list/20909,44.html 1 1
+http://postclass.com/list/23637,1.html 1 1
+http://postclass.com/list/38605,92.html 1 1
+http://postclass.com/list/36049,145.html 1 1
+http://postclass.com/list/36473,39.html 1 1
+http://postclass.com/list/14858,68.html 1 1
+http://postclass.com/list/31006,65.html 1 1
+http://postclass.com/list/21638,151.html 1 1
+http://postclass.com/list/18965,139.html 1 1
+http://200.44.32.96/forum_posts.asp 1 9
+http://postclass.com/list/20960,2.html 1 1
+http://postclass.com/list/31020,95.html 1 1
+http://postclass.com/list/34172,13.html 1 1
+http://e1.mc582.mail.yahoo.com/mc/welcome 0 4
+http://translate.googleusercontent.com/translate_c 0 2
+http://forosbeta.cantv.net/forum_posts.asp 0 20
+http://e1.mc371.mail.yahoo.com/mc/welcome 0 1
+http://postclass.com/list/14796,45.html 1 1
+http://postclass.com/list/13410,112.html 1 1
+http://www.mercadolibre.cl/jm/syi4 0 1
+http://www.facebook.com/profile.php 1 1
+http://teamhardwarevzla.com/foros/viewtopic.php 1 1
+http://wwwapps.ups.com/ietracking/tracking.cgi 1 1
+http://postclass.com/list/1284,23.html 1 1
+http://postclass.com/list/35582,7.html 1 1
+http://postclass.com/list/30218,108.html 1 1
+http://postclass.com/list/18205,75.html 1 1
+http://postclass.com/list/38644,139.html 1 1
+http://postclass.com/list/22307,141.html 1 1
+http://www.peekstats.com/www.courierpack.com.ve 1 1
+http://postclass.com/list/33710,119.html 1 1
+http://postclass.com/list/12637,83.html 1 1
+http://astore.amazon.com/courierpackco-20 1 1
+http://postclass.com/list/31484,53.html 1 1
+http://postclass.com/list/26895,144.html 1 1
+http://postclass.com/list/33659,136.html 1 1
+http://postclass.com/list/4741,129.html 1 1
+http://postclass.com/list/15414,96.html 1 1
+http://result.iminent.com/iminent-es_intl_es/ws/results/Web/Como%20Comprar%20Con%20Cupos%20Cadivi%20Internet%202009/1/302359/RightNav/Relevance/iq=true/zoom=off/_iceUrlFlag=7 1 1
+http://articulo.mercadolibre.cl/MLC-27101048-libro-biologia-1-educacion-media-editorial-santillana-_JM 0 3
+http://postclass.com/list/22489,125.html 1 1
+http://postclass.com/list/31953,67.html 1 1
+http://postclass.com/list/24784,87.html 1 1
+http://postclass.com/list/15739,60.html 1 1
+http://articulo.mercadolibre.cl/MLC-19174894-tinta-cartridge-cartucho-epson-s020191-so20191-original-_JM 0 8
+http://postclass.com/list/8904,54.html 1 1
+http://postclass.com/list/22904,103.html 1 1
+http://postclass.com/list/35433,13.html 1 1
+http://e1.mc1125.mail.yahoo.com/mc/welcome 0 2
+http://postclass.com/list/34983,83.html 1 1
+http://postclass.com/list/11563,134.html 1 1
+http://www.facebook.com/sharer.php 0 4
+http://www.fastbrowsersearch.com/results/results.aspx 1 1
+http://postclass.com/list/17566,76.html 1 1
+http://74.125.93.132/search 0 3
+http://74.125.113.132/search 0 8
+http://articulo.mercadolibre.cl/MLC-21249627-libro-biologia-1-educacion-media-editorial-santillana-_JM 0 10
+http://postclass.com/list/36402,60.html 1 1
+http://postclass.com/list/23519,125.html 1 1
+http://postclass.com/list/7732,117.html 1 1
+http://postclass.com/list/7087,28.html 1 1
+http://postclass.com/list/13217,112.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 126
+courierpack 23
+courier+pack 22
+courier+internacional+puerta+a+puerta 9
+curierpack 8
+courierpack.com.ve 7
+courrierpack 5
+lo+compro+por+usted+en+usa 5
+courrier+pack 4
+compra+por+internet+con+tu+cupo+cadivi 4
+cupo+cadivi+2010+para+compras+por+internet 3
+cadivi+compras+por+internet+2010 3
+site+http+%2f%2fcourierpack.com.ve%2fconsulta_estatus_por_guia.php 3
+www.courierpack.+com.ve 2
+requisitos+para+hacer+compras+a+trav%c3%a9s+de+cadivi+por+la+empresa 2
+couirierpack 2
+libras+cadivi 2
+dolar+paralelo 2
+nuevos+cambios+de+cadivi 2
+dolar+para+compras+por+internet+2010 2
+cupos+de+dolares+de+internet+2010 2
+monto+aprobado+para+el+cupo+de+compras+por+internet 2
+compras+en+el+exterior+con+los+cupos+cadivi 2
+pasos+para+hacer+compras+en+una+libreria+por+internet 2
+cupo+de+dolares+de+internet+2010 2
+cadivi+dolares+internet+2010 2
+trampa+para+cadivi+2010 1
+comprar+en+eeuu+con+cupo+electronico 1
+compra+en+estados+unidos+paga+con+cupo+cadivi 1
+currier+compra+por+internet 1
+cupo+cadivi+2010+compras+por+internet 1
+compra+de+semilas+por+cupo+cadivi 1
+se+pod%c3%adan+hacer+compras+a+trav%c3%a9s+de+internet 1
+entrega+internacional+de+compras+por+internet 1
+gift+card+amazon 1
+porque+estas+empresas+tardan+tanto+en+entrega+de+mercancias+courier 1
+dolares+internet+cadivi+2010 1
+guia+compra+en+internet+cupo+cadivi 1
+es+posible+comprar+en+amazon+mas+de+400 1
+compras+por+internet+de+perfumes+en+dolares 1
+blackberry+con+cupos+cadivi 1
+costo+de+nacionalizacion+de+un+articulo+por+199+dolares 1
+de+cuanto+es+el+cupo+cadivi+internet+para+el+2010 1
+pueden+los+organismos+del+estado+venezolano+hacer+compras+por+internet 1
+calculo+para+comprar+por+internet+cadivi 1
+como+debo+actualizar+mis+cupos+cadivi+internet 1
+planila+preguntas+amazon 1
+providencia+para+compras+por+internet 1
+compra+de+dolar+paralelo+en+venezuela 1
+comprar+articulo+del+norte+con+el+cupo+de+400+dolares 1
+la+nueva+trampa+de+cadivi 1
+cadivi+compra+por+internet+2010 1
+cuando+sabe+que+uno+tiene+aprobado+los+dolares+para+pago+por+internet 1
+en+cuanto+esta+el+dolar+para+compras+por+internet+venezuela 1
+las+trampas+de+cadivi 1
+cupo+cadivi+para+el+2010+retiro+de+cajeros 1
+requsitos+para+la+adquicision+de+dolares+para+comprar+con+tarjetas+por+internet+en+venezuela 1
+valor+del+dolar+para+compras+por+internet 1
+cuanto+esta+el+dolar+para+transacciones+por+internet 1
+en+que+consiste+el+cupo+cadivi 1
+cuanto+es+el+cupo+de+cadivi+para+internet+2010 1
+comprar+gift+card+venezuela+cadivi 1
+municiones+de+gas 1
+cu%c3%a1l+es+la+direcci%c3%b3n+f%c3%adsica+del+cadivi 1
+devolucion+dolares+compras+electronicas 1
+que+tiendas+aceptan+pagos+por+internet+con+tdc+venezolanas 1
+dolar+para+comprar+en+el+exterior+x+internet 1
+courier+2010 1
+www.curier+pack 1
+solicitud+de+tarjetas+de+credito+gratis+online 1
+retraso+en+la+aprobacion+de+dolares+en+internet+2010 1
+pack+courier 1
+compro+cupo+de+dolares+cadivi+viajeros+2010 1
+comprar+cupos+cadivi+2010 1
+cadivi+compras+electronicas+2010 1
+compre+en+estado+unidos+sin+salir+de+casa+en+bs+f 1
+400+dolares 1
+pagina+cadivi+caida+2010 1
+gift+card+amazon+se+puede+acumular+hasta+llegar+a+5000+dolares 1
+fedex+rastreo 1
+se+puede+comprar+en+amazon+sin+el+cupo+cadivi 1
+las+compras+electronicas+por+internet+de+cadivi+a+que+precio+estara+el+dolar 1
+courierrpack 1
+qq 1
+compra+de+cupos+de+dolares+2010 1
+requisiotos+para+comprar+por+internet+2010 1
+cupos+cadivi+cajeros+2010 1
+donde+comprar+dolar+paralelo+de+manera+segura+en+venezuela 1
+requisitos+exigidos+por+cadivi+para+los+cupos+electronicos+2010 1
+compro+tu+cupo+cadivi+2010 1
+no+puedo+comprar+por+amazon+dolares+electronicos+cadivi+2010 1
+compre+en+usa+y+pague+cupo+internet+cadivi 1
+nueva+providencia+de+cupos+parael+exterior 1
+compras+con+tarjeta+de+credito+por+internet 1
+compras+por+internet+cupo+cadivi 1
+corier+pack 1
+mail+compras 1
+como+realizar+una+compra+electronica 1
+retrasos+en+aprobacion+cupos+cadivi+2010 1
+cu%c3%a1les+son+los+pasos+para+realizar+compras+de+un+bien+o+servicio+por+internet 1
+no+utilizo+cupo+cadivi+2010 1
+fedex+tracking 1
+comprar+gift+card+sin+cupo+cadivi 1
+cadivi+dolar+para+viajero+2010 1
+cuanto+tardan+en+actualizar+el+cupo+de+dolares+cadivi 1
+cupo+cadivi+para+compras+electronicas+a%c3%b1o+2006 1
+compra+de+ups 1
+alto+ancho+profundidad+peso+volumetrico 1
+north+west+99+av+unit+6+city+miami+state+florida+united+states+phone+786+3422576 1
+comprar+en+usa+direccion+en+seattle 1
+dolares+de+internet+2010+cadivi 1
+compra+por+internet+con+tu+cupo+cadivi+en+estados+unidos 1
+como+hago+para+registrarme+cupo+cadivi+compra+por+internet 1
+como+aprovechar+al+maximo+mi+cupo+cadivi+para+comprar+en+internet 1
+cuanto+es+el+cambio+del+dolar+para+operaciones+electronicas 1
+requisitos+para+dolar+internet 1
+requisito+para+cupo+de+cadivis+por+internet 1
+compras+por+internet+por+cupos+cadivi+pasos+a+seguir 1
+que+pasa+si+compro+sin+cupo+en+amazon 1
+dolar+compras+por+internet+cadivi 1
+compro+cupo+cadivi+2010 1
+donde+comprar+en+miami+materiales+para+hacer+cards 1
+compra+por+internet+al+exterior 1
+precio+dolar+cadivi+compras+electronicas 1
+casilleros+en+miami 1
+requisitospara+dolares+internet+de+cadivi 1
+cupo+cadivi+internet+2006 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 226
+cadivi 66
+internet 61
+por 53
+de 48
+2010 38
+cupo 37
+en 36
+para 35
+compras 35
+courier 34
+pack 29
+courierpack 23
+dolares 22
+puerta 18
+el 17
+compra 16
+comprar 16
+dolar 16
+a 15
+con 14
+cupos 13
+internacional 10
+compro 9
+curierpack 8
+hacer 7
+puede 2
+y 1
+north 1
+hago 1
+semilas 1
+manera 1
+solicitud 1
+usted 5
+materiales 1
+requisiotos 1
+devolucion 1
+cuanto 6
+400 3
+costo 1
+porque 1
+mis 1
+parael 1
+compre 2
+aprobado 3
+av 1
+rastreo 1
+gas 1
+monto 2
+uno 1
+la 6
+mi 1
+venezolanas 1
+trampas 1
+tiene 1
+cambio 1
+viajeros 1
+cambios 2
+bien 1
+credito 2
+199 1
+venezolano 1
+online 1
+tarjeta 1
+aceptan 1
+se 3
+exterior 5
+2006 2
+cuando 1
+volumetrico 1
+son 1
+debo 1
+venezuela 5
+cajeros 2
+no 2
+precio 2
+mercancias 1
+tu 6
+http 3
+norte 1
+pueden 1
+una 3
+electronicas 6
+si 1
+puedo 1
+courierrpack 1
+mas 1
+preguntas 1
+cadivis 1
+electronico 1
+estara 1
+transacciones 1
+tarjetas 2
+sin 4
+card 4
+que 5
+miami 3
+direccion 1
+viajero 1
+casa 1
+blackberry 1
+courrier 4
+providencia 2
+couirierpack 2
+libreria 2
+estas 1
+pagos 1
+tardan 2
+f%c3%adsica 1
+eeuu 1
+las 2
+city 1
+planila 1
+corier 1
+seguir 1
+ups 1
+realizar 2
+5000 1
+a%c3%b1o 1
+maximo 1
+phone 1
+currier 1
+seattle 1
+posible 1
+valor 1
+o 1
+tiendas 1
+aprovechar 1
+retraso 1
+gratis 1
+3422576 1
+registrarme 1
+nacionalizacion 1
+99 1
+utilizo 1
+lo 5
+electronica 1
+amazon 7
+nuevos 2
+786 1
+pague 1
+sabe 1
+al 2
+alto 1
+gift 4
+trav%c3%a9s 3
+peso 1
+organismos 1
+direcci%c3%b3n 1
+ancho 1
+servicio 1
+requisitospara 1
+bs 1
+pasos 4
+com.ve 2
+adquicision 1
+trampa 2
+del 5
+courierpack.com.ve 7
+west 1
+calculo 1
+casilleros 1
+unit 1
+florida 1
+www.courierpack. 2
+site 3
+electronicos 2
+donde 2
+cu%c3%a1l 1
+actualizar 2
+guia 1
+requisito 1
+fedex 2
+caida 1
+es 5
+usa 7
+empresa 2
+state 1
+estados 2
+operaciones 1
+exigidos 1
+hasta 1
+libras 2
+qq 1
+aprobacion 2
+www.curier 1
+entrega 2
+articulo 2
+salir 1
+requsitos 1
+esta 2
+tdc 1
+estado 2
+united 1
+un 2
+unidos 3
+pasa 1
+tracking 1
+retrasos 1
+retiro 1
+pagina 1
+courrierpack 5
+nueva 2
+pago 1
+states 1
+x 1
+como 4
+empresas 1
+perfumes 1
+mail 1
+profundidad 1
+f 1
+requisitos 4
+6 1
+paga 1
+acumular 1
+%2f%2fcourierpack.com.ve%2fconsulta_estatus_por_guia.php 3
+llegar 1
+los 6
+cards 1
+segura 1
+consiste 1
+municiones 1
+paralelo 4
+pod%c3%adan 1
+tanto 1
+cu%c3%a1les 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 179 306
+206 103 9441860
+404 2403 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 22
+/02983rifnwe 1 -
+/apple-touch-icon.png 1 -
+/administrativo/guias/eliminar_guia.php 27 -
+/www.cadivi.gob.ve 5 -
+/blank_clip_image001_0002.gif 114 http://www.courierpack.com.ve/preguntas.html
+/administrativo/administrativo/bizama.png 253 http://www.courierpack.com.ve/administrativo/guias/actualizado.php
+/mobile/ 1 -
+/sabes-como-realizar-compras-por- 1 -
+/wordpress/wp-login.php 1 http://courierpack.com.ve/wordpress/
+/images/img01.gif 1982 http://www.courierpack.com.ve/style.css
+/sabes-como-realizar-compras-por-internet-de-mas- 2 -
+/%23FFFFCC 1 http://www.courierpack.com.ve/
+/2009_toyota_corolla_XRS_ext_fr& 3 http://foros.cantv.net/forum_posts.asp
+/blog/wp-login.php 1 http://courierpack.com.ve/blog/
+/m/ 1 -
+/(null) 1 -
+/mobi/ 1 -
+/cse 1 -
+/images/direccion.jpg 2 -
+/wp-login.php 2 http://www.courierpack.com.ve/
+/iphone/ 1 -
+/wp/wp-login.php 1 http://courierpack.com.ve/wp/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 704
+190.200.130.4 599 720 11780089 20100228094944
+201.209.229.17 494 1490 35626168 20100227204823
+200.75.139.93 215 732 3795673 20100227140917
+201.211.203.168 173 646 12634572 20100228210040
+201.208.17.83 162 318 5775127 20100216105415
+123.151.90.133 74 102 11098766 20100228042135
+186.88.218.101 64 225 1832609 20100227082245
+190.201.105.241 55 285 6978699 20100220120330
+190.77.152.84 53 228 9516362 20100224185127
+190.77.125.175 53 130 2999860 20100222043335
+201.208.74.58 52 281 1943551 20100216183540
+174.48.149.64 51 100 1243265 20100205140419
+201.209.165.91 37 172 4016882 20100227201446
+190.78.201.19 36 115 3927942 20100204184643
+190.216.248.250 36 200 4484655 20100225085821
+190.76.179.39 35 354 5894197 20100223125930
+75.101.231.31 35 47 3574876 20100218100651
+213.180.209.251 34 34 720111 20100225113459
+201.208.69.140 31 186 1975756 20100217213420
+190.36.153.69 31 87 1350044 20100202160626
+190.202.83.105 28 119 1027853 20100222141153
+190.121.239.35 24 59 1023694 20100215151138
+190.199.139.94 24 73 1309829 20100218091225
+114.240.113.251 24 24 942216 20100228175255
+201.243.111.188 23 56 1110557 20100214193517
+200.109.165.234 21 38 917623 20100223210758
+201.249.21.144 4 34 797461 20100222171212
+201.210.83.202 0 4 286659 
+200.75.99.122 3 18 720134 20100215210317
+201.208.16.10 5 36 841982 20100203232053
+189.194.232.36 0 1 27926 
+164.77.174.122 0 1 76664 
+190.203.147.251 3 20 725043 20100211180445
+68.171.233.28 2 2 75345 20100210163329
+190.79.150.235 0 3 219217 
+190.72.1.201 3 40 788314 20100210205016
+190.39.63.100 4 36 863260 20100210202207
+200.82.206.24 0 1 27926 
+190.207.189.123 0 1 3754 
+190.79.42.50 0 3 219217 
+190.78.11.43 0 1 27926 
+200.84.115.148 3 43 996561 20100214192306
+208.80.193.32 3 3 117777 20100226053116
+190.78.252.220 2 17 720134 20100206103325
+190.94.57.58 0 1 27926 
+186.89.28.69 0 2 153494 
+200.8.250.238 2 17 378922 20100211190227
+186.24.23.1 13 51 953039 20100228155437
+190.203.133.22 1 27 352547 20100218233056
+200.85.30.138 0 1 76664 
+186.24.75.175 10 40 109054 20100202221258
+190.81.57.133 0 1 27926 
+200.93.116.252 0 1 27926 
+208.80.193.27 4 4 157036 20100218100723
+190.77.131.40 3 21 769168 20100202030258
+69.63.178.248 1 1 14219 20100201195952
+190.37.160.113 0 2 31680 
+66.249.65.155 1 1 39259 20100216171335
+201.208.182.90 3 19 723451 20100211203129
+201.208.12.95 0 1 27926 
+190.198.251.38 3 18 759393 20100220201611
+190.203.238.180 0 1 3754 
+200.29.183.130 0 1 76664 
+201.248.51.227 0 1 27926 
+201.211.195.85 11 41 946089 20100220143548
+190.78.120.134 2 28 368140 20100212103019
+123.113.173.161 16 16 628144 20100208174039
+66.220.146.249 0 3 206273 
+200.84.41.166 0 1 3754 
+190.32.75.40 4 33 833229 20100217233703
+200.8.161.62 3 50 852534 20100207143722
+186.14.25.61 0 1 27926 
+190.74.179.29 0 1 27926 
+24.238.7.73 0 4 286659 
+208.80.193.38 3 3 117777 20100224155838
+200.85.31.140 0 1 27926 
+186.14.103.211 0 1 27926 
+201.249.1.245 0 1 3754 
+208.80.193.31 4 4 157036 20100216222935
+190.142.107.2 0 1 27926 
+173.56.142.158 0 1 3754 
+200.8.163.135 11 41 925336 20100218210557
+190.37.241.167 0 1 3754 
+200.8.156.148 0 1 27926 
+206.53.147.106 1 16 339663 20100208160425
+201.242.203.13 0 1 3754 
+190.205.143.121 0 1 27926 
+201.248.20.36 0 1 27926 
+201.240.105.11 4 31 506542 20100217150948
+161.196.168.237 8 41 993344 20100208091325
+190.142.119.22 15 96 1946038 20100219080432
+190.198.150.42 0 1 3754 
+190.201.79.3 2 17 720134 20100202211353
+150.70.84.78 1 1 39259 20100218211256
+190.38.54.27 0 2 31680 
+64.235.157.234 8 8 314072 20100225145028
+190.203.12.58 1 27 352547 20100203071424
+189.202.77.130 0 1 27926 
+190.75.64.5 1 27 300987 20100227222239
+190.207.198.73 0 1 27926 
+204.236.249.174 3 15 612528 20100228051731
+200.35.94.93 0 1 27926 
+190.203.48.51 0 1 3754 
+186.89.48.179 0 3 219217 
+190.142.164.37 0 1 27926 
+190.206.127.63 1 1 24168 20100205134314
+190.142.149.244 0 1 27926 
+190.201.67.147 0 1 27926 
+190.198.244.33 1 24 300987 20100208050413
+190.102.221.115 1 24 300987 20100205003040
+190.142.25.116 0 1 3754 
+200.26.212.136 0 1 27926 
+208.115.138.254 1 1 39259 20100225122437
+83.58.137.157 0 1 27926 
+201.211.90.200 1 28 355967 20100218150634
+201.210.192.104 1 24 300987 20100206130420
+66.249.65.183 1 1 39259 20100202141032
+95.108.142.138 2 2 78518 20100212231819
+201.210.236.4 0 2 31680 
+200.84.103.96 1 25 244510 20100210095727
+201.209.48.69 0 2 31680 
+190.205.153.220 4 43 818322 20100206184400
+190.199.91.251 0 1 3754 
+201.242.223.7 0 1 3754 
+201.243.177.134 3 43 794144 20100221192245
+190.203.136.52 0 1 27926 
+72.14.192.67 0 1 27926 
+201.241.70.198 0 1 76664 
+190.80.230.222 1 1 39259 20100209202156
+190.207.163.50 0 1 27926 
+99.41.247.7 1 24 300987 20100209164002
+201.243.15.86 0 2 31680 
+190.22.120.41 0 1 27926 
+212.192.230.30 1 1 39259 20100213213504
+190.76.77.0 0 2 31680 
+190.204.198.8 2 6 571643 20100214123756
+190.76.26.106 1 27 352547 20100227084141
+69.63.180.245 0 1 76664 
+190.200.63.157 0 4 286659 
+66.220.146.251 0 2 114836 
+190.79.234.48 0 1 3754 
+68.171.233.150 3 3 31759 20100218090117
+190.38.110.202 0 1 3754 
+190.38.226.90 8 41 1092665 20100203184025
+190.72.232.63 12 44 1004657 20100211220905
+206.53.147.31 3 3 31759 20100223111837
+186.24.19.1 2 19 751814 20100206071240
+190.28.166.221 0 1 27926 
+66.249.65.145 1 1 39259 20100224010447
+200.93.126.43 0 1 27926 
+190.199.131.156 2 9 428584 20100223162310
+69.63.178.247 4 4 56876 20100216110931
+76.171.165.123 0 1 27926 
+190.42.36.91 0 4 286659 
+190.79.143.70 0 1 3754 
+201.209.104.152 3 29 449634 20100202135345
+190.75.173.16 0 1 3754 
+190.37.200.162 0 1 27926 
+200.44.91.119 2 6 573692 20100216111517
+200.82.164.45 2 18 723229 20100204193342
+190.202.84.143 1 27 352547 20100211103513
+85.182.239.126 0 12 421787 
+83.39.112.146 0 1 27926 
+201.208.245.74 0 1 27926 
+200.90.202.206 0 1 76664 
+69.63.181.250 0 10 573213 
+200.109.192.108 2 18 723000 20100201155139
+207.189.121.44 8 8 241672 20100218103506
+201.211.2.48 3 18 720134 20100204203425
+190.79.206.1 0 1 3754 
+174.129.19.16 1 1 39259 20100201152330
+86.182.137.102 1 27 352547 20100225174719
+190.39.204.223 3 19 723371 20100221211444
+190.78.30.38 2 17 720134 20100201215904
+190.206.253.114 0 1 3754 
+190.79.148.135 3 28 382910 20100203164438
+190.136.245.204 0 1 27926 
+190.10.164.64 2 7 441841 20100218152918
+189.140.91.223 3 18 759393 20100226032248
+208.80.193.28 4 4 157036 20100220000311
+190.77.39.178 0 1 27926 
+190.203.224.21 1 24 300987 20100218083333
+200.1.171.138 0 2 55852 
+189.153.19.124 0 1 27926 
+200.50.120.143 0 1 76664 
+190.198.1.222 0 1 27926 
+201.209.166.6 3 35 1072660 20100205195303
+201.255.81.17 0 1 27926 
+190.204.228.92 0 1 3754 
+190.37.60.201 0 4 286659 
+201.211.98.37 0 1 27926 
+190.201.147.119 0 4 286659 
+190.142.216.27 0 4 286659 
+222.130.206.102 7 7 274813 20100215182757
+200.35.79.50 5 33 846056 20100225124325
+66.220.145.249 0 1 76664 
+190.37.226.209 0 2 31680 
+190.162.226.149 0 1 76664 
+200.62.70.163 0 1 27926 
+190.37.12.145 0 1 27926 
+190.37.82.250 20 151 3368854 20100222192403
+69.63.181.251 0 16 1079559 
+92.36.202.34 0 1 27926 
+85.179.29.1 0 16 524264 
+201.208.86.156 0 1 27926 
+208.80.193.34 4 4 157036 20100227190009
+201.208.8.29 1 24 300987 20100218100814
+190.201.153.10 1 24 300987 20100212022425
+206.53.153.51 1 1 2722 20100223152921
+190.135.5.131 0 1 27926 
+201.210.136.181 0 1 27926 
+200.75.144.221 0 1 0 
+190.202.253.113 1 25 273060 20100201222438
+206.53.153.60 1 1 42432 20100210163048
+200.84.14.116 0 1 3754 
+190.206.162.49 0 2 153494 
+186.88.235.90 0 1 27926 
+190.198.53.42 0 1 27926 
+201.242.31.219 0 1 27926 
+190.167.87.165 0 1 27926 
+150.185.20.197 2 28 395720 20100210164410
+186.32.91.118 1 24 300987 20100206221408
+186.88.179.241 2 50 611877 20100223181524
+81.37.206.106 0 1 27926 
+190.20.205.22 0 1 76664 
+190.79.200.190 5 24 788824 20100203092804
+200.75.98.18 1 12 260635 20100228123432
+96.236.121.79 0 1 27926 
+4.59.86.98 5 38 90231 20100209144724
+83.165.21.253 2 17 720134 20100204182309
+201.243.196.146 0 1 27926 
+190.205.253.194 0 1 3754 
+65.15.25.52 0 1 27926 
+80.238.1.135 0 1 3754 
+200.90.120.230 0 1 27926 
+200.75.126.20 1 24 300987 20100201130033
+8.21.4.254 1 1 39259 20100225161435
+186.14.102.150 0 1 27926 
+190.199.145.170 0 1 3754 
+201.208.218.12 0 1 27926 
+201.201.2.186 0 1 27926 
+150.185.67.91 3 19 762756 20100201103712
+190.200.143.230 1 14 368450 20100212091228
+201.234.133.30 0 1 27926 
+201.209.66.251 0 1 27926 
+66.220.145.244 0 2 60604 
+186.14.82.102 0 4 286659 
+200.84.203.233 4 56 753430 20100225221530
+200.82.203.67 0 1 27926 
+69.63.178.251 1 1 14219 20100209045450
+206.53.157.56 1 1 42432 20100210163111
+201.210.92.222 0 1 3754 
+201.248.198.114 7 51 933480 20100202210200
+69.63.178.250 2 3 81383 20100207122246
+190.3.33.80 0 1 27926 
+190.39.234.178 1 24 300987 20100227210015
+190.205.64.39 6 36 720134 20100218195324
+189.144.192.20 0 1 27926 
+190.142.80.249 0 1 3754 
+190.198.26.45 3 24 741658 20100228170750
+201.208.21.47 14 55 1935386 20100201205312
+190.74.199.41 6 36 911196 20100221165930
+190.36.107.225 0 1 27926 
+190.201.111.184 0 1 27926 
+190.75.70.170 0 4 286659 
+186.28.31.248 3 18 720134 20100212221425
+190.199.166.137 1 24 300987 20100208153452
+24.136.169.104 0 1 27926 
+190.241.130.105 0 1 3754 
+206.53.157.48 4 4 55962 20100226160400
+200.8.117.86 10 41 764078 20100220153805
+190.206.245.166 2 6 571643 20100227113604
+92.56.54.146 0 1 27926 
+200.1.171.137 2 18 748060 20100209110206
+190.207.167.213 5 34 810005 20100227125311
+201.220.215.11 0 1 27926 
+190.142.246.182 0 1 3754 
+190.205.75.217 10 70 1674368 20100222002940
+190.72.73.5 12 48 914883 20100207153451
+189.237.131.146 0 1 27926 
+190.72.28.247 7 39 909692 20100217210604
+190.95.101.41 0 1 76664 
+190.161.111.66 0 1 76664 
+200.35.72.174 0 1 27926 
+190.43.28.159 0 1 76664 
+190.228.248.155 0 1 27926 
+190.161.197.76 0 1 76664 
+200.84.42.141 0 1 3754 
+190.207.44.105 0 1 27926 
+201.230.227.166 0 2 27926 
+190.36.154.170 0 1 27926 
+190.87.31.153 0 1 27926 
+84.125.155.50 3 20 728463 20100219090458
+200.8.18.16 1 25 304407 20100218203213
+190.202.81.194 4 37 806496 20100222112659
+186.88.177.230 0 1 27926 
+200.35.2.223 0 1 27926 
+200.125.185.10 0 1 3754 
+200.11.177.75 0 4 286659 
+151.200.247.69 0 1 27926 
+190.12.70.105 0 2 55852 
+190.174.123.9 0 1 27926 
+190.142.199.224 0 1 27926 
+190.78.91.30 21 170 231131 20100205133202
+190.56.120.49 0 1 27926 
+201.208.43.186 0 1 27926 
+190.121.238.46 9 33 870057 20100215143055
+190.206.242.62 1 25 270380 20100224220329
+201.215.63.83 0 1 76664 
+190.75.51.223 3 18 720134 20100204125129
+190.206.26.107 1 24 300987 20100212162711
+190.198.241.163 0 1 27926 
+190.79.168.246 0 1 27926 
+190.142.83.108 0 1 27926 
+201.248.141.29 0 4 286659 
+186.24.22.1 5 37 896331 20100209124435
+61.135.162.221 1 1 39259 20100214213716
+201.211.172.219 3 33 818975 20100218211114
+190.37.254.65 7 20 288548 20100203134807
+190.207.141.9 0 1 27926 
+190.136.2.168 0 1 27926 
+189.224.91.196 0 1 27926 
+69.65.10.99 1 1 39259 20100210062139
+208.80.193.35 1 1 39259 20100223021046
+190.172.236.46 0 1 27926 
+190.142.245.214 3 18 720134 20100220170213
+186.14.70.136 2 17 720134 20100205133611
+190.77.67.90 0 1 27926 
+190.79.70.90 2 19 728360 20100227224732
+190.204.134.10 4 44 791049 20100223172746
+190.73.246.13 1 25 273007 20100227190527
+174.129.176.140 14 26 1044377 20100208013718
+190.204.122.89 0 4 286659 
+67.207.136.128 2 2 78518 20100222014024
+190.37.201.60 0 1 27926 
+174.129.65.46 2 2 78518 20100227232629
+200.3.1.8 3 34 862158 20100225140222
+200.35.87.71 7 33 870444 20100223133040
+190.112.137.190 1 15 312195 20100211124254
+199.45.143.121 1 1 39259 20100220221854
+190.121.84.1 0 1 27926 
+190.75.79.221 4 35 951979 20100219142539
+200.58.173.178 0 1 76664 
+189.186.186.234 0 1 27926 
+72.11.87.75 1 1 39259 20100225214731
+190.37.65.221 0 1 27926 
+70.116.98.210 1 27 352547 20100203054638
+189.136.129.92 0 1 27926 
+190.51.153.187 0 1 27926 
+87.218.73.10 3 18 720134 20100214133630
+200.109.130.194 3 19 723229 20100204201121
+190.43.32.40 0 1 27926 
+190.78.247.226 3 20 726814 20100223223743
+190.39.168.36 3 32 794144 20100203160103
+190.201.140.199 2 19 728406 20100210203940
+68.171.234.124 1 27 352547 20100206143007
+190.79.128.144 6 36 891072 20100205101244
+201.243.106.179 0 1 27926 
+69.63.180.249 0 1 76664 
+190.74.85.54 4 37 1451667 20100202141112
+200.84.217.140 7 39 1084237 20100227152251
+76.87.66.12 1 16 315290 20100208163217
+190.27.98.223 2 17 720134 20100211144647
+190.41.231.97 0 2 55852 
+201.211.136.199 17 80 2072927 20100215143223
+190.87.23.47 0 1 27926 
+190.206.254.224 0 1 27926 
+190.202.82.98 10 43 1000579 20100201181035
+201.211.55.69 0 2 153494 
+200.35.85.26 1 26 347845 20100211213833
+201.208.21.46 1 33 295505 20100212084341
+200.75.139.89 18 43 95310 20100201114552
+68.171.234.46 1 1 24251 20100226160400
+186.24.18.1 1 29 514087 20100204085046
+200.49.190.2 0 1 27926 
+190.202.115.86 0 1 27926 
+208.80.193.39 3 3 117777 20100218110128
+190.205.44.27 1 27 352547 20100202221020
+190.39.46.143 3 32 820854 20100225093340
+84.77.100.128 0 1 27926 
+80.238.1.133 0 1 3754 
+190.78.40.201 2 17 720134 20100209215834
+190.204.185.43 0 1 27926 
+200.75.106.245 3 18 720134 20100210183239
+190.75.97.253 0 1 27926 
+190.142.22.174 0 1 3754 
+208.93.204.237 1 24 300987 20100209021131
+190.0.11.29 0 1 27926 
+186.104.227.224 0 1 27926 
+200.84.24.158 0 1 27926 
+190.199.118.36 0 1 3754 
+190.37.212.126 0 1 27926 
+190.252.239.213 0 2 27926 
+200.73.197.98 1 28 418866 20100225164226
+190.204.125.231 0 1 27926 
+190.160.48.215 0 1 76664 
+190.79.178.134 2 20 733372 20100215105641
+190.74.85.23 2 17 720134 20100228215140
+88.24.169.27 0 1 3754 
+190.198.249.75 0 1 3754 
+186.89.56.142 21 78 928511 20100227120715
+190.78.78.15 20 132 1489014 20100211224317
+190.42.28.200 1 15 312195 20100217163727
+190.78.216.34 0 2 7508 
+190.78.232.194 0 1 3754 
+190.204.208.111 0 1 27926 
+190.177.227.188 0 1 27926 
+200.109.10.149 0 1 27926 
+200.75.109.62 0 1 3754 
+190.203.39.134 0 1 27926 
+190.129.19.69 0 1 27926 
+67.202.8.74 1 1 39259 20100224234312
+190.206.160.224 0 1 27926 
+190.77.150.42 1 2 47802 20100209211108
+190.153.2.244 5 37 1485473 20100218202546
+201.210.96.9 1 27 352547 20100222153211
+190.37.119.181 0 1 27926 
+190.200.181.181 3 18 720134 20100204102258
+190.36.147.63 1 28 281089 20100212095929
+190.199.244.90 0 1 27926 
+95.33.105.166 1 1 39259 20100203213858
+190.79.136.241 1 3 54582 20100226120214
+208.80.193.42 3 3 117777 20100221125130
+190.207.73.106 1 25 273007 20100223100408
+201.211.209.200 5 26 862853 20100209084648
+201.210.187.177 0 1 27926 
+212.183.222.141 0 1 27926 
+200.93.3.216 0 1 3754 
+189.148.125.206 0 1 76664 
+200.71.190.253 4 22 20145 20100201161229
+201.242.97.103 0 1 3754 
+199.80.61.60 2 2 78518 20100204174108
+201.210.243.245 11 53 1040872 20100218140255
+190.39.231.70 0 2 31680 
+190.198.19.70 0 8 51031 
+190.199.174.252 12 122 2458746 20100217143939
+201.248.43.182 2 17 339663 20100202135531
+200.62.101.226 0 1 27926 
+174.129.40.244 3 3 83616 20100201105652
+200.127.18.169 3 32 820854 20100219071124
+190.200.160.81 0 1 27926 
+186.14.246.119 6 36 879667 20100202234520
+201.209.102.204 12 41 921863 20100215181738
+196.40.10.246 2 13 594754 20100213105815
+190.42.65.27 0 1 27926 
+161.196.10.158 0 2 27926 
+186.97.120.28 0 1 27926 
+190.72.158.246 0 1 3754 
+216.106.175.98 0 1 76664 
+189.249.18.40 4 33 830808 20100208215305
+190.38.205.98 0 4 286659 
+186.88.177.240 2 18 723451 20100203113350
+190.199.164.221 0 2 31680 
+190.79.255.105 9 55 1663896 20100220111713
+201.242.246.5 0 1 27926 
+79.147.101.204 0 1 27926 
+190.64.130.74 3 18 720134 20100220173801
+190.207.251.204 0 4 286659 
+186.24.73.236 14 44 1266611 20100223221326
+186.89.35.21 0 1 3754 
+190.199.139.171 0 1 27926 
+66.220.145.245 0 1 30302 
+190.205.10.57 0 1 3754 
+190.202.85.2 1 27 352547 20100211132240
+190.76.102.11 0 1 27926 
+190.142.136.54 0 1 27926 
+190.207.106.225 5 47 596405 20100205131548
+66.249.65.188 1 1 39259 20100205111152
+206.53.153.196 1 1 42432 20100210163154
+190.203.33.15 1 1 43173 20100222155148
+201.210.232.7 9 51 989412 20100217151159
+201.209.97.222 0 1 3754 
+190.121.239.39 0 2 27926 
+187.153.186.15 0 1 27926 
+201.208.168.228 0 1 3754 
+200.88.79.225 0 1 27926 
+190.39.215.238 3 18 720134 20100222100605
+206.53.153.120 0 1 3754 
+208.80.193.36 1 1 39259 20100215075002
+200.8.116.128 10 69 1701640 20100217182119
+68.171.234.91 3 3 32529 20100226161802
+201.243.160.137 0 1 27926 
+190.79.148.182 0 1 27926 
+66.220.145.251 0 2 60604 
+201.160.13.254 0 1 27926 
+190.152.135.32 12 42 1010489 20100225170725
+190.254.117.45 0 2 27926 
+190.77.46.113 5 47 919161 20100203212648
+190.207.79.84 0 1 3754 
+186.104.29.50 0 1 76664 
+201.207.89.246 0 1 27926 
+190.201.120.215 1 30 244510 20100211155326
+200.84.153.218 0 1 27926 
+186.14.135.25 0 1 27926 
+190.82.214.32 0 1 76664 
+190.198.52.101 0 1 27926 
+190.206.24.66 0 1 27926 
+186.24.16.1 10 43 114305 20100212220518
+201.243.248.169 3 18 720134 20100218103712
+200.122.146.28 0 1 27926 
+201.248.63.174 0 1 27926 
+168.243.49.5 0 1 27926 
+200.109.217.246 1 27 352547 20100218182609
+190.205.74.65 0 1 27926 
+190.206.126.72 14 51 1596274 20100219005733
+190.103.60.209 2 6 571643 20100216134343
+190.79.57.2 0 2 55852 
+190.73.76.248 0 4 33234 
+190.39.212.9 0 1 3754 
+190.142.188.138 2 13 257456 20100211172308
+201.248.142.75 4 35 959604 20100227153540
+186.88.132.160 15 162 872820 20100217144457
+186.24.20.1 1 27 352547 20100202093544
+190.205.96.242 0 1 27926 
+190.79.204.196 3 19 723000 20100223142514
+190.203.82.130 0 1 27926 
+66.220.145.247 0 2 68474 
+190.78.88.188 0 4 306988 
+190.200.120.180 0 1 27926 
+200.109.180.26 0 1 3754 
+150.188.12.18 0 2 31680 
+150.187.145.210 0 3 0 
+66.249.65.131 1 1 39259 20100209161456
+190.36.186.208 0 1 27926 
+190.201.163.131 1 27 352547 20100204111413
+66.220.145.246 0 2 60604 
+190.36.138.167 5 23 762290 20100218140337
+190.42.224.225 0 1 27926 
+206.53.147.117 9 9 130344 20100226161205
+201.210.170.191 0 1 27926 
+201.211.8.217 4 42 785683 20100213225928
+64.212.72.38 0 1 27926 
+190.18.170.43 0 1 27926 
+190.205.47.154 0 1 27926 
+190.37.188.181 1 24 300987 20100208094536
+201.249.29.124 1 24 300987 20100203141209
+201.210.40.243 0 1 27926 
+69.254.225.19 0 2 31680 
+190.78.255.233 1 26 307399 20100208211936
+94.179.201.44 1 1 0 20100213031323
+190.77.80.50 8 26 784090 20100227211830
+66.220.146.245 0 1 30302 
+190.37.226.49 11 118 875814 20100226145540
+190.202.150.1 0 1 27926 
+186.14.20.20 5 40 611819 20100216140249
+190.39.77.126 1 24 300987 20100223210730
+190.74.76.248 3 18 759393 20100223085410
+190.202.212.82 0 1 27926 
+190.200.197.133 3 32 793970 20100210000134
+190.73.107.199 3 18 720134 20100226164603
+201.243.184.239 0 4 286659 
+190.72.154.108 0 1 27926 
+201.210.11.96 0 2 153494 
+66.220.146.247 0 1 76664 
+200.85.30.65 0 1 27926 
+190.204.176.47 0 1 3754 
+201.243.191.211 0 1 3754 
+95.132.167.66 1 1 0 20100201234401
+190.224.172.22 0 3 55852 
+190.202.101.202 0 1 27926 
+186.58.142.160 0 1 27926 
+193.144.79.165 0 1 27926 
+201.209.98.30 0 1 27926 
+68.171.234.44 2 2 53455 20100219191349
+190.206.27.251 0 1 3754 
+67.202.55.36 2 4 95604 20100211084102
+208.80.193.29 2 2 78518 20100207102036
+200.3.249.238 0 1 27926 
+190.78.247.234 7 30 752096 20100204212042
+206.53.157.70 2 2 27890 20100217232237
+201.211.134.191 0 1 27926 
+190.179.10.82 0 4 286659 
+190.247.49.102 0 1 27926 
+201.243.106.136 5 35 936610 20100221081403
+201.209.227.122 0 1 27926 
+190.36.210.123 2 20 939351 20100208131202
+186.88.196.150 10 33 318007 20100203164412
+190.73.125.238 3 29 415994 20100223165413
+174.91.223.254 0 1 76664 
+208.80.193.30 2 2 78518 20100227192900
+190.121.238.44 0 1 27926 
+200.44.112.163 1 24 300987 20100225123731
+200.8.117.79 16 54 303799 20100219180915
+190.36.184.242 0 1 27926 
+189.168.122.92 0 1 76664 
+190.198.184.10 8 41 968202 20100222210817
+190.77.47.195 0 1 27926 
+186.88.240.29 0 1 27926 
+201.238.35.95 2 18 723497 20100211203020
+66.220.145.248 0 1 30302 
+190.198.50.47 0 1 27926 
+201.211.94.178 1 22 292996 20100205105457
+201.209.167.86 9 28 797627 20100222215421
+201.248.128.93 0 1 27926 
+190.204.100.126 10 80 1390823 20100216112433
+201.208.197.54 0 1 27926 
+190.158.148.179 0 1 27926 
+186.14.226.222 3 33 797333 20100211204520
+201.208.144.39 0 1 27926 
+190.201.159.223 0 2 3754 
+190.67.219.246 0 1 27926 
+201.208.117.86 0 1 27926 
+66.220.146.244 0 3 113549 
+190.200.6.92 5 36 875927 20100209194954
+186.24.21.1 5 37 1137296 20100201151551
+64.76.146.246 0 1 76664 
+186.88.208.17 5 38 926125 20100205111352
+201.209.106.215 0 1 27926 
+208.80.193.37 1 1 39259 20100226060121
+190.84.42.182 0 1 27926 
+190.235.6.34 0 4 286659 
+212.31.49.190 3 18 720134 20100205123948
+190.72.125.181 0 6 63360 
+200.71.146.246 0 1 8543 
+190.37.203.248 0 1 3754 
+190.72.246.50 0 1 27926 
+201.248.70.173 0 2 31680 
+201.211.225.159 0 1 27926 
+190.21.201.64 0 1 27926 
+200.109.240.188 0 4 286659 
+201.238.6.115 1 27 352547 20100210000545
+201.208.217.251 4 37 807277 20100202222730
+201.249.236.178 1 24 300987 20100224152114
+200.44.159.106 0 1 3754 
+190.199.103.137 0 1 27926 
+161.196.39.228 3 22 1006793 20100217123335
+190.201.25.60 0 1 27926 
+173.160.113.28 2 2 78518 20100208082640
+190.36.155.88 0 2 153494 
+68.196.88.91 0 1 27926 
+207.117.33.135 0 1 0 
+190.60.60.187 0 1 27926 
+200.25.197.109 0 1 27926 
+190.142.137.9 3 18 720134 20100211165746
+201.208.114.11 5 51 900341 20100210093243
+200.109.249.138 0 1 27926 
+200.8.255.11 0 1 27926 
+200.82.246.214 0 1 3754 
+190.38.154.175 0 1 27926 
+186.42.4.28 1 24 300987 20100220181307
+69.63.178.249 1 1 14219 20100204185933
+190.73.127.145 0 2 153494 
+88.5.84.167 0 1 27926 
+190.121.238.37 0 4 286659 
+186.88.193.60 5 53 432605 20100228201422
+190.37.76.146 0 1 27926 
+200.44.146.164 0 2 55852 
+186.24.17.1 3 19 723888 20100204093352
+201.242.251.129 0 1 27926 
+72.222.224.214 0 2 31680 
+208.80.193.43 1 1 39259 20100216220321
+201.238.13.255 1 23 229358 20100206154546
+190.203.243.110 0 1 3754 
+68.171.235.93 1 1 42432 20100210163158
+190.38.92.43 0 2 3754 
+88.26.135.12 0 1 27926 
+190.79.221.142 0 4 286659 
+201.208.248.130 0 1 27926 
+190.73.172.129 3 18 720134 20100222222235
+216.104.15.130 1 1 39259 20100217123511
+190.74.58.236 0 1 27926 
+201.255.82.190 0 1 27926 
+190.153.72.110 2 17 720134 20100206214655
+200.109.74.26 3 82 1062550 20100203054625
+186.88.229.84 1 8 137829 20100223162215
+212.16.248.64 1 1 39259 20100207183148
+201.249.29.135 7 50 1060396 20100202203744
+201.210.248.179 0 3 27926 
+190.142.64.27 7 26 788709 20100201202420
+190.202.196.205 4 31 506542 20100224105305
+201.243.186.81 3 19 723451 20100219165156
+190.254.48.232 0 1 27926 
+174.129.167.253 1 1 39259 20100219065457
+190.73.0.132 5 37 925263 20100221214935
+200.8.117.176 0 12 185970 
+187.132.28.2 0 1 27926 
+190.74.106.36 0 1 27926 
+190.173.12.26 0 1 27926 
+190.207.235.169 0 3 143466 
+201.208.206.140 0 2 3754 
+201.208.132.77 0 1 27926 
+186.66.12.27 0 1 27926 
+186.83.83.54 0 1 27926 
+189.132.69.83 2 31 359101 20100225100735
+190.36.179.155 0 2 31680 
+200.84.133.64 0 4 286659 
+190.201.243.239 0 1 3754 
+200.35.236.117 1 27 349128 20100216104732
+206.49.165.43 0 1 27926 
+64.212.73.6 0 1 27926 
+201.240.58.22 0 1 27926 
+190.142.64.123 14 58 792870 20100217193723
+201.166.66.37 0 1 27926 
+174.18.102.50 0 1 27926 
+190.204.47.185 6 34 944622 20100203211655
+64.233.172.20 0 1 27926 
+190.200.129.52 5 33 816513 20100224010453
+67.202.1.119 1 1 39259 20100205092810
+190.39.202.186 0 1 27926 
+201.211.82.145 0 1 3754 
+62.101.68.213 1 1 39259 20100217103754
+190.202.87.211 0 1 27926 
+189.221.84.199 0 1 27926 
+85.87.17.210 0 1 27926 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20100201 259 826 17337621 36
+20100202 271 1019 20920153 39
+20100203 131 766 15133804 30
+20100204 151 739 18402581 33
+20100205 183 708 13823258 27
+20100206 113 433 8687042 28
+20100207 50 221 6060744 15
+20100208 99 591 10872248 21
+20100209 78 453 10421924 23
+20100210 100 591 13859320 33
+20100211 94 531 13229638 33
+20100212 51 314 5407109 19
+20100213 34 227 5852522 15
+20100214 54 255 6202303 10
+20100215 76 323 8216206 14
+20100216 196 582 11627041 25
+20100217 229 1139 19534322 36
+20100218 211 792 17664153 39
+20100219 150 545 11518886 26
+20100220 79 289 7983109 19
+20100221 115 493 10411350 20
+20100222 184 605 13066099 28
+20100223 137 626 14353692 30
+20100224 54 226 5435088 20
+20100225 226 672 13360792 31
+20100226 174 482 8947728 23
+20100227 96 405 8657136 22
+20100228 46 232 5633848 11
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 10
+5mn-15mn 60
+30s-2mn 97
+15mn-30mn 29
+2mn-5mn 49
+0s-30s 433
+30mn-1h 28
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 49
+/ 1057 22652443 517 264
+/animacion.swf 390 120609307 1 82
+/consulta_estatus_por_guia.php 302 2879001 3 45
+/administrativo/guias/guias.php 271 8420263 30 26
+/administrativo/guias/actualizado.php 254 1144957 0 0
+/zona_usuarios.php 203 2081231 0 12
+/guias_actuales.php 172 2233495 0 20
+/administrativo/guias/parametro_guia.php 126 839462 0 0
+/tarifas.html 108 1652285 4 31
+/preguntas.html 104 3928743 36 53
+/consulta.php 98 959325 2 16
+/administrativo/usuarios/usuarios.php 72 938394 8 6
+/cargar_ordenes.php 62 896777 0 5
+/servicios.html 55 717278 4 6
+/contacto.html 46 429147 1 5
+/sabes-como-realizar-compras-por-internet-de-mas-de-400$-con-tu-cupo-cadivi-para-compras-electronicas-en-usa-en-un-sitio-seruro.html 38 870048 32 28
+/track.php 38 301693 0 5
+/nosotros.html 28 393700 1 7
+/eshop.html 27 369694 11 18
+/identificarse.php 27 262332 7 7
+/registro_clientes.php 25 1319700 3 5
+/contacto.php 24 176359 0 17
+/administrativo/usuarios/detalles_usuario.php 17 65747 0 7
+/registrado.php 14 637362 5 1
+/consejos-para-utilizar-un-courier-internacional-puerta-a-puerta-y-saber-calcular-los-costos-de-envio-hasta-Venezuela-en-sus-compras-por-internet-con-su-CUPO-CADIVI.html 13 179376 6 4
+/nuevos-cambios-para-regular-cupo-cadivi-para-compras-en-el-exterior-entrara-en-vigencia-a-partir-del-1-enero-2010.html 7 126476 7 3
+/gobierno-desmiente-eliminacion-de-divisas-para-internet-eliminacion-de-cupo-cadivi-para-compras-electronicas-por-internet.html 2 31660 1 2
+// 2 78518 2 2
+/si-no-vas-a-usar-tu-cupo-de-cadivi-te-lo-compro.html 3 65481 1 2
+/actualizado.php 1 8393 0 0
+/administrativo/guias/detalles_guia.php 2 8586 0 0
+/cadivi-disena-cambios-radicales-en-el-cupo-cadivi-que-beneficiaran-a-los-viajeros-en-sus-compras-en-USA-e-Internet.html 3 54966 1 1
+/blackberry-vs-nokia.html 2 32862 1 2
+/blank.html 2 26398 0 2
+/cambios-en-el-cupo-cadivi-para-el-2010.html 4 67764 3 3
+/En-riesgo-uso-de-tarjetas-de-credito-por-retrasos-de-Cadivi.html 1 16492 1 1
+/nueva_providencia_para_el_cupo_cadivi_para_viajes_al_exterior_entrara_en_vigencia_en_enero_del_2010.html 5 90075 4 3
+/reenviar_clave.php 1 8868 1 1
+/cadivi-estudia-mecanismos-para-ajustar-cupo-cadivi-para-compras-por-internet.html 3 53376 3 3
+/Complicaciones-tecnologicas-retardan-modificaciones-del-cupo-de-Cadivi.html 1 17590 1 1
+/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com.html 2 34770 2 1
+/seran-sancionados-bancos-que-limiten-uso-de-tarjetas-para-fines-de-ano-modificaran-cupo-para-los-viajes-al-exterior.html 1 17777 1 1
+/cadivi-estudia-aumento-de-cupo-para-viajeros.html 2 31072 1 2
+/economistas-estiman-que-el-gobierno-recortara-el-cupo-en-dolares-para-2009.html 1 18002 1 1
+/cpanel 1 5098 0 1
+/actualizar.php 10 154212 0 0
+/supuesta-eliminacion-del-cupo-cadivi-para-compras-por-internet.html 3 46164 3 3
+/autentificar.php 10 76046 0 0
+/cadivi-cupo-en-dolares-para-compras-por-internet-no-sera-aumentado-en-2009.html 1 16977 1 1
+END_SIDER

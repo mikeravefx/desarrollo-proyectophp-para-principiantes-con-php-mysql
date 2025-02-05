@@ -1,0 +1,3566 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 200911 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2546                
+POS_VISITOR 29074               
+POS_DAY 105270              
+POS_DOMAIN 3484                
+POS_LOGIN 4156                
+POS_ROBOT 4311                
+POS_WORMS 4790                
+POS_EMAILSENDER 4921                
+POS_EMAILRECEIVER 5064                
+POS_SESSION 105987              
+POS_SIDER 106203              
+POS_FILETYPES 5199                
+POS_OS 5413                
+POS_BROWSER 5658                
+POS_SCREENSIZE 6492                
+POS_UNKNOWNREFERER 6566                
+POS_UNKNOWNREFERERBROWSER 9232                
+POS_ORIGIN 10924               
+POS_SEREFERRALS 11075               
+POS_PAGEREFS 11297               
+POS_SEARCHWORDS 14349               
+POS_KEYWORDS 24022               
+POS_MISC 2208                
+POS_ERRORS 26644               
+POS_CLUSTER 4012                
+POS_SIDER_404 26759               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20091201003422 533 160632 76779400773
+FirstTime 20091101040336
+LastTime 20091130235611
+LastUpdate 20091201214515 533 0 532 0 0
+TotalVisits 1195                
+TotalUnique 646                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 2525                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 455 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 127 748 15611699 16 188 105376
+1 40 420 9512540 15 76 515951
+2 32 281 5991994 10 54 89071
+3 7 64 1592042 8 20 83556
+4 82 250 5797714 10 64 46941
+5 153 365 5111800 15 106 137488
+6 109 445 7535992 23 120 340270
+7 266 1123 20010748 36 245 440864
+8 346 1876 36702955 79 422 1108169
+9 316 2151 41908093 29 376 1115314
+10 438 2634 57175760 53 495 2165823
+11 404 2824 54946351 49 472 371701
+12 370 2650 53961729 38 435 601166
+13 336 2348 52323615 35 390 551913
+14 398 2622 53733654 28 455 456291
+15 479 3361 64194171 48 536 1269810
+16 420 2663 54650583 49 476 1054291
+17 629 3180 68316515 63 643 999239
+18 677 3151 65671266 60 729 1239368
+19 517 3102 66650002 57 612 980410
+20 452 3035 65955453 48 576 1690740
+21 604 3656 78439839 72 737 885195
+22 616 2856 60786933 45 667 1397802
+23 333 1957 39034346 26 452 874819
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 30
+ve 7693 45005 910413864
+us 243 1233 33263314
+co 70 395 7420699
+ar 59 449 12918180
+ca 41 208 5385760
+cn 22 22 863764
+fr 8 71 1385803
+gt 3 20 726817
+pr 3 28 976728
+cr 2 37 1627605
+cl 1 51 1903749
+jp 1 1 18068
+es 1 76 2708940
+in 1 1 39259
+it 1 26 345875
+se 1 4 258479
+pe 1 47 1284187
+do 0 14 860194
+hn 0 4 211027
+mx 0 33 1597143
+pa 0 1 27926
+gb 0 8 211027
+eu 0 6 230479
+ec 0 10 526644
+ni 0 1 3754
+sv 0 1 27926
+cz 0 1 27926
+nl 0 4 211027
+py 0 3 83778
+an 0 2 55852
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+googlebot 153 1813431 20091130141751 29
+slurp 83 937553 20091128202149 20
+robot 32 582960 20091123014809 4
+unknown 31 744 20091130120448 31
+bot[+:,\.\;\/\\-] 10 235668 20091124161843 4
+no_user_agent 7 274828 20091130172047 0
+ia_archiver 3 7782 20091123061652 2
+jeeves 3 419757 20091119083406 1
+ia_archiver\-web\.archive\.org 1 24 20091106112343 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 1528 7401248 0 0
+php 3661 52971591 0 0
+png 188 31391 0 0
+html 3665 59303743 0 0
+js 99 987324 0 0
+jpg 37069 646145052 0 0
+gif 727 385091 0 0
+swf 825 218390354 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 17
+linuxmandr 36
+linuxsuse 4
+winlong 6264
+winxp 35935
+win2000 235
+symbian 34
+linuxfedora 18
+winunknown 5
+win2003 41
+wince 4
+linuxdebian 9
+linuxubuntu 198
+win98 14
+linux 59
+macosx 214
+Unknown 452
+win2008 4240
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 50
+msie6.0 7468
+firefox3.0.7 1
+microsoft\-webdav\-miniredir 1
+firefox3.6 29
+chrome 2594
+firefox3.0.1 51
+firefox3.5.4 3918
+firefox3.0.14 521
+firefox2.0.0.12 3
+firefox3.5.3 652
+firefox2.0.0.5 4
+firefox2.0.0.7 2
+msie8.0 10615
+firefox2.0.0.14 195
+firefox2.0.0.3 4
+msie7.0 11331
+wget 3
+Unknown 374
+firefox3.0.8 47
+firefox1.5.0.7 37
+firefox2.0.0.20 260
+msie5.01 1
+firefox3.5.1 3
+firefox3.0.4 5
+firefox3.0 84
+opera 117
+firefox3.0.11 61
+firefox3.5.2 84
+firefox2.0.0.6 2
+k\-meleon 4
+msie5.00 2
+firefox3.0.5 65
+firefox3.0.3 30
+firefox2.0.0.11 38
+firefox3.5.5 5908
+mozilla 78
+firefox3.0.12 63
+firefox3.0.6 9
+firefox2.0.0.17 26
+netscape4.0 3
+firefox2.0.0.4 7
+firefox2.0.0.16 4
+firefox3.0.13 3
+firefox1.0.6 1
+firefox3.04 1
+firefox1.0.3 1
+firefox3.5 58
+firefox3.0.10 15
+safari 312
+firefox3.0.15 2667
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 34
+Opera/9.80_(J2ME/MIDP;_Opera_Mini/4.2.14912/1006;_U;_es)_Presto/2.2.0 20091126003051
+http://www.evilaliv3.org 20091108221959
+BlackBerry8320/4.5.0.81_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/215 20091127212918
+BlackBerry8320/4.5.0.110_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/100 20091130133551
+Mediapartners-Google 20091125150708
+BlackBerry8900/4.6.1.114_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/100 20091129134520
+BlackBerry8900/4.6.1.199_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/215 20091126002804
+BlockNote.Net 20091101021554
+BlackBerry8120/4.5.0.124_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/100 20091124082042
+Opera/9.80_(S60;_SymbOS;_Opera_Mobi/280;_U;_es-LA)_Presto/2.4.13_Version/10.00 20091129084846
+Mozilla/5.0_(en-us)_AppleWebKit/525.13_(KHTML,_like_Gecko)_Version/3.1_Safari/525.13 20091106053244
+Mozilla/4.0 20091130120448
+BlackBerry8310/4.5.0.55_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/215 20091129004109
+BlackBerry8320/4.5.0.81_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/100 20091123085309
+Jakarta_Commons-HttpClient/3.0 20091123083153
+BlackBerry8520/4.6.1.274_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/215 20091121191351
+Wget/1.10.2_(Red_Hat_modified) 20091125074206
+BlackBerry8220/4.6.0.155_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/215 20091121101957
+... 20091108063341
+BlackBerry9000/4.6.0.185_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/115 20091130143431
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20091130235327
+Twisted_PageGetter 20091130175258
+BlackBerry8120/4.5.0.52_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/298 20091130184631
+BlogPulseLive_(support@blogpulse.com) 20091123082938
+Mozilla/5.0_(compatible;_Twingly_Recon;_twingly.com) 20091123085155
+Opera/9.80_(J2ME/MIDP;_Opera_Mini/4.2.13918/1006;_U;_es)_Presto/2.2.0 20091129074655
+Java/1.6.0_14 20091123085153
+BlackBerry8330/4.5.0.77_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/205 20091123100402
+BlackBerry8220/4.6.0.165_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/114 20091119154817
+Mozilla/5.0_(compatible;_kulturarw3__http://www.kb.se/soka/internet/sv-webbsidor/) 20091105045442
+Mozilla/5.0_(en-us)_AppleWebKit/525.13_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Version/3.1_Safari/525.13,Mozilla/5.0_(en-us)_AppleWebKit/525.13_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Version/3.1_Safari/525.13 20091126163304
+Mozilla/4.0_(compatible;) 20091124140552
+Opera/9.80_(J2ME/MIDP;_Opera_Mini/4.2.14456/812;_U;_es)_Presto/2.2.0 20091106142009
+HTMLParser/1.6 20091123085153
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 23
+http://www.evilaliv3.org 20091108221959
+BlackBerry8220/4.6.0.155_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/215 20091121101957
+BlackBerry8320/4.5.0.81_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/215 20091127212918
+... 20091108063341
+BlackBerry8320/4.5.0.110_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/100 20091130133551
+Mediapartners-Google 20091125150708
+BlackBerry9000/4.6.0.185_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/115 20091130143431
+BlackBerry8900/4.6.1.114_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/100 20091129134520
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20091130235327
+BlackBerry8900/4.6.1.199_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/215 20091126002804
+Twisted_PageGetter 20091130175258
+BlackBerry8120/4.5.0.52_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/298 20091130184631
+BlogPulseLive_(support@blogpulse.com) 20091123082938
+BlockNote.Net 20091101021554
+BlackBerry8120/4.5.0.124_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/100 20091124082042
+Java/1.6.0_14 20091123085153
+BlackBerry8310/4.5.0.55_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/215 20091129004109
+BlackBerry8320/4.5.0.81_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/100 20091123085309
+BlackBerry8330/4.5.0.77_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/205 20091123100402
+BlackBerry8220/4.6.0.165_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/114 20091119154817
+HTMLParser/1.6 20091123085153
+BlackBerry8520/4.6.1.274_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/215 20091121191351
+Jakarta_Commons-HttpClient/3.0 20091123083153
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 837 1137
+From1 0 1
+From2 586 745
+From3 320 8267
+From4 6408 37612
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+google 543 570
+search 4 4
+live 16 140
+google_image 6 14
+yahoo 4 4
+alexa 13 13
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 65
+http://caracas.olx.com.ve/como-realizar-compras-en-amazon-con-tu-cupo-de-400-por-internet-iid-44315862 188 6602
+http://foros.cantv.net/forum_posts.asp 26 977
+http://caracas.olx.com.ve/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com-iid-44316114 11 204
+http://wwwapps.ups.com/ietracking/tracking.cgi 8 8
+http://sjc-ndaportal.dc.skyfire.com 7 7
+http://74.125.93.132/search 7 99
+http://caracas.olx.com.ve/courierpack-courier-internacional-puerta-a-puerta-compra-por-intenet-con-tu-cupo-cadivi-iid-44232719 6 57
+http://74.125.113.132/search 6 57
+http://www.facebook.com/home.php 6 7
+http://www.facebook.com/profile.php 5 5
+http://ve.mc447.mail.yahoo.com/mc/welcome 3 12
+http://www.dbsclub.org/modules.php 3 3
+http://www.evilaliv3.org 2 2
+http://dbsclub.org/modules.php 2 2
+http://www.markosweb.com/www/courierpack.com.ve/ 2 2
+http://www.facebook.com/group.php 2 2
+http://m.facebook.com/stories.php 2 2
+http://www.facebook.com/yensyleidy 1 1
+http://uume.us/6194.html 1 1
+http://www.facebook.com/sorelya1 1 1
+http://e1.mc1138.mail.yahoo.com/mc/welcome 1 5
+http://gougou.us/1723.html 1 1
+http://seox.us/8536.html 1 1
+http://www.facebook.com/photo.php 1 1
+http://youku.us/9028.html 1 1
+http://e1.mc533.mail.yahoo.com/mc/welcome 0 2
+http://caracas.olx.com.ve/fc/courierpack-courier-internacional-puerta-a-puerta-compra-por-intenet-con-tu-cupo-cadivi-iid-44232719 0 3
+http://209.85.229.132/search 0 26
+http://foros.cantv.net/member_profile.asp 0 1
+http://e1.mc529.mail.yahoo.com/mc/welcome 0 2
+http://www.facebook.com/tos.php 1 1
+http://correo.cantv.net/default.asp 0 12
+http://seox.us/4246.html 1 1
+http://200.44.32.96/forum_posts.asp 0 5
+http://aoyun.us/9075.html 1 1
+http://fatx.us/6092.html 1 1
+http://seox.us/8806.html 1 1
+http://es.mg40.mail.yahoo.com/dc/launch 0 6
+http://www.facebook.com 1 1
+http://aoyun.us/4738.html 1 1
+http://aoyun.us/2665.html 1 1
+http://catx.us/8170.html 1 1
+http://catx.us/7630.html 1 1
+http://articulo.mercadolibre.cl/MLC-19174894-tinta-cartridge-cartucho-epson-s020191-so20191-original-_JM 0 8
+http://m.facebook.com/profile.php 1 1
+http://gougou.us/383.html 1 1
+http://astore.amazon.com/courierpackco-20/detail/B001S2RDCC 1 1
+http://forosbeta.cantv.net/forum_posts.asp 0 62
+http://catx.us/6520.html 1 1
+http://aoyun.us/1465.html 1 1
+http://fatx.us/3232.html 1 1
+http://74.125.47.132/search 0 14
+http://www.facebook.com/sharer.php 0 20
+http://dogx.us/781.html 1 1
+http://65.55.72.103/att/GetAttachment.aspx 1 1
+http://www.dbsclub.org/ftemat-1045.html 1 1
+http://stockx.us/4237.html 1 1
+http://articulo.mercadolibre.cl/MLC-21249627-libro-biologia-1-educacion-media-editorial-santillana-_JM 0 19
+http://uume.us/4624.html 1 1
+http://catx.us/6500.html 1 1
+http://ouou.us/games/3349.html 1 1
+http://es.mg40.mail.yahoo.com/dc/blank.html 0 1
+http://www.facebook.com/index.php 1 1
+http://www.facebook.com/policy.php 1 1
+http://stockx.us/5227.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 236
+courierpack 154
+courier+internacional+puerta+a+puerta 74
+courier+pack 18
+courierpack.com.ve 18
+courierpack.com 14
+www.courierpack.com.ve 5
+cupo+cadivi+internet+2010 5
+site+http+%2f%2fcourierpack.com.ve%2fconsulta_estatus_por_guia.php 5
+como+realizar+compras+por+internet 4
+cupos+cadivi+en+que+consistio+y+cual+fue+su+manejo 3
+cupo+electronico+cadivi+2010 3
+compra+por+internet+con+tu+cupo+cadivi 3
+curier+pack 2
+courier+pack.com 2
+envios+a+venezuela+de+compras+por+internet 2
+courrier+para+compras+por+internet 2
+cuanto+sera+el+cupo+de+dolares+para+compras+pon+internet+en+el+a%c3%b1o+2010 2
+courier+pack.com.ve 2
+como+aprovechar+los+dolares+de+cadivi 2
+como+acumular+dolares+en+una+gift+card 2
+eliminan+cupo+electronico+cadivi+2010 2
+como+sacar+el+cupo+de+internet+de+cadivi+a+una+cuenta+internacional 2
+cupo+internet+cadivi+2010 2
+como+colocar+los+datos+en+amazon+para+la+compra 2
+cadivi+2010 2
+cadivi+cupo+electronico+para+2010 1
+nuevos+cupos+cadivi+a+partir+del+2010 1
+comprar+en+el+exterior+por+internet 1
+cupo+cadivi+compras+electronicas+2010 1
+rif+courier+pack 1
+courierpack.com.ve.com.ve 1
+empresas+compras+electronicas+cadivi 1
+cadivi+compras+internet 1
+pasos+para+realizar+una+compra+electronica 1
+cupo+para+compras+electronicas+a%c3%b1o+2010 1
+tiendas+de+venezuela+para+comprar+con+dolares 1
+gift+card+amazon 1
+nuevos+cambios+en+cadivi 1
+despues+del+1+de+diciembre+se+puede+comprar+por+internet+con+el+cupo+cadivi 1
+tarjeta+virtual+para+cupo+cadivi 1
+comprar+con+el+cupo+cadivi+por+internet 1
+como+comprar+por+internet+en+estados+unidos+que+puedan+comprar+los+venezolanos 1
+incremento+cupo+de+dolares+2010 1
+como+se+usan+los+cupos+de+compras+por+internet 1
+aument%c3%b3+el+cupo+en+d%c3%b3lares+en+internet+para+el+2010%3f 1
+cambios+cadivi+2010 1
+cupo+cadivi+internet+tarjeta+credito+prepagada+usa 1
+courier+internet+cadivi 1
+como+comprar+una+gift+cards 1
+como+colocar+la+direccion+en+datos+personales+cadivi%3f 1
+courirepack 1
+formulario+de+los+valores+de+pies+y+pulgadas+fis%c3%adca 1
+cual+era+el+cupo+cadivi+en+2006 1
+cadivi+para+el+2010+electronicos+e+internet 1
+blackberry+con+cupo+cadivi 1
+cadivi+gift+cards 1
+cupo+internet+courrier 1
+formulario+cadivi+para+compras+electronicas 1
+cadivi+nuevos+cupos+electronicos+a+partir+del+2010 1
+cupo+cadivi+para+el+a%c3%b1o+2010 1
+comprar+tarjetas+de+regalo+gift+cards+con+tarjetas+venezolanas+cupo+cadivi 1
+realizar+compras+en+linea+con+tarjetas+de+credito+venezolanas 1
+aumento+de+cupo+cadivi+2009 1
+aumento+de+cupos+electronicos+de+cadivi 1
+aumento+de+cupo+cadivi+2010+para+compra+por+internet 1
+http+//courierpack.com.ve/ 1
+aumento+cupo+internet+2010 1
+curtier+pack 1
+la+forma+mas+segura+de+comprar+por+amazon 1
+cupo+cadivi+en+miami 1
+enero+2010+dolares+cadivi 1
+vijencia+de+los+dolares+de+internet+cadivi 1
+blackberry+8120+con+envio+a+venezuela+con+cupos+cadivi 1
+como+comprar+con+en+amazonas+con+dos+tarjetas+de+creditos+diferentes 1
+obtener+cupo+cadivi+internet+2010 1
+compras+por+internet+desde+venezuela+en+usa+sin+cupo+cadivi 1
+casillero+internacional+miami 1
+cadivi+cupo+de+compras+electronicas+para+el+2010 1
+blackberry+8120+cupo+cadivi+internet 1
+cadivi+compras+en+internet+nacionalizacion 1
+supuesta+eliminaci%c3%b3n+del+cupo+cadivi+para+compras+por+internet 1
+blackberry+cadivi 1
+cupo+de+compra+por+internet+a%c3%b1o+2010 1
+como+sera+el+uso+de+cupo+de+compras+electronicas+en+el+2010 1
+vigencia+de+cupo+cadivi+por+internet 1
+compro+bb+con+los+cupos+cadivi 1
+cupo+dolares+cadivi+internet+2010 1
+cadivi+devoluciones+en+tiendas+en+estados+unidos 1
+trucos+para+acceder+a+cadivi 1
+compras+por+internet+cadivi+providencia 1
+comprar+con+cupos+cadivi+sin+casillero+desde+venezuela 1
+comprar+algo+de+mas+de+400%24+con+cadivi 1
+como+comprar+con+el+cupo+de+viajero+por+internet 1
+comprar+cadivi 1
+eliminacion+del+cupo+de+dolares+para+compras+electronicas+en+el+a%c3%b1o+2010 1
+gif+card+que+acepta+tarjetas+venezolanas 1
+compro+cupos+cadivi+enero+2010 1
+compras+por+internet+en+venezuela+a+mas+de+400+dolares 1
+distribucion+cupo+cadivi 1
+usps+numero+de+guia+internacional 1
+cambios+cupo+cadivi+2010 1
+cupo+cadivi+internet+para+el+2010 1
+compras+por+internet+cadivi 1
+cadivi+nuevo+decreto+2010 1
+compras+en+usa+amazon+cadivi 1
+corrierpack 1
+vender+cupo+de+dolares+de+internet 1
+cupo+cadivi+para+compras+por+interneti 1
+consejos+cadivi 1
+dolares+de+internet+para+el+2010+cadivi 1
+cupo+de+dolares+2010 1
+que+se+sabe+del+cupo+cadivi+2010 1
+cupo+cadivi+para+compras+internet+2010 1
+quiero+comprar+por+inter+pero+tengo+es+el+cupo+viajero 1
+gift+card+cadivi 1
+comprar+por+internet+dolar+cadivi 1
+nueva+distribucion+de+cupo+viajero+para+el+2010 1
+como+hago+la+compra+por+amazon+con+dos+cupos+cadivi+electronicos 1
+viajes+a+partir+del+15+de+enero+2010 1
+cadivi+cupo+internet+2010 1
+tarjeta+credito+virtual+para+acumular+los+dolares+de+cadivi+de+otras+tarjetas 1
+registro+de+cupo+para+compras+por+internet 1
+gift+card+cupo+cadivi+internet 1
+cadivi+cupo+en+dolares+a+miami+para+el+2010 1
+tiendas+en+usa+para+compras+por+internet+en+dolares 1
+courriers+para+compras+por+internet 1
+cadivi+2010+cupo+internet 1
+courierpack+telefonos 1
+casilleros+en+miami 1
+donde+puedo+comprar+con+cupo+cadivi+internet 1
+pasos+para+adquirir+las+divisas+por+internet 1
+pasos+a+seguir+para+hacer+una+compra+electronica 1
+courrierpack.com.ve 1
+como+usar+tus+cupo+cadivi+para+compras+en+internet 1
+nueva+normativa+de+cupos+cadivi+2010 1
+guia+para+comprar+por+internet+con+cupo+de+dolares 1
+aumento+cupo+compras+electr%c3%b3nicas+cadivi 1
+currier+que+no+afecte+cupo+cadivi 1
+comprar+gift+card+con+tarjeta+de+credito+venezolana 1
+como+comprar+por+internet+algo+mayor+de+400+dolares 1
+como+comprar+blackberrys+como+los+dolares+de+cadivi 1
+requisitos+para+divisas+para+compras+por+internet 1
+como+comprar+por+internet+un+producto+que+cuesta+mas+de+400+dolares 1
+como+hacer+seguimiento+de+compras+por+amazon 1
+requisitos+para+usar+los+cupos+internet 1
+dolares+internet+cadivi+2010 1
+comprar+por+internet+por+mas+de+400+dolares 1
+cupos+cadivi+2010 1
+comprar+por+internet+con+operaciones+electronicas 1
+cupos+cadivi+para+2010 1
+solicitud+uso+dolares+para+compras+por+internet 1
+pagina+donde+se+compra+los+articulos+o+productos+en+dolares 1
+cadivi+providencia+2010+internet 1
+courierpack. 1
+vigencia+de+las+tarjetas+cupo+cadivi 1
+usps+tracking 1
+los+cupos+de+dolares+electronicos+para+2010 1
+usar+cupo+viajeros+por+internet 1
+cupo+cadivi+2010+para+compras+por+internet 1
+http+%2f%2fwww.courierpack.com.ve 1
+tracking+ups 1
+como+comprar+por+internet+dolar 1
+que+va+a+pasar+en+el+2010+con+los+cupos+para+compras+electronicas 1
+2010+regulacion+de+cupo+cadivi+por+viaje+para+2010 1
+nuevos+cambios+de+cadivi 1
+amazon+compras+por+internet 1
+compras+por+internet+usando+dolar+cadivis 1
+cupos+cadivi+compras+por+internet+para+2010 1
+www.courrierpack.com 1
+donde+comprar+blackberry 1
+solicitud+de+cupo+cadivi+para+compras+electronicas 1
+cupo+compras+por+internet+2010 1
+como+hacer+una+compra+con+courier+pack 1
+pasos+para+colocar+la+direccion+de+compra+en+internet 1
+como+queda+el+cupo+de+internet+en+cadivi+para+2010 1
+cadivi+dolares+internet+2010 1
+comprar+blackberry+con+cupo+cadivi 1
+como+gestionar+el+cupo+de+400+dolares 1
+dolares+de+internet+cadivi+cuales+son+los+pasos 1
+requisitos+para+adquirir+los+dolares+para+compras+por+internet+cadivi 1
+compras+con+cupos+de+internet+envio+a+venezuela 1
+medidas+cadivi+2010 1
+proceso+para+compras+por+internet+con+dolares+compra+electronica 1
+comprar+por+internet+dolares+cadivi 1
+acumular+dolares+cadivi 1
+calcular+envio+courier 1
+por+que+usar+gift+card+y+no+tarjeta+de+credito+cadivi 1
+cupo+de+dolares+compras+por+internet+2010 1
+como+compro+por+internet 1
+cmbios+en+uso+de+tarjetas+cupo+cadivi 1
+gift+cards+cadivi 1
+restriccion+del+cupo+cadivi+para+comprar+por+internet 1
+cadivi+internet+vigencia 1
+es+verdad+que+van+a+eliminar+los+cupos+para+compras+electronicas 1
+como+comprar+un+articulo+mayor+a+400%24+en+amazon 1
+medidas+de+cadivi+para+el+2010 1
+compras+electronicas+400 1
+courier+miami+venezuela+internet+compras 1
+que+pasara+con+el+cupo+cadivi+para+el+2010 1
+limitaciones+cupos+cadivi+amazon 1
+informaci%c3%b3n+de+cupo+de+dolares+cadivi+2010 1
+cadivi+aumenta+cupo+de+dolares+para+compras+por+internet 1
+cambios+en+cadivi+para+el+2010 1
+como+pagar+un+producto+con+dos+gift+cards+en+amazon 1
+cupo+cadivi+2010+para+compras+electronicas 1
+cambio+de+cupo+a+euros 1
+cuales+son+los+nuevos+cupos+de+cadivi+para+enero+2010 1
+cadivi+compras+electronicas 1
+como+usar+dos+tarjetas+de+credito+en+amazon 1
+para+comprar+con+los+cupos+electronicos+cadivi+hay+que+tener+fondos+la+tarjeta+de+credito 1
+guia+dolares+cadivi+compras+internet 1
+courrierpack 1
+tiendas+virtuales+compras+por+internet+en+dolares+desde+venezuela 1
+casillero+en+miami 1
+cupo+de+internet+de+cadivi+en+el+2010 1
+como+comprar+algo+de+mas+de+400 1
+aumento+de+cupos+cadivi+2010 1
+como+realizar+compras+con+divisas+cadivi+por+internet 1
+compras+con+dolares 1
+cupo+internet+2010 1
+solicitar+gift+card+en+amazon 1
+cupos+cadivi+exterior+2010 2
+vigencia+de+uso+dolares+por+internet 2
+como+compro+por+internet+con+los+dolares+de+cadivi 1
+cupo+de+internet+2010 1
+tiendas+para+comprar+por+internet+en+usa 1
+como+calcular+precios+de+courrier 1
+vigencia+cupo+cadivi+internet 1
+compra+por+internet+pague+con+el+cupo+viajero 2
+cupos+para+internet+en+el+2010 1
+telefonos+de+courierpack 1
+como+comprar+en+una+tienda+electronica+con+cadivi 1
+compras+por+internet+cadivi+devoluciones 1
+los+beneficios+que+tiene+cadivi 1
+puedo+comprar+una+gift+card+con+dolares+de+cadivi 1
+como+se+compra+por+amazon+2+tarjetas+diferentes 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 248
+courierpack 156
+puerta 148
+cadivi 138
+internet 108
+courier 101
+a 91
+cupo 91
+de 87
+internacional 78
+2010 76
+por 69
+para 61
+compras 59
+en 48
+dolares 45
+como 40
+con 37
+comprar 35
+el 35
+cupos 28
+pack 23
+los 22
+courierpack.com.ve 18
+compra 17
+electronicas 14
+pasara 1
+pagar 1
+aument%c3%b3 1
+puede 1
+courriers 1
+courierpack.com.ve.com.ve 1
+calcular 2
+venezolanos 1
+pack.com 2
+y 5
+hago 1
+400%24 2
+uso 5
+solicitud 2
+cadivi%3f 1
+8120 2
+e 1
+cuanto 2
+curier 2
+pero 1
+400 7
+vender 1
+telefonos 2
+dolar 3
+acepta 1
+vijencia 1
+productos 1
+courirepack 1
+pasar 1
+medidas 2
+va 1
+la 7
+2009 1
+venezolanas 3
+tiene 1
+supuesta 1
+cambio 1
+regulacion 1
+viajeros 1
+cambios 5
+cual 4
+virtuales 1
+credito 7
+cuenta 2
+15 1
+virtual 2
+venezolana 1
+tarjeta 6
+fue 3
+dos 4
+se 5
+viajes 1
+exterior 3
+2006 1
+cuesta 1
+linea 1
+son 2
+pack.com.ve 2
+venezuela 10
+no 2
+2 1
+http 7
+tu 3
+beneficios 1
+tengo 1
+una 10
+queda 1
+despues 1
+era 1
+prepagada 1
+puedo 2
+mas 6
+cadivis 1
+electronico 6
+tarjetas 10
+usar 5
+adquirir 2
+sin 2
+card 10
+que 14
+blackberrys 1
+miami 6
+hacer 3
+direccion 2
+rif 1
+viajero 5
+blackberry 6
+quiero 1
+corrierpack 1
+courrier 4
+mayor 2
+providencia 2
+envio 3
+las 2
+restriccion 1
+normativa 1
+usan 1
+seguir 1
+ups 1
+realizar 7
+a%c3%b1o 6
+seguimiento 1
+decreto 1
+currier 1
+registro 1
+vigencia 6
+eliminan 2
+%2f%2fwww.courierpack.com.ve 1
+diciembre 1
+o 1
+interneti 1
+tiendas 5
+su 3
+aprovechar 2
+courrierpack.com.ve 1
+puedan 1
+cmbios 1
+afecte 1
+usps 2
+nacionalizacion 1
+//courierpack.com.ve/ 1
+hay 1
+electronica 4
+amazon 14
+colocar 4
+nuevos 5
+pague 2
+tus 1
+numero 1
+sabe 1
+pon 2
+d%c3%b3lares 1
+viaje 1
+divisas 3
+gift 14
+valores 1
+courierpack. 1
+nuevo 1
+amazonas 1
+proceso 1
+casillero 3
+precios 1
+pasos 5
+datos 3
+verdad 1
+eliminacion 1
+tener 1
+desde 3
+del 8
+gestionar 1
+www.courrierpack.com 1
+electr%c3%b3nicas 1
+solicitar 1
+pies 1
+casilleros 1
+trucos 1
+articulos 1
+site 5
+2010%3f 1
+limitaciones 1
+electronicos 6
+donde 3
+guia 3
+acceder 1
+usando 1
+consistio 3
+sera 3
+fondos 1
+es 2
+incremento 1
+usa 5
+estados 2
+operaciones 1
+creditos 1
+otras 1
+1 1
+algo 3
+inter 1
+bb 1
+cuales 2
+compro 4
+obtener 1
+informaci%c3%b3n 1
+devoluciones 2
+forma 1
+articulo 1
+fis%c3%adca 1
+euros 1
+curtier 1
+manejo 3
+tienda 1
+un 3
+consejos 1
+unidos 2
+pulgadas 1
+eliminar 1
+tracking 2
+aumenta 1
+diferentes 2
+personales 1
+courrierpack 1
+pagina 1
+nueva 2
+courierpack.com 14
+envios 2
+www.courierpack.com.ve 5
+distribucion 2
+empresas 1
+requisitos 3
+formulario 2
+regalo 1
+aumento 6
+partir 3
+enero 4
+sacar 2
+acumular 4
+%2f%2fcourierpack.com.ve%2fconsulta_estatus_por_guia.php 5
+cards 5
+segura 1
+producto 2
+van 1
+gif 1
+eliminaci%c3%b3n 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 508 859
+206 240 14247962
+404 8275 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 25
+/preguntas 2 -
+/ 4 http://http://all18x.com/
+/_vti_bin/owssvr.dll 3 -
+/blank_clip_image001_0002.gif 304 http://www.courierpack.com.ve/preguntas.html
+/administrativo/guias/eliminar_guia.php 3 http://www.courierpack.com.ve/administrativo/guias/guias.php
+/administrativo/administrativo/bizama.png 357 http://www.courierpack.com.ve/administrativo/guias/actualizado.php
+/alta.php 4 http://www.courierpack.com.ve/registrado.php
+/images/cp_logo.jpg 4 http://caracas.olx.com.ve/como-realizar-compras-en-amazon-con-tu-cupo-de-400-por-internet-iid-44315862
+/MSOffice/cltreq.asp 3 -
+/images/giftcard.jpg 4 http://caracas.olx.com.ve/como-realizar-compras-en-amazon-con-tu-cupo-de-400-por-internet-iid-44315862
+/images/img01.gif 5507 http://www.courierpack.com.ve/sabes-como-realizar-compras-por-internet-de-mas-de-400$-con-tu-cupo-cadivi-para-compras-electronicas-en-usa-en-un-sitio-seruro.html
+//scriptdocument.write(unescape(%3Cscript%3Elloogg_clientid%3D%22211000209487386f%22%3C/script%3E%3Cscript%20src%3D%22http%3A//lloogg.com/l.js%22%3E%3C/script%3E)) 4 -
+/images/kubrickheader.jpg 3 http://caracas.olx.com.ve/como-realizar-compras-en-amazon-con-tu-cupo-de-400-por-internet-iid-44315862
+/scriptdocument.write(unescape(%3Cscript%3Elloogg_clientid%3D%22211000209487386f%22%3C/script%3E%3Cscript%20src%3D%22http://lloogg.com/l.js%22%3E%3C/script%3E)) 1 -
+/%23FFFFCC 5 http://www.courierpack.com.ve/
+/images/icono-facebook.jpg 4 http://caracas.olx.com.ve/como-realizar-compras-en-amazon-con-tu-cupo-de-400-por-internet-iid-44315862
+/actualizar.php 1 http://www.courierpack.com.ve/zona_usuarios.php
+/2009_toyota_corolla_XRS_ext_fr& 14 http://foros.cantv.net/forum_posts.asp
+/(null) 1 -
+/zona_usuarios.php 3 http://www.courierpack.com.ve/index.html
+/cse 2 -
+/guias_actuales.php 3 http://www.courierpack.com.ve/zona_usuarios.php
+/images/direccion.jpg 2027 http://caracas.olx.com.ve/como-realizar-compras-en-amazon-con-tu-cupo-de-400-por-internet-iid-44315862
+/crossdomain.xml 1 -
+/administracion/guias/guias.php 11 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2525
+201.242.108.95 833 1302 16103030 20091124065427
+201.242.111.238 324 630 13537718 20091130223721
+190.75.74.250 227 302 5138783 20091130171202
+201.242.105.253 225 404 5726484 20091126195510
+201.242.122.13 222 472 7489838 20091103073919
+190.36.153.69 210 757 3439026 20091128154315
+201.209.102.80 193 1021 5971020 20091130155629
+190.201.114.126 184 793 1839267 20091129165104
+201.211.219.211 164 1008 13894205 20091128183923
+201.242.108.21 161 302 6125223 20091104184146
+200.84.115.6 158 1135 944007 20091109155712
+201.211.71.81 150 740 6448457 20091124085211
+200.6.27.15 119 397 5588735 20091130180921
+201.211.200.95 111 550 12673023 20091109080208
+201.248.146.52 106 355 9809898 20091130203322
+190.201.225.247 99 359 1467388 20091120232643
+200.44.252.87 98 287 5606892 20091130151140
+201.211.94.113 97 297 1734665 20091130105737
+201.211.219.59 85 268 7432470 20091130082623
+200.84.205.156 78 274 5221879 20091130163136
+200.84.218.210 77 252 4581100 20091124194046
+200.109.165.6 73 182 1544756 20091109004933
+200.75.139.93 70 266 2166650 20091124182545
+190.77.156.101 66 240 7903382 20091123121046
+200.8.177.83 65 221 2502140 20091107141508
+190.142.110.18 0 1 27926 
+190.204.208.143 3 18 720134 20091127224121
+190.36.132.97 0 4 211027 
+190.205.72.150 0 4 211027 
+190.76.57.143 0 4 211027 
+186.14.20.96 8 72 1762785 20091103124656
+190.73.229.26 0 1 27926 
+190.205.195.54 0 4 211027 
+87.235.69.48 0 4 211027 
+206.53.153.87 1 16 339666 20091103165508
+161.196.180.101 1 25 271933 20091125150953
+190.38.210.253 0 8 211027 
+186.24.23.1 36 221 5762522 20091127180918
+190.203.87.102 0 4 211027 
+190.72.84.20 0 1 3754 
+190.204.201.195 4 42 1075402 20091107143549
+69.63.178.248 9 12 347455 20091128185829
+200.93.113.171 0 4 211027 
+190.204.125.123 0 4 211027 
+200.109.188.131 22 157 1701735 20091101192641
+200.1.15.30 0 4 211027 
+206.53.153.167 1 16 339666 20091103191504
+190.202.83.89 3 19 739761 20091102111656
+190.10.39.128 2 21 931164 20091127155553
+190.205.46.58 0 4 286659 
+190.75.247.36 0 4 211027 
+201.209.48.228 0 4 211027 
+190.203.80.127 0 4 211027 
+200.90.26.250 0 4 211027 
+190.75.104.105 1 27 352547 20091123075804
+190.200.54.181 0 3 11262 
+190.203.85.19 0 4 211027 
+201.234.224.14 2 17 720137 20091120171507
+200.82.170.41 0 12 633081 
+201.211.13.29 1 25 273060 20091107191500
+201.248.192.167 7 33 477765 20091108230715
+200.8.191.134 0 1 27926 
+69.63.180.244 0 1 52945 
+201.229.178.128 0 1 76664 
+190.75.131.177 0 4 211027 
+190.200.240.239 0 4 211027 
+190.78.178.250 0 8 211027 
+186.14.69.221 0 4 211027 
+201.242.255.23 0 1 3754 
+200.125.190.234 0 4 211027 
+190.200.53.178 0 1 3754 
+190.204.210.89 7 40 1108689 20091105232017
+66.249.65.218 1 1 39262 20091125082107
+190.73.184.85 0 4 211027 
+200.8.168.5 0 1 27926 
+190.37.161.174 0 8 211027 
+201.210.53.170 0 4 211027 
+190.200.123.157 0 4 211027 
+190.74.75.34 0 4 211027 
+190.72.248.200 0 4 211027 
+190.36.152.115 0 4 211027 
+201.248.146.36 1 28 355520 20091121015809
+190.36.192.81 0 4 211027 
+200.84.33.179 0 4 211027 
+190.207.127.139 0 1 27926 
+190.199.179.63 11 64 1254340 20091119164032
+190.73.91.211 4 35 900341 20091130131643
+190.208.21.74 0 1 76664 
+201.208.39.163 0 4 211027 
+190.36.116.4 0 4 211027 
+201.242.155.92 0 4 211027 
+190.40.204.78 0 4 211027 
+201.249.104.14 0 4 211027 
+190.73.14.42 5 34 696376 20091122151929
+190.38.202.227 0 4 211027 
+66.176.56.191 8 42 958557 20091101162213
+190.200.46.153 0 4 211027 
+200.8.20.53 0 4 211027 
+190.203.79.195 10 41 866933 20091124065117
+200.82.242.213 0 8 422054 
+190.72.15.79 13 42 982551 20091128214028
+190.201.215.116 0 1 27926 
+190.73.70.207 1 28 273060 20091122060317
+81.184.161.145 0 4 211027 
+201.209.74.111 1 27 352547 20091102183128
+201.249.115.137 1 3 106115 20091101193831
+190.79.18.154 0 2 31680 
+200.8.251.61 0 4 211027 
+201.209.182.216 1 25 273007 20091105132812
+190.71.15.215 0 4 211027 
+190.203.175.21 0 4 211027 
+200.8.80.18 0 2 31680 
+200.26.161.127 3 42 818322 20091129132734
+201.249.66.133 32 157 3546639 20091130102649
+190.200.209.121 5 39 1034765 20091119113757
+190.142.203.233 0 2 27926 
+190.76.67.119 0 7 246461 
+200.8.49.28 4 34 822825 20091108105103
+216.72.133.131 0 8 422054 
+190.73.247.3 0 4 211027 
+206.53.147.31 0 4 211027 
+190.37.37.132 0 4 211027 
+201.208.51.68 0 4 211027 
+201.209.129.218 3 36 821931 20091126094443
+190.202.108.138 2 22 934581 20091129152510
+190.205.34.245 4 36 1057509 20091130023609
+200.84.48.176 0 4 211027 
+190.201.165.212 0 1 27926 
+190.37.254.212 0 4 211027 
+190.39.137.96 0 4 211027 
+190.203.152.36 0 4 211027 
+190.142.112.14 0 4 211027 
+201.248.109.78 0 4 211027 
+190.202.104.106 0 8 422054 
+201.238.3.3 0 4 211027 
+190.199.69.80 0 4 211027 
+190.199.35.187 0 1 27926 
+201.248.156.14 0 7 63360 
+190.201.140.125 6 40 1117497 20091124133630
+200.8.22.47 0 3 31680 
+200.8.141.108 0 4 211027 
+190.204.210.99 0 4 211027 
+190.75.246.224 0 4 286659 
+200.109.244.228 0 3 280058 
+190.142.124.175 0 4 211027 
+190.205.175.38 1 25 273060 20091103203554
+201.210.12.64 0 4 211027 
+206.53.157.22 2 19 399981 20091103175553
+190.75.255.89 0 4 211027 
+190.121.239.37 0 4 211027 
+190.198.116.176 0 1 3754 
+190.205.55.120 2 54 704200 20091120190306
+200.109.166.128 0 8 211027 
+190.37.65.164 0 4 211027 
+200.44.139.89 0 1 27926 
+190.78.51.241 0 4 211027 
+186.14.245.2 56 236 6393012 20091129215004
+200.109.170.183 0 4 211027 
+201.248.230.78 0 4 211027 
+200.90.33.170 0 4 211027 
+190.121.239.41 1 7 241105 20091108130623
+190.0.67.27 0 4 211027 
+190.74.228.185 0 4 211027 
+186.14.31.154 0 4 211027 
+190.198.245.245 22 58 1284038 20091129131006
+190.72.184.223 10 47 1378536 20091122134717
+200.8.227.76 0 4 211027 
+190.206.221.101 0 4 211027 
+200.75.96.26 11 44 989088 20091102190725
+190.198.34.40 0 4 211027 
+190.200.148.41 0 1 27926 
+190.206.249.127 0 4 211027 
+190.76.126.31 23 65 1053912 20091130214351
+201.209.251.36 0 8 211027 
+201.242.111.185 0 1 3754 
+201.210.151.132 4 35 918409 20091127213443
+186.14.107.238 0 4 211027 
+190.198.85.187 0 2 31680 
+199.2.116.180 2 21 1006793 20091130032844
+190.87.3.67 0 1 27926 
+190.206.62.177 0 4 211027 
+89.6.207.252 0 1 27926 
+190.201.223.14 3 42 818177 20091119012137
+201.210.141.112 0 1 27926 
+190.206.197.138 0 1 27926 
+159.90.10.250 0 1 27926 
+201.210.141.76 0 2 7508 
+201.243.179.38 0 4 211027 
+201.208.39.198 1 27 352547 20091123123006
+201.209.125.102 1 27 483457 20091122211408
+200.82.128.10 2 68 993121 20091127113426
+200.8.84.184 7 39 980885 20091124124752
+201.242.110.125 0 11 646840 
+190.79.121.206 0 4 211027 
+190.207.149.186 0 4 211027 
+190.201.182.162 13 56 1086670 20091123133004
+190.36.208.164 0 4 211027 
+190.203.37.195 0 4 211027 
+190.75.143.32 0 4 211027 
+200.82.240.231 0 1 27926 
+190.36.125.23 0 4 211027 
+201.242.193.200 0 1 27926 
+190.79.155.199 3 39 1087854 20091125204118
+190.206.32.203 0 2 31680 
+190.199.70.218 0 4 286659 
+83.165.21.253 0 4 211027 
+190.78.38.254 0 2 31680 
+190.77.254.204 1 28 355413 20091119123612
+190.73.1.28 0 1 27926 
+190.77.196.166 0 4 211027 
+190.72.167.224 0 4 211027 
+190.76.6.8 0 1 27926 
+190.39.49.58 0 1 3754 
+200.8.16.85 0 4 211027 
+190.74.55.177 0 4 211027 
+189.236.243.133 0 1 76664 
+190.37.116.91 0 4 211027 
+190.74.161.198 1 26 276030 20091130120917
+190.216.245.198 0 4 211027 
+190.76.81.42 4 16 44008 20091109192807
+206.53.147.149 1 13 232708 20091124082041
+200.71.243.5 0 1 27926 
+200.90.113.198 0 4 211027 
+190.203.209.126 0 3 59606 
+190.142.135.128 0 4 211027 
+190.198.3.244 2 25 931164 20091101105949
+190.75.242.183 0 4 211027 
+190.0.82.86 0 1 76664 
+190.206.156.212 0 1 137505 
+190.142.149.72 0 4 211027 
+130.36.127.252 1 12 260591 20091105112656
+186.14.37.160 0 4 211027 
+200.47.79.186 3 34 900344 20091124082036
+190.38.58.194 0 4 211027 
+190.202.189.194 58 358 2892093 20091129224642
+66.205.228.114 2 17 378928 20091109013003
+200.71.246.35 0 4 211027 
+200.83.140.226 0 1 76664 
+200.62.17.139 0 4 211027 
+190.78.93.198 3 20 726817 20091107202222
+190.76.91.86 1 1 10410 20091101165546
+190.142.74.183 0 4 211027 
+190.198.163.246 0 4 211027 
+190.38.150.10 0 2 153494 
+206.83.202.254 0 3 205979 
+200.109.71.6 0 4 211027 
+190.38.105.28 0 4 211027 
+190.206.82.184 0 2 31680 
+190.36.194.142 0 4 211027 
+190.205.10.66 0 4 211027 
+200.84.200.153 0 4 211027 
+190.203.4.224 0 1 27926 
+190.74.147.100 0 4 211027 
+186.14.90.127 0 4 211027 
+190.76.53.119 0 1 38172 
+190.76.62.127 0 8 211027 
+201.209.0.120 0 4 211027 
+65.55.216.50 0 1 27926 
+200.85.69.69 0 2 31680 
+190.198.36.49 1 31 563574 20091104200217
+200.35.2.223 0 1 27926 
+190.199.167.229 0 4 211027 
+200.109.97.51 0 3 205979 
+190.72.233.48 0 1 27926 
+190.142.178.196 0 4 211027 
+201.249.19.59 0 1 3754 
+190.207.224.47 0 4 211027 
+190.142.235.76 0 4 59606 
+159.90.38.245 0 4 211027 
+190.76.20.86 0 4 211027 
+200.84.36.30 0 2 31680 
+201.211.219.159 17 86 1795804 20091130170250
+190.202.101.18 1 28 546883 20091126113416
+190.199.39.111 0 4 211027 
+190.199.147.247 0 4 211027 
+190.24.137.18 0 4 286659 
+190.78.235.143 18 80 1875940 20091120221056
+190.38.48.188 0 4 211027 
+190.153.3.28 0 4 211027 
+190.200.2.200 0 4 211027 
+190.36.237.151 0 4 63360 
+200.35.231.192 0 4 211027 
+190.198.124.103 0 4 211027 
+190.203.214.181 0 4 211027 
+201.248.41.97 0 4 211027 
+200.65.20.112 0 1 27926 
+190.200.67.242 0 4 211027 
+190.200.181.253 0 4 211027 
+190.37.130.103 0 4 211027 
+190.200.129.143 6 42 905897 20091104155536
+201.208.37.11 2 28 398109 20091108105320
+190.38.209.253 5 48 1097237 20091130185421
+201.208.232.72 0 4 211027 
+201.208.46.139 0 2 31680 
+200.75.96.18 0 3 59606 
+200.44.5.9 0 1 3754 
+190.76.99.32 6 37 14221 20091125220840
+201.242.16.208 0 4 211027 
+190.201.139.57 0 1 3754 
+207.211.82.31 2 16 194844 20091125122414
+190.142.18.120 10 89 1163677 20091103160329
+200.84.123.200 0 4 211027 
+190.72.149.46 0 4 211027 
+190.199.70.108 4 21 803952 20091120184013
+190.74.97.40 0 4 211027 
+190.72.24.89 0 1 27926 
+190.39.7.39 0 1 27926 
+190.206.199.113 0 4 211027 
+190.77.71.119 0 1 27926 
+190.232.136.170 0 1 27926 
+200.109.172.209 0 4 211027 
+69.63.180.249 0 3 136192 
+190.78.81.114 19 30 200499 20091123191211
+190.202.102.2 0 4 211027 
+201.211.70.67 1 27 411810 20091122073632
+68.171.235.33 4 20 642087 20091129003841
+190.202.155.116 0 1 3754 
+200.109.37.193 0 4 211027 
+208.80.193.44 1 1 39262 20091120083815
+201.210.243.250 0 4 211027 
+201.248.99.134 0 3 219217 
+190.39.251.194 0 4 211027 
+190.76.101.124 17 143 1160522 20091123103105
+190.36.62.214 0 4 211027 
+200.26.170.28 0 4 286659 
+190.76.31.76 14 217 1146520 20091106182435
+190.198.27.81 0 4 211027 
+201.211.255.23 0 4 211027 
+190.201.182.37 11 45 1056324 20091125131056
+190.39.202.5 3 25 944077 20091108112033
+200.84.141.65 0 4 211027 
+190.75.81.182 0 1 3754 
+190.37.159.5 0 4 211027 
+190.200.59.112 4 38 1009909 20091101114657
+190.73.172.152 0 1 3754 
+190.203.198.155 0 4 211027 
+190.198.120.164 0 2 0 
+200.125.185.211 0 5 214781 
+190.199.77.103 4 36 1002079 20091106142411
+190.76.17.64 0 8 422054 
+190.73.111.22 0 4 211027 
+190.79.193.159 0 4 211027 
+190.79.101.251 0 4 286659 
+201.210.128.232 0 1 3754 
+190.142.243.173 0 4 211027 
+190.36.156.102 0 4 211027 
+190.72.83.108 0 1 27926 
+201.248.92.171 0 1 27926 
+190.37.117.81 7 41 1128283 20091107201126
+190.223.189.107 0 1 3754 
+200.90.22.102 0 4 211027 
+190.73.140.51 0 4 211027 
+190.200.240.199 12 20 191120 20091129232800
+190.207.206.160 0 4 211027 
+200.8.153.49 3 18 720137 20091104145239
+200.109.96.162 0 4 211027 
+201.243.64.178 0 1 3754 
+190.73.4.218 0 4 286659 
+190.76.162.37 0 4 211027 
+201.209.42.34 0 4 211027 
+190.76.23.128 0 1 27926 
+190.76.25.32 0 2 31680 
+200.82.208.37 4 36 903317 20091104184021
+190.72.212.213 3 42 820804 20091122115338
+200.35.84.214 0 2 153494 
+201.208.41.98 0 2 7508 
+207.138.37.214 3 15 489023 20091130144056
+200.82.208.112 2 17 720134 20091130170427
+190.201.112.41 0 4 211027 
+201.210.210.172 0 4 211027 
+200.8.178.86 0 4 211027 
+190.203.200.92 0 4 211027 
+190.74.122.133 0 1 27926 
+201.209.199.254 12 45 910152 20091124085734
+82.34.64.144 0 8 211027 
+190.77.146.166 0 4 211027 
+190.75.70.119 0 1 27926 
+190.201.228.129 0 4 211027 
+201.242.170.186 0 4 211027 
+190.203.80.10 0 1 27926 
+190.76.101.0 4 35 240381 20091126222456
+190.203.124.131 0 4 211027 
+190.77.125.234 0 1 27926 
+190.207.42.84 4 36 804185 20091119001002
+201.210.135.125 0 1 27926 
+201.242.72.36 0 4 211027 
+114.240.124.231 8 8 314096 20091123222836
+200.84.37.217 0 4 211027 
+200.8.116.245 0 4 211027 
+190.207.187.8 62 204 4414068 20091121151445
+200.82.199.50 0 4 211027 
+190.79.60.67 0 4 211027 
+190.202.186.193 0 4 211027 
+190.207.254.136 0 4 211027 
+200.8.253.57 1 25 273060 20091127105301
+200.82.253.97 0 1 27926 
+190.37.149.55 0 5 18770 
+201.243.137.113 1 27 352547 20091126160157
+190.75.170.45 1 24 300943 20091120225926
+190.142.159.73 0 1 3754 
+64.255.180.51 0 4 211027 
+190.76.30.188 0 4 211027 
+190.78.94.165 0 4 211027 
+190.4.238.39 0 1 27926 
+190.202.105.12 0 4 211027 
+190.199.225.53 0 2 35350 
+190.38.82.47 0 4 211027 
+190.77.240.227 0 4 211027 
+190.77.11.174 0 1 27926 
+82.158.2.86 0 4 211027 
+190.198.241.203 0 4 286659 
+66.249.65.188 1 1 39262 20091125150708
+190.200.251.244 0 1 3754 
+206.49.165.28 38 187 3720556 20091109080404
+190.76.58.4 0 4 211027 
+200.46.61.99 0 1 27926 
+190.205.90.134 0 2 31680 
+200.47.89.45 2 8 651176 20091104190447
+190.207.117.131 0 1 3754 
+190.199.64.186 0 2 43220 
+64.237.168.71 3 27 948802 20091123180623
+57.74.229.98 0 1 3754 
+200.24.48.176 0 2 153494 
+190.73.86.228 0 2 31680 
+186.14.228.217 0 4 211027 
+190.198.26.218 0 4 211027 
+190.73.47.251 0 4 211027 
+190.37.56.186 0 1 27926 
+190.78.221.56 0 4 211027 
+190.38.146.84 0 3 35434 
+190.39.123.44 1 24 300943 20091127162943
+201.242.171.113 0 1 27926 
+190.39.160.149 0 1 27926 
+200.44.80.237 2 35 558045 20091130185135
+190.77.224.64 0 1 3754 
+190.79.105.109 0 4 286659 
+190.75.47.59 1 27 352547 20091103154952
+190.204.96.118 5 101 933125 20091129124644
+200.35.89.98 3 18 720137 20091127163833
+190.45.63.168 0 1 76664 
+190.206.118.22 13 40 1173187 20091120154157
+200.75.96.2 13 91 2175444 20091104164106
+190.205.246.70 0 1 27926 
+190.73.83.150 0 4 211027 
+190.199.79.51 0 4 211027 
+190.79.179.225 4 43 1238464 20091104174812
+201.255.120.223 0 1 76664 
+190.206.200.13 0 1 27926 
+88.191.18.3 1 1 39259 20091129091527
+200.35.85.206 0 1 27926 
+186.14.56.66 1 27 352547 20091106224412
+201.209.106.232 0 4 211027 
+201.248.14.91 41 150 1154058 20091129184936
+190.39.182.227 0 1 27926 
+201.248.104.166 0 4 211027 
+190.37.131.86 0 4 211027 
+201.243.72.18 3 30 461995 20091122154447
+190.206.114.62 1 30 494824 20091124002951
+190.166.188.253 0 1 76664 
+200.8.184.22 0 1 27926 
+190.79.75.25 0 3 73522 
+190.204.222.236 0 8 211027 
+190.202.106.210 0 4 211027 
+190.76.81.84 0 4 211027 
+201.208.191.49 0 4 211027 
+190.198.165.208 0 4 211027 
+190.73.166.99 0 1 27926 
+190.75.34.104 0 4 211027 
+190.207.111.199 6 37 1013128 20091120190650
+200.109.86.113 0 4 211027 
+201.242.195.218 0 8 422054 
+190.73.254.84 0 1 27926 
+190.38.203.9 0 3 172855 
+190.39.53.169 0 4 211027 
+200.47.79.226 1 27 352547 20091128214031
+201.209.9.161 0 4 211027 
+190.72.192.208 0 1 27926 
+190.39.228.38 0 2 31680 
+200.85.70.211 0 4 211027 
+200.84.53.176 0 4 211027 
+190.202.97.109 0 4 211027 
+190.72.244.7 0 3 172855 
+190.199.57.90 3 44 900344 20091101203847
+190.36.105.104 0 4 211027 
+201.208.109.101 0 4 211027 
+201.243.184.239 4 39 1111371 20091122124756
+190.204.238.79 0 1 27926 
+81.52.238.1 0 1 3754 
+190.72.76.215 0 4 211027 
+200.109.194.163 1 28 483457 20091118195349
+201.211.67.193 0 4 211027 
+200.8.51.165 0 2 31680 
+190.200.124.234 0 1 3754 
+190.39.170.101 0 4 211027 
+190.75.156.104 0 4 211027 
+201.243.96.236 1 24 300943 20091102003348
+201.211.172.71 0 4 211027 
+206.53.153.197 0 4 211027 
+201.211.187.28 0 2 31680 
+201.209.6.20 0 2 31680 
+200.8.36.74 0 18 838503 
+99.62.212.46 0 4 211027 
+190.201.163.51 0 4 211027 
+150.70.84.152 1 1 18068 20091109085344
+186.14.142.238 0 4 211027 
+189.159.6.74 0 1 3754 
+190.76.71.128 12 45 1029379 20091103124018
+88.168.227.13 0 1 27926 
+201.209.147.77 0 1 27926 
+200.75.131.110 2 5 570829 20091120171907
+204.253.245.126 0 1 27926 
+201.243.133.25 0 4 211027 
+70.36.100.235 3 6 125838 20091107101123
+83.44.89.198 1 1 43129 20091124165105
+190.75.215.52 3 32 820804 20091119103359
+190.77.241.76 0 4 211027 
+190.198.150.75 2 18 723500 20091119231702
+190.37.197.236 0 4 211027 
+190.36.118.24 0 4 211027 
+190.38.179.81 1 27 441136 20091122181356
+190.142.168.115 7 108 842176 20091122092050
+189.186.142.127 0 1 27926 
+190.39.181.243 3 18 720137 20091106154035
+200.8.206.232 0 4 211027 
+190.76.61.220 0 4 211027 
+201.248.52.24 0 1 27926 
+190.205.51.175 3 54 380871 20091126191440
+190.201.174.160 0 4 211027 
+201.242.173.71 0 4 211027 
+190.78.219.104 0 4 211027 
+201.211.108.193 5 34 648023 20091124104700
+201.243.120.226 0 5 348532 
+190.199.136.57 0 4 211027 
+201.208.168.188 1 27 352547 20091127210556
+190.39.160.211 0 4 211027 
+190.72.125.136 0 4 211027 
+190.39.54.63 0 4 211027 
+190.76.117.222 8 26 813902 20091118194222
+190.76.18.7 3 44 900341 20091128191912
+190.73.142.35 0 4 211027 
+190.201.172.44 0 1 3754 
+217.169.236.12 0 4 211027 
+190.79.106.185 0 4 211027 
+190.73.240.60 0 2 31680 
+190.76.62.198 5 89 828422 20091121174915
+190.38.153.225 0 4 211027 
+200.8.131.231 0 4 211027 
+190.73.138.60 0 1 3754 
+190.74.61.176 0 6 11262 
+190.206.181.61 1 27 352547 20091120000131
+190.201.169.149 2 19 729955 20091118184726
+201.248.192.231 0 4 211027 
+200.82.164.71 8 53 871738 20091123084956
+190.200.122.72 0 4 211027 
+200.109.136.79 0 1 27926 
+190.202.90.250 0 4 211027 
+190.77.155.244 0 4 211027 
+190.37.213.56 0 4 211027 
+200.35.106.173 0 4 211027 
+201.208.119.120 0 4 211027 
+190.37.77.112 0 4 211027 
+200.113.39.159 1 27 352547 20091104134434
+201.211.220.217 33 140 3943155 20091122201222
+190.203.254.232 2 30 1145286 20091107122339
+201.248.231.76 0 8 422054 
+200.84.38.22 0 5 238953 
+190.206.147.207 0 4 286659 
+200.8.252.240 0 2 55852 
+201.243.186.47 0 4 211027 
+190.37.75.254 0 1 27926 
+190.207.223.149 0 4 211027 
+190.39.216.172 0 4 211027 
+201.211.209.129 13 68 1329229 20091102213240
+190.37.190.6 0 4 211027 
+190.37.254.77 0 4 211027 
+170.155.6.14 0 1 27926 
+190.78.235.236 27 61 1934132 20091119072629
+190.38.190.7 0 1 27926 
+190.76.56.115 2 30 507322 20091119172035
+190.77.124.68 0 1 27926 
+87.21.180.174 1 26 345875 20091103184545
+190.38.115.141 0 4 211027 
+190.121.238.37 0 2 0 
+190.199.182.222 0 4 211027 
+190.207.121.208 0 4 211027 
+186.14.93.144 0 4 211027 
+190.202.176.70 0 12 633081 
+190.37.155.157 0 2 31680 
+200.8.236.92 0 8 422054 
+200.44.155.74 2 21 931164 20091119104232
+190.202.83.18 0 3 205979 
+67.210.218.87 4 4 157048 20091123085153
+190.205.166.69 0 4 211027 
+201.211.83.201 0 4 211027 
+190.76.6.245 0 12 211027 
+200.93.31.173 0 4 211027 
+200.109.57.59 0 4 211027 
+200.84.125.252 4 63 1054867 20091125141905
+190.77.183.218 0 1 27926 
+186.14.85.75 0 1 27926 
+190.200.218.119 3 35 1010660 20091103195807
+190.79.148.31 0 1 3754 
+201.242.168.74 0 4 211027 
+190.38.209.84 1 1 39262 20091123114645
+200.8.84.188 0 4 211027 
+190.198.32.87 0 4 211027 
+186.87.253.240 3 49 300987 20091127231457
+190.78.129.223 1 24 300943 20091103161057
+190.206.82.218 0 1 27926 
+64.56.70.42 1 2 41943 20091128060014
+190.241.37.152 0 1 3754 
+201.209.59.48 0 4 211027 
+200.71.243.2 0 3 172855 
+190.207.254.66 0 4 211027 
+201.242.18.5 0 16 211027 
+200.44.170.58 4 32 642456 20091109162029
+190.76.124.123 0 4 211027 
+190.72.155.22 2 19 726469 20091104135302
+200.84.223.27 0 2 55852 
+201.211.51.223 0 15 100900 
+200.11.208.227 0 1 27926 
+201.209.19.79 0 4 211027 
+200.82.186.15 7 144 977000 20091125112556
+57.76.7.241 2 26 290001 20091109193255
+190.142.217.159 0 4 211027 
+190.78.35.183 2 30 395371 20091105012914
+190.204.130.57 0 4 211027 
+190.206.39.28 0 4 211027 
+67.205.223.167 1 27 352547 20091130212442
+190.207.254.171 1 33 570254 20091126215954
+190.37.208.185 0 4 211027 
+200.90.86.19 0 4 211027 
+190.60.46.50 0 3 205979 
+200.93.125.183 0 1 3754 
+189.178.66.188 0 4 211027 
+201.210.176.54 10 206 3045568 20091125125829
+190.75.169.28 0 4 211027 
+186.14.28.154 0 4 286659 
+186.14.45.137 0 4 211027 
+200.109.251.116 0 4 211027 
+190.76.100.86 2 26 415511 20091119224125
+201.210.150.210 0 1 3754 
+190.76.26.169 0 4 211027 
+190.76.7.70 0 4 211027 
+190.200.229.176 0 4 211027 
+200.84.139.165 0 4 211027 
+190.205.100.36 0 1 3754 
+201.211.88.176 0 1 3754 
+201.242.193.187 0 4 211027 
+201.243.211.87 0 1 27926 
+200.41.12.50 0 4 211027 
+201.210.172.30 0 4 211027 
+190.198.204.252 0 1 27926 
+190.74.185.80 6 39 1075230 20091108205104
+201.248.10.253 1 1 14219 20091119155145
+190.204.211.226 0 4 211027 
+190.204.199.221 0 9 31680 
+200.74.195.37 0 1 27926 
+190.38.209.120 0 1 27926 
+200.109.193.132 0 4 211027 
+190.76.118.174 0 4 211027 
+190.201.1.136 1 28 271933 20091120111129
+201.208.131.48 0 4 211027 
+200.35.105.2 4 34 842292 20091103203547
+190.76.5.215 0 1 3754 
+190.39.43.78 25 74 1076042 20091109122228
+200.8.255.118 3 31 636522 20091106093753
+201.209.31.95 6 38 1015510 20091122144259
+190.170.152.36 0 1 27926 
+190.38.145.138 0 4 211027 
+190.39.220.189 0 4 211027 
+190.200.95.98 0 1 27926 
+201.242.18.165 0 4 211027 
+190.79.140.233 0 2 27926 
+201.211.81.76 0 1 27926 
+190.142.184.97 0 1 27926 
+200.8.69.219 1 24 300943 20091103153528
+186.36.23.13 0 1 76664 
+190.202.116.187 0 3 73522 
+206.53.153.111 1 16 339666 20091123134930
+190.121.239.36 0 1 27926 
+190.78.7.254 0 4 211027 
+201.248.60.123 1 28 488259 20091128153102
+189.136.218.173 0 4 211027 
+201.234.229.143 0 4 211027 
+200.8.180.148 3 18 720137 20091122064508
+190.199.167.2 14 57 1442885 20091129104753
+190.199.180.104 0 1 27926 
+190.75.45.139 0 1 27926 
+201.242.203.89 0 4 211027 
+201.210.89.202 0 5 91286 
+190.153.74.2 1 24 300943 20091126163305
+64.235.157.234 3 3 117786 20091123194020
+190.199.244.230 0 4 211027 
+190.76.50.94 0 4 211027 
+201.242.25.204 8 167 996110 20091103090141
+201.208.134.242 0 4 211027 
+190.76.102.56 0 9 302313 
+190.198.230.235 1 24 300943 20091124154420
+190.142.206.124 0 1 3754 
+201.243.146.25 3 31 446725 20091101182520
+190.37.242.243 2 55 613181 20091106142912
+200.109.61.135 1 31 308441 20091103194923
+190.73.167.109 0 4 211027 
+190.202.82.210 0 6 266879 
+190.205.124.191 1 28 352547 20091130073022
+190.205.17.123 4 31 867506 20091130174654
+190.79.141.47 0 4 211027 
+150.187.44.130 2 28 538445 20091120184223
+186.14.72.75 0 1 27926 
+190.39.81.60 0 4 211027 
+190.36.119.106 0 1 3754 
+190.36.61.138 0 5 11262 
+190.72.149.140 0 1 3754 
+201.242.254.113 0 4 211027 
+190.72.2.220 3 75 273060 20091127172441
+68.171.234.242 1 18 248180 20091130143346
+200.84.20.238 2 13 1031160 20091120205807
+190.37.158.26 0 2 31680 
+190.207.250.163 0 4 211027 
+190.37.197.3 2 21 931164 20091119212453
+190.178.199.132 0 1 27926 
+190.36.158.33 0 4 211027 
+201.242.77.87 0 1 27926 
+150.186.100.102 14 64 1144400 20091130104657
+200.44.210.57 0 4 211027 
+200.44.170.188 0 5 211027 
+190.37.77.140 0 4 211027 
+201.211.18.147 0 4 211027 
+190.76.65.245 7 35 98888 20091125113204
+186.14.42.104 0 4 211027 
+206.49.165.44 1 1 9716 20091109194734
+190.200.145.180 3 38 1011190 20091123200313
+200.74.192.52 0 4 211027 
+190.201.125.14 0 4 211027 
+190.205.199.140 0 2 167807 
+190.203.85.254 34 100 260697 20091103083407
+150.187.78.65 0 4 211027 
+190.60.61.108 0 4 211027 
+69.63.180.245 0 6 413622 
+201.210.127.106 0 4 211027 
+200.84.68.93 0 6 211027 
+200.75.96.182 10 56 1620360 20091121203456
+190.201.253.217 0 7 211027 
+190.74.121.91 1 25 244510 20091104123132
+190.205.241.254 0 2 142553 
+190.36.104.152 0 4 211027 
+190.36.153.58 0 4 211027 
+190.202.111.78 0 1 0 
+69.63.178.247 4 6 214694 20091108171625
+190.39.1.146 0 4 211027 
+190.200.141.93 0 1 27926 
+200.90.77.74 0 4 211027 
+200.8.7.206 0 4 211027 
+150.187.40.27 7 37 882933 20091106170844
+190.198.162.133 0 4 211027 
+190.39.23.50 0 4 211027 
+190.73.155.108 0 2 0 
+201.211.244.53 0 8 497686 
+201.248.157.84 0 4 211027 
+190.201.163.15 0 4 211027 
+208.80.193.40 4 4 157045 20091130130517
+190.77.196.144 0 4 211027 
+201.248.207.132 4 36 1089090 20091121225332
+190.207.44.58 0 4 211027 
+190.75.53.95 0 4 211027 
+69.63.181.250 0 24 1251785 
+189.179.150.248 0 1 27926 
+190.77.12.144 0 4 211027 
+190.204.111.129 0 4 211027 
+190.78.51.62 0 4 211027 
+200.93.126.191 0 4 211027 
+209.191.87.216 2 2 78524 20091107114815
+200.74.220.203 0 4 211027 
+190.198.120.237 0 4 211027 
+190.142.26.166 0 4 39188 
+200.84.223.38 0 1 27926 
+200.8.162.51 0 4 211027 
+190.200.81.248 0 1 27926 
+208.80.193.33 1 1 39262 20091120084027
+200.75.96.212 3 33 871136 20091106152857
+190.205.126.129 0 4 211027 
+190.199.115.41 0 8 422054 
+200.84.195.226 2 21 1005168 20091123082716
+190.38.126.222 0 4 211027 
+190.199.153.157 0 1 3754 
+190.77.114.156 5 39 829316 20091130130233
+190.79.127.64 0 4 211027 
+201.242.111.12 2 29 399969 20091105162905
+201.211.203.124 0 4 211027 
+190.76.85.119 0 4 211027 
+190.203.252.234 0 8 211027 
+201.210.72.72 0 2 31680 
+190.37.115.21 0 6 0 
+190.200.25.171 10 43 1095404 20091107104254
+190.76.118.215 5 25 236197 20091123185424
+190.79.162.164 0 4 211027 
+190.199.23.22 0 12 211027 
+190.73.175.140 0 4 211027 
+200.71.148.18 0 4 211027 
+190.199.115.214 0 1 27926 
+190.200.129.129 17 69 1673719 20091123092553
+201.211.15.196 0 4 211027 
+190.203.77.167 0 1 27926 
+190.77.173.116 4 33 751328 20091118211926
+63.167.178.3 3 44 824367 20091123160651
+201.242.194.114 0 4 211027 
+190.76.84.64 0 1 3754 
+200.71.154.30 0 4 211027 
+201.248.102.20 3 30 543311 20091123190605
+66.196.119.21 1 1 17385 20091103192248
+201.242.174.47 0 4 211027 
+65.55.216.64 0 2 55852 
+190.203.83.50 28 114 1053413 20091103181359
+200.90.123.116 0 1 3754 
+190.72.113.37 1 31 563574 20091127070315
+190.201.31.240 0 8 211027 
+200.44.155.26 0 1 137505 
+201.242.105.39 0 4 211027 
+190.205.73.29 0 4 211027 
+190.78.250.177 0 4 211027 
+190.76.119.97 0 4 211027 
+190.38.116.162 0 4 211027 
+200.75.144.221 0 6 360530 
+201.248.2.36 0 1 27926 
+190.202.127.106 0 1 27926 
+201.208.116.222 0 1 3754 
+190.198.41.150 0 1 27926 
+190.39.47.55 0 1 27926 
+190.74.205.59 0 4 211027 
+190.142.139.147 0 4 211027 
+190.37.167.205 8 8 78274 20091109121533
+201.242.106.79 0 5 31680 
+201.242.29.170 0 1 3754 
+190.206.60.10 0 3 73522 
+190.206.190.87 0 4 211027 
+186.14.26.116 0 4 211027 
+206.53.157.240 1 13 231581 20091130133550
+190.205.17.117 8 86 1001622 20091121221205
+201.243.60.205 0 4 211027 
+200.62.17.138 3 48 1354075 20091128112429
+190.136.33.240 0 1 27926 
+190.205.45.227 2 28 605004 20091124164806
+201.210.226.53 0 4 0 
+190.203.134.35 0 1 27926 
+190.184.51.214 0 1 3754 
+190.200.58.61 0 4 211027 
+190.36.155.144 0 1 27926 
+190.75.81.143 4 65 808137 20091123204526
+190.79.82.97 0 4 211027 
+200.109.194.140 0 1 27926 
+206.53.153.109 0 1 27926 
+190.50.58.195 0 1 27926 
+190.203.201.206 0 1 3754 
+190.200.115.99 0 4 211027 
+190.75.123.37 1 25 270380 20091126203139
+69.63.178.251 8 8 118627 20091126191032
+201.243.186.211 0 4 211027 
+190.203.121.176 1 27 352547 20091108185859
+190.202.86.18 0 4 211027 
+190.206.175.248 0 4 286659 
+69.63.180.246 0 7 381713 
+200.109.129.86 0 8 422054 
+69.63.178.250 9 12 309746 20091130221858
+190.15.173.107 1 25 273060 20091109084928
+190.36.228.100 4 33 1189675 20091126124937
+201.242.132.175 0 2 31680 
+190.206.110.5 0 2 7508 
+190.200.84.205 0 4 211027 
+190.204.242.199 0 4 211027 
+190.200.214.106 0 1 27926 
+207.211.82.30 2 20 185468 20091125122342
+87.223.182.180 0 1 27926 
+190.38.223.34 0 4 211027 
+170.51.116.175 0 1 27926 
+201.209.54.116 0 1 27926 
+201.211.28.186 0 4 211027 
+190.79.92.81 0 1 27926 
+190.202.91.210 3 20 775989 20091126165037
+190.72.82.56 0 4 211027 
+201.210.170.10 1 27 352547 20091130164908
+200.90.78.100 0 1 27926 
+200.90.34.130 0 3 205979 
+190.76.32.33 0 4 211027 
+200.82.143.5 0 4 211027 
+190.138.13.238 0 1 27926 
+190.76.89.138 0 4 172855 
+201.209.225.91 6 36 930293 20091102114320
+190.142.210.61 0 1 76664 
+68.171.235.229 0 1 15989 
+200.93.6.172 0 1 27926 
+190.206.165.254 4 69 838888 20091105104840
+190.73.208.97 1 24 300943 20091102133550
+200.8.51.6 3 19 764308 20091108180712
+190.37.30.85 0 8 211027 
+190.72.242.7 2 17 720137 20091123010128
+190.74.227.199 0 4 211027 
+190.73.128.102 1 27 352547 20091120114759
+190.77.21.229 0 4 211027 
+201.242.85.139 0 1 27926 
+190.207.200.156 0 4 211027 
+190.206.197.29 0 1 27926 
+190.142.72.106 0 4 211027 
+201.208.36.135 0 4 211027 
+190.204.194.20 0 2 0 
+190.200.55.31 0 1 3754 
+190.77.67.217 0 4 211027 
+200.74.40.33 0 1 76664 
+190.202.159.75 0 4 286659 
+190.142.65.187 0 1 27926 
+190.201.2.193 1 10 258832 20091120163631
+200.75.144.29 0 3 205979 
+190.76.43.95 1 28 511970 20091105192401
+200.41.117.52 0 8 211027 
+190.200.122.198 0 4 211027 
+190.37.247.82 42 260 6196384 20091123131839
+201.211.138.84 16 176 1381867 20091126000124
+201.248.149.120 0 1 3754 
+190.77.251.230 0 4 211027 
+190.39.210.78 6 43 860356 20091124172824
+190.79.2.219 0 4 211027 
+194.196.82.100 0 3 11262 
+190.205.46.22 0 3 59606 
+200.44.218.16 0 1 27926 
+200.90.84.183 0 4 211027 
+190.205.192.15 0 4 211027 
+190.77.197.66 1 25 273060 20091128194117
+200.62.56.42 13 46 1177069 20091119022512
+186.14.20.155 0 1 38172 
+190.76.20.36 1 27 272430 20091130111217
+190.75.51.93 0 4 211027 
+201.211.208.201 3 40 788317 20091124075839
+186.14.51.43 0 1 27926 
+136.2.1.101 0 4 211027 
+190.72.246.3 0 12 211027 
+190.142.145.235 0 4 211027 
+190.52.130.229 0 1 27926 
+190.205.17.191 0 4 211027 
+190.75.91.250 2 17 720137 20091109212257
+190.37.224.64 0 4 211027 
+201.209.235.207 1 24 268570 20091123181220
+186.14.20.154 0 2 35350 
+190.15.168.210 0 4 211027 
+190.38.36.203 0 4 211027 
+190.207.230.173 0 3 27926 
+190.6.152.247 0 1 76664 
+190.38.235.61 0 4 211027 
+190.201.174.200 0 1 3754 
+189.234.149.251 0 2 153328 
+190.75.210.189 0 4 211027 
+190.206.154.11 8 42 1128711 20091107230432
+201.243.73.70 0 4 211027 
+190.200.38.23 1 29 515768 20091127211712
+190.72.17.40 0 4 211027 
+201.246.117.87 0 4 211027 
+190.39.81.224 0 2 31680 
+201.242.17.24 0 4 211027 
+190.75.81.249 0 4 211027 
+201.209.250.111 0 1 38172 
+190.72.72.2 0 1 27926 
+201.248.67.68 0 4 211027 
+201.210.242.78 0 4 211027 
+201.248.195.16 0 4 211027 
+190.39.135.146 0 1 3754 
+190.198.115.167 0 4 211027 
+200.82.229.76 0 4 211027 
+190.76.16.203 0 1 27926 
+201.209.63.114 0 4 63360 
+200.31.149.22 0 1 27926 
+200.35.83.214 0 4 211027 
+190.142.67.154 0 3 219217 
+84.77.152.108 0 26 328379 
+201.249.224.158 0 1 27926 
+201.210.48.138 1 24 300943 20091123125926
+186.14.44.245 0 4 211027 
+201.208.48.123 0 3 205979 
+190.204.185.133 3 18 720137 20091127143317
+200.8.239.41 0 1 27926 
+190.73.121.56 0 1 3754 
+190.121.238.34 0 8 422054 
+190.205.252.165 0 1 27926 
+190.6.1.123 0 1 27926 
+201.208.84.65 0 4 211027 
+201.242.192.94 0 1 27926 
+201.208.33.217 0 4 211027 
+190.39.214.193 0 4 211027 
+190.121.238.36 0 5 238953 
+190.142.188.216 0 4 211027 
+190.73.46.121 0 1 3754 
+190.202.105.33 3 17 1095557 20091130150837
+201.211.29.252 0 4 211027 
+200.109.69.167 0 4 211027 
+200.11.208.55 0 4 211027 
+190.200.99.148 0 4 286659 
+190.206.126.75 0 1 27926 
+190.198.210.74 0 2 31680 
+200.8.108.252 0 1 27926 
+190.77.37.217 0 4 211027 
+190.75.213.211 0 1 27926 
+186.14.108.142 0 4 211027 
+88.27.13.243 0 4 211027 
+206.49.165.29 1 6 267569 20091107061624
+190.73.3.78 0 4 211027 
+190.39.204.159 0 1 27926 
+200.27.58.7 0 4 211027 
+190.204.74.25 0 1 27926 
+190.79.177.50 0 4 211027 
+201.243.74.223 30 155 1505629 20091125125054
+190.36.206.165 0 4 211027 
+201.243.134.211 0 4 211027 
+190.39.40.35 0 2 31680 
+201.243.189.170 0 4 211027 
+190.77.207.15 1 27 352547 20091127193743
+190.201.184.199 1 24 300943 20091123084950
+200.90.64.192 0 1 27926 
+201.243.75.77 0 3 180725 
+190.78.89.225 31 154 493992 20091121165834
+201.191.120.174 0 4 211027 
+190.73.9.4 59 314 2350199 20091108233717
+190.76.64.37 0 4 211027 
+186.80.114.175 0 1 27926 
+190.78.244.70 3 18 720137 20091109121544
+201.243.236.115 0 1 27926 
+200.82.189.110 3 34 908238 20091123190642
+190.76.55.212 0 4 211027 
+200.44.254.143 0 4 211027 
+200.8.141.151 0 4 211027 
+201.210.10.186 0 5 238953 
+190.74.52.187 0 4 211027 
+68.171.235.32 0 4 211027 
+201.209.158.61 0 4 211027 
+190.228.255.92 0 1 27926 
+190.200.148.3 0 1 27926 
+190.76.22.56 5 59 820804 20091123122609
+190.39.100.133 0 1 27926 
+190.169.254.34 3 35 803729 20091119122058
+200.8.236.196 0 4 211027 
+190.142.119.75 0 4 211027 
+190.75.135.165 0 4 211027 
+190.36.134.33 0 4 0 
+200.8.207.250 0 4 211027 
+190.198.204.50 0 4 211027 
+190.205.71.171 2 14 231058 20091103003541
+88.0.161.121 0 4 211027 
+74.125.46.81 0 2 43220 
+81.36.198.21 0 1 27926 
+190.202.158.60 0 4 211027 
+190.75.113.55 4 26 1004276 20091129134441
+190.206.211.35 0 4 211027 
+190.205.220.106 0 4 211027 
+190.207.99.194 0 4 211027 
+190.74.54.157 3 43 795670 20091103145728
+190.142.31.80 0 4 211027 
+190.77.251.36 7 40 1180215 20091101165754
+190.37.67.236 0 1 27926 
+200.109.159.175 0 4 211027 
+200.8.162.187 0 1 27926 
+200.35.107.179 0 3 0 
+200.109.135.195 0 4 211027 
+190.204.38.12 0 4 211027 
+201.208.209.237 3 78 691750 20091130194431
+200.109.45.110 3 22 931161 20091128122927
+190.75.219.117 0 7 383882 
+190.10.171.92 0 4 211027 
+68.171.234.91 0 4 211027 
+190.76.37.122 0 4 211027 
+190.121.239.42 0 1 27926 
+200.25.193.67 0 4 211027 
+200.44.181.244 0 4 211027 
+200.8.108.25 0 1 27926 
+190.198.163.178 0 3 31680 
+190.37.117.82 0 1 3754 
+200.8.137.19 0 1 27926 
+186.24.3.35 0 1 27926 
+190.204.252.105 0 1 3754 
+190.74.166.112 0 4 211027 
+190.200.44.14 0 4 211027 
+190.205.96.93 5 35 839550 20091108104413
+190.37.31.23 0 4 211027 
+201.211.92.8 0 4 211027 
+201.208.20.118 0 4 211027 
+200.109.174.16 0 36 1899243 
+190.73.213.179 0 1 27926 
+190.78.82.149 0 1 3754 
+190.205.221.223 0 4 211027 
+190.75.173.193 0 4 211027 
+201.234.73.58 0 4 211027 
+201.248.8.68 0 4 211027 
+201.211.250.91 0 4 211027 
+190.78.169.31 0 3 73522 
+190.153.0.224 0 4 211027 
+190.203.41.74 2 18 723454 20091103192222
+200.11.208.122 12 78 2784445 20091128143923
+190.205.169.23 0 4 211027 
+190.200.78.202 0 4 211027 
+200.44.207.29 0 4 211027 
+206.53.147.94 2 2 83296 20091129134520
+190.207.158.94 0 4 211027 
+186.24.20.1 7 161 4293453 20091122172133
+200.8.141.187 0 4 211027 
+190.78.228.154 0 4 211027 
+200.25.254.118 0 1 27926 
+190.203.73.144 7 38 862976 20091109070644
+190.198.126.82 0 4 211027 
+190.73.80.112 0 4 211027 
+190.79.150.104 0 4 211027 
+186.28.55.117 0 2 31680 
+190.76.58.237 6 51 1440540 20091119102018
+64.255.180.50 0 4 211027 
+190.76.1.31 14 42 964773 20091120044313
+200.44.193.193 0 4 211027 
+200.44.248.165 0 1 27926 
+190.203.212.147 0 1 27926 
+201.208.74.222 0 4 211027 
+201.249.126.208 0 4 211027 
+190.79.173.77 0 4 211027 
+190.73.54.215 0 4 211027 
+190.73.0.128 0 1 27926 
+190.201.84.227 13 153 1031883 20091122155112
+186.9.86.136 0 1 76664 
+200.82.242.16 0 1 27926 
+190.142.85.49 0 4 211027 
+190.216.246.201 0 4 211027 
+190.200.149.124 3 19 723436 20091103201708
+201.211.83.5 0 4 211027 
+201.210.253.165 0 1 5048 
+190.73.169.236 2 17 720134 20091128113447
+201.209.222.35 0 2 31680 
+190.77.36.207 0 3 11262 
+200.82.249.239 0 1 3754 
+190.203.137.213 0 1 27926 
+98.211.165.248 1 26 449326 20091105175634
+200.84.32.114 0 4 211027 
+200.84.98.154 0 4 211027 
+201.208.112.169 0 4 211027 
+66.249.65.139 2 2 78524 20091106222701
+190.199.56.75 0 4 211027 
+200.90.80.149 0 1 3754 
+190.198.209.132 4 69 846876 20091109090822
+200.109.9.144 17 214 1744623 20091125181522
+190.142.88.152 2 17 720137 20091126215552
+207.211.82.34 2 18 171388 20091125122436
+190.39.55.3 0 4 211027 
+190.198.80.217 0 4 211027 
+190.198.191.64 0 1 3754 
+190.121.238.40 0 4 286659 
+190.206.118.149 0 4 211027 
+190.75.32.90 2 17 720137 20091121103259
+190.38.36.197 0 4 211027 
+190.76.106.96 0 4 211027 
+190.38.186.188 0 4 211027 
+201.242.101.216 4 37 833660 20091101131009
+190.38.49.56 3 33 794528 20091127045924
+190.36.177.28 0 4 211027 
+190.77.228.20 0 4 211027 
+200.75.106.112 0 1 27926 
+190.201.249.235 0 4 211027 
+190.204.193.176 0 2 0 
+190.198.118.75 0 4 211027 
+200.11.182.69 0 1 3754 
+190.205.22.17 0 4 211027 
+190.74.200.143 0 4 211027 
+190.73.142.147 0 1 38172 
+200.71.243.4 0 6 15989 
+190.72.128.220 0 4 211027 
+208.80.193.29 1 1 39262 20091126112908
+190.72.133.234 0 4 211027 
+190.78.247.234 6 38 862551 20091108214421
+190.201.160.110 0 1 3754 
+190.3.219.39 0 1 27926 
+190.201.153.173 0 4 211027 
+190.206.157.70 0 8 422054 
+201.211.47.12 0 4 211027 
+190.200.92.22 0 4 211027 
+201.248.71.90 0 1 27926 
+200.109.171.150 5 35 507365 20091103221501
+190.72.74.225 0 4 286659 
+201.209.28.186 0 4 211027 
+201.210.142.197 0 4 211027 
+186.14.7.145 0 4 211027 
+159.90.80.100 3 18 720137 20091123172821
+190.200.45.99 0 3 219217 
+190.73.184.70 0 4 211027 
+190.169.254.51 1 25 271933 20091119105042
+200.8.149.160 0 4 211027 
+201.210.220.133 0 1 3754 
+190.76.88.145 3 23 197343 20091121053618
+200.84.45.56 0 4 211027 
+190.206.114.64 0 4 211027 
+201.248.159.175 1 29 447816 20091127082537
+200.90.110.127 3 19 723500 20091109225108
+200.8.251.81 2 46 385925 20091101115606
+201.210.139.187 9 65 1660048 20091102000016
+201.210.252.228 0 4 211027 
+201.209.233.240 0 8 211027 
+200.84.40.74 0 4 211027 
+190.72.186.208 0 17 134228 
+201.248.144.8 0 1 3754 
+186.14.238.218 0 4 211027 
+190.74.227.254 0 1 27926 
+190.39.177.223 0 1 27926 
+190.73.241.43 0 2 31680 
+200.109.171.64 0 4 211027 
+200.8.241.43 0 4 286659 
+190.205.27.150 0 4 211027 
+190.37.248.58 0 1 27926 
+200.84.11.171 0 1 3754 
+190.36.227.155 0 4 211027 
+190.36.207.163 0 1 27926 
+69.63.180.250 0 1 76664 
+190.72.164.127 0 4 211027 
+200.82.161.103 12 46 1365250 20091122220027
+190.207.152.183 0 1 30302 
+190.72.161.87 0 1 27926 
+201.243.61.5 0 4 211027 
+201.210.168.148 0 2 3754 
+201.243.139.108 1 6 223830 20091103102230
+190.202.135.74 0 4 211027 
+201.208.125.22 0 1 3754 
+200.82.134.166 0 4 211027 
+190.77.20.243 0 4 211027 
+190.142.188.188 28 110 2093631 20091127115744
+190.204.229.158 0 1 27926 
+190.39.133.104 0 1 27926 
+190.15.168.132 3 44 827594 20091102051142
+190.78.146.114 2 17 720137 20091108092020
+94.113.46.124 0 1 27926 
+190.200.130.247 11 47 935272 20091103092808
+201.210.143.118 0 2 55852 
+190.37.208.178 0 4 211027 
+200.84.199.6 0 1 27926 
+190.78.35.86 0 4 211027 
+190.200.215.149 0 4 211027 
+190.79.59.154 0 4 211027 
+190.232.222.27 0 4 211027 
+190.204.155.204 0 4 211027 
+190.76.127.206 0 4 211027 
+201.211.158.75 0 4 211027 
+200.8.105.117 0 4 63360 
+200.8.140.97 0 1 3754 
+190.142.203.18 0 4 211027 
+190.204.203.238 0 19 0 
+200.109.43.42 0 1 27926 
+200.44.158.42 0 4 211027 
+200.44.150.149 4 34 1177574 20091103152805
+190.201.241.150 1 27 440385 20091102203619
+201.208.138.87 0 4 286659 
+190.142.167.7 0 4 211027 
+200.8.35.66 0 1 3754 
+201.208.137.86 1 29 515724 20091104004932
+190.78.91.151 11 17 161610 20091122170549
+190.75.253.211 7 41 1197414 20091101185710
+200.84.150.162 0 1 27926 
+190.72.213.61 0 4 211027 
+200.84.14.29 0 4 211027 
+190.73.8.232 0 3 59606 
+190.206.158.58 0 4 211027 
+76.185.67.2 0 2 31680 
+190.76.44.172 0 4 211027 
+190.75.111.30 0 4 211027 
+200.109.81.51 0 4 233905 
+200.35.89.252 0 4 211027 
+200.90.87.78 0 4 211027 
+72.14.193.1 0 4 211027 
+201.242.252.53 4 28 39433 20091118184034
+190.199.118.237 0 1 27926 
+200.82.233.87 0 4 211027 
+201.249.74.71 0 1 137505 
+200.8.190.177 0 4 211027 
+201.209.144.15 0 1 27926 
+83.63.147.149 0 4 211027 
+190.206.85.138 0 4 211027 
+190.74.16.182 0 4 211027 
+201.243.86.94 0 4 286659 
+200.71.146.62 0 1 27926 
+190.142.69.165 4 52 1258266 20091128125900
+190.79.252.203 0 4 211027 
+200.109.133.226 0 4 211027 
+190.78.215.154 0 4 211027 
+200.44.146.90 0 2 31680 
+150.185.160.11 9 39 962531 20091125171936
+190.20.53.37 0 1 27926 
+190.77.124.134 0 4 211027 
+190.205.68.108 0 4 211027 
+190.36.36.38 0 1 3754 
+190.73.242.93 0 1 27926 
+201.243.97.225 0 1 27926 
+186.14.139.84 0 4 211027 
+190.206.79.221 2 20 729568 20091107141728
+190.142.201.187 0 4 211027 
+200.84.41.49 0 4 211027 
+190.200.189.199 0 2 31680 
+190.142.67.26 29 154 2037797 20091129104729
+200.84.78.176 2 17 720137 20091101071212
+201.209.229.180 0 8 422054 
+190.72.24.102 0 4 211027 
+200.8.1.199 0 4 211027 
+190.205.198.98 0 4 211027 
+200.109.38.90 1 27 352547 20091102094451
+186.9.163.210 0 1 76664 
+190.12.158.84 0 4 211027 
+190.201.40.182 0 2 27926 
+190.200.130.113 18 83 1906858 20091105155148
+190.77.41.48 0 1 27926 
+200.26.163.236 0 2 31680 
+190.72.197.217 0 4 211027 
+190.201.207.63 0 4 211027 
+190.37.78.247 0 1 27926 
+200.93.114.179 0 2 55852 
+190.39.147.97 0 4 286659 
+200.84.74.244 0 4 211027 
+208.80.193.32 1 1 39259 20091128120608
+190.121.238.33 0 1 27926 
+201.208.3.16 2 39 564758 20091121123654
+190.72.237.74 31 286 4276879 20091127154237
+190.198.81.139 0 1 27926 
+200.125.187.196 0 4 211027 
+201.209.65.155 0 1 137505 
+190.77.17.138 0 4 211027 
+190.200.250.118 0 4 211027 
+190.200.92.235 0 4 211027 
+201.209.18.66 0 4 211027 
+190.73.172.249 0 1 3754 
+190.38.225.72 0 3 172855 
+190.39.91.245 0 1 27926 
+201.208.233.116 2 17 720137 20091109162515
+190.199.115.49 4 35 900344 20091119145241
+190.73.165.225 0 4 211027 
+207.211.82.33 1 3 17900 20091130161655
+190.75.71.164 0 4 211027 
+208.80.193.38 1 1 39262 20091122093857
+190.72.188.189 0 2 31680 
+190.206.119.29 50 235 3663166 20091130172521
+200.52.196.1 0 1 27926 
+201.242.196.117 0 4 211027 
+190.74.45.240 19 50 1090639 20091129180318
+190.75.172.168 0 1 137505 
+201.248.101.95 0 4 211027 
+200.82.173.75 2 27 345875 20091121164242
+151.32.89.234 0 3 219217 
+186.14.22.171 0 4 211027 
+174.129.144.222 1 1 39259 20091130175258
+206.49.165.26 0 10 449980 
+201.248.6.221 0 4 211027 
+186.40.18.205 0 1 76664 
+201.242.75.6 18 85 1816169 20091121131741
+201.208.117.242 9 45 1328793 20091101153508
+200.44.14.49 0 2 142553 
+190.37.41.167 0 4 211027 
+190.72.24.175 0 8 211027 
+200.35.93.171 1 27 352547 20091106145353
+190.201.2.242 0 1 3754 
+190.79.156.194 0 4 211027 
+190.76.70.164 1 5 250289 20091109113723
+201.209.73.29 0 4 211027 
+190.73.10.114 0 4 211027 
+186.14.57.42 0 8 211027 
+201.242.109.55 8 116 975286 20091122204426
+200.84.72.161 2 18 723500 20091104095934
+190.15.164.176 0 4 211027 
+200.84.126.125 0 4 211027 
+190.203.78.98 0 4 211027 
+201.210.220.190 0 1 27926 
+190.198.34.16 0 1 27926 
+190.77.20.202 0 4 211027 
+190.75.240.24 0 4 211027 
+190.77.53.71 0 4 211027 
+190.199.138.209 0 1 27926 
+190.75.204.244 0 4 211027 
+190.76.37.82 0 4 0 
+190.207.252.154 0 4 211027 
+196.40.24.52 0 1 27926 
+190.75.209.95 0 4 211027 
+201.248.19.98 0 1 3754 
+64.116.128.202 0 2 55852 
+190.60.41.150 14 50 1260523 20091121104417
+201.242.56.68 0 1 3754 
+190.200.131.29 29 94 1731798 20091102161319
+190.203.73.119 0 1 27926 
+190.205.200.46 0 1 27926 
+201.243.83.53 9 85 1206315 20091124225040
+200.11.193.250 7 66 1752311 20091123112609
+190.76.106.48 1 27 352547 20091130033650
+190.202.84.82 0 4 211027 
+190.205.183.19 0 4 211027 
+190.204.50.106 0 4 211027 
+201.208.182.10 0 4 211027 
+190.73.168.158 0 1 3754 
+190.75.77.235 8 74 1470233 20091105213353
+200.82.147.126 0 4 211027 
+161.196.249.91 0 1 27926 
+186.14.5.70 0 1 3754 
+190.207.232.126 1 27 352547 20091101200202
+201.208.32.109 1 25 273060 20091125190027
+190.248.12.116 0 1 27926 
+190.199.251.158 0 1 27926 
+186.24.19.1 14 152 4450181 20091129143436
+190.78.83.231 0 4 211027 
+190.205.223.131 0 4 211027 
+190.198.81.8 0 4 211027 
+201.243.122.118 1 24 300987 20091127221637
+190.206.110.78 0 4 211027 
+190.36.57.189 0 4 63360 
+190.78.80.157 0 1 27926 
+201.208.139.19 0 2 55852 
+190.77.183.125 3 25 963472 20091120203150
+186.14.20.237 0 1 137505 
+201.209.197.214 0 4 211027 
+201.210.169.11 0 4 211027 
+200.35.81.105 0 4 211027 
+190.38.191.31 1 25 271933 20091109161912
+190.202.84.143 0 4 211027 
+190.38.85.225 0 4 211027 
+201.209.106.223 0 4 211027 
+190.73.166.119 0 4 211027 
+201.211.230.211 13 69 608098 20091126145321
+190.39.251.245 0 4 211027 
+201.249.134.89 0 4 211027 
+190.72.70.219 0 1 27926 
+201.211.52.241 0 4 211027 
+190.37.163.106 0 4 211027 
+186.14.105.240 0 4 211027 
+201.248.69.133 0 1 27926 
+190.201.14.101 0 1 27926 
+190.204.100.189 0 4 211027 
+190.200.0.231 2 17 720137 20091126204923
+201.211.52.232 0 8 573318 
+200.8.180.245 14 57 1588210 20091121091619
+190.78.217.163 0 4 211027 
+201.242.121.217 0 4 211027 
+190.142.28.96 0 4 286659 
+190.204.85.188 5 33 845907 20091126000425
+201.248.218.30 0 4 211027 
+190.121.238.39 0 4 211027 
+190.202.147.135 0 8 211027 
+190.200.118.162 0 1 3754 
+190.77.112.23 0 1 27926 
+200.74.196.82 0 4 211027 
+69.63.182.122 0 5 228385 
+190.205.217.33 0 4 211027 
+201.209.66.198 0 1 3754 
+190.205.34.105 0 4 211027 
+201.243.175.82 0 1 3754 
+190.74.16.222 0 2 153494 
+190.142.207.133 4 33 708891 20091101105944
+69.63.181.251 0 20 1090151 
+190.74.21.93 0 4 211027 
+190.205.123.22 1 27 483457 20091125220015
+201.211.210.60 0 1 27926 
+186.14.73.231 1 27 352547 20091130115113
+190.201.161.210 0 4 211027 
+201.249.83.102 5 93 859314 20091130112334
+190.39.243.133 1 15 312195 20091129122059
+190.39.96.33 0 1 3754 
+190.201.39.53 0 4 211027 
+190.41.72.46 0 1 27926 
+190.203.72.98 0 4 211027 
+190.73.8.71 0 4 211027 
+190.203.7.21 0 4 211027 
+190.76.76.227 0 8 211027 
+190.74.212.232 0 4 211027 
+201.243.0.59 2 13 594757 20091123194945
+208.90.239.210 3 3 117786 20091125074206
+190.206.43.52 0 4 211027 
+190.79.23.235 3 18 759399 20091119150203
+200.84.136.218 0 8 422054 
+190.201.117.140 12 48 1041878 20091104190629
+70.36.100.66 6 12 251676 20091126085402
+190.142.184.10 0 1 27926 
+190.74.231.53 0 4 211027 
+190.201.122.190 14 99 897747 20091105194412
+190.76.36.189 0 4 211027 
+190.74.105.142 0 1 27926 
+190.75.211.176 0 4 211027 
+190.37.174.242 0 4 211027 
+190.142.65.71 0 4 211027 
+190.200.189.49 6 35 786359 20091120091449
+190.37.246.104 0 4 211027 
+201.210.203.162 0 1 27926 
+190.152.109.108 0 1 76664 
+201.210.102.245 4 33 794147 20091102212950
+190.198.42.44 6 32 733661 20091125131743
+200.8.79.249 0 4 211027 
+190.207.66.105 0 4 211027 
+190.78.21.175 0 4 211027 
+150.186.36.121 1 27 352547 20091127110504
+190.198.26.108 1 15 312195 20091128105930
+190.77.47.53 3 18 720137 20091119150114
+200.84.141.152 0 3 11262 
+190.201.168.9 26 158 2105519 20091127132820
+190.37.0.100 0 9 422054 
+190.36.132.140 0 1 27926 
+69.63.178.246 3 5 149623 20091130221404
+190.67.62.195 0 1 27926 
+190.37.155.115 0 1 27926 
+190.205.17.199 0 4 211027 
+190.79.105.21 0 4 211027 
+190.79.195.210 0 4 211027 
+201.211.95.204 0 1 27926 
+200.8.227.14 0 4 211027 
+190.74.45.107 0 2 153494 
+190.201.243.92 4 37 630375 20091105145457
+190.72.164.45 0 1 27926 
+190.37.207.176 0 4 0 
+201.209.44.160 0 4 211027 
+190.203.83.212 0 4 211027 
+190.203.242.147 0 4 211027 
+190.39.99.36 0 4 211027 
+200.26.217.31 0 1 27926 
+190.121.238.41 1 1 39262 20091109120734
+190.77.188.185 0 4 211027 
+190.36.190.126 0 7 383882 
+200.93.36.215 0 16 844108 
+200.1.171.137 12 118 3111211 20091109011730
+201.248.45.81 0 1 27926 
+190.201.226.224 0 4 211027 
+201.211.221.168 0 4 211027 
+200.26.163.129 0 4 211027 
+201.208.108.32 3 52 577814 20091105215226
+190.201.175.62 0 2 55852 
+200.90.67.249 4 32 572754 20091123042338
+200.44.28.168 0 2 31680 
+190.74.0.41 4 68 835118 20091118203850
+190.79.199.33 0 4 211027 
+190.201.25.41 0 4 211027 
+190.38.151.79 1 28 281976 20091125062704
+190.79.23.73 0 4 211027 
+190.202.81.194 0 4 211027 
+190.39.179.136 0 4 211027 
+190.142.247.37 4 74 1132902 20091108013359
+190.72.211.225 0 1 27926 
+190.36.212.240 0 4 211027 
+200.35.220.206 0 4 211027 
+190.38.183.62 0 4 211027 
+190.37.34.240 0 5 238953 
+201.209.185.129 0 2 55852 
+190.200.158.198 0 1 27926 
+201.208.167.30 0 4 211027 
+190.204.183.206 0 1 27926 
+200.8.221.106 1 31 563574 20091123120734
+190.169.254.93 4 68 842292 20091123114430
+201.248.195.234 0 4 211027 
+201.243.244.154 0 4 211027 
+190.78.77.214 4 28 40410 20091127195137
+190.38.134.37 0 4 211027 
+190.78.49.86 1 27 352547 20091130152325
+190.164.120.155 0 1 76664 
+190.199.12.225 0 1 27926 
+190.142.54.161 0 3 172855 
+190.204.202.42 0 4 211027 
+190.82.212.244 0 1 76664 
+190.142.201.204 0 1 27926 
+190.76.34.199 0 1 27926 
+200.26.166.112 9 119 1064391 20091101134539
+190.77.240.174 0 4 211027 
+186.24.22.1 18 173 4667668 20091118225010
+190.198.156.33 0 4 211027 
+200.82.242.62 0 1 38172 
+190.79.56.154 0 1 27926 
+206.113.193.50 1 1 39262 20091123082938
+190.38.225.13 0 1 3754 
+201.209.76.45 0 4 211027 
+201.243.189.204 0 4 211027 
+190.74.75.196 0 1 27926 
+200.82.220.91 0 1 3754 
+190.199.64.201 0 4 211027 
+200.8.93.36 0 1 27926 
+190.74.56.6 0 2 31680 
+201.209.204.142 0 5 214781 
+190.37.170.104 0 4 211027 
+190.203.113.77 0 4 211027 
+190.76.89.173 0 4 211027 
+200.44.227.207 0 1 3754 
+200.35.87.163 0 1 27926 
+200.3.1.8 0 4 211027 
+190.204.34.43 0 2 27926 
+206.49.165.171 0 4 211027 
+190.60.46.234 0 4 211027 
+201.210.113.244 18 94 1693155 20091108143314
+201.114.217.166 0 1 76664 
+190.121.239.35 1 12 292785 20091124172648
+190.75.200.171 0 4 211027 
+200.84.33.20 0 1 27926 
+200.8.240.189 0 4 211027 
+190.199.159.127 0 4 211027 
+190.199.244.243 0 2 27926 
+201.209.145.227 0 4 211027 
+190.76.98.136 4 34 381227 20091127221723
+190.153.0.112 0 4 211027 
+190.72.121.170 0 4 286659 
+190.78.81.34 33 97 168060 20091119210546
+201.209.228.175 5 56 1710335 20091102182726
+201.242.248.84 0 1 27926 
+190.202.83.185 0 1 3754 
+190.78.243.81 0 4 211027 
+190.201.201.25 0 4 211027 
+95.61.197.75 0 1 27926 
+190.206.255.190 0 1 3754 
+190.207.26.27 5 80 864142 20091123155321
+201.211.253.123 0 4 211027 
+186.14.58.124 0 4 211027 
+190.36.228.3 0 1 30302 
+200.35.77.219 0 4 211027 
+186.24.18.1 9 173 5835478 20091129164549
+200.11.182.171 0 4 211027 
+190.38.145.38 0 3 35434 
+200.84.198.248 0 4 211027 
+190.199.107.191 3 44 900341 20091129221534
+201.242.218.199 0 1 3754 
+192.44.136.103 0 4 211027 
+200.93.34.136 2 17 720137 20091126142631
+190.204.117.153 0 4 211027 
+190.37.17.136 2 14 574664 20091118213612
+201.248.224.51 0 4 211027 
+190.76.16.138 1 26 276814 20091108201848
+200.84.47.107 0 3 172855 
+190.75.81.104 0 4 211027 
+190.76.69.255 6 24 764797 20091104194951
+190.74.33.34 1 27 352547 20091120160513
+190.199.128.98 0 1 27926 
+200.44.181.250 0 1 27926 
+190.206.127.223 0 1 137505 
+206.228.220.37 6 39 1090615 20091126130411
+69.63.180.251 0 5 313239 
+201.243.160.44 0 4 211027 
+190.200.87.194 0 4 211027 
+201.242.80.53 0 4 211027 
+190.77.83.150 0 4 211027 
+190.77.252.135 0 4 211027 
+190.79.4.183 2 25 311410 20091101200258
+190.77.89.36 0 8 211027 
+190.200.66.171 0 1 27926 
+190.203.118.131 0 4 211027 
+201.242.105.51 0 4 211027 
+190.76.91.179 0 1 27926 
+187.143.4.185 0 1 27926 
+190.77.148.180 0 4 211027 
+190.74.125.202 8 68 1499440 20091127100747
+190.76.27.194 0 4 211027 
+190.142.206.9 0 4 211027 
+190.39.47.246 0 7 74622 
+200.90.18.114 1 24 300943 20091123173646
+190.73.13.195 0 4 211027 
+190.78.218.30 0 1 3754 
+190.37.71.113 0 1 3754 
+190.121.239.43 0 4 211027 
+200.82.161.37 0 2 31680 
+79.146.4.218 0 4 211027 
+190.36.146.116 5 24 22918 20091127185858
+190.200.241.115 0 4 211027 
+201.242.105.89 0 4 211027 
+200.62.18.106 3 18 720137 20091126161104
+201.242.24.147 5 84 993560 20091102120704
+190.142.173.74 0 4 211027 
+67.202.60.246 1 1 39262 20091123083153
+200.35.81.91 0 4 211027 
+208.80.193.42 3 3 117780 20091130124501
+186.14.229.174 0 4 211027 
+190.206.248.144 0 4 211027 
+190.207.99.234 0 1 27926 
+201.205.22.18 0 4 211027 
+190.206.209.9 0 1 3754 
+200.82.175.83 13 31 851591 20091109164020
+190.36.133.65 0 4 211027 
+190.73.111.200 0 1 3754 
+201.210.237.169 0 4 211027 
+190.203.35.65 0 4 211027 
+190.76.82.45 0 1 27926 
+201.242.242.14 1 24 300943 20091104094405
+200.71.243.3 16 174 1741114 20091121145802
+200.44.56.146 0 4 211027 
+79.149.132.89 0 1 27926 
+186.14.20.243 7 46 1072555 20091129195740
+201.209.234.23 1 26 275170 20091108230733
+200.8.238.226 0 1 27926 
+190.206.205.128 0 4 211027 
+200.109.70.4 0 4 211027 
+190.72.78.95 0 4 211027 
+190.38.188.95 0 4 211027 
+201.242.219.146 0 1 27926 
+190.76.10.231 0 1 3754 
+201.210.189.142 0 4 211027 
+201.248.89.249 0 1 27926 
+190.38.63.102 0 4 211027 
+201.243.32.184 0 1 27926 
+190.4.28.188 3 20 726817 20091119221041
+190.200.218.184 0 4 211027 
+190.78.147.74 0 4 211027 
+190.202.86.7 0 8 422054 
+190.204.71.97 10 51 1166398 20091130233326
+200.44.148.66 0 1 27926 
+200.11.202.50 0 8 422054 
+201.210.170.132 0 1 27926 
+190.142.10.177 0 1 27926 
+190.38.167.52 0 4 211027 
+190.72.215.135 0 4 286659 
+190.199.141.54 0 7 424876 
+200.8.7.11 2 17 378928 20091108154759
+190.198.205.127 3 25 940717 20091103065654
+190.76.66.244 0 2 31680 
+190.198.212.208 0 4 211027 
+190.121.239.39 4 39 626207 20091119203621
+190.75.111.178 8 70 1225390 20091122230503
+190.216.248.250 45 259 6077497 20091130085300
+190.77.188.59 0 4 211027 
+201.210.100.229 0 4 211027 
+163.186.20.225 0 4 211027 
+190.75.83.36 3 23 737851 20091123202519
+190.72.243.253 0 4 211027 
+190.199.147.155 0 4 211027 
+190.203.170.118 0 4 211027 
+201.243.125.181 0 4 211027 
+201.242.7.224 0 3 35434 
+201.243.29.122 0 4 211027 
+190.200.241.94 27 45 309982 20091130225630
+201.243.48.194 0 4 211027 
+190.202.244.65 0 4 211027 
+190.203.239.103 0 4 211027 
+201.211.230.129 0 1 27926 
+200.82.205.247 2 54 705094 20091108205929
+190.39.32.237 0 4 211027 
+190.78.9.199 0 4 211027 
+201.209.103.122 0 4 211027 
+190.79.27.215 0 4 211027 
+190.157.140.165 2 17 720137 20091123111803
+190.60.40.26 48 188 1882936 20091105115338
+200.23.91.240 0 2 142553 
+190.142.107.176 0 4 211027 
+190.203.135.21 0 5 241329 
+190.142.12.244 0 4 211027 
+128.58.70.33 0 8 211027 
+186.24.16.1 28 196 5110237 20091125205647
+190.199.131.199 0 4 211027 
+201.242.190.75 0 1 27926 
+190.207.254.121 0 4 211027 
+190.206.239.141 0 4 211027 
+201.248.14.169 3 52 702472 20091103153734
+200.25.197.97 0 1 27926 
+190.206.77.11 0 4 211027 
+190.74.203.229 0 4 211027 
+190.200.122.151 0 4 211027 
+190.77.125.35 5 48 1040764 20091123204117
+190.74.147.107 10 120 981974 20091109023630
+201.243.190.22 0 18 308264 
+201.243.101.14 0 1 3754 
+201.243.235.191 0 4 211027 
+200.90.20.122 2 19 751483 20091108095617
+190.77.53.201 0 1 3754 
+201.208.113.200 0 4 211027 
+190.200.93.56 0 4 211027 
+200.8.24.211 3 18 720137 20091123161935
+190.36.133.58 0 4 211027 
+200.35.74.132 0 2 68474 
+190.79.18.106 1 25 273060 20091122210830
+200.8.161.148 1 31 563574 20091104125241
+190.79.17.208 2 28 352547 20091129202310
+190.77.69.29 0 4 211027 
+87.220.48.65 0 1 27926 
+190.169.254.65 4 34 1440274 20091105104647
+200.26.167.143 0 1 3754 
+72.44.63.96 1 1 39262 20091124030209
+190.36.168.14 0 4 211027 
+190.205.175.137 0 4 211027 
+201.243.103.138 54 295 4312214 20091124105240
+190.78.216.148 5 79 683721 20091130235611
+190.79.2.18 0 1 27926 
+190.202.106.98 0 4 211027 
+190.206.142.26 0 2 55852 
+190.229.239.154 0 1 76664 
+200.44.213.245 0 4 211027 
+200.35.64.106 0 4 211027 
+190.206.43.76 1 24 300943 20091102141355
+190.73.96.232 0 4 211027 
+190.204.34.9 0 1 27926 
+190.77.69.180 0 3 59606 
+190.75.124.28 0 4 286659 
+200.44.50.43 0 4 211027 
+190.36.117.233 0 1 27926 
+200.82.172.75 4 69 794369 20091124205153
+190.142.0.148 0 1 27926 
+190.21.37.210 0 1 76664 
+190.75.46.193 0 4 211027 
+190.76.131.24 0 4 211027 
+190.205.91.160 0 4 211027 
+190.198.228.116 0 4 211027 
+190.77.138.16 0 1 27926 
+190.204.35.173 0 1 27926 
+200.109.3.12 0 4 211027 
+200.82.204.141 0 4 211027 
+201.243.72.5 0 4 211027 
+190.142.72.248 2 26 287016 20091123195255
+190.39.97.108 0 4 211027 
+186.14.78.186 0 4 211027 
+64.209.104.194 15 68 1885894 20091124102153
+161.196.38.3 1 35 774601 20091103091002
+201.248.157.21 0 4 211027 
+190.39.4.83 0 4 211027 
+190.15.171.203 1 26 276297 20091106141607
+201.243.70.194 0 4 211027 
+200.8.45.179 0 1 3754 
+190.203.87.245 9 40 856743 20091125181109
+190.205.120.236 0 1 3754 
+190.76.68.156 0 4 211027 
+201.210.112.132 0 4 211027 
+200.93.63.170 0 4 211027 
+201.208.167.97 0 4 211027 
+190.79.107.250 0 4 211027 
+190.38.180.223 0 4 211027 
+64.255.180.35 0 6 46696 
+190.88.53.230 0 1 27926 
+190.79.67.165 0 1 27926 
+190.142.105.54 0 1 27926 
+201.209.230.181 0 8 211027 
+201.243.82.248 0 4 211027 
+190.75.240.87 0 4 211027 
+190.77.155.144 0 1 3754 
+190.142.159.126 0 2 167807 
+201.248.236.237 6 48 1328843 20091127155556
+190.73.170.74 0 4 211027 
+190.161.97.96 0 1 76664 
+200.35.88.52 0 3 172855 
+190.77.150.35 3 18 720137 20091101232638
+186.83.111.151 1 27 304687 20091103152050
+190.75.161.113 0 1 27926 
+190.77.230.180 0 13 211027 
+201.211.226.128 0 4 211027 
+190.200.141.23 0 1 27926 
+190.206.209.121 3 20 726595 20091124144732
+201.243.0.164 0 8 360181 
+201.242.179.253 0 1 27926 
+201.242.102.98 4 34 859243 20091123234200
+190.72.27.224 0 1 27926 
+200.109.136.96 0 4 211027 
+190.200.100.181 5 45 1046496 20091123220608
+207.117.33.135 0 8 422054 
+190.198.168.93 0 4 211027 
+201.243.136.133 2 29 447776 20091130201741
+190.205.44.101 0 1 3754 
+200.109.249.138 3 35 1036302 20091124142928
+190.79.173.130 0 1 27926 
+190.204.9.158 0 4 211027 
+190.76.84.101 0 1 27926 
+190.198.155.103 0 4 211027 
+67.207.139.210 1 1 39262 20091108063341
+190.203.90.110 23 41 946686 20091119121644
+200.8.149.32 0 4 211027 
+190.72.41.187 0 4 211027 
+190.200.240.247 0 8 211027 
+68.171.233.143 8 8 322033 20091124114515
+190.78.140.13 0 4 211027 
+190.203.41.32 0 4 211027 
+201.208.94.105 0 4 211027 
+200.84.218.197 3 32 424288 20091126080016
+190.199.22.250 0 4 211027 
+190.202.83.49 0 4 211027 
+190.76.111.255 0 5 238953 
+190.204.183.249 0 4 211027 
+190.200.177.42 0 8 211027 
+201.248.3.214 0 4 211027 
+201.211.46.74 0 1 3754 
+190.142.167.165 0 4 211027 
+70.36.100.146 2 4 83892 20091107001636
+190.73.45.85 0 4 211027 
+201.210.27.201 0 1 27926 
+200.35.84.205 1 7 263880 20091101083015
+201.208.48.108 21 235 2169031 20091122205108
+190.142.171.39 0 4 211027 
+190.205.240.43 0 2 68474 
+190.39.166.228 0 4 211027 
+190.76.105.8 0 4 211027 
+190.142.163.161 0 4 211027 
+200.41.51.98 0 4 211027 
+190.198.33.25 0 4 211027 
+190.201.30.1 0 4 211027 
+190.79.30.246 0 4 211027 
+190.200.129.113 12 50 884744 20091127082301
+200.8.151.130 0 4 211027 
+190.203.170.187 0 4 211027 
+201.210.5.31 0 4 211027 
+190.205.21.184 0 4 211027 
+201.248.226.87 0 4 211027 
+190.203.215.241 0 4 211027 
+190.74.28.240 0 4 211027 
+190.72.76.67 0 1 27926 
+190.36.255.215 4 56 634966 20091124221553
+190.38.145.245 2 17 720137 20091105101553
+190.39.248.7 0 1 3754 
+190.182.119.129 0 4 211027 
+201.248.63.80 0 1 27926 
+190.38.230.59 0 6 70868 
+190.201.131.79 0 4 211027 
+190.198.200.159 0 4 211027 
+200.35.236.117 51 567 6152841 20091130181559
+201.228.208.9 0 1 27926 
+190.38.158.83 0 4 211027 
+190.36.57.200 0 2 31680 
+190.72.86.122 0 4 211027 
+200.35.205.175 0 4 211027 
+81.170.208.83 1 1 39262 20091123085155
+201.210.189.115 1 27 352547 20091109111248
+189.189.60.23 0 1 27926 
+190.39.208.86 1 33 447469 20091125203202
+171.69.50.51 1 1 39262 20091104021916
+190.207.171.152 0 4 211027 
+190.73.168.207 0 3 35434 
+201.243.188.224 0 2 31680 
+201.210.103.184 2 17 720137 20091125082105
+201.209.226.232 0 4 211027 
+201.211.210.192 0 8 211027 
+190.74.31.132 0 1 27926 
+200.35.75.93 6 34 832860 20091102083944
+190.37.171.91 0 1 3754 
+190.207.49.105 0 4 211027 
+190.201.36.76 3 19 723891 20091119143702
+190.142.58.207 0 1 27926 
+200.11.210.90 0 4 211027 
+190.76.65.103 0 4 211027 
+201.243.98.60 0 4 211027 
+201.210.5.131 6 55 1607937 20091109191320
+190.200.248.42 0 2 153494 
+200.93.126.218 0 4 211027 
+190.78.204.131 0 4 211027 
+190.199.225.49 0 4 211027 
+190.207.236.75 0 4 211027 
+190.73.85.158 0 5 18770 
+190.72.7.95 0 1 27926 
+201.248.13.88 5 35 910525 20091104213837
+190.52.142.12 0 1 27926 
+190.15.168.228 0 4 211027 
+190.142.149.220 3 19 723500 20091109114339
+190.201.137.180 0 1 27926 
+200.90.87.93 0 7 39188 
+200.109.84.48 0 4 211027 
+190.206.127.179 1 25 300943 20091103114616
+69.63.180.248 0 5 313239 
+190.205.241.77 0 1 38172 
+190.204.146.93 2 21 931164 20091125163110
+190.204.121.199 0 4 211027 
+190.198.33.160 0 4 211027 
+201.242.80.249 0 4 211027 
+190.77.229.131 0 1 27926 
+190.39.92.167 0 4 211027 
+190.78.92.52 1 25 270528 20091127152652
+190.74.42.37 0 4 211027 
+200.82.229.8 0 4 211027 
+122.165.222.92 1 1 39259 20091130172048
+200.44.28.189 0 5 348532 
+190.202.249.202 0 4 211027 
+201.243.51.111 0 4 211027 
+200.82.230.55 0 1 3754 
+190.76.47.71 0 3 172855 
+189.238.55.219 0 4 211027 
+186.14.20.36 7 57 1692210 20091106111345
+189.177.219.86 0 1 76664 
+114.240.122.134 14 14 549668 20091109212124
+190.79.99.3 0 1 3754 
+200.90.39.107 0 1 27926 
+190.73.99.223 0 2 76344 
+190.198.80.52 0 4 211027 
+201.210.184.196 0 3 31680 
+190.142.36.93 0 4 211027 
+193.10.249.102 0 3 219217 
+201.211.6.72 15 86 1640605 20091109102519
+186.14.147.34 3 27 1147097 20091129094601
+186.14.119.25 0 1 3754 
+190.207.153.243 0 1 27926 
+190.42.42.143 0 4 211027 
+201.210.73.36 0 4 211027 
+190.207.187.209 0 4 211027 
+190.76.77.7 0 4 211027 
+201.243.67.67 1 28 512014 20091130093403
+200.109.83.112 1 28 511970 20091104214900
+208.115.138.254 1 1 43129 20091105112655
+190.205.148.52 0 4 211027 
+200.26.162.93 9 44 1213880 20091123101011
+201.248.8.78 0 4 211027 
+200.8.97.1 0 14 720362 
+68.171.233.66 1 3 89888 20091129004108
+190.203.129.89 1 27 352547 20091124212739
+201.211.220.216 25 179 1173591 20091123094021
+200.8.131.20 1 27 483457 20091119112226
+190.78.249.45 0 4 211027 
+190.36.192.142 0 4 211027 
+190.206.37.148 0 4 211027 
+200.8.186.211 0 1 27926 
+190.142.113.193 3 40 788317 20091119144648
+190.205.53.67 0 4 211027 
+190.206.162.50 0 4 211027 
+69.63.182.123 0 2 153328 
+201.243.137.222 0 2 31680 
+190.75.78.81 0 4 211027 
+190.77.122.174 0 4 211027 
+201.248.90.99 0 4 211027 
+200.84.12.243 0 4 211027 
+190.203.98.139 0 4 211027 
+190.204.41.54 0 4 211027 
+190.198.54.22 0 20 633081 
+66.50.158.245 0 1 27926 
+186.14.77.185 0 4 211027 
+190.79.170.124 0 5 287691 
+190.203.121.148 0 4 211027 
+207.211.82.32 2 18 50071 20091125122307
+190.201.6.50 0 4 211027 
+190.198.41.252 0 4 211027 
+201.208.97.70 5 24 757816 20091121172444
+201.243.227.209 0 4 211027 
+201.211.202.59 0 12 211027 
+190.201.114.99 5 35 0 20091130181642
+190.77.38.81 0 1 27926 
+201.208.15.20 0 4 211027 
+200.84.129.211 0 14 57958 
+190.199.237.195 0 4 211027 
+200.75.124.139 4 30 461334 20091102004456
+190.207.233.213 0 1 27926 
+190.73.145.137 0 4 77276 
+190.200.49.85 0 4 211027 
+201.210.223.62 0 4 211027 
+190.76.36.224 6 57 779749 20091109085619
+190.206.113.16 0 1 27926 
+201.210.97.97 1 25 271423 20091127133654
+70.36.100.226 1 2 41943 20091130040449
+136.2.1.153 0 1 3754 
+68.171.234.237 1 1 1582 20091123111150
+190.207.37.4 4 39 1052613 20091130214245
+190.198.228.19 0 1 3754 
+200.44.233.71 0 2 55852 
+190.39.98.10 0 4 211027 
+201.208.3.186 0 1 27926 
+190.204.226.198 0 4 211027 
+190.76.125.164 0 4 211027 
+186.14.47.160 0 4 211027 
+200.84.22.170 0 1 3754 
+67.202.20.170 2 2 78524 20091124020438
+201.248.27.80 0 4 211027 
+201.208.109.254 0 1 27926 
+200.8.205.44 0 1 27926 
+200.8.13.17 0 4 211027 
+190.78.227.6 6 35 861788 20091127093953
+201.248.19.185 0 4 211027 
+190.38.230.193 1 25 271933 20091107224411
+201.208.249.77 0 4 211027 
+200.44.28.224 0 2 7508 
+200.1.171.138 0 8 422054 
+200.44.5.92 0 2 55852 
+201.242.154.145 0 12 633081 
+190.206.35.59 4 40 1205008 20091121230133
+200.82.184.151 0 1 27926 
+200.44.51.110 21 110 1353503 20091130130730
+64.94.67.203 2 2 78524 20091123082827
+190.200.141.17 2 28 352547 20091127232740
+190.38.167.7 0 4 211027 
+200.8.204.64 0 4 211027 
+200.35.248.79 1 25 271933 20091107152655
+190.207.159.101 0 4 211027 
+190.36.115.110 0 4 211027 
+190.78.0.200 0 1 27926 
+201.211.217.1 0 1 3754 
+201.209.77.9 0 4 211027 
+201.208.69.68 0 8 211027 
+201.243.106.28 0 4 211027 
+200.8.209.129 0 1 3754 
+190.198.252.169 0 1 27926 
+200.90.19.74 0 4 211027 
+190.72.161.37 0 4 211027 
+201.209.74.173 0 4 211027 
+190.203.168.123 0 5 211027 
+190.201.129.36 0 8 422054 
+190.204.75.84 0 4 211027 
+190.75.245.209 0 4 211027 
+200.8.26.184 0 8 422054 
+190.39.5.209 0 4 211027 
+190.203.157.159 0 1 27926 
+190.72.188.80 0 3 219217 
+190.76.4.150 0 2 27926 
+190.79.120.72 0 4 211027 
+200.84.71.105 0 4 211027 
+201.243.229.20 0 4 211027 
+190.198.254.83 0 4 211027 
+200.31.5.20 0 4 211027 
+201.208.2.3 0 4 211027 
+190.77.207.69 0 4 211027 
+190.77.139.252 4 29 728363 20091124162504
+201.243.98.30 0 1 27926 
+64.255.180.95 1 26 307497 20091126003048
+201.242.230.241 0 6 364521 
+200.84.36.162 0 4 211027 
+190.39.147.120 9 39 953428 20091120162530
+190.77.53.64 0 4 211027 
+201.211.53.110 11 69 1436225 20091118205948
+75.74.144.201 14 109 2616824 20091127101106
+190.201.29.185 0 8 422054 
+189.165.118.30 0 4 211027 
+200.84.22.165 0 1 27926 
+190.207.119.104 0 4 211027 
+200.82.245.140 15 76 1311556 20091119215105
+190.199.66.96 0 4 211027 
+190.74.31.174 32 89 1638195 20091127084143
+201.211.174.2 0 2 55852 
+190.142.221.89 3 18 720137 20091104203020
+201.210.251.216 0 4 211027 
+201.249.157.104 0 1 27926 
+190.74.222.17 0 4 211027 
+190.204.193.248 0 4 211027 
+201.208.243.108 0 4 211027 
+201.211.226.81 0 1 27926 
+201.242.195.177 0 4 211027 
+190.206.35.159 0 4 211027 
+190.205.62.175 7 42 902527 20091107130257
+190.205.248.54 1 25 271933 20091127154115
+190.198.242.111 0 4 211027 
+200.84.3.50 0 2 31680 
+190.39.23.130 0 4 211027 
+190.76.14.198 7 65 683027 20091127225825
+190.199.127.60 1 27 483457 20091124180105
+186.24.2.165 0 4 211027 
+190.201.185.134 2 21 788608 20091129081336
+201.249.27.178 0 4 211027 
+190.36.250.116 30 164 1074090 20091121213145
+190.76.99.88 4 33 909407 20091126172411
+190.73.0.142 0 4 211027 
+201.208.127.209 0 4 211027 
+200.35.72.174 4 38 853178 20091102083438
+190.79.11.242 0 1 27926 
+201.242.253.41 2 18 725046 20091125161859
+190.39.171.40 0 4 0 
+190.235.81.147 1 31 563574 20091119204506
+190.77.119.158 23 129 1347245 20091122205137
+216.239.45.4 1 16 339666 20091106053234
+201.248.156.226 0 4 211027 
+200.47.79.118 0 4 211027 
+190.206.61.53 0 4 211027 
+209.107.217.11 4 39 1071369 20091102152608
+201.208.218.177 0 8 211027 
+201.243.236.192 0 4 211027 
+190.204.195.86 0 4 211027 
+190.36.170.70 0 5 214781 
+190.75.254.89 0 4 211027 
+190.204.144.154 0 4 211027 
+201.243.67.140 0 1 3754 
+190.36.203.153 0 2 7508 
+190.206.248.48 0 4 211027 
+201.242.201.238 0 4 211027 
+190.207.199.80 0 4 211027 
+200.84.8.75 0 1 3754 
+163.178.18.3 0 4 211027 
+190.76.96.205 0 4 211027 
+190.31.39.106 0 4 211027 
+200.75.116.103 25 96 2549207 20091103194347
+200.11.208.43 1 5 250289 20091106153812
+201.248.20.252 0 4 211027 
+68.171.234.87 1 14 305523 20091130184629
+200.75.121.151 0 4 211027 
+190.78.24.175 0 4 211027 
+190.204.180.234 0 4 211027 
+190.38.118.221 0 8 211027 
+186.14.1.95 0 4 211027 
+190.39.243.194 0 4 211027 
+186.15.19.67 0 1 27926 
+201.209.207.124 0 4 211027 
+190.76.85.51 5 36 959066 20091103181815
+201.211.219.101 0 2 55852 
+200.75.148.10 11 56 1590611 20091127174634
+190.16.67.103 0 1 27926 
+190.203.82.165 4 22 753740 20091122095101
+190.201.169.247 7 40 753174 20091130133222
+190.75.142.116 0 4 211027 
+190.206.39.224 0 4 211027 
+74.173.129.62 0 1 3754 
+190.74.238.49 9 45 1347247 20091120191426
+201.243.84.210 0 1 3754 
+190.99.130.86 0 1 27926 
+200.84.125.21 0 4 211027 
+190.199.164.134 0 4 211027 
+190.75.75.166 0 4 211027 
+190.142.23.225 0 4 211027 
+201.208.75.244 0 4 211027 
+190.204.228.89 0 1 27926 
+190.39.230.16 0 4 211027 
+190.77.201.45 0 1 3754 
+201.243.87.193 1 27 278036 20091124091423
+206.53.147.88 1 16 339666 20091123135637
+190.201.220.5 0 4 211027 
+190.72.12.150 0 4 211027 
+186.14.35.55 0 4 211027 
+64.255.180.101 0 1 27926 
+201.243.137.70 2 17 720137 20091125121038
+190.79.157.29 0 4 211027 
+190.202.82.98 60 545 13487275 20091127164254
+200.8.116.222 0 4 211027 
+201.208.210.114 0 4 211027 
+190.78.11.164 0 4 211027 
+186.14.64.158 0 1 27926 
+190.202.177.210 2 62 915227 20091123155627
+190.76.7.229 0 4 211027 
+201.211.45.137 1 1 44047 20091118205052
+200.32.83.19 6 39 1125999 20091103105928
+190.36.214.121 0 1 27926 
+201.208.14.7 0 1 27926 
+190.201.249.171 0 1 27926 
+200.84.195.104 1 27 352547 20091103123723
+190.79.166.133 0 4 211027 
+190.37.167.146 0 4 211027 
+190.79.201.64 0 2 27926 
+190.201.7.11 4 71 915880 20091102173531
+190.79.250.155 0 4 211027 
+201.242.110.5 0 1 27926 
+201.208.13.44 0 2 31680 
+201.208.130.209 1 29 515333 20091126220023
+190.200.102.229 0 4 211027 
+190.206.140.120 0 4 211027 
+200.84.164.170 0 4 211027 
+189.188.104.16 0 2 27926 
+190.203.153.17 0 4 211027 
+201.209.154.8 0 4 286659 
+190.75.164.210 3 40 1036302 20091122160616
+190.142.83.243 0 4 211027 
+190.39.218.54 3 24 939433 20091130234104
+200.35.238.214 0 1 27926 
+95.18.133.105 0 1 27926 
+190.73.128.246 0 3 72228 
+190.39.54.109 2 21 931164 20091126123840
+190.207.155.34 0 4 211027 
+190.75.70.131 0 3 219217 
+190.200.88.121 0 1 3754 
+201.210.151.162 0 1 27926 
+190.200.14.96 0 1 3754 
+190.200.2.127 0 7 246461 
+201.243.75.80 0 4 211027 
+190.201.130.65 0 4 211027 
+190.199.88.18 0 1 27926 
+190.121.239.45 0 1 27926 
+200.82.185.60 0 1 3754 
+201.243.12.135 0 4 211027 
+94.23.192.28 2 2 78524 20091108221959
+200.8.111.177 0 4 211027 
+190.37.171.171 0 1 27926 
+74.173.42.116 0 4 211027 
+201.249.112.108 0 4 211027 
+57.74.227.62 3 35 731558 20091127112202
+64.233.173.19 0 2 167807 
+201.242.28.17 0 4 211027 
+190.79.194.180 0 4 211027 
+190.201.28.129 0 4 211027 
+190.76.9.172 0 3 73522 
+190.78.219.36 1 27 352547 20091126070153
+190.73.156.236 0 1 0 
+200.8.79.171 0 4 211027 
+200.90.17.126 0 4 211027 
+190.78.24.118 0 4 211027 
+190.200.53.134 0 4 211027 
+201.210.232.150 0 1 137505 
+190.78.140.30 0 4 211027 
+190.203.79.102 0 4 211027 
+201.243.61.180 0 4 211027 
+200.109.63.94 0 4 211027 
+201.249.237.124 0 4 211027 
+190.36.53.28 2 17 720137 20091103221315
+200.82.147.157 0 4 286659 
+190.72.78.128 0 4 211027 
+190.202.172.163 1 4 145473 20091118213636
+201.248.23.199 0 8 211027 
+200.52.160.3 0 1 27926 
+190.207.96.200 0 2 31680 
+190.76.127.208 1 11 13137 20091128222445
+200.84.13.217 0 4 211027 
+200.116.130.153 0 1 3754 
+200.8.158.9 0 4 211027 
+190.77.42.22 0 4 211027 
+190.36.48.33 0 4 211027 
+190.78.255.253 4 32 825275 20091109122255
+66.249.65.137 1 1 39262 20091104080846
+190.38.247.47 0 4 211027 
+190.44.8.173 0 1 76664 
+190.205.46.205 0 1 27926 
+190.204.193.98 0 4 211027 
+190.72.214.200 0 1 3754 
+201.243.14.17 0 1 3754 
+186.14.71.232 5 35 857395 20091103144609
+200.44.49.151 0 4 211027 
+190.37.2.25 0 1 27926 
+201.210.179.43 0 1 3754 
+201.211.40.146 0 1 27926 
+190.142.122.69 4 44 1042778 20091130235147
+190.201.40.57 0 4 211027 
+190.204.178.79 0 2 31680 
+83.40.41.190 0 1 27926 
+190.205.223.8 0 2 31680 
+190.73.245.222 0 4 211027 
+190.74.209.244 0 1 27926 
+200.109.240.82 0 3 205979 
+190.74.121.20 0 4 286659 
+190.205.150.53 0 4 211027 
+190.76.90.202 0 4 211027 
+190.37.75.46 0 3 31680 
+190.198.156.44 0 8 422054 
+200.75.96.82 1 11 192427 20091123182415
+190.107.134.202 0 4 211027 
+190.74.235.131 0 4 211027 
+201.242.206.55 0 4 211027 
+200.82.144.243 0 4 211027 
+190.77.242.79 0 1 27926 
+190.205.223.182 2 21 931164 20091126180359
+200.109.197.26 0 1 27926 
+200.11.183.92 0 4 211027 
+190.76.82.210 0 2 31680 
+150.188.13.28 0 1 27926 
+190.75.135.49 0 4 211027 
+190.72.43.207 1 25 273060 20091129145817
+201.249.121.73 0 4 211027 
+200.11.197.178 0 3 205979 
+186.14.113.188 1 27 483457 20091108125209
+66.196.119.20 1 1 0 20091103192248
+201.242.254.155 2 50 568805 20091124155314
+200.84.149.198 0 4 211027 
+200.62.19.211 0 1 0 
+201.208.191.199 0 7 39188 
+200.82.206.49 0 4 211027 
+190.75.162.242 1 25 273060 20091108224107
+200.8.238.180 2 28 527504 20091129105459
+216.189.175.80 0 1 27926 
+200.8.231.234 0 4 211027 
+82.226.174.148 0 4 211027 
+190.202.158.83 0 4 0 
+201.209.18.180 0 4 211027 
+201.208.191.177 0 4 211027 
+201.248.151.241 0 4 211027 
+201.248.227.140 0 4 211027 
+201.209.75.29 10 44 1174346 20091107194645
+69.63.180.247 0 4 244445 
+190.207.181.192 0 8 211027 
+200.31.137.132 0 4 211027 
+201.243.235.228 0 1 27926 
+186.14.21.201 1 11 192427 20091124125803
+217.217.133.12 0 4 211027 
+67.214.32.104 0 1 27926 
+190.79.177.128 0 4 211027 
+190.74.120.1 0 8 211027 
+206.48.7.2 0 12 495576 
+201.243.101.220 0 4 211027 
+190.79.229.199 0 1 27926 
+190.202.182.113 3 27 752760 20091103172805
+190.204.23.23 0 4 211027 
+200.84.3.217 0 1 0 
+200.8.169.24 0 4 211027 
+190.36.156.209 0 4 211027 
+190.36.234.109 0 4 211027 
+84.121.238.165 0 1 3754 
+201.209.233.130 0 4 211027 
+200.84.99.85 0 4 211027 
+186.14.26.156 0 4 211027 
+190.79.19.48 8 44 1208573 20091125215637
+190.78.128.105 0 4 211027 
+201.242.23.219 0 4 211027 
+190.73.200.84 0 4 211027 
+190.73.100.244 0 8 422054 
+190.74.224.134 0 4 211027 
+190.202.137.200 0 4 211027 
+190.37.46.47 0 4 211027 
+190.73.131.36 0 4 211027 
+190.203.192.90 0 4 211027 
+201.210.209.17 0 1 27926 
+201.243.56.169 0 4 211027 
+200.90.120.127 0 4 211027 
+190.39.81.229 0 4 211027 
+190.201.170.62 0 4 211027 
+190.207.156.175 0 1 27926 
+190.216.241.130 0 4 211027 
+190.79.178.71 0 4 211027 
+200.84.45.131 30 85 425405 20091103145001
+201.249.109.119 1 27 352547 20091130164034
+200.44.77.37 0 4 211027 
+200.84.173.19 0 1 27926 
+190.37.156.175 0 1 27926 
+190.203.143.209 0 2 31680 
+190.65.197.138 2 21 808219 20091105211501
+201.242.193.98 0 4 211027 
+190.198.42.127 0 1 0 
+190.203.32.23 0 2 31680 
+186.15.48.61 0 1 3754 
+190.199.155.73 3 32 820804 20091105174046
+190.76.56.63 0 4 211027 
+200.84.217.206 6 66 1325235 20091106001808
+150.186.76.217 0 4 211027 
+200.71.184.110 0 4 211027 
+190.39.250.241 0 4 211027 
+200.84.68.136 2 10 583972 20091104214917
+206.49.165.27 14 28 124384 20091108012940
+190.75.140.226 0 4 211027 
+190.72.41.6 0 1 3754 
+190.30.41.208 0 1 27926 
+200.75.96.20 7 24 627771 20091103105117
+200.109.106.117 0 1 27926 
+190.78.131.102 8 43 1088050 20091123195629
+190.206.74.97 0 4 211027 
+190.39.15.223 0 8 211027 
+190.142.4.50 0 4 211027 
+200.109.168.34 0 4 211027 
+201.210.8.140 0 1 3754 
+190.201.45.56 0 4 211027 
+201.211.27.216 0 4 211027 
+190.205.10.182 0 4 211027 
+186.16.146.206 0 1 27926 
+190.205.164.65 0 4 211027 
+200.93.33.144 0 4 211027 
+190.121.239.40 0 4 211027 
+190.38.146.108 2 33 876176 20091108194656
+190.36.110.196 0 8 422054 
+190.199.21.69 0 4 211027 
+201.249.122.50 0 1 27926 
+201.210.121.181 0 4 211027 
+201.209.48.91 0 8 422054 
+190.78.177.89 0 1 27926 
+190.198.248.245 0 2 31680 
+190.207.179.77 8 102 1016533 20091119204106
+190.37.190.236 0 4 211027 
+206.53.147.30 10 10 383152 20091123112029
+190.75.226.165 0 1 3754 
+190.78.55.89 0 2 7508 
+186.14.69.171 0 1 27926 
+190.142.80.218 4 34 952540 20091130150640
+186.24.21.1 47 479 7274539 20091129171434
+190.77.216.224 3 22 931164 20091118193840
+200.8.69.12 0 4 211027 
+201.210.191.55 0 4 211027 
+190.199.95.170 0 1 27926 
+190.76.84.180 1 11 13137 20091124201359
+190.74.55.88 6 40 1086118 20091130163924
+190.199.124.76 0 4 211027 
+190.222.62.94 0 1 27926 
+190.78.86.31 7 45 1372949 20091129172954
+190.142.170.167 1 27 483457 20091126171340
+200.82.223.102 0 8 211027 
+190.198.164.134 8 44 1013185 20091102184929
+190.77.70.179 0 1 3754 
+200.109.188.169 0 2 31680 
+200.2.12.230 0 4 211027 
+201.249.115.239 6 45 1326483 20091104215246
+201.242.7.179 0 1 27926 
+200.27.127.33 0 1 76664 
+186.14.97.187 1 25 319919 20091124092138
+190.76.88.47 0 4 211027 
+190.77.255.108 3 20 765502 20091103095603
+201.209.128.128 0 1 0 
+190.207.198.16 0 4 211027 
+190.77.196.53 0 4 211027 
+190.39.15.253 0 7 360181 
+190.77.95.61 0 6 214781 
+200.8.109.67 0 4 211027 
+206.53.157.117 1 1 42014 20091123110704
+190.74.42.75 0 4 211027 
+190.37.166.16 1 28 355910 20091130062410
+200.47.180.254 0 6 364521 
+190.206.179.217 14 58 1191951 20091125160113
+190.206.43.19 0 4 211027 
+190.78.177.216 0 4 211027 
+190.77.201.155 0 4 211027 
+190.76.99.165 22 81 125008 20091124102812
+190.142.113.131 0 4 211027 
+201.211.211.239 0 4 211027 
+201.242.203.43 0 4 211027 
+69.63.178.249 11 12 225202 20091130185958
+190.202.201.224 4 55 717823 20091102231257
+200.90.25.86 0 1 27926 
+201.229.128.148 0 2 55852 
+190.36.226.76 1 25 271933 20091103115801
+200.62.9.186 0 4 211027 
+186.14.119.6 0 1 3754 
+186.24.17.1 36 260 5777024 20091130172836
+190.38.80.216 0 1 3754 
+190.74.72.78 0 4 211027 
+190.204.77.93 0 4 211027 
+190.142.62.106 0 4 211027 
+200.84.91.182 0 4 211027 
+201.248.145.229 0 1 3754 
+190.200.238.218 0 1 3754 
+190.201.223.122 0 4 211027 
+190.200.113.176 1 27 352547 20091127151057
+66.196.97.158 2 2 78524 20091107114653
+200.44.200.77 0 4 211027 
+216.104.15.130 2 2 82388 20091130122551
+200.109.133.90 0 4 211027 
+201.243.15.73 3 18 116954 20091106171332
+190.36.150.108 0 1 27926 
+190.200.171.249 0 4 211027 
+95.16.145.64 0 4 211027 
+201.248.47.246 0 4 211027 
+200.44.219.248 0 4 211027 
+190.74.146.142 6 49 897651 20091128191226
+186.14.37.128 0 1 27926 
+190.36.115.171 0 4 211027 
+190.202.83.204 0 4 211027 
+190.207.99.124 0 4 211027 
+201.243.164.42 0 4 211027 
+190.202.184.57 0 4 211027 
+190.79.22.153 0 4 211027 
+161.196.38.2 3 45 1076435 20091130164121
+190.121.238.45 0 8 422054 
+190.78.215.173 0 4 211027 
+190.204.169.197 1 32 591500 20091108115100
+190.198.15.99 3 18 720137 20091122120645
+200.8.166.6 1 40 910420 20091123194426
+190.36.124.108 0 4 211027 
+190.73.2.245 0 1 3754 
+201.209.199.120 0 4 211027 
+190.36.224.124 0 1 27926 
+190.206.155.53 0 4 211027 
+190.39.81.125 1 27 483457 20091128135224
+190.205.192.254 0 4 211027 
+201.209.75.252 0 1 27926 
+200.8.85.6 0 4 211027 
+186.28.142.245 0 4 211027 
+190.39.143.2 0 4 211027 
+200.90.26.138 0 4 211027 
+190.201.129.84 3 31 636522 20091104151943
+190.142.226.218 0 1 27926 
+201.208.141.239 3 34 674396 20091120213131
+190.79.56.102 5 37 1135019 20091127114104
+201.210.178.80 0 1 27926 
+200.90.24.242 6 38 865212 20091109174249
+201.248.149.174 0 4 211027 
+190.78.208.95 2 56 589911 20091119171209
+190.206.118.176 0 10 422054 
+200.84.12.145 6 34 1197735 20091128110907
+200.2.12.215 0 5 238953 
+201.242.16.228 0 2 7508 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20091101 155 1510 32738659 36
+20091102 529 2622 50693406 67
+20091103 611 3457 59874505 77
+20091104 353 1822 36318039 54
+20091105 435 2303 40539687 59
+20091106 295 1844 26163310 45
+20091107 293 1334 33497362 43
+20091108 184 1359 32746083 47
+20091109 339 1707 32786295 56
+20091118 202 1070 21224155 25
+20091119 390 2218 53244125 55
+20091120 443 1973 45058641 49
+20091121 265 1879 39123992 34
+20091122 365 2393 48428320 54
+20091123 452 3116 64577852 83
+20091124 427 2483 58523357 66
+20091125 414 2925 61110433 58
+20091126 458 2800 57214379 68
+20091127 394 2620 48464416 63
+20091128 235 1451 34327129 34
+20091129 405 1960 44117418 44
+20091130 507 2916 64844231 78
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 43
+5mn-15mn 165
+0s-30s 556
+30s-2mn 177
+2mn-5mn 116
+15mn-30mn 74
+30mn-1h 64
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 47
+/ 2042 33293771 687 258
+/animacion.swf 825 218390354 3 105
+/zona_usuarios.php 604 6193284 7 45
+/guias_actuales.php 439 4585198 9 70
+/consulta_estatus_por_guia.php 432 4271670 50 96
+/administrativo/guias/guias.php 393 11744608 19 22
+/administrativo/guias/actualizado.php 359 1620167 0 0
+/tarifas.html 295 4158560 6 69
+/preguntas.html 278 8886070 58 95
+/administrativo/usuarios/usuarios.php 201 3014090 6 3
+/administrativo/guias/parametro_guia.php 199 1319430 0 1
+/cargar_ordenes.php 197 2850181 2 21
+/eshop.html 181 1805813 52 74
+/registro_clientes.php 172 8990664 65 41
+/contacto.html 170 1214172 24 16
+/servicios.html 155 1917939 0 16
+/identificarse.php 129 1253364 39 12
+/nosotros.html 111 1354328 7 7
+/consulta.php 108 1054974 4 22
+/sabes-como-realizar-compras-por-internet-de-mas-de-400$-con-tu-cupo-cadivi-para-compras-electronicas-en-usa-en-un-sitio-seruro.html 106 2440968 61 71
+/track.php 105 860107 1 10
+/consejos-para-utilizar-un-courier-internacional-puerta-a-puerta-y-saber-calcular-los-costos-de-envio-hasta-Venezuela-en-sus-compras-por-internet-con-su-CUPO-CADIVI.html 100 919302 23 7
+/autentificar.php 79 550625 2 4
+/registrado.php 77 3395121 1 8
+/contacto.php 64 430264 3 15
+/nuevos-cambios-para-regular-cupo-cadivi-para-compras-en-el-exterior-entrara-en-vigencia-a-partir-del-1-enero-2010.html 51 885332 27 29
+/gobierno-desmiente-eliminacion-de-divisas-para-internet-eliminacion-de-cupo-cadivi-para-compras-electronicas-por-internet.html 6 79150 0 3
+/si-no-vas-a-usar-tu-cupo-de-cadivi-te-lo-compro.html 7 152789 0 4
+/actualizado.php 10 83930 0 0
+/administrativo/guias/detalles_guia.php 12 50960 0 0
+/administrativo/usuarios/detalles_usuario.php 45 175194 0 3
+/cadivi-disena-cambios-radicales-en-el-cupo-cadivi-que-beneficiaran-a-los-viajeros-en-sus-compras-en-USA-e-Internet.html 1 18322 0 1
+/blackberry-vs-nokia.html 6 98586 5 2
+/blank.html 35 145189 0 8
+/cambios-en-el-cupo-cadivi-para-el-2010.html 29 474348 13 17
+/En-riesgo-uso-de-tarjetas-de-credito-por-retrasos-de-Cadivi.html 1 16492 0 0
+/nueva_providencia_para_el_cupo_cadivi_para_viajes_al_exterior_entrara_en_vigencia_en_enero_del_2010.html 28 504420 9 15
+/reenviar_clave.php 2 17454 0 0
+/aviso.html 7 32865 0 1
+/cadivi-estudia-mecanismos-para-ajustar-cupo-cadivi-para-compras-por-internet.html 12 213504 1 7
+/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com.html 14 226005 5 4
+/Complicaciones-tecnologicas-retardan-modificaciones-del-cupo-de-Cadivi.html 2 35180 0 1
+/seran-sancionados-bancos-que-limiten-uso-de-tarjetas-para-fines-de-ano-modificaran-cupo-para-los-viajes-al-exterior.html 6 88885 0 1
+/cadivi-estudia-aumento-de-cupo-para-viajeros.html 11 170896 2 4
+/actualizar.php 34 510306 2 0
+/supuesta-eliminacion-del-cupo-cadivi-para-compras-por-internet.html 10 153880 1 6
+/cadivi-cupo-en-dolares-para-compras-por-internet-no-sera-aumentado-en-2009.html 1 16977 1 1
+END_SIDER

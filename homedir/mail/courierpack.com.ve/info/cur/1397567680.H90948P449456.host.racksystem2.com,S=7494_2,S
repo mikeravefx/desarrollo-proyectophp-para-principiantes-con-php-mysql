@@ -1,0 +1,157 @@
+Return-path: <gustavofranco1983@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Tue, 15 Apr 2014 08:44:40 -0430
+Received: from mail-we0-f182.google.com ([74.125.82.182]:43092)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <gustavofranco1983@gmail.com>)
+	id 1Wa3C8-001sut-GO
+	for info@courierpack.com.ve; Tue, 15 Apr 2014 08:44:39 -0430
+Received: by mail-we0-f182.google.com with SMTP id p61so9567364wes.13
+        for <info@courierpack.com.ve>; Tue, 15 Apr 2014 06:14:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=p8NmS0Ox/Y8d7pArfLeCNUwZNj0+XMNlgm7+A/DsOD0=;
+        b=rXLBUHSTypOqSNOnRbbkz4cVrxacV93Ep7+9d4xrWQPYMAmgKhwPjmni/UGU77mOaw
+         nL5KNRiGiVSMk+DhUUIAIwH5OOUCtYlTAigD9WQJFyxFLkAoQH5KprqKIiC0ljpoMAUn
+         95oJISCBmaFTszMxCvnUHgpa9ofXALX6Y4+d1Ro7TRS73umSCc+e5tL5Jap8lBZ9XiZ1
+         PTw/mxMtMFe4Lsrv8Asfgv2uC5xoYPV+vwqsrknZmSVNXBgzYjPAqfPOMBPL/c/JNjDt
+         xoVPqqjynm/fK3b8AgHDf1feqSyRuH4u6xu30ZBGuHuXRqPt1x5gHMqMaQqCoqlH75BL
+         2H6A==
+MIME-Version: 1.0
+X-Received: by 10.194.171.167 with SMTP id av7mr1671983wjc.32.1397567674894;
+ Tue, 15 Apr 2014 06:14:34 -0700 (PDT)
+Received: by 10.216.82.71 with HTTP; Tue, 15 Apr 2014 06:14:34 -0700 (PDT)
+In-Reply-To: <1379944153-1397566326-cardhu_decombobulator_blackberry.rim.net-1152009351-@b3.c4.bise6.blackberry>
+References: <CAPFCho+4nSS11TYd5tYxZi58T0LkG9sphXDCApyPcHDYuM1kYg@mail.gmail.com>
+	<1379944153-1397566326-cardhu_decombobulator_blackberry.rim.net-1152009351-@b3.c4.bise6.blackberry>
+Date: Tue, 15 Apr 2014 09:14:34 -0400
+Message-ID: <CAPFChoJm__aLhkJ0GN1K-nHmxxP4Kr0U6d6-mRxcUjZ8OY960g@mail.gmail.com>
+Subject: Re: saludos
+From: Gustavo Franco <gustavofranco1983@gmail.com>
+To: info@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=089e0122f2cecfce8c04f7149443
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Buenos dias muchas gracias por la informacion, si es para
+   cuando haga la compra pagar con la tarjeta de credito Gustavo Franco cel :
+    0426-400-48-74 [...] 
+ 
+ Content analysis details:   (0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (gustavofranco1983[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (gustavofranco1983[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--089e0122f2cecfce8c04f7149443
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Buenos dias muchas gracias por la informacion, si es para cuando haga la
+compra pagar con la tarjeta de credito
+
+Gustavo Franco
+
+cel : 0426-400-48-74
+
+
+El 15 de abril de 2014, 8:52, CourierPack <info@courierpack.com.ve>escribi=
+=C3=B3:
+
+> Hola Gustavo, feliz dia. Por estas fechas estamos entregando la mercancia
+> de 7 a 9 dias luego de ser recibida por nuestros operadores en Miami. La
+> unica forma que estamos aceptando pago en cupo cadivi es directamente con
+> tdc, no $ en amazon. Trabajamos por minimos de 1 a 10 libras, 75$ despues
+> de 10 libras, la misma adicional seria 5 $ . Claro q trabajamos con
+> consolidacion una vez que todo tu compra este completa procedemos a la
+> entrega si asi el cliente lo desea.
+> Espero haberte ayudado con tus dudas. Estamos a tu orden.
+>
+> Saludos Gabriela Garcia
+> Atencion al Cliente
+>
+> Courier Pack
+> 5900 NW 99th Ave Unit # 6
+> Doral, FL 33178
+> T (305) 718-3636
+> Central de informancion al Cliente.
+> ------------------------------
+> *From: * Gustavo Franco <gustavofranco1983@gmail.com>
+> *Date: *Mon, 14 Apr 2014 18:46:57 -0400
+> *To: *<info@courierpack.com.ve>
+> *Subject: *saludos
+>
+> Buenas tardes sres, les escribo para saber como estan sus entregas en
+> estos momentos si estan llegando rapido y cuanto esta el cobro de los
+> envios si ya estan aceptando el cupo cadivi para la recepcion o no ? y
+> saber si ustedes hacen reempaque de la mercancia para traer varias cosas =
+,
+> muchas gracias
+>
+> Gustavo Franco
+>
+> 0426-400-48-74
+>
+
+--089e0122f2cecfce8c04f7149443
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Buenos dias muchas gracias por la informacion, si es para =
+cuando haga la compra pagar con la tarjeta de credito<div><br></div><div st=
+yle>Gustavo Franco</div><div style><br></div><div style>cel : 0426-400-48-7=
+4</div>
+</div><div class=3D"gmail_extra"><br><br><div class=3D"gmail_quote">El 15 d=
+e abril de 2014, 8:52, CourierPack <span dir=3D"ltr">&lt;<a href=3D"mailto:=
+info@courierpack.com.ve" target=3D"_blank">info@courierpack.com.ve</a>&gt;<=
+/span> escribi=C3=B3:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><u></u><div>Hola Gustavo, feliz dia. Por est=
+as fechas estamos entregando la mercancia de 7 a 9 dias luego de ser recibi=
+da por nuestros operadores en Miami. La unica forma que estamos aceptando p=
+ago en cupo cadivi es directamente con tdc, no $ en amazon. Trabajamos por =
+minimos de 1 a 10 libras, 75$ despues de 10 libras, la misma adicional seri=
+a 5 $ . Claro q trabajamos con consolidacion una vez que todo tu compra est=
+e completa procedemos a la entrega si asi el cliente lo desea. <br>
+Espero haberte ayudado con tus dudas. Estamos a tu orden.<br><br>Saludos Ga=
+briela Garcia<br>Atencion al Cliente<br><br>Courier Pack <br>5900 NW 99th A=
+ve Unit # 6<br>Doral, FL 33178<br>T <a href=3D"tel:%28305%29%20718-3636" va=
+lue=3D"+13057183636" target=3D"_blank">(305) 718-3636</a><div>
+Central de informancion al Cliente.</div><hr><div><b>From: </b> Gustavo Fra=
+nco &lt;<a href=3D"mailto:gustavofranco1983@gmail.com" target=3D"_blank">gu=
+stavofranco1983@gmail.com</a>&gt;
+</div><div><b>Date: </b>Mon, 14 Apr 2014 18:46:57 -0400</div><div><b>To: </=
+b>&lt;<a href=3D"mailto:info@courierpack.com.ve" target=3D"_blank">info@cou=
+rierpack.com.ve</a>&gt;</div><div><b>Subject: </b>saludos</div><div class=
+=3D"">
+<div><br></div><div dir=3D"ltr">Buenas tardes sres, les escribo para saber =
+como estan sus entregas en estos momentos si estan llegando rapido y cuanto=
+ esta el cobro de los envios si ya estan aceptando el cupo cadivi para la r=
+ecepcion o no ? y saber si ustedes hacen reempaque de la mercancia para tra=
+er varias cosas , muchas gracias<div>
+
+<br></div><div>Gustavo Franco</div><div><br></div><div>0426-400-48-74</div>=
+</div>
+
+</div></div></blockquote></div><br></div>
+
+--089e0122f2cecfce8c04f7149443--

@@ -1,0 +1,105 @@
+Return-path: <pellingomez@yahoo.es>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Sun, 07 Apr 2013 10:06:32 -0430
+Received: from nm3.bullet.mail.ird.yahoo.com ([77.238.189.60]:45858)
+	by host.caracasftp.com with smtp (Exim 4.80)
+	(envelope-from <pellingomez@yahoo.es>)
+	id 1UOqhp-00012q-HA
+	for gabrielagarcia@courierpack.com.ve; Sun, 07 Apr 2013 10:06:31 -0430
+Received: from [77.238.189.53] by nm3.bullet.mail.ird.yahoo.com with NNFMP; 07 Apr 2013 14:36:26 -0000
+Received: from [212.82.98.88] by tm6.bullet.mail.ird.yahoo.com with NNFMP; 07 Apr 2013 14:36:26 -0000
+Received: from [127.0.0.1] by omp1025.mail.ir2.yahoo.com with NNFMP; 07 Apr 2013 14:36:26 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 623473.23570.bm@omp1025.mail.ir2.yahoo.com
+Received: (qmail 60020 invoked by uid 60001); 7 Apr 2013 14:36:26 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1365345386; bh=kW0/bcw4lX92iGU2AT9WmAEDwJGMQRo/OoTJMPazIb0=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=bswyjCu5Ua5U3hif+/1T5RFKU+AqyViKfZVbjDkHY1mXqOCTZGNXnmJUX/9XwCOYB9Acs+9dDiCXeC6dSrUKiPYxv/Ram8EOG+fDI5cCi/2zPBub9g9SF5xlh79b6gAip3GeCQKodQa6WGFdPZma9C32RVZF0smDjTw5+zvoaM8=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.es;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type;
+  b=hGgWpcb8il/JzskbOwiDTY6ocxZ0WuiIL06CB25uRTDxiIVIgei4FuzLhMkK7IflMwOLWOX0GwOAe3GSKvOYNRCAfGVV7PCRZ62PXXttg6pUYUnjeSkyiuaEtiYmGn4pdEwlgv46pO1RPmze9hUfryY+vsfLxftKRsKLotGdtXs=;
+X-YMail-OSG: Ru9USEsVM1kMmW_fHmFdpNUDS6w2YHfL5wkfyUf3UOuLK.U
+ 2tyxLJ16Gm52yxexk9OkKdEljYPN.JUpZoWqYo9MpkFMgzMhC7uVApCMthdV
+ QZ0iLY69oAsHFAGbUF5GNoRl3AopXaQtAX3XExCWZFmNZJ9YvUn2Q4SQ.uGO
+ fDrXHNkG_9CDBIYNwBH75zABr41RtNa_oJzDwIo.uiMoJ4RSZtnBBkJS4aWN
+ TKTkOuQZNKOm3Aij_uwOUSdOIwmx0RXfj.WYAVI3.Vwe.4.iwgkCPq6i1OIZ
+ ttyT.X0x1jIRHNJk7o8oSBbxw_zPtAz5OPGYdleRF3WAjkRZHiYICzwPQfk5
+ aTPZTbz7SKaHSY98RL2BIxlqspNH_du.ALx6RjmEGJ3Ws7nKKxSbSbx5Duge
+ iGUfFCPRDwLGsdgCmZZDpI6UvHhxA9oHq49bbQiAlFZfFkoLOkXZ6Jo16sMW
+ g6g3l0OCEcFobKR0p4TG4zOEhp.lN5soi2se6AFMiXQ2BJ3lJ1RxrBGY4
+Received: from [186.88.54.156] by web171905.mail.ir2.yahoo.com via HTTP; Sun, 07 Apr 2013 15:36:26 BST
+X-Rocket-MIMEInfo: 002.001,QnVlbm9zwqBkw61hc8KgU3JhLiBHYWJyaWVsYcKgR2FyY8OtYSwgbGUgaW5mb3JtbyBxdWUgZWwgcGFnbyBwb3IgZWwgc2VydmljaW8gZGXCoGVudsOtb8Kgc2UgcmVhbGl6bzoKRmVjaGE6IDA1LzA0LzIwMTMKTnVtZXJvIGRlIGRlcG9zaXRvOiAxMjA4MzYwMDcwCk1vbnRvOiBCcy4gMTAyMgoKU2kgYXVuIG5vIGhhIHNpZG8gZW52aWFkYSBsYSBjYXJnYSwgUG9yIGZhdm9yIGVudmlhciBsYSBjYXJnYSBhIFpvb20gQmFycXVpc2ltZXRvLCBjYXJyZXJhIDI0IGVudHJlIGNhbGxlcyAyMyB5IDI0LiBGcmVudGUBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.140.532
+References: <483332329-1365052877-cardhu_decombobulator_blackberry.rim.net-574331617-@b1.c4.bise6.blackberry>
+Message-ID: <1365345386.46876.YahooMailNeo@web171905.mail.ir2.yahoo.com>
+Date: Sun, 7 Apr 2013 15:36:26 +0100 (BST)
+From: Pellin Gomez <pellingomez@yahoo.es>
+Reply-To: Pellin Gomez <pellingomez@yahoo.es>
+Subject: Re: CPK
+To: "gabrielagarcia@courierpack.com.ve" <gabrielagarcia@courierpack.com.ve>
+In-Reply-To: <483332329-1365052877-cardhu_decombobulator_blackberry.rim.net-574331617-@b1.c4.bise6.blackberry>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1200650283-871018492-1365345386=:46876"
+
+--1200650283-871018492-1365345386=:46876
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Buenos=A0d=EDas=A0Sra. Gabriela=A0Garc=EDa, le informo que el pago por el s=
+ervicio de=A0env=EDo=A0se realizo:=0AFecha: 05/04/2013=0ANumero de deposito=
+: 1208360070=0AMonto: Bs. 1022=0A=0ASi aun no ha sido enviada la carga, Por=
+ favor enviar la carga a Zoom Barquisimeto, carrera 24 entre calles 23 y 24=
+. Frente a la plaza La Mora,=A0a nombre de Nancy Cardona=A0c=E9dula=A074038=
+92. Celular 0426-5506535=0A=A0=0A=0A=0A________________________________=0A =
+De: "gabrielagarcia@courierpack.com.ve" <gabrielagarcia@courierpack.com.ve>=
+=0APara: pellingomez@yahoo.es =0AEnviado: Jueves 4 de abril de 2013 0:51=0A=
+Asunto: CPK=0A =0ABuenas Tardes=A0 Sr. Gomez Pellin Por este medio se le in=
+forma que su carga se encuentra en nuestros almaneces disponible para su en=
+vio y entrega .=0A=0AAprovechamos para indicar que el costo por el servicio=
+ de flete es de Bs.1022, =0AConjuntamente se le indica el detalle bancario=
+=A0=0A=0ATitular: Gabriela Garcia=A0=0ACuenta Corriente: =A00134.0066.12.06=
+6.306.9613=A0=0ABanco: Banesco=0AC.I.: 18.539.138=A0=0A=0A=0AEnviado desde =
+mi BlackBerry de Movistar
+--1200650283-871018492-1365345386=:46876
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:14pt"><div><font size=3D"4"=
+>Buenos&nbsp;</font><span style=3D"font-size: 19px;">d=EDas</span><font siz=
+e=3D"4">&nbsp;Sra. Gabriela&nbsp;Garc=EDa, le informo que el pago por el se=
+rvicio de&nbsp;env=EDo&nbsp;se realizo:</font></div><div style=3D"font-fami=
+ly: 'times new roman', 'new york', times, serif; font-size: 14pt;">Fecha: 0=
+5/04/2013</div><div style=3D"font-family: 'times new roman', 'new york', ti=
+mes, serif; font-size: 14pt;">Numero de deposito: 1208360070</div><div styl=
+e=3D"font-family: 'times new roman', 'new york', times, serif; font-size: 1=
+4pt;">Monto: Bs. 1022</div><div style=3D"font-family: 'times new roman', 'n=
+ew york', times, serif; font-size: 14pt;"><br></div><div style=3D"font-fami=
+ly: 'times new roman', 'new york', times, serif; font-size: 19px; color: rg=
+b(0, 0, 0); background-color: transparent; font-style: normal;">Si aun no h=
+a sido enviada
+ la carga, Por favor enviar la carga a Zoom Barquisimeto, carrera 24 entre =
+calles 23 y 24. Frente a la plaza La Mora,&nbsp;<span style=3D"background-c=
+olor: transparent;">a nombre de Nancy Cardona&nbsp;c=E9dula</span><span sty=
+le=3D"background-color: transparent;">&nbsp;7403892. Celular 0426-5506535</=
+span></div><div style=3D"font-family: 'times new roman', 'new york', times,=
+ serif; font-size: 14pt;"></div><div style=3D"font-family: 'times new roman=
+', 'new york', times, serif; font-size: 14pt;">&nbsp;</div><div style=3D"fo=
+nt-family: 'times new roman', 'new york', times, serif; font-size: 14pt;"><=
+br></div>  <div style=3D"font-family: 'times new roman', 'new york', times,=
+ serif; font-size: 14pt;"> <div style=3D"font-family: 'times new roman', 'n=
+ew york', times, serif; font-size: 12pt;"> <div dir=3D"ltr"> <font size=3D"=
+2" face=3D"Arial"> <hr size=3D"1">  <b><span style=3D"font-weight:bold;">De=
+:</span></b> "gabrielagarcia@courierpack.com.ve"
+ &lt;gabrielagarcia@courierpack.com.ve&gt;<br> <b><span style=3D"font-weigh=
+t: bold;">Para:</span></b> pellingomez@yahoo.es <br> <b><span style=3D"font=
+-weight: bold;">Enviado:</span></b> Jueves 4 de abril de 2013 0:51<br> <b><=
+span style=3D"font-weight: bold;">Asunto:</span></b> CPK<br> </font> </div>=
+ <br>Buenas Tardes&nbsp; Sr. Gomez Pellin Por este medio se le informa que =
+su carga se encuentra en nuestros almaneces disponible para su envio y entr=
+ega .<br><br>Aprovechamos para indicar que el costo por el servicio de flet=
+e es de Bs.1022, <br>Conjuntamente se le indica el detalle bancario&nbsp;<b=
+r><br>Titular: Gabriela Garcia&nbsp;<br>Cuenta Corriente: &nbsp;0134.0066.1=
+2.066.306.9613&nbsp;<br>Banco: Banesco<br>C.I.: 18.539.138&nbsp;<br><br><br=
+>Enviado desde mi BlackBerry de Movistar<br><br> </div> </div>  </div></bod=
+y></html>
+--1200650283-871018492-1365345386=:46876--

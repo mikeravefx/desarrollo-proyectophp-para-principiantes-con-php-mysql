@@ -1,0 +1,82 @@
+Return-path: <>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Wed, 13 Mar 2013 20:17:57 -0430
+Received: from smtp02.bis6.us.blackberry.com ([74.82.85.2]:13367)
+	by host.caracasftp.com with esmtp (Exim 4.80)
+	id 1UFwKq-0001GF-EN
+	for info@courierpack.com.ve; Wed, 13 Mar 2013 20:17:57 -0430
+Received: from antispam13.c0.bise6.blackberry ([192.168.0.28])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r2E0lqNn027126
+	for <SRS0=q52R6S=M7=courierpack.com.ve=info@srs.bis6.us.blackberry.com>; Thu, 14 Mar 2013 00:47:52 GMT
+X-SBRS: 2.9
+Received: from smtp03.bis6.us.blackberry.com ([74.82.85.3])
+  by antispam13.c0.bise6.blackberry with ESMTP; 14 Mar 2013 00:47:52 +0000
+Received: from localhost by smtp03.bis6.us.blackberry.com;
+  14 Mar 2013 00:47:52 +0000
+Message-Id: <dd1237$sbcu4u@smtp3.c0.bise6.blackberry>
+Date: 14 Mar 2013 00:47:52 +0000
+To: SRS0=q52R6S=M7=courierpack.com.ve=info@srs.bis6.us.blackberry.com
+From: "Mail Delivery System" <MAILER-DAEMON@smtp3.c0.bise6.blackberry>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="uc15I.4rzVVN/zz.gAGTB.8HuYQ2Y"
+
+--uc15I.4rzVVN/zz.gAGTB.8HuYQ2Y
+content-type: text/plain;
+    charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <rafelespinoza33@homail.com> was undeliverable.
+The reason for the problem:
+5.4.7 - Delivery expired (message too old) 'timeout'
+
+--uc15I.4rzVVN/zz.gAGTB.8HuYQ2Y
+content-type: message/delivery-status
+
+Reporting-MTA: dns; smtp3.c0.bise6.blackberry
+
+Final-Recipient: rfc822;rafelespinoza33@homail.com
+Action: failed
+Status: 5.0.0 (permanent failure)
+Diagnostic-Code: smtp; 5.4.7 - Delivery expired (message too old) 'timeout' (delivery attempts: 0)
+
+--uc15I.4rzVVN/zz.gAGTB.8HuYQ2Y
+content-type: message/rfc822
+
+Received: from unknown (HELO srs.bis6.us.blackberry.com) ([172.29.231.134])
+  by smtp03.bis6.us.blackberry.com with ESMTP; 11 Mar 2013 00:23:58 +0000
+Received: from b11.c10.bise6.blackberry ([192.168.0.111])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r2B0OBlL031445;
+	Mon, 11 Mar 2013 00:24:11 GMT
+Received: from 172.29.203.173 (cmp3.c10.bise6.blackberry [172.29.203.173])
+	by b11.c10.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id r2B0OARr023257;
+	Mon, 11 Mar 2013 00:24:10 GMT
+X-rim-org-msg-ref-id: 1345075653
+Message-ID: <1345075653-1362961448-cardhu_decombobulator_blackberry.rim.net-688602744-@b14.c10.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: info@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: WhatsApp Messenger: BlackBerry + iPhone + Android + Windows Phone + Nokia
+To: "info@courierpack.com.ve info@courierpack.com.ve" <info@courierpack.com.ve>
+From: "Atencion al cliente!" <info@courierpack.com.ve>
+Date: Mon, 11 Mar 2013 00:23:49 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+
+SG9sYSwNCg0KQWNhYm8gZGUgYmFqYXJtZSBXaGF0c0FwcCBNZXNzZW5nZXIgZW4gbWkgQmxhY2tC
+ZXJyeS4NCg0KRXMgdW4gcHJvZ3JhbWEgZGUgbWVuc2FqZXLtYSBwYXJhIHNtYXJ0cGhvbmVzIHF1
+ZSBzdXN0aXR1eWUgYSBsb3MgU01TLiBIYXN0YSBwdWVkZXMgZW52aWFyIGZvdG9zLCB27WRlb3Mg
+eSBvdHJvcyBhcmNoaXZvcyBtdWx0aW1lZGlhLg0KDQpXaGF0c0FwcCBNZXNzZW5nZXIgZXN04SBk
+aXNwb25pYmxlIHBhcmEgQW5kcm9pZCwgaVBob25lLCBOb2tpYSwgV2luZG93cyBQaG9uZSwgeSBC
+bGFja0JlcnJ5IHkgbm8gaGFjZSBmYWx0YSByZWNvcmRhciBuaW5n+m4gUElOIG5pIG5vbWJyZSBk
+ZSB1c3VhcmlvOyBmdW5jaW9uYSBpZ3VhbCBhbCBTTVMsIHBlcm8gdXNhIHR1IGNvbmV4afNuIGRl
+IGRhdG9zIGRlIEludGVybmV0Lg0KDQpC4WphdGVsbyBkZSBodHRwOi8vd3d3LndoYXRzYXBwLmNv
+bS9kb3dubG9hZC8geSBvbHbtZGF0ZSBkZSBsb3MgU01TLg0KDQoNCkVudmlhZG8gZGVzZGUgbWkg
+QmxhY2tCZXJyeSBkZSBNb3Zpc3Rhcg==
+
+
+--uc15I.4rzVVN/zz.gAGTB.8HuYQ2Y--
+
+

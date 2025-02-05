@@ -1,0 +1,180 @@
+Return-path: <sanper67@yahoo.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Sun, 30 Mar 2014 10:21:32 -0430
+Received: from nm17-vm3.bullet.mail.ne1.yahoo.com ([98.138.91.147]:31632)
+	by host.racksystem2.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <sanper67@yahoo.com>)
+	id 1WUH57-001s9Z-Jj
+	for info@courierpack.com.ve; Sun, 30 Mar 2014 10:21:32 -0430
+Received: from [98.138.101.128] by nm17.bullet.mail.ne1.yahoo.com with NNFMP; 30 Mar 2014 14:51:27 -0000
+Received: from [98.138.101.182] by tm16.bullet.mail.ne1.yahoo.com with NNFMP; 30 Mar 2014 14:51:27 -0000
+Received: from [127.0.0.1] by omp1093.mail.ne1.yahoo.com with NNFMP; 30 Mar 2014 14:51:27 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 248096.48699.bm@omp1093.mail.ne1.yahoo.com
+Received: (qmail 86014 invoked by uid 60001); 30 Mar 2014 14:51:27 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1396191087; bh=tKdW/S8cFcepZrDqdwT96cV5kpTZfo6KUZkNAWP0zJI=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=NiYiQvRfFNGZ7sAstNrh8IHIS55p+xo/AJC2yWt/yp6vbCw5vWVYnLNPJPZvpWWyY6zR/iakH9j2J1XQC0MjlZU+V0CSj1i1cwBuRedGlvNMhB63em9vht1L3K99/X3mdPhTs/E/YXsp1pTHTZO+yx+MpYo9UXgD1A8tu3OvkY4=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type;
+  b=gzRmhZXOV8bfcw82JC4+Q6LjI1GGMVA4rRJfSt5RzILfQ8PsEb+KDa3N0GZ75nYH0EBwTbJParYjucw9PSka7j5W/R0uTJeJqw6fIfWF+hCUJtde3vwU+Z/Gt710n02J82j49T4m0wYBzgsTn+cmUVSAmKyRR236J4NZM8dkl5s=;
+X-YMail-OSG: DCv0Yh0VM1kDcpy52cjfCsL2jX.e.ncylC35McuX1VpFOh_
+ klxaUxzgxZ8Sdj5msuMuT9y9tciHRTodF9HB61cApE391apk83iZdgRcwuOU
+ FedVETW5wYkT6lArz.Nber25UsGv3wfvcJ2AtnVxr9d5tjnFOMDhGL1U3lcy
+ POspOyzyYN7pxX.WQwahr2uKc3Sc2gDtqcJOtsapBMDMuYml4j98pX1FfZl.
+ wHFKpxam7w6iuzZa1oL7vjAj.WpGAE3A5h2H4JWDf57jzKkBH3L.ntuYvNI0
+ 5c7o8wCDeVxO2WvIeyUhfvvXb5ikGfYZd2F_WmWW_OsFuvML69C9FceFmZTG
+ GG8nx8y6eH4yb5E56I.hfm3FzKHR_mqZhbnbkDaNptXELVodfiExLRaMjsuF
+ OgNmiiFjmHVGLu7ii84EncCITwRl1Ed74HZ981PEi6IKhm2p7guTBe7MGxkC
+ 8ym6IOS6qo2urKyFvdSM9W784MjKZ9cL60lmV2nX2w9Qccwkh1xGlDg.o4vN
+ uAkleWAPnU36AVoiQycEMuAS6L96sw2RoN6R24V_N
+Received: from [186.24.16.2] by web122906.mail.ne1.yahoo.com via HTTP; Sun, 30 Mar 2014 07:51:26 PDT
+X-Rocket-MIMEInfo: 002.001,SG9sYSBidWVubyBkw61hcy4gR3JhY2lhcyBwb3IgdHJhc2xhZGFybWUgbWkgY2FyZ2EuIE1lIHBhcmVjZSBiYXN0YW50ZSBhbHRvIGVsIG1vbnRvIGVsIHRyYXNsYWRvIG5vIHBlbnPDqSBxdWUgbWUgc2FsZHLDrWEgdGFuIGNvc3Rvc28sIERlIGhlY2hvIGxhIHZleiBwYXNhZGEgcXVlIHV0aWxpY2UgZWwgc2VydmljaW_CoCBwYXJhIHRyYWVyIHVuIHRlbGV2aXNvciB1c3RlZGVzIG1lIHJlY29tZW5kYXJvbiBxdWUgZW4gb3RyYSBvcG9ydHVuaWRhZCBzb2xpY2l0YXJhIGVsIHRyYXNsYWRvIGRlbGEgY2FyZ2EBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.181.645
+References: <1999893506-1396108952-cardhu_decombobulator_blackberry.rim.net-1699980627-@b3.c4.bise6.blackberry>
+Message-ID: <1396191086.73032.YahooMailNeo@web122906.mail.ne1.yahoo.com>
+Date: Sun, 30 Mar 2014 07:51:26 -0700 (PDT)
+From: yrma santana <sanper67@yahoo.com>
+Reply-To: yrma santana <sanper67@yahoo.com>
+Subject: Re: CPK
+To: "info@courierpack.com.ve" <info@courierpack.com.ve>
+In-Reply-To: <1999893506-1396108952-cardhu_decombobulator_blackberry.rim.net-1699980627-@b3.c4.bise6.blackberry>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-255139078-1949193465-1396191086=:73032"
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hola bueno días. Gracias por trasladarme mi carga. Me parece
+    bastante alto el monto el traslado no pensé que me saldría tan costoso, De
+    hecho la vez pasada que utilice el servicio para traer un televisor ustedes
+    me recomendaron que en otra oportunidad solicitara el traslado dela carga
+    por barco para bajar lo costos y así lo hice esta vez. Con el precio del
+   traslado me saldría mas económico comprarlo en Venezuela, En verdad estoy
+   asombrada con el monto. Me gustaría por favor revisaran nuevamente y me explicaran
+    de forma mas detallada el monto que me están cobrando que con todo respeto
+    les vuelvo a repetir me parece un exageración. [...] 
+ 
+ Content analysis details:   (0.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (sanper67[at]yahoo.com)
+  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+                             (yrma santana <sanper67[at]yahoo.com>
+ )
+ -0.4 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (sanper67[at]yahoo.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+---255139078-1949193465-1396191086=:73032
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hola bueno d=EDas. Gracias por trasladarme mi carga. Me parece bastante alt=
+o el monto el traslado no pens=E9 que me saldr=EDa tan costoso, De hecho la=
+ vez pasada que utilice el servicio=A0 para traer un televisor ustedes me r=
+ecomendaron que en otra oportunidad solicitara el traslado dela carga por b=
+arco para bajar lo costos y as=ED lo hice esta vez. Con el precio del trasl=
+ado me saldr=EDa mas econ=F3mico comprarlo en Venezuela, En verdad estoy as=
+ombrada con el monto. Me gustar=EDa por favor revisaran nuevamente y me exp=
+licaran de forma mas detallada el monto que me est=E1n cobrando que con tod=
+o respeto les vuelvo a repetir me parece un exageraci=F3n.=0A=0ASaludos Cor=
+diales=0AOn Saturday, March 29, 2014 11:32 AM, CourierPack <info@courierpac=
+k.com.ve> wrote:=0A  =0ABuenas Tardes=A0 Sra. Yrma Santana Por este medio s=
+e le informa que su carga se encuentra en nuestros almaneces disponible par=
+a su envio y entrega .=0A=0AAprovechamos para indicar que el costo por el s=
+ervicio de flete es de Bs.26.820, =0AConjuntamente se le indica el detalle =
+bancario=A0=0A=0ATitular: Gabriela Garcia=A0=0ACuenta Corriente: =A00134.00=
+66.12.066.306.9613=A0=0ABanco: Banesco=0AC.I.: 18.539.138=A0=0A=0A=0AAtenci=
+on telefonica=A0 de Lunes a Viernes=A0 de 10am a 4 pm=0A=0AEsta es nuestra =
+informaci=F3n de contacto:=0ATel=E9fono: 0424.108.27.57 / 0414.900.75.90=0A=
+E-mail: Gabrielagarcia@courierpack.com.ve=0AMiguel.pita@courierpack.com.ve =
+=0APersona Contacto: Gabriela Garcia/ Miguel Pita=0A=0A=0AUna vez realizado=
+ el pago, enviar=A0 un correo a esta direcci=F3n Gabrielagarcia@courierpack=
+.com =0AMiguel.pita@courierpack.com.ve con la siguiente informaci=F3n:=0A=
+=0ADatos de la Compra=0A=0ANombre del cliente registrado _______________=0A=
+Producto(s) Cancelados _______________=0AFecha de Deposito ________=0AMonto=
+ Depositado _______=0AEnvio Incluido en el Pago (Si/No)_______=0ABanco en d=
+onde se deposit=F3__________=0ATipo de Deposito _____________=0ANro de Refe=
+rencia/Comprobante ___________=0A=0ADatos para el Envio=0A=0ADireccion de E=
+nvio Envio: ___________=0ACiudad y Estado_____________=0AMunicipio ________=
+__=A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 Parroquia ____________=0ACodigo Posta=
+l ___________=0APersona que Recibe _____________=0ATelefono de Contacto ___=
+_________=0A=0AEn CPK=A0 estamos para servirte. Cualquier duda no dejes de =
+consultarnos por las canales antes presentados.=0A=0A=0ACentral de informan=
+cion al Cliente.
+---255139078-1949193465-1396191086=:73032
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:12pt"><div><span>Hola bueno d=EDas. Gracias por trasladarme mi carg=
+a. Me parece bastante alto el monto el traslado no pens=E9 que me saldr=EDa=
+ tan costoso, De hecho la vez pasada que utilice el servicio&nbsp; para tra=
+er un televisor ustedes me recomendaron que en otra oportunidad solicitara =
+el traslado dela carga por barco para bajar lo costos y as=ED lo hice esta =
+vez. Con el precio del traslado me saldr=EDa mas econ=F3mico comprarlo en V=
+enezuela, En verdad estoy asombrada con el monto. Me gustar=EDa por favor r=
+evisaran nuevamente y me explicaran de forma mas detallada el monto que me =
+est=E1n cobrando que con todo respeto les vuelvo a repetir me parece un exa=
+geraci=F3n.</span></div><div style=3D"color: rgb(0, 0, 0); font-family: Hel=
+veticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;
+ font-size: 16px; font-style: normal; background-color: transparent;"><span=
+><br></span></div><div style=3D"color: rgb(0, 0, 0); font-family: Helvetica=
+Neue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif; font-siz=
+e: 16px; font-style: normal; background-color: transparent;"><span>Saludos =
+Cordiales</span></div><div class=3D"yahoo_quoted" style=3D"display: block;"=
+> <div style=3D"font-family: HelveticaNeue, Helvetica Neue, Helvetica, Aria=
+l, Lucida Grande, sans-serif; font-size: 12pt;"> <div style=3D"font-family:=
+ HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif=
+; font-size: 12pt;"> <div dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> On =
+Saturday, March 29, 2014 11:32 AM, CourierPack &lt;info@courierpack.com.ve&=
+gt; wrote:<br> </font> </div>  <div class=3D"y_msg_container">Buenas Tardes=
+&nbsp; Sra. Yrma Santana Por este medio se le informa que su carga se encue=
+ntra en nuestros almaneces disponible para su envio y entrega .<br><br>Apro=
+vechamos
+ para indicar que el costo por el servicio de flete es de Bs.26.820, <br>Co=
+njuntamente se le indica el detalle bancario&nbsp;<br><br>Titular: Gabriela=
+ Garcia&nbsp;<br>Cuenta Corriente: &nbsp;0134.0066.12.066.306.9613&nbsp;<br=
+>Banco: Banesco<br>C.I.: 18.539.138&nbsp;<br><br><br>Atencion telefonica&nb=
+sp; de Lunes a Viernes&nbsp; de 10am a 4 pm<br><br>Esta es nuestra informac=
+i=F3n de contacto:<br>Tel=E9fono: 0424.108.27.57 / 0414.900.75.90<br>E-mail=
+: <a href=3D"mailto:Gabrielagarcia@courierpack.com.ve" ymailto=3D"mailto:Ga=
+brielagarcia@courierpack.com.ve">Gabrielagarcia@courierpack.com.ve</a><br><=
+a href=3D"mailto:Miguel.pita@courierpack.com.ve" ymailto=3D"mailto:Miguel.p=
+ita@courierpack.com.ve">Miguel.pita@courierpack.com.ve</a> <br>Persona Cont=
+acto: Gabriela Garcia/ Miguel Pita<br><br><br>Una vez realizado el pago, en=
+viar&nbsp; un correo a esta direcci=F3n <a href=3D"mailto:Gabrielagarcia@co=
+urierpack.com"
+ ymailto=3D"mailto:Gabrielagarcia@courierpack.com">Gabrielagarcia@courierpa=
+ck.com</a> <br><a href=3D"mailto:Miguel.pita@courierpack.com.ve" ymailto=3D=
+"mailto:Miguel.pita@courierpack.com.ve">Miguel.pita@courierpack.com.ve</a> =
+con la siguiente informaci=F3n:<br><br>Datos de la Compra<br><br>Nombre del=
+ cliente registrado _______________<br>Producto(s) Cancelados _____________=
+__<br>Fecha de Deposito ________<br>Monto Depositado _______<br>Envio Inclu=
+ido en el Pago (Si/No)_______<br>Banco en donde se deposit=F3__________<br>=
+Tipo de Deposito _____________<br>Nro de Referencia/Comprobante ___________=
+<br><br>Datos para el Envio<br><br>Direccion de Envio Envio: ___________<br=
+>Ciudad y Estado_____________<br>Municipio __________&nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Parroquia ____________<br>Codigo P=
+ostal ___________<br>Persona que Recibe _____________<br>Telefono de Contac=
+to ____________<br><br>En CPK&nbsp; estamos para servirte. Cualquier duda n=
+o
+ dejes de consultarnos por las canales antes presentados.<br><br><br>Centra=
+l de informancion al Cliente.<br><br></div>  </div> </div>  </div> </div></=
+body></html>
+---255139078-1949193465-1396191086=:73032--

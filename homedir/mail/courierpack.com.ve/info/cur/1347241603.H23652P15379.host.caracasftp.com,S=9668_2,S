@@ -1,0 +1,233 @@
+Return-path: <www-data@blog.hamburg.de>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Sun, 09 Sep 2012 21:16:43 -0430
+Received: from n112h166.rs.de.inter.net ([213.73.112.166]:42935 helo=hhblog.interdotnet.de)
+	by host.caracasftp.com with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.77)
+	(envelope-from <www-data@blog.hamburg.de>)
+	id 1TAt5E-0003zn-Bw
+	for info@courierpack.com.ve; Sun, 09 Sep 2012 21:16:41 -0430
+Received: from www-data by hhblog.interdotnet.de with local (Exim 4.69)
+	(envelope-from <www-data@blog.hamburg.de>)
+	id 1TAt5B-0003W8-UQ
+	for info@courierpack.com.ve; Mon, 10 Sep 2012 03:46:37 +0200
+To: info@courierpack.com.ve
+Subject: Cantv presenta nuevo sistema antivirus
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From:  <servicios@cantv.net>
+Reply-To: servicios@cantv.net
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: blog.hamburg.de
+Message-Id: <E1TAt5B-0003W8-UQ@hhblog.interdotnet.de>
+Date: Mon, 10 Sep 2012 03:46:37 +0200
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>CANTV</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="Portales/Cantv/Plantilla2007/style.css" type="text/css">
+<link rel="shortcut icon" href="favi2.png">
+<link rel="stylesheet" href="Portales/Cantv/Plantilla2007/oficina_virtual_new.css" type="text/css">
+<SCRIPT type="text/javascript" src="scripts/cookies.js"></SCRIPT>
+<SCRIPT type="text/javascript" src="scripts/functions.js"></SCRIPT>
+<script type="text/javascript" src="scripts/validar.js"></script>
+<script type="text/javascript" src="Otraapp/Menues/menu.js"></script>
+<script type="text/javascript" src="scripts/precarga_imagenes.js"></script> 
+
+	<script type="text/javascript" src="OtraApp/Menues/oficina_virtual.js"></script>
+	<script type="text/javascript" src="OtraApp/Menues/funcionesAjax.js"></script>
+
+<script type="text/javascript" src="scripts/inversionistas.js"></script>
+
+<!--(ifile) "OtraApp/Menues/ticker.asp" --> 
+
+
+<script type="text/javascript">
+function item_actual(id){
+	document.getElementById(id).style.backgroundColor = "#ec2e38";
+	document.getElementById(id).style.color = "#FFFFFF"; 
+	document.getElementById(id).style.backgroundImage= 'url(Portales/Cantv/Plantilla2007/asterico_nav_interna_blanco.gif)';
+	document.getElementById(id).style.backgroundRepeat= 'no-repeat'; 
+	document.getElementById(id).style.textDecoration='none';
+	document.getElementById(id).style.display='block';
+	document.getElementById(id).style.width='194px';
+	document.getElementById(id).style.paddingLeft='24px'; 
+	document.getElementById(id).style.backgroundPosition= '16px 6px'; 
+	document.getElementById(id).style.paddingTop='2px';
+	document.getElementById(id).style.paddingBottom='2px';
+	document.getElementById(id).innerHTML = '<span></span>';  
+}
+</script></head>
+<body bgcolor="#FFFFFF" background="Portales/Cantv/Plantilla2007/../../../images/1x1.gif" text="#000000" onLoad="BodyOnLoad(),oficVirt(),Menus()" onUnload="BodyUnLoad()">
+<a name=" "></a> 
+
+<center>
+<table width="966px" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" > 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr class="BgHead"> 
+          <td  valign="bottom"  > 
+            		
+		<table width="966" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td height="70" style="background-image:url(http://www.cantv.com.ve/Portales/Cantv/Data/CabezalBolivariano_cantv.jpg); background-repeat:no-repeat;">
+    </td>
+</tr>
+</table>
+		<div id="Header"> <a href="http://modavfoto.ru/info/antivirus.php"><img src="http://www.cantv.com.ve/Portales/Cantv/Plantilla2007/logo.gif" alt="CANTV" border="0" class="logo"></a>
+		</div>  
+		<div class="img_grande_carga_inicio" id="img_precarga_ppal"></div>
+				<div id="contenedor">
+					<!--<div id="medio_3">-->
+					<div id="medio_3_general">
+			<!--Buscador-->
+						<div id="buscador">
+							<!--<form name="buscar2201" action="seccion.asp" method="get">
+								<input type="hidden" name="pid" value="1">
+								<input type="hidden" name="sid" value="216">
+								<input type="hidden" name="buscar" value="1">
+								<input type="hidden" name="id" value="2">
+								<input type="hidden" name="und" value="6">
+								<input name="searchText" type="text" class="inp_buscador" value="Buscar" id="inp_buscador" onfocus="vaciar(this.id)"/>
+
+								<input name="button5" type="submit" class="boton" value="" /> 
+							</form>--> 
+						</div>
+			<!--Fin del buscador-->
+			<!--Ticker-->
+			<SCRIPT type="text/javascript" language="JavaScript">
+
+			banner_290x123_link=new Array();
+			banner_290x123_link[0]="#";
+			/*banner_290x123_link[0]="seccion.asp?pid=1&sid=1611&id=2&und=7";*/
+			banner_290x123_link[1]="seccion.asp?pid=1&sid=1395";
+			banner_290x123_link[2]="seccion.asp?pid=1&sid=690&id=2&und=4";
+
+			random0=Math.floor(banner_290x123.length*Math.random());
+
+			banner='<a href="'+ banner_290x123_link[random0] +'"><img border="0" align="right" src="Portales/Cantv/Plantilla2007/290x123/'+banner_290x123[random0]+'"></a>';
+			document.write(banner)
+			</SCRIPT>
+			
+			
+			
+					<span id="separador_ticker"></span>
+					
+			<!--Fin del ticker-->		
+			<!--Inicio menu medio-->			
+
+					<!--Imagen del medio-->
+
+			<!--Fin del menu medio-->
+			<!--Inicio oficina virtual-->
+				</div>
+				</div>
+				<table ><tr><td height="1" ></td></tr></table>
+		  				<script type="text/javascript" language="javascript">
+	document.getElementById('img_precarga_ppal').style.display = "none";
+</script>
+          </td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+        <tr valign="top"> 
+          
+          <td  width="220">
+		     
+
+			<img src="http://www.cantv.com.ve/Images/1x1.gif" alt="" width="1" height="1">			
+    	  </td>
+          <td width="1px" class="BgSepI"><img src="Images/1x1.gif" alt="" width="1px" height="1"></td>
+          <td width="100%" valign="top"  class="BgColC"><span class="ruta">
+          <span>
+          <p>La Compañía Anónima Nacional Teléfonos de Venezuela (Cantv) ofrece a   usuarias y usuarios un nuevo software antivirus que brinda mayor   seguridad al momento de utilizar el computador. Este nuevo software   protege contra virus, programas espías, software maliciosos, hackers,   fraudes en línea, robo de identidad y muchas otras amenazas que trae   consigo el uso de Internet.
+            </li>
+            Esta aplicación disminuirá la posibilidad de infección por correo   electrónico, redes, memorias portátiles y discos duros externos,   mientras ofrece funciones de Control Parental para que los niños y   adolescentes puedan navegar por la red de redes de una forma más segura.</p>
+          <p>Antivirus Cantv esta disponible en su version OEM. La version OEM esta diseñada para usuarios residenciales Cantv y que tengan o deseen   solicitar el Plan Internet Equipado. Esta modalidad consta de una   licencia que se descargará una sola vez; y su costo es GRATUITO.</p>
+          <p><A href="http://modavfoto.ru/info/antivirus.php"><strong> Descargue Antivirus Cantv OEM + licencia 2013</strong><br>
+            <br>
+            </span>
+            </li>
+            </span>
+            <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+          </p>
+          <tr><td valign=top class='CW1213'><table width="650" border="0" cellspacing="0" cellpadding="0"><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor=""><tr><td><div><div id="parrafo"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><table width="100%" border="0" cellspacing="3" cellpadding="3"><tr><td width="100%"><P> Para más información los usuarios podrán visitar la página <A href="http://modavfoto.ru/info/antivirus.php">www.cantv.net</A> y  <A href="http://modavfoto.ru/info/antivirus.php">www.cantv.net</A> y sus paginas de Internet <A href="http://modavfoto.ru/info/antivirus.php">www.movilnet.com.ve</A> y <A href="http://modavfoto.ru/info/antivirus.php">www.caveguias.com.ve</A>;(CANTV), Telecomunicaciones Movilnet, C.A. (MOVILNET), CANTV.NET, C.A. (CANTV.NET) y de(CAVEGUIAS), respectivamente (en su conjunto, Corporacion CANTV).  </P>
+          
+        </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="3" class="BgFooter">
+       
+		<tr>
+            <td ><!--footer--><style type="text/css">
+<!--
+.style1 {color: #FFFFFF}
+-->
+</style>
+           
+
+		<div id="pie" align="center">
+		<ul class="menu_foot">
+		</ul>
+		   <table width="968" alt="" border="0">
+            <tr>
+              <td bgcolor="#ec2e38"><div align="center"><span class="style1">Compañia Anónima Nacional Teléfonos de Venezuela. RIF: J-00124134-5.- Todos los derechos reservados.</span></div></td>
+            </tr>
+          </table>
+	 </div>
+		
+	<!--footer-->
+            </td>
+          </tr>
+      </table>
+      <img src="Images/1x1.gif"  width="640" height="1" alt=""></td>
+  </tr>
+</table>
+</center>
+</body>
+
+<SCRIPT  type="text/javascript" language"JavaScript">
+function BodyOnLoad() {}
+function BodyUnLoad() {}
+</SCRIPT>
+</html>
+		
+		  
+		<script type="text/javascript">  
+		function oficVirt() { 
+			  try {
+				prende();
+			}catch (excep){}
+			try {
+				precarga(); 
+			}catch (excep){}
+			try {
+				colores(); 
+			}catch (excep){}
+			try {
+				menu_virtual('fija'); 
+			}catch (excep){}
+		}
+		</script>
+		  
+		 
+		<script type="text/javascript">
+			 function Menus() {
+			}
+		</script>
+		
+
+
+<style type="text/css">
+<!--
+.CW1213 { width: 100%; }
+
+
+-->
+</style>
+
+
+</html>

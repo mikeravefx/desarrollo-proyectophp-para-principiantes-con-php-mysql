@@ -1,0 +1,149 @@
+Return-path: <info=courierpack.com.ve@bounces.wp.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Tue, 24 Sep 2013 08:21:30 -0430
+Received: from smtp3.luv.wordpress.com ([72.233.119.196]:44035)
+	by host.racksystem2.com with esmtp (Exim 4.80)
+	(envelope-from <info=courierpack.com.ve@bounces.wp.com>)
+	id 1VOS5Q-002yaK-CH
+	for info@courierpack.com.ve; Tue, 24 Sep 2013 08:21:29 -0430
+Received: from smtp3.luv.wordpress.com (localhost.localdomain [127.0.0.1])
+	by smtp3.luv.wordpress.com (Postfix) with ESMTP id 0E4511001C
+	for <info@courierpack.com.ve>; Tue, 24 Sep 2013 12:51:27 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=wordpress.com; h=date:to
+	:from:subject:message-id:mime-version:content-type; s=my5; bh=/F
+	kB2iEr4xNehLYXxf6fxiwiLrA=; b=06j3YqSgGYIgLecatTUfTdVgVbA4OtMahx
+	rBgB4OKt72hkqdn72S92ZPkiCKfsnPeRijjzmXClh8XVOZIZp38LSiGLCBtp3lBh
+	juVz26IHe9tGQgULrMBFhpJ7DAZhrxFqtwGHe3aAqsxumhWIB6CVB7E+hRMDWdlA
+	X4s18YFqM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=wordpress.com; h=date:to:from
+	:subject:message-id:mime-version:content-type; q=dns; s=my5; b=m
+	rmPkoS+gOGBiNVbM6O//75qh53YClFcvRvYLJqHCWaHC12dwp8v1zYiYKQf1+Qnb
+	ESC/UWSzsgdb9X307toIxTghKYa+WCi+U5o+3C25XIsAegJqR26F4nHnTRV5EuZ2
+	QIe7T5B+0Xxm14Ht+8ksxy4eaORg4N1/NXvSE2KrU0=
+Received: from wordpress.com (unknown [72.232.113.15])
+	by smtp3.luv.wordpress.com (Postfix) with ESMTP id 0D39410017
+	for <info@courierpack.com.ve>; Tue, 24 Sep 2013 12:51:27 +0000 (UTC)
+Date: Tue, 24 Sep 2013 12:51:27 +0000
+To: info@courierpack.com.ve
+From: "WordPress.com" <donotreply@wordpress.com>
+Subject: Activate iglosroques.wordpress.com
+Message-ID: <0154039e14e1cb44e9fa2bd7f077b0df@wordpress.com>
+X-Priority: 3
+X-Automattic-Destination: aW5mb0Bjb3VyaWVycGFjay5jb20udmU=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_0154039e14e1cb44e9fa2bd7f077b0df"
+
+--b1_0154039e14e1cb44e9fa2bd7f077b0df
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Howdy miguelpita,=0A=0AThank you for signing up with WordPress.com. Use thi=
+s URL to activate your blog: https://signup.wordpress.com/activate/d31863f2=
+0056b456=0A=0A
+
+--b1_0154039e14e1cb44e9fa2bd7f077b0df
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A=09<head>=0A=09=09<style type=3D"text/css" media=3D"a=
+ll">=0A=09=09=09a:hover {=09color: red;=09}=0A=09=09=09a {=0A=09=09=09=09te=
+xt-decoration: none;=0A=09=09=09=09color: #0088cc;=0A=09=09=09}=0A=0A=09=09=
+=09a.primaryactionlink:link, a.primaryactionlink:visited { background-color=
+: #2585B2; color: #fff; }=0A=09=09=09a.primaryactionlink:hover, a.primaryac=
+tionlink:active { background-color: #11729E !important; color: #fff !import=
+ant; }=0A=0A=09=09=09/*=0A=09=09=09=09@media only screen and (max-device-wi=
+dth: 480px) {=0A=09=09=09=09=09 .post { min-width: 700px !important; }=0A=
+=09=09=09=09}=0A=09=09=09*/=0A=09=09</style>=0A=09=09<title>WordPress.com</=
+title>=0A=09=09<!--[if gte mso 12]>=0A=09=09<style type=3D"text/css" media=
+=3D"all">=0A=09=09body {=0A=09=09font-family: arial;=0A=09=09font-size: 0.8=
+em;=0A=09=09}=0A=09=09.post, .comment {=0A=09=09background-color: white !im=
+portant;=0A=09=09line-height: 1.4em !important;=0A=09=09}=0A=09=09</style>=
+=0A=09=09<![endif]-->=0A=09=09<meta http-equiv=3D"Content-Type" content=3D"=
+text/html; charset=3Dutf-8" />=0A=09</head>=0A=0A=09<body class=3D"subscrip=
+tion-body-tag ltr" style=3D"margin: 0; padding: 0; width: 100% !important;"=
+>=0A=09=09<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" bgcolor=3D"#DDDDDD"  style=3D"width: 100%; background: #DDDDDD;">=0A=
+=09=09=09<tr>=0A=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=0A=09=09=09=
+=09=09<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D'cent=
+er'  class=3D"subscribe-body" width=3D"550" style=3D"width: 100%; padding: =
+10px;">=0A=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09<td>=0A=0A=09=09=09=
+=09=09=09=09=09<div style=3D"max-width: 600px; margin: 0 auto;">=0A=0A=09=
+=09=09=09=09=09=09=09=09<table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" bgcolor=3D"#ffffff"  class=3D"subscribe-wrapper" style=3D"width: 100=
+%; background-color: #fff; text-align: left; margin: 0 auto; max-width: 102=
+4px; min-width: 320px;">=0A=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09<td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<tabl=
+e width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" height=3D=
+"8" background=3D"http://s.wordpress.com/i/emails/stripes.gif"  class=3D"su=
+bscribe-header-wrap" style=3D"width: 100%; background-image: url( 'http:/s.=
+wordpress.com/i/emails/stripes.gif'); background-repeat: repeat-x; backgrou=
+nd-color: #43A4D0; height: 8px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td></td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09</ta=
+ble>=0A=0A=09=0A=09=0A=09=09<table width=3D"100%" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0"  class=3D"subscribe-header" style=3D"width: 100%; =
+background-color: #EFEFEF; padding: 0; border-bottom: 1px solid #DDD;">=0A=
+=09=09=09<tr>=0A=09=09=09=09<td>=0A=09=09=09=09=09<h2 style=3D"padding: 0; =
+margin: 5px 20px; font-size: 16px; line-height: 1.4em; font-weight: normal;=
+ color: #464646; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial,=
+ sans-serif;"  class=3D"subscribe-title"><strong>Howdy miguelpita</strong><=
+/h2>=0A=09=09=09=09</td>=0A=09=0A=09=09=09=09<td style=3D"vertical-align: m=
+iddle;" height=3D"32" width=3D"32" valign=3D"middle" align=3D"right">=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09<a style=3D"text-decoration: underline; co=
+lor: #2585B2;"  href=3D"http://wordpress.com">=0A=09=09=09=09=09=0A=09=09=
+=09=09=09=09<img border=3D"0" class=3D"head-avatar" src=3D"https://secure.g=
+ravatar.com/blavatar/653166773dc88127bd3afe0b6dfe5ea7?s=3D32&amp;ts=3D13800=
+27087" alt=3D""  / style=3D"margin: 5px 20px 5px 0; vertical-align: middle;=
+ vertical-align: middle;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09</a>=0A=09=
+=09=09=09=09=0A=09=09=09=09</td>=0A=09=09=09</tr>=0A=09=09</table>=0A=0A=09=
+=0A=09<table style=3D"width: 100%;"  width=3D"100%" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"20" bgcolor=3D"#ffffff">=0A=09=09<tr>=0A=09=09=09<td=
+ valign=3D"top" style=3D"padding: 20px;">=0A=09=09=09=09<p style=3D"font-si=
+ze: 14px; line-height: 1.4em; color: #444444; font-family: &quot;Helvetica =
+Neue&quot;, Helvetica, Arial, sans-serif; margin: 0 0 1em 0; margin: 0 0 20=
+px 0;">=0A=09=09=09=09=09Thank you for signing up with WordPress.com. Click=
+ the button below to activate your new blog.=09=09=09=09</p>=0A=09=09=09=09=
+<p style=3D"font-size: 14px; line-height: 1.4em; color: #444444; font-famil=
+y: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; margin: 0 0 1e=
+m 0; margin: 0 0 5px 0;">=0A=09=09=09=09=09<a href=3D"https://signup.wordpr=
+ess.com/activate/d31863f20056b456"  style=3D"text-decoration: underline; co=
+lor: #2585B2; -moz-border-radius: 10em; -webkit-border-radius: 10em; border=
+-radius: 10em; border: 1px solid #11729E; text-decoration: none; color: #ff=
+f; text-shadow: 0 1px 0 #11729E; background-color: #2585B2; padding: 5px 15=
+px; font-size: 16px; line-height: 1.4em; font-family: Helvetica Neue, Helve=
+tica, Arial, sans-serif; font-weight: normal;">Activate Blog</a>=0A=09=09=
+=09=09</p>=0A=09=09=09</td>=0A=09=09</tr>=0A=09</table>=0A=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=0A=09=0A=09=09=09=09=09=09=09=09=09=09=09=09=0A=
+=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09</tr=
+>=0A=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09<ta=
+ble width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" height=
+=3D"3" background=3D"http://s.wordpress.com/i/emails/stripes.gif"  class=3D=
+"subscribe-footer-wrap" style=3D"width: 100%; background-image: url( 'http:=
+//s.wordpress.com/i/emails/stripes.gif'); background-repeat: repeat-x; back=
+ground-color: #43A4D0; height: 3px;">=0A=09=09=09=09=09=09=09=09=09=09<tr>=
+=0A=09=09=09=09=09=09=09=09=09=09=09<td></td>=0A=09=09=09=09=09=09=09=09=09=
+=09</tr>=0A=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=
+=09</div>=0A=0A=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09</tr>=0A=09=
+=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center"  class=3D"subscribe-footer" style=3D"width: 100%; padding-botto=
+m: 2em; color: #555555; font-size: 12px; height: 18px; text-align: center; =
+font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">=0A=
+=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09<td align=3D"center"><a class=
+=3D"subscribe-footer-link"  href=3D"http://wordpress.com" style=3D"text-dec=
+oration: underline; color: #2585B2; font-size: 14px; color: #555555 !import=
+ant; text-decoration: none; font-family: &quot;Helvetica Neue&quot;, Helvet=
+ica, Arial, sans-serif; color: #555 !important; font-size: 14px; text-decor=
+ation: none;">Thanks for flying with <img border=3D"0" src=3D"http://s.word=
+press.com/i/emails/wp-footericon.png" alt=3D"" style=3D"vertical-align: mid=
+dle;" width=3D"16" height=3D"17" /> WordPress.com</a></td>=0A=09=09=09=09=
+=09=09</tr>=0A=09=09=09=09=09</table>=0A=09=09=09=09=09=0A=09=09=09=09</td>=
+=0A=09=09=09</tr>=0A=09=09</table>=0A=09</body>=0A</html>
+
+
+--b1_0154039e14e1cb44e9fa2bd7f077b0df--
+
+

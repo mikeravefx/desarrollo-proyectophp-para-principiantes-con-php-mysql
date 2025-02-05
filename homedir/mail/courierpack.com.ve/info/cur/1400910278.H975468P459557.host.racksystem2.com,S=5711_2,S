@@ -1,0 +1,113 @@
+Return-path: <>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Sat, 24 May 2014 01:14:38 -0430
+Received: from smtp08.bis6.us.blackberry.com ([74.82.85.8]:65437)
+	by host.racksystem2.com with esmtp (Exim 4.82)
+	id 1Wo4l4-001vY7-PV
+	for info@courierpack.com.ve; Sat, 24 May 2014 01:14:38 -0430
+Received: from antispam7.c0.bise5.blackberry ([192.168.0.22])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id s4O5iaI3001364
+	for <SRS0=CC9ozA=2W=courierpack.com.ve=info@srs.bis6.us.blackberry.com>; Sat, 24 May 2014 05:44:36 GMT
+X-SBRS: 5.6
+Received: from snt004-omc2s12.hotmail.com ([65.55.90.87])
+  by antispam7.c0.bise5.blackberry with ESMTP; 24 May 2014 05:44:36 +0000
+Received: from SNT0-MC4-F12.Snt0.hotmail.com ([65.55.90.71]) by SNT004-OMC2S12.hotmail.com with Microsoft SMTPSVC(7.5.7601.22678);
+	 Fri, 23 May 2014 22:44:35 -0700
+From: postmaster@hotmail.com
+To: SRS0=CC9ozA=2W=courierpack.com.ve=info@srs.bis6.us.blackberry.com
+Date: Fri, 23 May 2014 22:44:35 -0700
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01CF58D06501926D02487F2ESNT0?MC4?F12.Snt"
+X-DSNContext: 335a7efd - 4480 - 00000001 - 80040546
+Message-ID: <8pkpLkTgb007e0668@SNT0-MC4-F12.Snt0.hotmail.com>
+Subject: Delivery Status Notification (Failure)
+X-OriginalArrivalTime: 24 May 2014 05:44:35.0987 (UTC) FILETIME=[3EDE3E30:01CF7713]
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01CF58D06501926D02487F2ESNT0?MC4?F12.Snt
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+       amirsanoja@hotmail.com
+
+
+
+
+--9B095B5ADSN=_01CF58D06501926D02487F2ESNT0?MC4?F12.Snt
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;SNT0-MC4-F12.Snt0.hotmail.com
+Received-From-MTA: dns;smtp04.bis6.us.blackberry.com
+Arrival-Date: Fri, 23 May 2014 22:44:35 -0700
+
+Final-Recipient: rfc822;amirsanoja@hotmail.com
+Action: failed
+Status: 5.5.0
+Diagnostic-Code: smtp;550 Requested action not taken: mailbox unavailable (2038705067:3902:-2147467259)
+
+--9B095B5ADSN=_01CF58D06501926D02487F2ESNT0?MC4?F12.Snt
+Content-Type: message/rfc822
+
+Received: from smtp04.bis6.us.blackberry.com ([74.82.85.4]) by SNT0-MC4-F12.Snt0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4900);
+	 Fri, 23 May 2014 22:44:35 -0700
+Received: from b18.c4.bise6.blackberry ([192.168.0.118])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id s4O5bZFt022352
+	for <amirsanoja@hotmail.com>; Sat, 24 May 2014 05:37:35 GMT
+Received: from 172.29.197.204 (cmp34.c4.bise6.blackberry [172.29.197.204])
+	by b18.c4.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id s4O5bUnU015771
+	for <amirsanoja@hotmail.com>; Sat, 24 May 2014 05:37:30 GMT
+X-rim-org-msg-ref-id: 848705726
+Message-ID: <848705726-1400909849-cardhu_decombobulator_blackberry.rim.net-292174360-@b3.c4.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: info@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: CPK
+To: amirsanoja@hotmail.com
+From: "CourierPack" <info@courierpack.com.ve>
+Date: Sat, 24 May 2014 05:37:28 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+Return-Path: SRS0=CC9ozA=2W=courierpack.com.ve=info@srs.bis6.us.blackberry.com
+X-OriginalArrivalTime: 24 May 2014 05:44:35.0483 (UTC) FILETIME=[3E9156B0:01CF7713]
+
+QnVlbmFzIFRhcmRlc6AgU3JhLiBTaWx2YSBNaXJpYW4gIFBvciBlc3RlIG1lZGlvIHNlIGxlIGlu
+Zm9ybWEgcXVlIHN1IGNhcmdhIHNlIGVuY3VlbnRyYSBlbiBudWVzdHJvcyBhbG1hbmVjZXMgZGlz
+cG9uaWJsZSBwYXJhIHN1IGVudmlvIHkgZW50cmVnYSAuDQoNCkFwcm92ZWNoYW1vcyBwYXJhIGlu
+ZGljYXIgcXVlIGVsIGNvc3RvIHBvciBlbCBzZXJ2aWNpbyBkZSBmbGV0ZSBlcyBkZSBCcy4gMy4w
+MDAsKioNCkNvbmp1bnRhbWVudGUgc2UgbGUgaW5kaWNhIGVsIGRldGFsbGUgYmFuY2FyaW+gDQoN
+ClRpdHVsYXI6IEdhYnJpZWxhIEdhcmNpYaANCkN1ZW50YSBDb3JyaWVudGU6IKAwMTM0LjAwNjYu
+MTIuMDY2LjMwNi45NjEzoA0KQmFuY286IEJhbmVzY28NCkMuSS46IDE4LjUzOS4xMzigDQoNCg0K
+QXRlbmNpb24gdGVsZWZvbmljYSCgZGUgTHVuZXMgYSBWaWVybmVzIKBkZSAxMGFtIGEgNCBwbQ0K
+DQpFc3RhIGVzIG51ZXN0cmEgaW5mb3JtYWNp824gZGUgY29udGFjdG86DQpUZWzpZm9ubzogMDQy
+NC4xMDguMjcuNTcgLyAwNDE0LjkwMC43NS45MA0KRS1tYWlsOqBHYWJyaWVsYWdhcmNpYUBjb3Vy
+aWVycGFjay5jb20udmUNCk1pZ3VlbC5waXRhQGNvdXJpZXJwYWNrLmNvbS52ZQ0KUGVyc29uYSBD
+b250YWN0bzogR2FicmllbGEgR2FyY2lhLyBNaWd1ZWwgUGl0YQ0KDQoNClVuYSB2ZXogcmVhbGl6
+YWRvIGVsIHBhZ28sIGVudmlhciCgdW4gY29ycmVvIGEgZXN0YSBkaXJlY2Np825HYWJyaWVsYWdh
+cmNpYUBjb3VyaWVycGFjay5jb20NCk1pZ3VlbC5waXRhQGNvdXJpZXJwYWNrLmNvbS52ZaBjb24g
+bGEgc2lndWllbnRlIGluZm9ybWFjafNuOg0KDQpEYXRvcyBkZSBsYSBDb21wcmENCg0KTm9tYnJl
+IGRlbCBjbGllbnRlIHJlZ2lzdHJhZG8gX19fX19fX19fX19fX19fDQpQcm9kdWN0byhzKSBDYW5j
+ZWxhZG9zIF9fX19fX19fX19fX19fXw0KRmVjaGEgZGUgRGVwb3NpdG8gX19fX19fX18NCk1vbnRv
+IERlcG9zaXRhZG8gX19fX19fXw0KRW52aW8gSW5jbHVpZG8gZW4gZWwgUGFnbyAoU2kvTm8pX19f
+X19fXw0KQmFuY28gZW4gZG9uZGUgc2UgZGVwb3NpdPNfX19fX19fX19fDQpUaXBvIGRlIERlcG9z
+aXRvIF9fX19fX19fX19fX18NCk5ybyBkZSBSZWZlcmVuY2lhL0NvbXByb2JhbnRlIF9fX19fX19f
+X19fDQoNCkRhdG9zIHBhcmEgZWwgRW52aW8NCg0KRGlyZWNjaW9uIGRlIEVudmlvIEVudmlvOiBf
+X19fX19fX19fXw0KQ2l1ZGFkIHkgRXN0YWRvX19fX19fX19fX19fXw0KTXVuaWNpcGlvIF9fX19f
+X19fX18goCCgIKAgoCCgIKAgoCCgIKBQYXJyb3F1aWEgX19fX19fX19fX19fDQpDb2RpZ28gUG9z
+dGFsIF9fX19fX19fX19fDQpQZXJzb25hIHF1ZSBSZWNpYmUgX19fX19fX19fX19fDQpDZWR1bGEg
+X19fX19fX19fX18NClRlbGVmb25vIGRlIENvbnRhY3RvIF9fX19fX19fX19fXw0KDQpFbiBDUEsg
+oGVzdGFtb3MgcGFyYSBzZXJ2aXJ0ZS4gQ3VhbHF1aWVyIGR1ZGEgbm8gZGVqZXMgZGUgY29uc3Vs
+dGFybm9zIHBvciBsYXMgY2FuYWxlcyBhbnRlcyBwcmVzZW50YWRvcy4NCg0KDQoNCkF0ZW5jaW9u
+IGFsIENsaWVudGUNCg0KQ291cmllciBQYWNrIA0KNTkwMCBOVyA5OXRoIEF2ZSBVbml0ICMgNg0K
+RG9yYWwsIEZMIDMzMTc4
+
+
+
+--9B095B5ADSN=_01CF58D06501926D02487F2ESNT0?MC4?F12.Snt--

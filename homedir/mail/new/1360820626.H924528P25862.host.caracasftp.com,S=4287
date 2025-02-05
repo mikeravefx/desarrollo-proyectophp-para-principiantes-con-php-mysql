@@ -1,0 +1,97 @@
+Return-path: <>
+Envelope-to: courierp@host.caracasftp.com
+Delivery-date: Thu, 14 Feb 2013 01:13:46 -0430
+Received: from mailnull by host.caracasftp.com with local (Exim 4.80)
+	id 1U5rbm-0006j1-80
+	for courierp@host.caracasftp.com; Thu, 14 Feb 2013 01:13:46 -0430
+X-Failed-Recipients: ronaldo_2380@homail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@host.caracasftp.com>
+To: courierp@host.caracasftp.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1U5rbm-0006j1-80@host.caracasftp.com>
+Date: Thu, 14 Feb 2013 01:13:46 -0430
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  ronaldo_2380@homail.com
+    retry timeout exceeded
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <courierp@host.caracasftp.com>
+Received: from courierp by host.caracasftp.com with local (Exim 4.80)
+	(envelope-from <courierp@host.caracasftp.com>)
+	id 1U4PGY-0003Rh-R9
+	for ronaldo_2380@homail.com; Sun, 10 Feb 2013 00:45:51 -0430
+To: ronaldo_2380@homail.com
+Subject:  Bienvenido a Nuestra Familia de Clientes Satisfechos
+X-PHP-Script: www.courierpack.com.ve/registrado.php for 186.184.25.195
+From: info@courierpack.com.ve.com.ve
+Content-type: text/html
+Message-Id: <E1U4PGY-0003Rh-R9@host.caracasftp.com>
+Date: Sun, 10 Feb 2013 00:45:50 -0430
+
+<html> <head>  <title>  </title>  
+<style type='text/css'>
+<!--
+.style1 {
+	font-size: 9px;
+	font-weight: bold;
+}
+-->
+</style>
+</head>  
+<body style='background:#FFFFFF;font-size:12px;font-family:Verdana, Arial, Helvetica, sans-serif;color:#333333;'> <p>&nbsp;</p>  
+<table width='754' border='0'>
+  <tr>
+    <td width='562' bgcolor='#FFFFFF'><div align='center'><img src='http://www.courierpack.com.ve/images/kubrickheader.jpg' alt='' width='380' height='138'></div></td>
+    <td width='182' bgcolor='#FFFFFF'><b>Caracas, 10-02-13</b></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFFFF'><div align='right'><span style='color:#333333;font-size:12pt;'>Estimado(a):</span></div></td>
+    <td bgcolor='#FFFFFF'><b>Ronald Antonio Galindez Turris</b></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFFFF'>&nbsp;</td>
+    <td bgcolor='#FFFFFF'>&nbsp;</td>
+  </tr>
+  <tr>
+    <td bordercolor='#AAD2FF' bgcolor='#AAD2FF'><p align='justify'><span style='color:#333333;font-size:12pt;'>Bienvenido(a)!!!<br>
+          <br>
+          <br>
+          Recuerde que los datos mostrados a continuaci&oacute;n, son estrictamente confidenciales.</span></p>
+      <p>Usuario: <b><i> ronaldo_2380@homail.com</b></i><br>
+Password: <b><i>15532758</b></i><br>
+Nombre: <b><i>Ronald Antonio Galindez Turris</b></i><br>
+Cedula o Rif:<b><i> 15532758</b></i><br>
+Responsable de la Carga: <b><i>Ronald Galindez<br>
+</b></i>Direccion: <b><i>Urb. Madre Maria Sector F, Edf 4, Apto 421, Maracay, Edo-Aragua</b></i><br>
+Estado:<b><i>Aragua</b></i><br>
+Ciudad:Maracay<br>
+</b></i>Telefono Fijo:<b><i>02432356290</b></i><br>
+Telefono Movil 1: <b><i>04145979317</b></i><br>
+Telefono Movil 2: <b><i>04144468551</b></i></p>
+      <p>Gracias por su paciencia y espera, para nosotros su tiempo es importante, si posee otra solicitud no dude en <a href='http://www.courierpack.com.ve/contacto.html'>contactarnos</a><br>
+        <a href='contacto.html'><br>
+</a></p></td>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'><div align='center'><img src='http://www.courierpack.com.ve/images/mundocourierpack.jpg' alt='courier internacional puerta a puerta' width='174' height='172'></div></td>
+  </tr>
+  <tr>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'><div align='center'>
+      <p class='style1'><a href='www.courierpack.com.ve'>Sencillamente marcamos la diferencia en transporte internacional de carga </a><br>     
+        Copyright &copy; 2006 - 2009. Todos los derechos reservados, CourierPack &reg; Consulting C.A. Rif J30592360-4.</span></p>
+    </div></td>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'>&nbsp;</td>
+  </tr>
+  <tr>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'><br>
+    <p align='justify' style='color:#333333;font-size:12pt;' >&nbsp;</p></td>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'>&nbsp;</td>
+  </tr>
+</table>
+</body> 
+</html>

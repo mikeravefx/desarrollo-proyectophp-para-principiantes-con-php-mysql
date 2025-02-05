@@ -1,0 +1,34 @@
+# cPanel -- If you edit this file directly you must run /usr/local/cpanel/scripts/updateuserdomains afterwards to rebuild the system caches.
+# If you edit MAX_EMAIL_PER_HOUR or MAX_EMAIL_PER_HOUR-[domain] you must run /usr/local/cpanel/scripts/updateuserdomains'
+
+BACKUP=1
+BWLIMIT=20971520000
+CONTACTEMAIL=m_pita@hotmail.com
+CONTACTEMAIL2=
+DBOWNER=courierp
+DEMO=0
+DNS=courierpack.com.ve
+FEATURELIST=default
+HASCGI=1
+HASDKIM=1
+HASSPF=1
+IP=82.98.147.48
+LANG=spanish
+LEGACY_BACKUP=1
+LOCALE=es
+MAXADDON=1
+MAXFTP=unlimited
+MAXLST=unlimited
+MAXPARK=1
+MAXPOP=unlimited
+MAXSQL=unlimited
+MAXSUB=unlimited
+MAX_EMAIL_PER_HOUR=200
+MTIME=1402720672
+OWNER=root
+PLAN=Net+Plus
+RS=x3
+STARTDATE=1244230577
+USER=courierp
+notify_disk_limit=
+notify_email_quota_limit=

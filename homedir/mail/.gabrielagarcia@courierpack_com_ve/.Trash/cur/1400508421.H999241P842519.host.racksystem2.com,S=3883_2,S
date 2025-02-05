@@ -1,0 +1,72 @@
+Return-path: <matiosca@gmail.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Mon, 19 May 2014 09:37:02 -0430
+Received: from mail-yh0-f48.google.com ([209.85.213.48]:37740)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <matiosca@gmail.com>)
+	id 1WmODT-003XAj-N4
+	for gabrielagarcia@courierpack.com.ve; Mon, 19 May 2014 09:37:01 -0430
+Received: by mail-yh0-f48.google.com with SMTP id a41so6754606yho.21
+        for <gabrielagarcia@courierpack.com.ve>; Mon, 19 May 2014 07:06:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=content-type:mime-version:content-transfer-encoding:message-id:date
+         :subject:from:to;
+        bh=W39M4i9XSTdZY16kSR8KWzcfIveBoT3DSuQHvZSpYqo=;
+        b=Pn/H6FBBe87UsOdRVNTX8Dnio528YG/mo3sFfp+p1LsFFWOlXXKyKXCTZPdQhX6he1
+         f2nHeM/y0zTvKVmVDezIrNqR7o5sssA46hEsz+KbBBLhs4W4V5LUiVte427gO9+8xtBT
+         osvhVv2bvZaSChP9LZXAFoPJ8KXmNt1bpHv6yRCBykXt8rfZYC6j7Fb6Ynd1YGeqMFLv
+         n48sXOZThnHEo1jmGWze2H05zYaYwNXqi3HGg9LKODezDOuXl1UiSSkcr+PX+KgINv/E
+         Jz5ctAT99TV53Mzdh4xkp3hD5FgMce0UCutpRtxueES1RGjY3xXKw/nyYaAdPOuBDfXa
+         dFmg==
+X-Received: by 10.236.130.37 with SMTP id j25mr52326701yhi.106.1400508417568;
+        Mon, 19 May 2014 07:06:57 -0700 (PDT)
+Received: from [127.0.0.1] (186-164-142-151.genericrev.telcel.net.ve. [186.164.142.151])
+        by mx.google.com with ESMTPSA id t32sm25206752yhp.48.2014.05.19.07.06.51
+        for <gabrielagarcia@courierpack.com.ve>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 19 May 2014 07:06:56 -0700 (PDT)
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: BlackBerry Email (10.2.1.2174)
+Message-ID: <20140519140652.5890194.65507.106@gmail.com>
+Date: Mon, 19 May 2014 09:36:52 -0430
+Subject: Micro Tarjeta SD
+From: matiosca@gmail.com
+To: Gabriela Courierpack <gabrielagarcia@courierpack.com.ve>
+X-Spam-Status: No, score=1.0
+X-Spam-Score: 10
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  ‎Hola madre como estás? Que me averiguaste con el Sr. Miguel
+    de la tarjeta. Enviado desde mi smartphone BlackBerry 10. [...] 
+ 
+ Content analysis details:   (1.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (matiosca[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/plain;"><styl=
+e> body {  font-family: "Calibri","Slate Pro","sans-serif"; color:#262626 }=
+</style> </head> <body data-blackberry-caret-color=3D"#00a8df"><div><br></d=
+iv><div><span style=3D"font-family: Calibri, 'Slate Pro', sans-serif; backg=
+round-color: rgb(255, 255, 255);">=E2=80=8EHola madre como est=C3=A1s? Que =
+me averiguaste con el Sr. Miguel de la tarjeta.</span></div><div><br></div>=
+<div>Enviado desde mi smartphone BlackBerry 10.</div></body></html>

@@ -1,0 +1,68 @@
+Return-path: <mbolivar100@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Tue, 18 Dec 2012 18:04:48 -0430
+Received: from mail-we0-f182.google.com ([74.125.82.182]:47767)
+	by host.caracasftp.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <mbolivar100@gmail.com>)
+	id 1Tl5kO-0000k7-I3
+	for info@courierpack.com.ve; Tue, 18 Dec 2012 18:04:48 -0430
+Received: by mail-we0-f182.google.com with SMTP id u54so576874wey.41
+        for <info@courierpack.com.ve>; Tue, 18 Dec 2012 14:34:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=hpYFHEofIZYI5UNoMjF27nzHYA+hQXpqRVjilThl7Zw=;
+        b=lJ/OoUIFT90mlq/wVbFoGPiXvQkVAGxnpG6jI6mWq3WFCMs6jIwJHib+Y1Hlve4Ifc
+         SGZgXV5x4HqhxckZCGBGgKx/ZnDZrWvfVnEnSy4pGra3irv12JaKbkesFoCxWJtf6BQC
+         /kQurtQCykRAkBxygcMF4w7n0x/D7cGfjNs6AWgFxpwEqWDYWq8osjPUD11+d6Mq3xYh
+         +A7yW6pNANo5gU8fsZLocFv1mzxzWvtUas819IyOaB0ETYiwC1YwdGMcMbBjb2fj/J82
+         6ICS8kGVYT9n0Y7Bq4khsAXTQFK759QvONpy4JLE1w5GYsgz8Oo4rmiFgLXQzRYeiy8y
+         reWw==
+MIME-Version: 1.0
+Received: by 10.180.92.36 with SMTP id cj4mr183628wib.23.1355870087515; Tue,
+ 18 Dec 2012 14:34:47 -0800 (PST)
+Received: by 10.217.6.2 with HTTP; Tue, 18 Dec 2012 14:34:47 -0800 (PST)
+Date: Tue, 18 Dec 2012 18:04:47 -0430
+Message-ID: <CAPpzgXbxeg5wKWdrsfmR04sf+1YLikzTAD0oL2ovwqF3uZ0Veg@mail.gmail.com>
+Subject: Error cargando orden
+From: Miguel Bolivar <mbolivar100@gmail.com>
+To: info@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=f46d0438934fed8d1404d1281aaa
+
+--f46d0438934fed8d1404d1281aaa
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+  Hola! Amigo que felicidad todos mis productos si se entregaron en sus
+almacenes, sera un milagro digo yo, ya los cargue en su pagina, pero tuve
+un error registrando uno que estaba bajo este numero de tracking ID: *
+9400110200830627819821*
+
+*  *Es una crema Clinique de 7 d=EDas y el error fue que la registre como q=
+ue
+la hab=EDa enviado UPS, cuando en realidad la envio USPS, por favor a ver s=
+i
+pueden corregir eso, y ahora esperar a que envien las cosas y demas, en
+verdad MUCHAS GRACIAS! Estare en contacto con ustedes para los envios y los
+pagos cuando lleguen, gracias de nuevo!
+
+--f46d0438934fed8d1404d1281aaa
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+=A0 Hola! Amigo que felicidad todos mis productos si se entregaron en sus a=
+lmacenes, sera un milagro digo yo, ya los cargue en su pagina, pero tuve un=
+ error registrando uno que estaba bajo este numero de tracking ID:=A0<b sty=
+le=3D"color:rgb(66,103,158);font-family:arial,sans-serif;font-size:13px;tex=
+t-align:justify;background-color:rgb(170,210,255)"><i>940011020083062781982=
+1</i></b><div>
+<br></div><div style=3D"text-align:justify"><font color=3D"#42679e" face=3D=
+"arial, sans-serif"><b><i>=A0=A0</i></b></font>Es una crema Clinique de 7 d=
+=EDas y el error fue que la registre como que la=A0hab=EDa=A0enviado UPS, c=
+uando en realidad la envio USPS, por favor a ver si pueden corregir eso, y =
+ahora esperar a que envien las cosas y demas, en verdad MUCHAS GRACIAS! Est=
+are en contacto con ustedes para los envios y los pagos cuando lleguen, gra=
+cias de nuevo!</div>
+
+--f46d0438934fed8d1404d1281aaa--

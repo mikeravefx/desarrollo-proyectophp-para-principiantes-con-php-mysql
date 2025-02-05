@@ -1,0 +1,89 @@
+Return-path: <pellingomez@yahoo.es>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Fri, 05 Apr 2013 09:08:39 -0430
+Received: from nm14.bullet.mail.ird.yahoo.com ([77.238.189.67]:42505)
+	by host.caracasftp.com with smtp (Exim 4.80)
+	(envelope-from <pellingomez@yahoo.es>)
+	id 1UO6qh-0001qh-TF
+	for gabrielagarcia@courierpack.com.ve; Fri, 05 Apr 2013 09:08:37 -0430
+Received: from [77.238.189.54] by nm14.bullet.mail.ird.yahoo.com with NNFMP; 05 Apr 2013 13:38:32 -0000
+Received: from [212.82.98.97] by tm7.bullet.mail.ird.yahoo.com with NNFMP; 05 Apr 2013 13:38:32 -0000
+Received: from [127.0.0.1] by omp1034.mail.ir2.yahoo.com with NNFMP; 05 Apr 2013 13:38:32 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 68199.51426.bm@omp1034.mail.ir2.yahoo.com
+Received: (qmail 55610 invoked by uid 60001); 5 Apr 2013 13:38:31 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1365169111; bh=z1JIFYpsbtWDLUX9vPpQRXGGGV+QHe0XL0NHkAdrA0A=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Subject:To:MIME-Version:Content-Type; b=tI8a4avAtmbokLnsPJbqdX2LqL1eDm9aCEwv3JbpEqfSC5NZva56E9M0qGSNcpUkAJbYwgHre2x+QfTwGATv2CeevCRlA1fUhqNcZDWOUUYKmhydI96O0x+KB/TQFuXaCpE+wxVaYAK7mp502xo1kY5g62bMB0d2q7YlhaOejVQ=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.es;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Subject:To:MIME-Version:Content-Type;
+  b=JBm5CnWgTHzrB4JQviyzRI+Ir8UKRjD/EybBR0F1DLgXhwvGEaMTkjS5lZ4BSi07kz94jfb1YBz9Gmp0s081ILT0TAKB/L3ioUy9e74BPQrzvdPUW0oMqeKWKmRFe3bOv7nDWr8fmZedOIf9XuWu/kj5ZrcFvChbZczXxpC5bXY=;
+X-YMail-OSG: jZxYeWMVM1nfD8BSkcSxU5RV0tynbhjSyaPuKcp17Fz.0Fr
+ 7C25558C7qYORdBKqacqx5.MnycxqcDWPnNxMceHRj2IE9QWgamVYxIAy_Po
+ bSiXKdvNqFs7XlrUDnYBtnzkvcIaLD8Phhq8hCOyfOw7lHdkBkIT5vHELFig
+ NcBncUbB3UCOEhp4jt_k8wqd8wXiuH7Bh2ClD3ONuG_8gkdYTtJRqSNgE7ro
+ RV_KXpHmsy_VsbgqrtC7uNr.Oz_JY6tcRgN0sQm9rRfHOfdx7teajcRBP9dJ
+ 71ce1ZJ0.Kc.MPTnLwS.YytEaKu48tqoecto8g7l7AAwSgo19LWuxkPovlpB
+ rg_LbfhvQ145RITZDi3sP1Qt78ZKAPCGrYYTIEcNlW8ogT1MAT9s15p6y4SC
+ DEbxVuI3q2g3JzhJP5T5OdRnAx9GCMe17OTXMimoz26Q_vB6jn4s4xRGo2c.
+ zLaXeIQzWyGh2DsWSFg6mMc4kVRRR2nM9
+Received: from [198.229.63.3] by web171904.mail.ir2.yahoo.com via HTTP; Fri, 05 Apr 2013 14:38:31 BST
+X-Rocket-MIMEInfo: 002.001,QnVlbm9zIGRpYXMswqAgZWwgZGVww7NzaXRvIHNlIHJlYWxpem8gc2Vnw7puIHBsYW5pbGxhIDEyMDgzNjAwNzAgcG9yIDEwMjIuIFBvciBmYXZvciBlbnZpYXIgYSB6b29tIGNhcnJlcmEgMjQgZW50cmUgY2FsbGVzIDIzIHkgMjQuIEJhcnF1aXNpbWV0bwoKRW52aWFkbyBkZXNkZSBZYWhvbyEgTWFpbCBlbiBBbmRyb2lkCgoBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.140.532
+Message-ID: <1365169111.47456.androidMobile@web171904.mail.ir2.yahoo.com>
+Date: Fri, 5 Apr 2013 14:38:31 +0100 (BST)
+From: Pellin Gomez <pellingomez@yahoo.es>
+Subject: Re: RV: CPK
+To: "gabrielagarcia@courierpack.com.ve" <gabrielagarcia@courierpack.com.ve>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-410758353-1505327386-1365169111=:47456"
+
+---410758353-1505327386-1365169111=:47456
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Buenos dias,=A0 el dep=F3sito se realizo seg=FAn planilla 1208360070 por 10=
+22. Por favor enviar a zoom carrera 24 entre calles 23 y 24. Barquisimeto=
+=0A=0AEnviado desde Yahoo! Mail en Android=0A=0A
+---410758353-1505327386-1365169111=:47456
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tr><td valign=3D"t=
+op"><p>Buenos dias,  el dep&#243;sito se realizo seg&#250;n planilla 120836=
+0070 por 1022. Por favor enviar a zoom carrera 24 entre calles 23 y 24. Bar=
+quisimeto</p>=0A<p>Enviado desde Yahoo! Mail en Android</p>=0A</td></tr></t=
+able>            <div id=3D"_origMsg_">=0A                <div>=0A         =
+           <br />=0A                    <div>=0A                        <di=
+v style=3D"font-size:0.9em">=0A                            <hr size=3D"1">=
+=0A                            <b>=0A                                <span =
+style=3D"font-weight:bold">From:</span>=0A                            </b>=
+=0A                            gabrielagarcia@courierpack.com.ve &lt;gabrie=
+lagarcia@courierpack.com.ve&gt;;                            <br>=0A        =
+                    <b>=0A                                <span style=3D"fo=
+nt-weight:bold">To:</span>=0A                            </b>=0A           =
+                 Pellin Gomez &lt;pellingomez@yahoo.es&gt;;                =
+                                                                           =
+          <br>=0A                            <b>=0A                        =
+        <span style=3D"font-weight:bold">Subject:</span>=0A                =
+            </b>=0A                            RV: CPK                     =
+       <br>=0A                            <b>=0A                           =
+     <span style=3D"font-weight:bold">Sent:</span>=0A                      =
+      </b>=0A                            Thu, Apr 4, 2013 6:02:04 PM       =
+                     <br>=0A                        </div>=0A              =
+              <br>=0A                            <table cellspacing=3D"0" c=
+ellpadding=3D"0" border=3D"0">=0A                                <tbody>=0A=
+                                    <tr>=0A                                =
+        <td valign=3D"top"><BR>------Mensaje original------<BR>Para: <a yma=
+ilto=3D"mailto:pellingomez@yahoo.es" href=3D"javascript:return">pellingomez=
+@yahoo.es</a><BR>Asunto: CPK<BR>Enviado: 4 de abr de 2013 12:51 AM<BR><BR>B=
+uenas Tardes=A0 Sr. Gomez Pellin Por este medio se le informa que su carga =
+se encuentra en nuestros almaneces disponible para su envio y entrega .<BR>=
+<BR>Aprovechamos para indicar que el costo por el servicio de flete es de B=
+s.1022, <BR>Conjuntamente se le indica el detalle bancario=A0<BR><BR>Titula=
+r: Gabriela Garcia=A0<BR>Cuenta Corriente: =A00134.0066.12.066.306.9613=A0<=
+BR>Banco: Banesco<BR>C.I.: 18.539.138=A0<BR><BR><BR><BR>Enviado desde mi Bl=
+ackBerry de Movistar</td>=0A                                    </tr>=0A   =
+                             </tbody>=0A                            </table=
+>=0A                    </div>=0A                </div>=0A            </div=
+>=0A
+---410758353-1505327386-1365169111=:47456--

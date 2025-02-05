@@ -1,0 +1,77 @@
+Return-path: <javieruzcategui@hotmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Fri, 29 Nov 2013 10:23:45 -0430
+Received: from bay0-omc4-s25.bay0.hotmail.com ([65.54.190.227]:28804)
+	by host.racksystem2.com with esmtp (Exim 4.80.1)
+	(envelope-from <javieruzcategui@hotmail.com>)
+	id 1VmPRv-0008jz-GM
+	for info@courierpack.com.ve; Fri, 29 Nov 2013 10:23:45 -0430
+Received: from BAY407-EAS150 ([65.54.190.201]) by bay0-omc4-s25.bay0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Fri, 29 Nov 2013 06:53:42 -0800
+X-TMN: [rZ1YcGywp9cJJK0KDQgWR0TN7Wq2kCro]
+X-Originating-Email: [javieruzcategui@hotmail.com]
+Message-ID: <BAY407-EAS150CB4AD773C5BAC9BDDD54ABE90@phx.gbl>
+Date: Fri, 29 Nov 2013 10:22:43 -0430
+Subject: =?ISO-8859-1?Q?Informaci=F3n_del_servicio?=
+Importance: high
+From: javieruzcategui <javieruzcategui@hotmail.com>
+To: info@courierpack.com.ve
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--_com.android.email_677919521849290"
+X-OriginalArrivalTime: 29 Nov 2013 14:53:42.0495 (UTC) FILETIME=[CBD066F0:01CEED12]
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Buenos días, quiero confirmar si puedo enviar articulos que
+    tengo en carrito de compras a la dirección que tienen en miami. De igual
+    manera, el costo del servicio por la traida a caracas, y luego enviarmelo
+    por servicio de encomiendas a merida. [...] 
+ 
+ Content analysis details:   (0.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (javieruzcategui[at]hotmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+X-Spam-Flag: NO
+
+----_com.android.email_677919521849290
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+CkJ1ZW5vcyBkw61hcywgcXVpZXJvIGNvbmZpcm1hciBzaSBwdWVkbyBlbnZpYXIgYXJ0aWN1bG9z
+IHF1ZSB0ZW5nbyBlbiBjYXJyaXRvIGRlIGNvbXByYXMgYSBsYSBkaXJlY2Npw7NuIHF1ZSB0aWVu
+ZW4gZW4gbWlhbWkuIERlIGlndWFsIG1hbmVyYSwgZWwgY29zdG8gZGVsIHNlcnZpY2lvIHBvciBs
+YSB0cmFpZGEgYSBjYXJhY2FzLCB5IGx1ZWdvIGVudmlhcm1lbG8gcG9yIHNlcnZpY2lvIGRlIGVu
+Y29taWVuZGFzIGEgbWVyaWRhLgoKWWEgdGVuZ28gbG9zIGFydGljdWxvcyBwZW5kaWVudGVzLCBz
+b2xvIGZpbmlxdWl0YXIgcGFyYSBhcHJvdmVjaGFyIGVsIHZpZXJuZXMgbmVncm8uCgpHcmFjaWFz
+LgoKCgpFbnZpYWRvIGRlc2RlIFNhbXN1bmcgdGFibGV0
+
+----_com.android.email_677919521849290
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPjwvaGVhZD48Ym9keSA+PGRpdj48YnI+PC9kaXY+PGRpdj5C
+dWVub3MgZMOtYXMsIHF1aWVybyBjb25maXJtYXIgc2kgcHVlZG8gZW52aWFyIGFydGljdWxvcyBx
+dWUgdGVuZ28gZW4gY2Fycml0byBkZSBjb21wcmFzIGEgbGEgZGlyZWNjacOzbiBxdWUgdGllbmVu
+IGVuIG1pYW1pLiBEZSBpZ3VhbCBtYW5lcmEsIGVsIGNvc3RvIGRlbCBzZXJ2aWNpbyBwb3IgbGEg
+dHJhaWRhIGEgY2FyYWNhcywgeSBsdWVnbyBlbnZpYXJtZWxvIHBvciBzZXJ2aWNpbyBkZSBlbmNv
+bWllbmRhcyBhIG1lcmlkYS48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PllhIHRlbmdvIGxvcyBh
+cnRpY3Vsb3MgcGVuZGllbnRlcywgc29sbyBmaW5pcXVpdGFyIHBhcmEgYXByb3ZlY2hhciBlbCB2
+aWVybmVzIG5lZ3JvLjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+R3JhY2lhcy48L2Rpdj48ZGl2
+Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PjxkaXYgc3R5bGU9
+ImZvbnQtc2l6ZToxMDAlIj5FbnZpYWRvIGRlc2RlIFNhbXN1bmcgdGFibGV0PC9kaXY+PC9kaXY+
+PC9ib2R5PjwvaHRtbD4=
+
+----_com.android.email_677919521849290--

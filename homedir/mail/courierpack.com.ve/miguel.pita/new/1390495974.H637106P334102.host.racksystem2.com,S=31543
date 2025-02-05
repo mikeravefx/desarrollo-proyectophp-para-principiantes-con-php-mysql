@@ -1,0 +1,713 @@
+Return-path: <bounce-mc.us2_6381894.1384341-miguel.pita=courierpack.com.ve@mail129.atl61.mcsv.net>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Thu, 23 Jan 2014 12:22:54 -0430
+Received: from mail129.atl61.mcsv.net ([205.201.135.129]:32033)
+	by host.racksystem2.com with esmtp (Exim 4.82)
+	(envelope-from <bounce-mc.us2_6381894.1384341-miguel.pita=courierpack.com.ve@mail129.atl61.mcsv.net>)
+	id 1W6NWN-001OuF-9f
+	for miguel.pita@courierpack.com.ve; Thu, 23 Jan 2014 12:22:54 -0430
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail129.atl61.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=mike=3Dcoolsite.com@mail129.atl61.mcsv.net;
+ bh=wBUrRRQtQbgVQ+KlERL7Rk84KSU=;
+ b=fmG6c3fdDa0VN2CpCUpTrYLvdi0PAHq4nqM8gXlJH4LDDedISQbcToL9xCvMRdjNAaS9WsM/QXQW
+   1n2JOrsupts+nYQvqibAFyaXFGlrwoaLlGKLEr2sze1msElVzASNTHd/Zr7QNc66Yxu4K7Fl6s/Q
+   ntv52ySTSo306M/NTho=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail129.atl61.mcsv.net;
+ b=M56Y32yrZoVu4DRchT/SBeoW28puaeoSrgUPaxO1yHWZ0xFCs9uyA/5u6tqANthbdfznqdoGCwiD
+   5IFvxcwrej/hmUq2mylLP9+paPKvJ2ayIIurg+oqz1qRgsl7EqlL5d/dtQH6imB6J5PS1BC0Z97K
+   2docZKk8ghtmF7awHLw=;
+Received: from (127.0.0.1) by mail129.atl61.mcsv.net id hs54e6174ac0 for <miguel.pita@courierpack.com.ve>; Thu, 23 Jan 2014 16:52:48 +0000 (envelope-from <bounce-mc.us2_6381894.1384341-miguel.pita=courierpack.com.ve@mail129.atl61.mcsv.net>)
+Subject: =?utf-8?Q?Please=20help=20me=20test=20this=20new=20=27ratings=27=20widget?=
+From: =?utf-8?Q?Mike=20Corso?= <mike@coolsite.com>
+Reply-To:  <us2-a27bb31572-ec614afdfb@conversation01.mailchimpapp.com>
+To: =?utf-8?Q?miguel?= <miguel.pita@courierpack.com.ve>
+Date: Thu, 23 Jan 2014 16:52:48 +0000
+Message-ID: <7b23cf154129f233fe39db0009ca090100b.20140123165152@mail129.atl61.mcsv.net>
+X-Mailer: MailChimp Mailer - **CIDfe15c46fbe9ca090100b**
+X-Campaign: mailchimp7b23cf154129f233fe39db000.fe15c46fbe
+X-campaignid: mailchimp7b23cf154129f233fe39db000.fe15c46fbe
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=7b23cf154129f233fe39db000&id=fe15c46fbe&e=9ca090100b
+X-MC-User: 7b23cf154129f233fe39db000
+X-Feedback-ID: 6381894:6381894.1384341:us2:mc
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-7b23cf154129f233fe39db000-fe15c46fbe-9ca090100b@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://coolsiteoftheday.us2.list-manage1.com/unsubscribe?u=7b23cf154129f233fe39db000&id=b4c1acbabf&e=9ca090100b&c=fe15c46fbe>
+Sender: "Mike Corso" <mike=coolsite.com@mail129.atl61.mcsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_343718098"
+MIME-Version: 1.0
+X-Spam-Status: No, score=-0.6
+X-Spam-Score: -5
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  See today's 'Cool Site of the Day'. Click here (http://www.coolsiteoftheday.com/frmindex.html)
+    . Email not displaying correctly? View it in your browser (http://us2.campaign-archive1.com/?u=7b23cf154129f233fe39db000&id=fe15c46fbe&e=9ca090100b)
+    . http://www.coolsiteoftheday.com January 23, 2014 [...] 
+ 
+ Content analysis details:   (-0.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.6 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_343718098
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+See today's 'Cool Site of the Day'. Click here (http://www.coolsiteoftheda=
+y.com/frmindex.html) .
+------------------------------------------------------------
+Email not displaying correctly?
+View it in your browser (http://us2.campaign-archive1.com/?u=3D7b23cf15412=
+9f233fe39db000&id=3Dfe15c46fbe&e=3D9ca090100b) .
+http://www.coolsiteoftheday.com
+January 23=2C 2014
+
+New 'Ratings' Tool on Cool Site of the Day
+
+miguel=2C
+
+Hope the new year is treating you well.
+
+Please take 10 seconds and give this page (http://www.coolsiteoftheday.com=
+/seo-tips-my-2014-essential-toolkit-for-webmasters-bloggers/) a rating (1=
+ to 5 stars). I'm testing a new plugin on Wordpress which allows for you t=
+o rate every Post or Page that I publish (I may end up using this to repla=
+ce the current rating system (http://www.coolsiteoftheday.com/frmindex.htm=
+l) for the daily
+Cool Site of the Day
+).
+
+Click the following link and scroll to the bottom of the page and click on=
+ a star (and=2C please=2C if you don't see the stars=2C email me (mailto:m=
+ike@coolsite.com?subject=3DRatings-Widget%20related%20question) ):
+
+Webmaster/Blogger Toolkit (http://www.coolsiteoftheday.com/seo-tips-my-201=
+4-essential-toolkit-for-webmasters-bloggers/)
+
+Thanks for your help!
+http://flavors.me/mikecorso
+Mike Corso
+mikecorso.net
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Copyright =C2=A9 2014 Cool Site of the Day=2C All rights reserved.
+ I'm writing to you because you opted into this list from our form here: h=
+ttp://eepurl.com/gb9af
+
+Our mailing address is:
+Cool Site of the Day
+64 Brevoort Rd
+Chappaqua=2C NY 10514
+USA
+
+ Email Marketing Powered by MailChimp
+http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium_newsletter&=
+utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D7b23cf154129f233fe3=
+9db000&afl=3D1
+** Follow on Twitter (https://www.twitter.com/Mike_Corso/
+
+)
+** Friend on Facebook (https://www.facebook.com/mikecorso
+
+)
+** Forward to Friend (http://us2.forward-to-friend.com/forward?u=3D7b23cf1=
+54129f233fe39db000&id=3Dfe15c46fbe&e=3D9ca090100b)
+** unsubscribe from this list (http://coolsiteoftheday.us2.list-manage1.co=
+m/unsubscribe?u=3D7b23cf154129f233fe39db000&id=3Db4c1acbabf&e=3D9ca090100b&c=
+=3Dfe15c46fbe)
+** update subscription preferences (http://coolsiteoftheday.us2.list-manag=
+e1.com/profile?u=3D7b23cf154129f233fe39db000&id=3Db4c1acbabf&e=3D9ca090100b)
+--_----------=_MCPart_343718098
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+        <title>Please help me test this new 'ratings' widget</title>
+=09=09
+    <style type=3D"text/css">
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09body{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09line-height:100%;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09table=2Ctd{
+=09=09=09border-collapse:collapse !important;
+=09=09=09mso-table-lspace:0pt;
+=09=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09#bodyTable=2C#bodyCell{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09#templateContainer{
+=09=09=09width:600px;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09h1{
+=09=09=09color:#363636 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:32px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:center;
+=09=09}
+=09=09h2{
+=09=09=09color:#363636 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:18px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3{
+=09=09=09color:#363636 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4{
+=09=09=09color:#363636 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:14px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#26AAE1;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.preheaderContent{
+=09=09=09color:#FFFFFF;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:10px;
+=09=09=09line-height:125%;
+=09=09=09padding-top:10px;
+=09=09=09padding-bottom:10px;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContent a:link=2C.preheaderContent a:visited=2C.preheaderC=
+ontent a .yshortcuts {
+=09=09=09color:#FFFFFF;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#bodyCell{
+=09=09=09border-top:10px solid #26AAE1;
+=09=09}
+=09=09#templateHeader{
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.headerContent{
+=09=09=09color:#363636;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:20px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09padding-top:20px;
+=09=09=09padding-right:0;
+=09=09=09padding-bottom:20px;
+=09=09=09padding-left:0;
+=09=09=09text-align:center;
+=09=09=09vertical-align:middle;
+=09=09}
+=09=09.headerContent a:link=2C.headerContent a:visited=2C.headerContent a=
+ .yshortcuts {
+=09=09=09color:#363636;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#headerImage{
+=09=09=09height:auto;
+=09=09=09max-width:600px;
+=09=09}
+=09=09#templateBody{
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.bodyContent{
+=09=09=09color:#363636;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:14px;
+=09=09=09line-height:150%;
+=09=09=09padding-top:20px;
+=09=09=09padding-bottom:40px;
+=09=09=09text-align:left;
+=09=09}
+=09=09.bodyContent a:link=2C.bodyContent a:visited=2C.bodyContent a .yshor=
+tcuts {
+=09=09=09color:#26AAE1;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.bodyContent img{
+=09=09=09display:inline;
+=09=09=09height:auto;
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09#templateFooter{
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.footerContent{
+=09=09=09color:#363636;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:10px;
+=09=09=09line-height:150%;
+=09=09=09padding-top:20px;
+=09=09=09padding-bottom:20px;
+=09=09=09text-align:center;
+=09=09}
+=09=09.footerContent a:link=2C.footerContent a:visited=2C.footerContent a=
+ .yshortcuts=2C.footerContent a span {
+=09=09=09color:#363636;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.footerContent img{
+=09=09=09display:inline;
+=09=09=09height:auto;
+=09=09=09max-width:600 !important;
+=09=09}
+=09@media only screen and (max-width: 500px){
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09body{
+=09=09=09width:auto !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09td[id=3DbodyCell]{
+=09=09=09padding:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09table[id=3DtemplateContainer]{
+=09=09=09max-width:600px !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09h1{
+=09=09=09font-size:40px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09h2{
+=09=09=09font-size:24px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09h3{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09h4{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09table[id=3DtemplatePreheader]{
+=09=09=09display:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09table[id=3DtemplateHeader]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09img[id=3DheaderImage]{
+=09=09=09height:auto !important;
+=09=09=09max-width:125px !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09td[class=3DheaderContent]{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:150% !important;
+=09=09=09padding-top:0 !important;
+=09=09=09padding-right:0 !important;
+=09=09=09padding-bottom:0 !important;
+=09=09=09padding-left:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09td[class=3DbodyContent]{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09td[class=3DfooterContent]{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09td[class=3DfooterContent] a{
+=09=09=09display:block !important;
+=09=09}
+
+}</style></head>
+    <body style=3D"margin: 0;padding: 0;background-color: #FFFFFF;">
+    =09<center>
+        =09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"mso-tab=
+le-lspace: 0pt;mso-table-rspace: 0pt;margin: 0;padding: 0;background-color=
+: #FFFFFF;border-collapse: collapse !important;height: 100% !important;wid=
+th: 100% !important;">
+            =09<tr>
+                =09<td align=3D"center" height=3D"100%" valign=3D"top" wid=
+th=3D"100%" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-co=
+llapse: collapse !important;">
+                    =09<table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;border-collapse: collapse !important;">
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse=
+ !important;">
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" id=3D"templatePreheader" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;background-color: #26AAE1;border-top=
+: 0;border-bottom: 0;border-collapse: collapse !important;">
+                                        <tr>
+                                            <td align=3D"center" valign=3D=
+"top" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse=
+: collapse !important;">
+                                                <!-- BEGIN PREHEADER -->
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"600" style=3D"mso-table-lspace: 0pt=
+;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                                                    <tr>
+                                                        <td class=3D"prehe=
+aderContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #=
+FFFFFF;font-family: Helvetica;font-size: 10px;line-height: 125%;padding-to=
+p: 10px;padding-bottom: 10px;text-align: left;border-collapse: collapse !i=
+mportant;">See today&#39;s &#39;Cool Site of the Day&#39;. Click <a href=
+=3D"http://coolsiteoftheday.us2.list-manage1.com/track/click?u=3D7b23cf154=
+129f233fe39db000&id=3D65923fea21&e=3D9ca090100b" target=3D"_self" style=
+=3D"color: #FFFFFF;font-weight: normal;text-decoration: underline;">here</=
+a>.</td>
+                                                        <!--
+ -->
+                                                        <td width=3D"220"=
+ class=3D"preheaderContent" style=3D"padding-left: 20px;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;color: #FFFFFF;font-family: Helvetica;font-size=
+: 10px;line-height: 125%;padding-top: 10px;padding-bottom: 10px;text-align=
+: left;border-collapse: collapse !important;">
+                                                            Email not disp=
+laying correctly?<br><a href=3D"http://us2.campaign-archive1.com/?u=3D7b23=
+cf154129f233fe39db000&id=3Dfe15c46fbe&e=3D9ca090100b" target=3D"_blank" styl=
+e=3D"color: #FFFFFF;font-weight: normal;text-decoration: underline;">View=
+ it in your browser</a>.
+                                                        </td>
+                                                        <!--
+ -->
+                                                    </tr>
+                                                </table>
+                                                <!-- END PREHEADER -->
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                            =09<td align=3D"center" valign=3D"top" id=3D"b=
+odyCell" style=3D"padding-top: 20px;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;margin: 0;padding: 0;border-top: 10px solid #26AAE1;border-collapse:=
+ collapse !important;height: 100% !important;width: 100% !important;">
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" id=3D"templateContainer" style=3D"mso-table-lspace: 0pt=
+;mso-table-rspace: 0pt;width: 600px;border-collapse: collapse !important;"=
+>
+                                        <tr>
+                                            <td align=3D"center" valign=3D=
+"top" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse=
+: collapse !important;">
+                                                <!-- BEGIN HEADER -->
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" id=3D"templateHeader" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-bottom: 0;border-co=
+llapse: collapse !important;">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"headerContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;color: #363636;font-family: Helvetica;font-size: 20px;font-weight: bo=
+ld;line-height: 100%;padding-top: 20px;padding-right: 0;padding-bottom: 20=
+px;padding-left: 0;text-align: center;vertical-align: middle;border-collap=
+se: collapse !important;">
+                                                        =09<a href=3D"http=
+://coolsiteoftheday.us2.list-manage.com/track/click?u=3D7b23cf154129f233fe=
+39db000&id=3De85840fa19&e=3D9ca090100b" style=3D"color: #363636;font-weig=
+ht: normal;text-decoration: underline;"><img src=3D"http://gallery.mailchi=
+mp.com/7b23cf154129f233fe39db000/images/csotd_logo_high_res_white_600w.2.j=
+pg" alt=3D"" border=3D"0" style=3D"border: px none;border-color: ;border-s=
+tyle: none;border-width: px;height: 142px;width: 500px;margin: 0;padding:=
+ 0;max-width: 600px;line-height: 100%;outline: none;text-decoration: none;=
+" width=3D"500" height=3D"142" id=3D"headerImage campaign-icon"></a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- END HEADER -->
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align=3D"center" valign=3D=
+"top" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse=
+: collapse !important;">
+                                                <!-- BEGIN BODY -->
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" id=3D"templateBody" style=3D"=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-top: 0;border-bottom: 0=
+;border-collapse: collapse !important;">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"bodyContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #363636;font-family: Helvetica;font-size: 14px;line-height: 150%;=
+padding-top: 20px;padding-bottom: 40px;text-align: left;border-collapse: c=
+ollapse !important;"><span style=3D"font-size:14px"><span style=3D"font-fa=
+mily:tahoma=2Cverdana=2Csegoe=2Csans-serif">January 23=2C 2014</span></spa=
+n><br>
+&nbsp;
+<div style=3D"text-align: center;"><span style=3D"font-size:14px"><strong>=
+<span style=3D"font-family:tahoma=2Cverdana=2Csegoe=2Csans-serif">New &#39=
+;Ratings&#39; Tool on Cool Site of the Day</span></strong></span><br>
+&nbsp;</div>
+<span style=3D"font-size:14px"> <span style=3D"font-family:tahoma=2Cverdan=
+a=2Csegoe=2Csans-serif">miguel=2C<br>
+<br>
+Hope the new year is treating you well.<br>
+<br>
+Please take 10 seconds and give <a href=3D"http://coolsiteoftheday.us2.lis=
+t-manage2.com/track/click?u=3D7b23cf154129f233fe39db000&id=3D69e93b579b&e=
+=3D9ca090100b" target=3D"_self" style=3D"color: #26AAE1;font-weight: norm=
+al;text-decoration: none;">this page</a> a rating (1 to 5 stars). I&#39;m=
+ testing a new plugin on Wordpress which allows for you to rate every Post=
+ or Page that I publish (I may end up using this to replace the <a href=3D=
+"http://coolsiteoftheday.us2.list-manage2.com/track/click?u=3D7b23cf154129=
+f233fe39db000&id=3D896331ff2b&e=3D9ca090100b" target=3D"_self" style=3D"c=
+olor: #26AAE1;font-weight: normal;text-decoration: none;">current rating s=
+ystem</a> for the daily </span></span>Cool Site of the Day<span style=3D"f=
+ont-size:14px"><span style=3D"font-family:tahoma=2Cverdana=2Csegoe=2Csans-=
+serif">).<br>
+<br>
+Click the following link and scroll to the bottom of the page and click on=
+ a star (and=2C please=2C if you don&#39;t see the stars=2C <a href=3D"mai=
+lto:mike@coolsite.com?subject=3DRatings-Widget%20related%20question" targe=
+t=3D"_self" style=3D"color: #26AAE1;font-weight: normal;text-decoration: n=
+one;">email me</a>):<br>
+<br>
+<a href=3D"http://coolsiteoftheday.us2.list-manage1.com/track/click?u=3D7b=
+23cf154129f233fe39db000&id=3D84e9b98752&e=3D9ca090100b" target=3D"_self"=
+ title=3D"SEO Tips" style=3D"color: #26AAE1;font-weight: normal;text-decor=
+ation: none;">Webmaster/Blogger Toolkit</a></span></span><br>
+<br>
+<span style=3D"font-size:14px"><span style=3D"font-family:tahoma=2Cverdana=
+=2Csegoe=2Csans-serif">Thanks for your help!</span><br>
+<br style=3D"color: rgb(67=2C 64=2C 77); font-family: tahoma=2C verdana=2C=
+ segoe=2C sans-serif; font-size: 16px; line-height: 24px; background-color=
+: rgb(248=2C 248=2C 248);">
+<a href=3D"http://coolsiteoftheday.us2.list-manage1.com/track/click?u=3D7b=
+23cf154129f233fe39db000&id=3D20f4b13b40&e=3D9ca090100b" style=3D"color: r=
+gb(237=2C 94=2C 41);font-family: tahoma=2C verdana=2C segoe=2C sans-serif;=
+font-size: 16px;line-height: 24px;background-color: rgb(248=2C 248=2C 248)=
+;text-decoration: none;font-weight: normal;" target=3D"_blank"><img align=
+=3D"none" height=3D"107" src=3D"https://ci3.googleusercontent.com/proxy/5j=
+FTQOyy6q7wwPdCIXwxD0DNqN8KNg5CLUdZlWW49-SzDydkaCrXdPM4YbUNK4hjkmOf0SPfAudu=
+dcDMFLzebwOaLSgmrzNGAVVActX5FbKfceAlBO6vOtLj4YpyGoNYvrFT6T_34bBFxw=3Ds0-d-=
+e1-ft#https://gallery.mailchimp.com/7b23cf154129f233fe39db000/images/mcBla=
+ckBG.105x150.jpg" style=3D"line-height: 16px;min-height: 107px;border: 0;h=
+eight: auto;outline: none;text-decoration: none;display: inline;max-width:=
+ 600px !important;" width=3D"75"></a><br style=3D"color: rgb(67=2C 64=2C 7=
+7); font-family: tahoma=2C verdana=2C segoe=2C sans-serif; font-size: 16px=
+; line-height: 24px; background-color: rgb(248=2C 248=2C 248);">
+<span style=3D"line-height:24px">Mike Corso</span><br>
+<a href=3D"http://coolsiteoftheday.us2.list-manage1.com/track/click?u=3D7b=
+23cf154129f233fe39db000&id=3Dfeee5cc97e&e=3D9ca090100b" target=3D"_self"=
+ style=3D"color: #26AAE1;font-weight: normal;text-decoration: none;"><span=
+ style=3D"line-height:24px">mikecorso.net</span></a></span><br>
+&nbsp;</td>
+                                                    </tr>
+                                                </table>
+                                                <!-- END BODY -->
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align=3D"center" valign=3D=
+"top" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse=
+: collapse !important;">
+                                                <!-- BEGIN FOOTER -->
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" id=3D"templateFooter" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-top: 0;border-botto=
+m: 0;border-collapse: collapse !important;">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"footerContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;color: #363636;font-family: Helvetica;font-size: 10px;line-height: 15=
+0%;padding-top: 20px;padding-bottom: 20px;text-align: center;border-collap=
+se: collapse !important;">
+                                                            <a href=3D"htt=
+ps://www.twitter.com/Mike_Corso/" style=3D"color: #363636;font-weight: nor=
+mal;text-decoration: underline;">Follow on Twitter</a>&nbsp;&nbsp;&nbsp;&n=
+bsp;<a href=3D"https://www.facebook.com/mikecorso" style=3D"color: #363636=
+;font-weight: normal;text-decoration: underline;">Friend on Facebook</a>&n=
+bsp;&nbsp;&nbsp;&nbsp;<a href=3D"http://us2.forward-to-friend.com/forward?=
+u=3D7b23cf154129f233fe39db000&id=3Dfe15c46fbe&e=3D9ca090100b" style=3D"color=
+: #363636;font-weight: normal;text-decoration: underline;">Forward to Frie=
+nd</a>&nbsp;
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"footerContent" style=3D"padding-top: 20px;mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;color: #363636;font-family: Helvetica;font-size: 10p=
+x;line-height: 150%;padding-bottom: 20px;text-align: center;border-collaps=
+e: collapse !important;">
+                                                            <em>Copyright=
+ &copy; 2014 Cool Site of the Day=2C All rights reserved.</em>
+                                                            <br>
+ I'm writing to you because you opted into this list from our form here: h=
+ttp://eepurl.com/gb9af
+                                                            <br>
+                                                            <br>
+                                                            <strong>Our ma=
+iling address is:</strong>
+                                                            <br>
+                                                            <div class=3D"=
+vcard"><span class=3D"org fn">Cool Site of the Day</span><div class=3D"adr=
+"><div class=3D"street-address">64 Brevoort Rd</div><span class=3D"localit=
+y">Chappaqua</span>=2C <span class=3D"region">NY</span>  <span class=3D"po=
+stal-code">10514</span></div><br><a href=3D"http://coolsiteoftheday.us2.li=
+st-manage2.com/vcard?u=3D7b23cf154129f233fe39db000&id=3Db4c1acbabf" class=
+=3D"hcard-download">Add us to your address book</a></div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"footerContent" style=3D"padding-top: 20px;mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;color: #363636;font-family: Helvetica;font-size: 10p=
+x;line-height: 150%;padding-bottom: 20px;text-align: center;border-collaps=
+e: collapse !important;">
+                                                            <a href=3D"htt=
+p://coolsiteoftheday.us2.list-manage1.com/unsubscribe?u=3D7b23cf154129f233=
+fe39db000&id=3Db4c1acbabf&e=3D9ca090100b&c=3Dfe15c46fbe" style=3D"color: #36=
+3636;font-weight: normal;text-decoration: underline;">unsubscribe from thi=
+s list</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"http://coolsiteoftheday.us2.l=
+ist-manage1.com/profile?u=3D7b23cf154129f233fe39db000&id=3Db4c1acbabf&e=3D=
+9ca090100b" style=3D"color: #363636;font-weight: normal;text-decoration: und=
+erline;">update subscription preferences</a>&nbsp;
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"footerContent" style=3D"padding-top: 20px;mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;color: #363636;font-family: Helvetica;font-size: 10p=
+x;line-height: 150%;padding-bottom: 20px;text-align: center;border-collaps=
+e: collapse !important;">
+ <a href=3D"http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium=
+_newsletter&utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D7b23cf1=
+54129f233fe39db000&afl=3D1"><img src=3D"http://cdn-images.mailchimp.com/mo=
+nkey_rewards/MC_MonkeyReward_15.png" border=3D"0" alt=3D"Email Marketing P=
+owered by MailChimp" title=3D"MailChimp Email Marketing" width=3D"139" hei=
+ght=3D"54"></a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- END FOOTER -->
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://coolsiteoftheday.us2.list-manage.com/track/open.php=
+?u=3D7b23cf154129f233fe39db000&id=3Dfe15c46fbe&e=3D9ca090100b" height=3D"=
+1" width=3D"1"></body>
+</html>
+--_----------=_MCPart_343718098--

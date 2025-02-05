@@ -1,0 +1,780 @@
+Return-path: <creacionesdlis@gmail.com>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Wed, 21 May 2014 13:41:26 -0430
+Received: from mail-yh0-f51.google.com ([209.85.213.51]:35419)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <creacionesdlis@gmail.com>)
+	id 1WnAz5-0028De-Si
+	for miguel.pita@courierpack.com.ve; Wed, 21 May 2014 13:41:26 -0430
+Received: by mail-yh0-f51.google.com with SMTP id f73so2006463yha.10
+        for <miguel.pita@courierpack.com.ve>; Wed, 21 May 2014 11:11:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=95dbhyGyM9L2YMXAu47QMPsf1acLYHxRrvJ5mVGNezg=;
+        b=NA724QDcLA8tjiqzZePaM7HnA7TtQ0DiSei0viPcFrXcf1jl1fTg9yiaRfxTuIdt/t
+         4gTkpzgDlSihZ/pdz9+vJ1SvA/FyujwYVsuGAhKqQNSOz2Tfh1p0ZqgQXLWt1AbUp/99
+         LohIjtY+P9J1mJV1uusivJkoixAtEOez3amTYNMMZNEK4EBNo+ac9m0viOOC68IT4wkQ
+         KjiFthAiE0oDZYJmlQ2Ytqhp4uFDKWuIveR5elSnmhwqRlug6IHw7gsHZ2kJ62Dl9qJb
+         mA1H84jbSE90+hdvDE/g9XnnjbkxifoUxIL2NDxnoLcP4qfx6U0zlGnr5CBu0G3OZK/A
+         RE2w==
+MIME-Version: 1.0
+X-Received: by 10.236.133.145 with SMTP id q17mr76999933yhi.3.1400695881999;
+ Wed, 21 May 2014 11:11:21 -0700 (PDT)
+Received: by 10.170.165.130 with HTTP; Wed, 21 May 2014 11:11:21 -0700 (PDT)
+Date: Wed, 21 May 2014 13:41:21 -0430
+Message-ID: <CAF8J3k6UTLA0B80-OOODOLzi6+kVBtf9tMfgg5=3G_Or1mCibg@mail.gmail.com>
+Subject: =?UTF-8?Q?Presupuesto_Creaciones_Mundo_M=C3=A1gico_LIDR=2C_c=2Ea?=
+From: "Creaciones D'Lis" <creacionesdlis@gmail.com>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=20cf303a32d57c309b04f9ececfb
+Bcc: miguel.pita@courierpack.com.ve
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  > > Apreciado Cliente, > > > Con mucho agrado le enviamos
+   información sobre nuestros > productos y servicios, ya que somos una empresa
+    orientada a ofrecer > decoración y organización para esa ocasión especial
+    que usted tanto desea. > Para nosotros es un gran placer enviarles adjunto
+    parte de > nuestras fotos, donde podrá observar nuestro. Más que la prestación
+    de > servicios, le ofrecemos asesoría de confianza, soluciones y alternativas
+    > viables para que su evento sea una diversión inolvidable > Nuestro material
+    es nuevo y el personal es altamente > calificado, ya que nuestra empresa
+   es atendida por sus propios dueños, así > que podemos brindarles un servicio
+    de calidad. Lo que no vea en nuestras > fotos puede preguntarnos y con gusto
+    se lo podremos conseguir. > > Le ofrecemos los siguientes servicios: > >
+   *Decoración en Globo Magia Alquiler y Venta de Figuras MDF para Mesas > Fantasías
+    (El tamaño que desee el cliente)* > > *Elaboración de Piñatas y Cotillones*
+    > > *Elaboración de Cajas de regalos en Cartón, Mdf y Globos* > > *Elaboración
+    de Cupcakes, Tortas Decoradas y Gelatinas* > > *Decoración en Foami* > >
+    *Diseño y Elaboración de Invitaciones Súper Originales* > > *Diseño y
+    Elaboración de Franelas para el Cumpleañero y sus Padres* > > *Recuerdos
+    en Masa Flexible* > > *Y Mucho Más....* > > PD. Lamentablemente, en estos
+    momentos no estamos trabajando con alquiler > de atracciones, es decir carrito
+    de perros calientes, toldos, mesas, > sillas, camas elásticas, estaciones
+    de diversión, discplay y recreadoras, > razón por la cual no lo verá reflejado
+    en el presupuesto. > > > *NOTA**: Para hacerle un Presupuesto más Formal,
+    favor envíenos junto con > la Solicitud, la Fecha, Horario y Dirección
+   donde será su Evento, así como > el motivo al cual va dirigido la fiesta.*
+    > > *"ATENDEMOS SUS EMERGENCIAS"* > > > Quedamos a sus gratas órdenes para
+    lo que necesite. > Creaciones Mundo Mágico LIDR, C.A. > > RIF J.-40046744-6
+    > > Telf: (0212)4516369 / (0412)9563094 > > E-mail: [...] 
+ 
+ Content analysis details:   (-0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (creacionesdlis[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_SIZE_LARGE   BODY: HTML font size is large
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--20cf303a32d57c309b04f9ececfb
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+>
+> Apreciado Cliente,
+>
+>
+>              Con mucho agrado le enviamos informaci=C3=B3n sobre nuestros
+> productos y servicios, ya que somos una empresa orientada a ofrecer
+> decoraci=C3=B3n y organizaci=C3=B3n para esa ocasi=C3=B3n especial que us=
+ted tanto desea.
+>             Para nosotros es un gran placer enviarles adjunto parte de
+> nuestras fotos, donde podr=C3=A1 observar nuestro. M=C3=A1s que la presta=
+ci=C3=B3n de
+> servicios, le ofrecemos asesor=C3=ADa de confianza, soluciones y alternat=
+ivas
+> viables para que su evento sea una diversi=C3=B3n inolvidable
+>            Nuestro material es nuevo y el personal es altamente
+> calificado, ya que nuestra empresa es atendida por sus propios due=C3=B1o=
+s, as=C3=AD
+> que podemos brindarles un servicio de calidad. Lo que no vea en nuestras
+> fotos puede preguntarnos y con gusto se lo podremos conseguir.
+>
+> Le ofrecemos los siguientes servicios:
+>
+> *Decoraci=C3=B3n en Globo Magia Alquiler y Venta de Figuras MDF para Mesa=
+s
+> Fantas=C3=ADas (El tama=C3=B1o que desee el cliente)*
+>
+> *Elaboraci=C3=B3n de Pi=C3=B1atas y Cotillones*
+>
+> *Elaboraci=C3=B3n de Cajas de regalos en Cart=C3=B3n, Mdf y Globos*
+>
+> *Elaboraci=C3=B3n de Cupcakes, Tortas Decoradas y Gelatinas*
+>
+> *Decoraci=C3=B3n en Foami*
+>
+> *Dise=C3=B1o y Elaboraci=C3=B3n de Invitaciones S=C3=BAper Originales*
+>
+> *Dise=C3=B1o y Elaboraci=C3=B3n de Franelas para el Cumplea=C3=B1ero y su=
+s Padres*
+>
+> *Recuerdos en Masa Flexible*
+>
+> *Y Mucho M=C3=A1s....*
+>
+> PD. Lamentablemente, en estos momentos no estamos trabajando con alquiler
+> de atracciones, es decir carrito de perros calientes, toldos, mesas,
+> sillas, camas el=C3=A1sticas, estaciones de diversi=C3=B3n, discplay y re=
+creadoras,
+> raz=C3=B3n por la cual no lo ver=C3=A1 reflejado en el presupuesto.
+>
+>
+> *NOTA**: Para hacerle un Presupuesto m=C3=A1s Formal, favor env=C3=ADenos=
+ junto con
+> la Solicitud, la Fecha, Horario y Direcci=C3=B3n donde ser=C3=A1 su Event=
+o, as=C3=AD como
+> el motivo al cual va dirigido la fiesta.*
+>
+> *"ATENDEMOS SUS EMERGENCIAS"*
+>
+>
+> Quedamos a sus gratas =C3=B3rdenes para lo que necesite.
+>   Creaciones Mundo M=C3=A1gico LIDR, C.A.
+>
+> RIF J.-40046744-6
+>
+> Telf: (0212)4516369 / (0412)9563094
+>
+> E-mail: *creacionesdlis@gmail.com <creacionesdlis@gmail.com>* / *creacion=
+esdlis@hotmail.com
+> <creacionesdlis@hotmail.com>*
+> Instagram: *@MundoMagicoLIDR*
+>
+> Twiter: @*MundoMagicoLIDR*
+>
+>
+> *"Reenv=C3=ADalo a tus contactos, esta informaci=C3=B3n siempre es =C3=BA=
+til tenerla"*
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+
+--20cf303a32d57c309b04f9ececfb
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"=
+gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_extra"><div class=3D"gmai=
+l_quote"><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;borde=
+r-left:1px #ccc solid;padding-left:1ex">
+<div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"=
+gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><=
+div class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_quote"><div =
+dir=3D"ltr"><div class=3D"gmail_quote">
+<div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"=
+gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><=
+div class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_quote"><div =
+dir=3D"ltr"><div class=3D"gmail_quote">
+<div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"=
+gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><=
+div class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_quote"><div =
+dir=3D"ltr"><div class=3D"gmail_quote">
+<div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><div><p class=
+=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"font-size:16=
+pt;font-family:Vijaya,sans-serif;color:rgb(204,0,0)">Apreciado Cliente,</sp=
+an><span style=3D"font-size:16pt;font-family:Vijaya,sans-serif">=C2=A0</spa=
+n><span style=3D"font-size:16pt;font-family:Vijaya,sans-serif"></span></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"font=
+-size:16pt;font-family:Vijaya,sans-serif"><br>
+</span><span style=3D"font-size:16pt;font-family:Vijaya,sans-serif;color:rg=
+b(51,51,255)">=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0Con mucho agr=
+ado le enviamos informaci=C3=B3n sobre nuestros productos y
+servicios, ya que somos una empresa orientada a ofrecer decoraci=C3=B3n y
+organizaci=C3=B3n para esa ocasi=C3=B3n especial que usted tanto desea.</sp=
+an><span style=3D"font-size:16pt;font-family:Vijaya,sans-serif"><br>=C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0</span><span style=3D"font-size:16p=
+t;font-family:Vijaya,sans-serif;color:rgb(102,0,204)">Para nosotros es un g=
+ran placer enviarles adjunto parte de nuestras
+fotos, donde podr=C3=A1 observar nuestro. M=C3=A1s que la prestaci=C3=B3n d=
+e servicios, le
+ofrecemos asesor=C3=ADa de confianza, soluciones y alternativas viables par=
+a que su
+evento sea una diversi=C3=B3n inolvidable</span><span style=3D"font-size:16=
+pt;font-family:Vijaya,sans-serif"><br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0</span><span style=3D"font-size:16pt;font-family:Vijaya,sans-serif;co=
+lor:rgb(204,51,204)">Nuestro material es nuevo y el personal es altamente c=
+alificado, ya que
+nuestra empresa es atendida por sus propios due=C3=B1os, as=C3=AD que podem=
+os brindarles
+un servicio de calidad. Lo que no vea en nuestras fotos puede preguntarnos =
+y
+con gusto se lo podremos conseguir.</span><span style=3D"font-size:16pt;fon=
+t-family:Vijaya,sans-serif"><br>
+=C2=A0<br>
+</span><span style=3D"font-size:16pt;font-family:Vijaya,sans-serif;color:rg=
+b(0,153,0)">Le ofrecemos los siguientes servicios:</span><span style=3D"fon=
+t-size:16pt;font-family:Vijaya,sans-serif"><br></span><u><span style=3D"fon=
+t-size:16pt;font-family:Vijaya,sans-serif;color:rgb(210,71,38)">Decoraci=C3=
+=B3n en Globo Magia<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alquiler y Venta de Figuras MDF para Mesas Fantas=C3=ADas (El tama=C3=B1o q=
+ue desee el cliente)</span></u></p><p class=3D"MsoNormal" style=3D"margin-b=
+ottom:0.0001pt"><u><span style=3D"font-size:16pt;font-family:Vijaya,sans-se=
+rif;color:rgb(210,71,38)">Elaboraci=C3=B3n de Pi=C3=B1atas y Cotillones</sp=
+an></u></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><u><font color=3D"#=
+d24726" face=3D"Vijaya, sans-serif"><span style=3D"font-size:16pt">Elaborac=
+i=C3=B3n de Cajas de regalos en=C2=A0</span><span style=3D"font-size:21.111=
+112594604492px">Cart=C3=B3n</span><span style=3D"font-size:16pt">, Mdf y Gl=
+obos</span></font></u></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><u><span style=3D"f=
+ont-size:16pt;font-family:Vijaya,sans-serif;color:rgb(210,71,38)">Elaboraci=
+=C3=B3n de Cupcakes, Tortas Decoradas y Gelatinas</span></u></p><p class=3D=
+"MsoNormal" style=3D"margin-bottom:0.0001pt">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<u><span style=3D"font-size:16pt;font-family:Vijaya,sans-serif;color:rgb(21=
+0,71,38)">Decoraci=C3=B3n en Foami</span></u></p><p class=3D"MsoNormal" sty=
+le=3D"margin-bottom:0.0001pt"><u><span style=3D"font-size:16pt;font-family:=
+Vijaya,sans-serif;color:rgb(210,71,38)">Dise=C3=B1o y Elaboraci=C3=B3n de I=
+nvitaciones S=C3=BAper Originales</span></u></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><u><span style=3D"f=
+ont-size:16pt;font-family:Vijaya,sans-serif;color:rgb(210,71,38)">Dise=C3=
+=B1o y Elaboraci=C3=B3n de Franelas para el Cumplea=C3=B1ero y sus Padres</=
+span></u></p><p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<u><span style=3D"font-size:16pt;font-family:Vijaya,sans-serif;color:rgb(21=
+0,71,38)">Recuerdos en Masa Flexible</span></u></p><p class=3D"MsoNormal" s=
+tyle=3D"margin-bottom:0.0001pt"><u><span style=3D"font-size:16pt;font-famil=
+y:Vijaya,sans-serif;color:rgb(210,71,38)">Y Mucho M=C3=A1s....</span></u><s=
+pan style=3D"font-size:16pt;font-family:Vijaya,sans-serif"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+</span></p><p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span st=
+yle=3D"font-size:16pt;font-family:Vijaya,sans-serif">PD.=C2=A0</span><span =
+style=3D"color:rgb(0,0,255);font-family:arial,helvetica,sans-serif;font-siz=
+e:large;text-align:justify">Lamentablemente, en estos momentos no estamos t=
+rabajando con alquiler de atracciones, es decir carrito de perros calientes=
+, toldos, mesas, sillas, camas el=C3=A1sticas, estaciones de diversi=C3=B3n=
+, discplay y recreadoras, raz=C3=B3n por la cual no lo ver=C3=A1 reflejado =
+en el presupuesto.</span></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"font=
+-size:16pt;font-family:Vijaya,sans-serif"><br></span></p><p class=3D"MsoNor=
+mal" style=3D"margin-bottom:12pt"><b><u><span style=3D"font-size:16pt;color=
+:red;background-color:silver">NOTA</span></u></b><u><span style=3D"font-siz=
+e:16pt;color:blue;background-color:silver">:=C2=A0Para
+hacerle un Presupuesto m=C3=A1s Formal, favor env=C3=ADenos junto con la So=
+licitud, la
+Fecha, Horario y Direcci=C3=B3n donde ser=C3=A1=C2=A0su Evento, as=C3=AD co=
+mo el motivo al
+cual va dirigido la fiesta.</span></u></p><p class=3D"MsoNormal" style=3D"m=
+argin-bottom:0.0001pt;text-align:center" align=3D"center"><b><u><span style=
+=3D"font-family:&#39;Franklin Gothic Heavy&#39;,sans-serif;color:red"><font=
+ size=3D"6">&quot;ATENDEMOS SUS EMERGENCIAS&quot;</font></span></u></b><spa=
+n style=3D"font-size:16pt;font-family:&#39;Franklin Gothic Heavy&#39;,sans-=
+serif"></span></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"font=
+-size:16pt;font-family:Vijaya,sans-serif">=C2=A0<br>
+</span><span style=3D"font-size:16pt;font-family:Vijaya,sans-serif;color:rg=
+b(51,0,153)">Quedamos a sus gratas =C3=B3rdenes para lo que necesite.=C2=A0=
+</span><span style=3D"font-size:16pt;font-family:Vijaya,sans-serif"><br>=C2=
+=A0=C2=A0</span><span style=3D"font-size:16pt;line-height:107%;font-family:=
+BodoniPS,serif;color:aqua;background-color:black">Creaciones</span><span st=
+yle=3D"font-size:16pt;line-height:107%;font-family:BodoniPS,serif;color:rgb=
+(136,136,136);background-color:black">=C2=A0</span><span style=3D"font-size=
+:16pt;line-height:107%;font-family:BodoniPS,serif;color:lime;background-col=
+or:black">Mundo</span><span style=3D"font-size:16pt;line-height:107%;font-f=
+amily:BodoniPS,serif;color:rgb(136,136,136);background-color:black">=C2=A0<=
+/span><span style=3D"font-size:16pt;line-height:107%;font-family:BodoniPS,s=
+erif;color:yellow;background-color:black">M=C3=A1gico</span><span style=3D"=
+font-size:16pt;line-height:107%;font-family:BodoniPS,serif;color:rgb(241,19=
+4,50);background-color:black">=C2=A0</span><span style=3D"font-size:16pt;li=
+ne-height:107%;font-family:BodoniPS,serif;color:red;background-color:black"=
+>LIDR,</span><span style=3D"font-size:16pt;line-height:107%;font-family:Bod=
+oniPS,serif;color:rgb(241,194,50);background-color:black">=C2=A0</span><spa=
+n style=3D"font-size:16pt;line-height:107%;font-family:BodoniPS,serif;color=
+:white;background-color:black">C.A.</span></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"background-repeat:initial initial"><span st=
+yle=3D"font-size:16pt;line-height:107%;font-family:BodoniPS,serif"></span><=
+/p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"colo=
+r:rgb(118,113,113)" lang=3D"EN-US"><font face=3D"trebuchet ms, sans-serif">=
+RIF J.-40046744-6</font><font style=3D"font-size:16pt" face=3D"Vijaya, sans=
+-serif"></font></span></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"font=
+-size:16pt;font-family:Vijaya,sans-serif;color:rgb(118,113,113)" lang=3D"EN=
+-US">Telf: (0212)4516369 / (0412)9563094=C2=A0</span></p><p class=3D"MsoNor=
+mal" style=3D"margin-bottom:0.0001pt">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style=3D"font-size:16pt;font-family:Vijaya,sans-serif;color:rgb(136,1=
+36,136)" lang=3D"EN-US">E-mail:=C2=A0</span><u><span style=3D"font-size:16p=
+t;font-family:Vijaya,sans-serif;color:blue"><a href=3D"mailto:creacionesdli=
+s@gmail.com" target=3D"_blank"><span lang=3D"EN-US">creacionesdlis@gmail.co=
+m</span></a></span></u><span style=3D"font-size:16pt;font-family:Vijaya,san=
+s-serif;color:rgb(136,136,136)" lang=3D"EN-US">=C2=A0/=C2=A0</span><u><span=
+ style=3D"font-size:16pt;font-family:Vijaya,sans-serif;color:blue"><a href=
+=3D"mailto:creacionesdlis@hotmail.com" target=3D"_blank"><span lang=3D"EN-U=
+S">creacionesdlis@hotmail.com</span></a></span></u><u><span style=3D"font-s=
+ize:16pt;font-family:Vijaya,sans-serif;color:blue" lang=3D"EN-US"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span></u><span style=3D"font-size:16pt;font-family:Vijaya,sans-serif;colo=
+r:rgb(136,136,136)" lang=3D"EN-US">Instagram:=C2=A0</span><u><span style=3D=
+"font-size:16pt;font-family:Vijaya,sans-serif;color:blue" lang=3D"EN-US">@M=
+undoMagicoLIDR</span></u></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"font=
+-size:16pt;font-family:Vijaya,sans-serif;color:rgb(118,113,113)">Twiter: </=
+span><span style=3D"font-size:16pt;font-family:Vijaya,sans-serif;color:blue=
+">@</span><u><span style=3D"font-size:16pt;font-family:Vijaya,sans-serif;co=
+lor:blue" lang=3D"EN-US">MundoMagicoLIDR</span></u></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p><p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;text-align:cente=
+r" align=3D"center"><span style=3D"font-size:16pt;font-family:Arial,sans-se=
+rif">=C2=A0<br>
+</span><b><u><span style=3D"font-family:&#39;Franklin Gothic Heavy&#39;,san=
+s-serif;color:red"><font size=3D"6">&quot;Reenv=C3=ADalo a tus contactos, e=
+sta
+informaci=C3=B3n siempre es =C3=BAtil tenerla&quot;</font></span></u></b><s=
+pan style=3D"font-size:16pt;font-family:&#39;Franklin Gothic Heavy&#39;,san=
+s-serif"></span></p></div></div></div></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</blockquote></div><br></div></div>
+</div><br></div>
+</div><br></div>
+
+--20cf303a32d57c309b04f9ececfb--

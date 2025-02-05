@@ -1,0 +1,92 @@
+Return-path: <sanper67@yahoo.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Sat, 16 Feb 2013 16:06:34 -0430
+Received: from nm5-vm1.bullet.mail.ne1.yahoo.com ([98.138.91.32]:20043)
+	by host.caracasftp.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <sanper67@yahoo.com>)
+	id 1U6oUr-0008RO-Rq
+	for gabrielagarcia@courierpack.com.ve; Sat, 16 Feb 2013 16:06:34 -0430
+Received: from [98.138.226.176] by nm5.bullet.mail.ne1.yahoo.com with NNFMP; 16 Feb 2013 20:36:30 -0000
+Received: from [98.138.89.251] by tm11.bullet.mail.ne1.yahoo.com with NNFMP; 16 Feb 2013 20:36:30 -0000
+Received: from [127.0.0.1] by omp1043.mail.ne1.yahoo.com with NNFMP; 16 Feb 2013 20:36:30 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 56771.58198.bm@omp1043.mail.ne1.yahoo.com
+Received: (qmail 25772 invoked by uid 60001); 16 Feb 2013 20:36:30 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1361046989; bh=OrZDN5kOLd6WDGj6dTydAAyOv5pcoIW1wwZF0ZyK2xs=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=iPusQEUKGpkVDPjx2RB8rSKu5dnNU9zrxEAG/ydLOvM74stWLYrsedJNmnYIv3T8cMHeebg66B1CJQY2PH5oTA4sijZWGEtBrLeHD2nXYLchmImGXw+8YqhyZsRE5pEoItAsjbyae3VemORlkN7TiBURMHHxkcrXvzGZzgoN+mw=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type;
+  b=USjo2VDtaLComE1+7NazFg/bh0ucYTeEr9rmYJ9k0HMZ+iRUSPLuQx+NpJMRe7p7Y/B5XTJoHcYntQP1osrwQz/YBLlp5ccOoclcnLK5rm3YWr8shV1W6G9hOCkCnRQ1nHeWScC5QLibU+/C7UwJhSSUluKRBevg/KFB0RmPI4k=;
+X-YMail-OSG: _r.bzeIVM1mxhhChoLJ4E.1pFNUVR5icd5LyEevLB.A9r_0
+ NfQ6SXUBNZiU3nieVzcZbtqF9Ecedx_bfvLfoM3uXySMNfphwPhz8nVWdzJc
+ _0k9lOG4mPWeJsqcxLp4nWZfzr8b9JcgcSoz8NiMyeSuNCG.B8UabHqncYQW
+ X.G8lUiTOXEycU1QfqKC_2lrpUNyFS8boKDgpOEmhPuXUmaz_NYMG8RHg_Y2
+ jJaENMxHQ3GgODDFc5u1l5Dkav_224ey3.yz2ZjWyfjiK0aBhtjkCfMK8zfZ
+ aezT0_CSQ.LftrgYoIb3hIVeohlefsIvh6268kB9N0Ql6WVnxyeXLTfN0EFx
+ ekq5EfyS.pioYkNEPWNa9OtFU9iZsULqN6mgzgX2NPfTt9P5oMbjsvilLKDo
+ LTv_dU_zVm4a53Hp2BGIne8s6CgpaciIPho5aRjsOF4w85c5pZs_N5EZ7VBC
+ Sx3_lld8OnAoFlqYrJSejwGr4jj3akXqVHRT.QRaEz6YhMIzehjba2DMiKRi
+ J.v5bBZULwFkEt51y_Kua
+Received: from [181.180.7.191] by web122904.mail.ne1.yahoo.com via HTTP; Sat, 16 Feb 2013 12:36:29 PST
+X-Rocket-MIMEInfo: 001.001,SG9sYSBidWVuYXMgdGFyZGVzLiBEZXNlb8KgZXN0w6lzwqBiaWVuLiBFbCBsdW5lcyBkZXBvc2l0byB5IHRlwqBlbnbDrW8gY29waWEgZGVsIGJhdWNoZXIuwqAKCkdyYWNpYXMgeSBzYWx1ZG9zCgoKX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18KIEZyb206ICJnYWJyaWVsYWdhcmNpYUBjb3VyaWVycGFjay5jb20udmUiIDxnYWJyaWVsYWdhcmNpYUBjb3VyaWVycGFjay5jb20udmU.ClRvOiBzYW5wZXI2N0B5YWhvby5jb20gClNlbnQ6IEZyaWRheSwgRmVicnVhcnkgMTUsIDIwMTMgODo0NSBQTQoBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.133.508
+References: <1327800442-1360977344-cardhu_decombobulator_blackberry.rim.net-1874061654-@b26.c4.bise6.blackberry>
+Message-ID: <1361046989.17385.YahooMailNeo@web122904.mail.ne1.yahoo.com>
+Date: Sat, 16 Feb 2013 12:36:29 -0800 (PST)
+From: yrma santana <sanper67@yahoo.com>
+Reply-To: yrma santana <sanper67@yahoo.com>
+Subject: Re: CPK
+To: "gabrielagarcia@courierpack.com.ve" <gabrielagarcia@courierpack.com.ve>
+In-Reply-To: <1327800442-1360977344-cardhu_decombobulator_blackberry.rim.net-1874061654-@b26.c4.bise6.blackberry>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1919040978-1712395004-1361046989=:17385"
+
+--1919040978-1712395004-1361046989=:17385
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hola buenas tardes. Deseo=A0est=E9s=A0bien. El lunes deposito y te=A0env=ED=
+o copia del baucher.=A0=0A=0AGracias y saludos=0A=0A=0A____________________=
+____________=0A From: "gabrielagarcia@courierpack.com.ve" <gabrielagarcia@c=
+ourierpack.com.ve>=0ATo: sanper67@yahoo.com =0ASent: Friday, February 15, 2=
+013 8:45 PM=0ASubject: CPK=0A =0ABuenas Tardes=A0 Sra Yrma Santana.=A0 =A0 =
+Por este medio se le informa que su carga se encuentra en nuestros almanece=
+s disponible para su envio y entrega .=0A=0AAprovechamos para indicar que e=
+l costo por el servicio de flete es de Bs.,1016=0A=0AConjuntamente se le in=
+dica el detalle bancario=A0=0A=0ATitular: Gabriela Garcia=A0=0ACuenta Corri=
+ente: =A00134.0066.12.066.306.9613=A0=0ABanco: Banesco=0AC.I.: 18.539.138=
+=A0=0A=0A=0AEnviado desde mi BlackBerry de Movistar
+--1919040978-1712395004-1361046989=:17385
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:14pt"><div><span><font size=3D"4">Hola=
+ buenas tardes. Deseo&nbsp;</font><span style=3D"font-size: 19px;">est=E9s<=
+/span><font size=3D"4">&nbsp;bien. El lunes deposito y te&nbsp;env=EDo copi=
+a del baucher.&nbsp;</font></span></div><div style=3D"color: rgb(0, 0, 0); =
+font-size: 18px; font-family: arial, helvetica, sans-serif; background-colo=
+r: transparent; font-style: normal;"><span><font size=3D"4"><br></font></sp=
+an></div><div style=3D"color: rgb(0, 0, 0); font-size: 18px; font-family: a=
+rial, helvetica, sans-serif; background-color: transparent; font-style: nor=
+mal;"><span><font size=3D"4">Gracias y saludos</font></span></div><div styl=
+e=3D"font-family: arial, helvetica, sans-serif; font-size: 14pt;"><br></div=
+>  <div style=3D"font-family: arial, helvetica, sans-serif; font-size: 14pt=
+;"> <div style=3D"font-family: 'times new roman', 'new york', times, serif;=
+ font-size:
+ 12pt;"> <div dir=3D"ltr"> <font size=3D"2" face=3D"Arial"> <hr size=3D"1">=
+  <b><span style=3D"font-weight:bold;">From:</span></b> "gabrielagarcia@cou=
+rierpack.com.ve" &lt;gabrielagarcia@courierpack.com.ve&gt;<br> <b><span sty=
+le=3D"font-weight: bold;">To:</span></b> sanper67@yahoo.com <br> <b><span s=
+tyle=3D"font-weight: bold;">Sent:</span></b> Friday, February 15, 2013 8:45=
+ PM<br> <b><span style=3D"font-weight: bold;">Subject:</span></b> CPK<br> <=
+/font> </div> <br>=0ABuenas Tardes&nbsp; Sra Yrma Santana.&nbsp; &nbsp; Por=
+ este medio se le informa que su carga se encuentra en nuestros almaneces d=
+isponible para su envio y entrega .<br><br>Aprovechamos para indicar que el=
+ costo por el servicio de flete es de Bs.,1016<br><br>Conjuntamente se le i=
+ndica el detalle bancario&nbsp;<br><br>Titular: Gabriela Garcia&nbsp;<br>Cu=
+enta Corriente: &nbsp;0134.0066.12.066.306.9613&nbsp;<br>Banco: Banesco<br>=
+C.I.: 18.539.138&nbsp;<br><br><br>Enviado desde mi BlackBerry de Movistar<b=
+r><br> </div> </div>  </div></body></html>
+--1919040978-1712395004-1361046989=:17385--

@@ -1,0 +1,3001 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201312 will be lost/reset.
+# Last config file used to build this data file was /home/courierp/tmp/awstats/awstats.courierpack.com.ve.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2012                
+POS_TIME 2695                
+POS_VISITOR 28877               
+POS_DAY 105751              
+POS_DOMAIN 3657                
+POS_LOGIN 4492                
+POS_ROBOT 4647                
+POS_WORMS 5218                
+POS_EMAILSENDER 5349                
+POS_EMAILRECEIVER 5492                
+POS_SESSION 106715              
+POS_SIDER 106929              
+POS_FILETYPES 5627                
+POS_DOWNLOADS 5872                
+POS_OS 5944                
+POS_BROWSER 6182                
+POS_SCREENSIZE 8955                
+POS_UNKNOWNREFERER 9029                
+POS_UNKNOWNREFERERBROWSER 12425               
+POS_ORIGIN 13038               
+POS_SEREFERRALS 13188               
+POS_PAGEREFS 13390               
+POS_SEARCHWORDS 14997               
+POS_KEYWORDS 19943               
+POS_MISC 2359                
+POS_ERRORS 21529               
+POS_CLUSTER 4348                
+POS_SIDER_404 21643               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140101001404 876 238108 10365933727438
+FirstTime 20131201001231
+LastTime 20131231211701
+LastUpdate 20140101075641 876 0 875 0 0
+TotalVisits 1967                
+TotalUnique 1679                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1978                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 81 1175 16805594 56 255 2286787
+1 106 792 12194801 84 285 1781748
+2 27 286 4149604 37 132 635103
+3 22 259 3304555 60 152 1103290
+4 55 277 4239155 88 175 1230705
+5 53 330 5667139 53 155 1429710
+6 73 533 8110482 58 171 1518167
+7 109 888 12597900 61 236 1183595
+8 127 1562 21759151 43 295 628501
+9 154 1986 26662191 68 409 1947530
+10 289 3000 44130404 96 706 2470031
+11 263 2971 44933600 82 551 1676405
+12 175 2209 35117691 113 464 2728694
+13 206 2228 33035526 84 478 1508076
+14 235 2380 35358612 61 480 1005536
+15 274 2401 35802289 78 544 1942150
+16 241 2303 37673389 74 565 2384422
+17 199 2169 33106634 76 505 2055317
+18 231 2373 36696569 117 521 2913793
+19 223 2307 32804605 59 461 1698171
+20 231 2929 44422029 55 553 2809462
+21 278 2851 42171967 45 561 1580006
+22 209 2252 33441861 56 511 1411161
+23 174 1935 29289168 58 396 956806
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 40
+ve 3081 35416 529221555
+us 540 2042 36669852
+pa 73 952 15348870
+ca 59 1048 12277900
+ru 56 518 4846830
+es 44 753 10204532
+pe 20 300 3215945
+de 19 135 1555687
+il 18 18 383686
+jp 14 14 323966
+ph 13 13 435201
+do 12 150 2344277
+co 10 232 3280707
+ar 9 203 2517733
+ua 7 7 234339
+cn 7 7 153940
+br 6 36 950517
+nl 6 53 1004588
+fr 5 45 902055
+gb 5 46 948715
+it 4 54 636947
+an 4 68 1112491
+cl 3 46 951643
+za 3 3 0
+lt 3 3 26605
+tr 1 1 33477
+rs 2 18 244194
+mx 2 64 1210255
+cr 0 2 70430
+bb 1 23 209005
+sa 0 1 80595
+ec 2 33 561260
+cz 0 1 76664
+au 1 19 222171
+eu 1 1 0
+at 2 18 624665
+se 0 1 35215
+gt 0 2 70430
+ae 1 25 244061
+uy 1 25 243913
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bot[\s_+:,\.\;\/\\-] 1032 14303934 20131231210638 203
+googlebot 621 10712480 20131231221940 67
+msnbot\-media 287 926437 20131231234519 253
+robot 223 3731781 20131231235353 31
+[\s_+:,\.\;\/\\-]bot 149 520542 20131231234931 20
+spider 97 1620657 20131231094820 25
+unknown 83 1992 20131231030408 83
+no_user_agent 53 719033 20131229101637 0
+crawl 5 33573 20131226003601 4
+ia_archiver 2 15854 20131223062650 1
+netcraft 1 33477 20131210184139 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 1646 13646198 0 0
+png 535 409948 0 0
+swf 440 164743943 0 0
+php 627 12006551 0 0
+html 2967 57300378 0 0
+xml 1 7559 0 0
+jpg 36021 385047443 0 0
+js 18 215186 0 0
+gif 141 97710 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 687 0 16488
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 17
+blackberry 1374
+linuxandroid 4339
+winxp 9889
+winlong 1150
+win2000 1
+winvista 1975
+winunknown 27
+j2me 22
+win2003 34
+psp 27
+unix 125
+java 2
+linuxubuntu 50
+linux 990
+win7 18569
+macosx 3067
+Unknown 755
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 154
+firefox3.6 1
+chrome30.0.1599.92 43
+firefox2.0.0.15 48
+chrome31.0.1650.57 2315
+lynx 3
+chrome31.0.1650.63 14715
+alcatel 23
+safari7.0.1 50
+safari5.0.2 38
+firefox2.0.0.7 1
+safari7.0.0.590 67
+msie8.0 1556
+msie7.0 159
+chrome27.0.1453 74
+chrome30.0.1599.82 9
+chrome33.0.1750.5 137
+chrome29.0.1547.74 25
+safari6.0.0.756 52
+chrome31.0.1650.59 1174
+safari6.0.0.668 100
+safari7.1.0.634 25
+safari7.1.0.336 25
+firefox13.0 25
+safari6.0.0.246 25
+firefox7.0.1 27
+chrome30.0.1599.69 43
+chrome23.0.1271.91 1
+firefox3.5.12 50
+firefox25.0 4557
+netscape5.0 16
+chrome26.0.1410.64 69
+firefox14.0.1 85
+mot\- 25
+safari5.1.9 40
+safari7.1.0.746 120
+safari6.1 75
+chrome34.0.1758.0 27
+safari 433
+safari7.0 1455
+firefox5.0 3
+firefox4.0.1 44
+android 2274
+firefox7.0 1
+chrome28.0.1500.95 43
+safari7.0.0.261 27
+firefox24.0 135
+opera9.80 369
+iphone 88
+safari6.0.0.600 25
+chrome24.0.1312.57 28
+safari7.1.0.267 23
+msie9.0 1213
+chrome18.0.1025.1634 2
+chrome24.0.1312.52 27
+chrome29.0.1547.22 50
+firefox3.0.8 25
+blackberry 255
+chrome21.0.1180.75 21
+galeon 1
+chrome18.0.1025.166 120
+samsung 68
+chrome10.0.648.205 18
+firefox3.6.16 23
+chrome30.0.1551.0 50
+firefox22.0 166
+safari10.2.0.1791 63
+firefox3.6.12 25
+chrome31.0.1650.16 3
+chrome23.0.1271.97 83
+msie6.0 110
+safari7.0.0.579 25
+chrome18.0.1025.308 90
+firefox10.0 1
+ibrowse 48
+firefox26.0 2437
+sonyericsson 26
+chrome28.0.1500.94 202
+firefox18.0 100
+firefox4.0 25
+chrome32.0.1700.19 27
+curl 1
+chrome7.0.517.44 1
+chrome32.0.1682.0 18
+chrome5.0.307.7 108
+safari10.1.0.1720 25
+chrome28.0.1500.72 60
+safari6.0.0.723 93
+firefox23.0 85
+chrome29.0.1547.66 117
+safari7.1.0.398 273
+firefox3.5.11 35
+w3c_validator 2
+firefox1.5.0.7 1
+chrome28.0.1500.63 32
+safari7.1.0.523 29
+safari6.0.0.587 25
+firefox3.0 3
+firefox21.0 363
+lg\- 204
+safari6.0 330
+chrome16.0.899.0 36
+safari7.1.0.923 2
+chrome31.0.1650.62 50
+firefox3.5.2 2
+firefox12.0 59
+safari6.0.5 1
+mozilla 1909
+chrome18.0.1025.142 50
+chrome22.0.1229.94 1
+chrome26.0.1410.63 19
+firefox3.6.3 10
+chrome25.0.1364.97 25
+firefox19.0 41
+firefox10.0.2 25
+chrome29.0.1547.72 25
+firefox20.0 62
+firefox3.0.7 9
+firefox15.0 44
+chrome23.0.1271.64 2
+chrome32.0.1700.41 280
+firefox8.0 147
+chrome26.0.1410.58 25
+firefox13.0.1 25
+firefox0.10.1 1
+chrome33.0.1736.2 26
+firefox16.0 1
+chrome10.0.648.204 3
+chrome30.0.1599.66 18
+firefox27.0 25
+chrome30.0.1599.101 28
+Unknown 18
+firefox11.0 44
+chrome30.0.1599.114 25
+firefox3.5.6 25
+firefox17.0 2
+chrome27.0.1453.110 54
+firefox3.0.11 3
+chrome9.0.597 13
+chrome20.0.1132.57 26
+safari7.1.0.569 87
+safari5.1.7 29
+safari7.1.0.658 44
+chrome18.0.966.0 25
+firefox1.0 4
+chrome30.0.1650.0 25
+chrome31.0.1650.67 50
+msie10.0 601
+safari5.1 170
+firefox6.0 104
+safari7.0.0.557 25
+safari7.0.0.598 27
+chrome27.0.1453.116 27
+firefox3.0.19 46
+firefox3.6.13 89
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 38
+Opera/9.80_(Series_60;_Opera_Mini/7.0.31380/34.818;_U;_es)_Presto/2.8.119_Version/11.10 20131226011940
+Opera/9.80_(Android;_Opera_Mini/7.5.33361/34.788;_U;_es)_Presto/2.8.119_Version/11.10 20131218201448
+checks.panopta.com 20131203031030
+Xenu_Link_Sleuth/1.3.8 20131204093109
+wscheck.com/1.0.0_(_http://wscheck.com/) 20131204145052
+Instagram_3.0.4_Android_(10/2.3.6;_320dpi;_720x1280;_LGE/Verizon;_VS920_4G;_VS920;_qcom;_en_US) 20131215050432
+ASTRO36_TD/v3_MAUI/10A1032MP_ASTRO_W1052_Release/31.12.2010_Browser/Opera_(HTTPS)_Profile/MIDP-2.0_Configuration/CLDC-1.1_Sync/SyncClient1.1_Opera/9.80_(MTK;_Nucleus;_Opera_Mobi/4000;_U;_es-SA)_Presto/2.5.28_Version/10.10 20131217123323
+Mozilla/5.0_(Series40;_Nokia303/14.38;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/3.9.0.0.22 20131223125611
+Mozilla/5.0_(Series40;_Nokia2730c-1b/10.46;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.3.0.0.49 20131212200839
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20131215114049
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20131211055023
+unused/0_(C771_C771M120);_gzip 20131215064847
+Opera/9.80_(Series_60;_Opera_Mini/7.1.32448/32.1440;_U;_es)_Presto/2.8.119_Version/11.10 20131210180101
+Mozilla/5.0 20131204114936
+Mozilla/5.0_(BB10;_Touch)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.2.0.1791_Mobile_Safari/537.35_ 20131218081532
+PHP/5.2.17p1 20131224110253
+W3C_Validator/1.3_http://validator.w3.org/services 20131225061405
+nook_browser/1.0 20131222044455
+nutch-1.4/Nutch-1.4 20131224102214
+Opera/9.80_(S60;_SymbOS;_Opera_Mobi/SYB-1204232256;_U;_es-LA)_Presto/2.10.254_Version/12.00 20131218195123
+Mozilla/5.0_(Android;_Tablet;_rv:26.0)_Gecko/26.0_Firefox/26.0 20131227012126
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20131228070953
+Mozilla/5.0_(Android;_Mobile;_rv:26.0)_Gecko/26.0_Firefox/26.0 20131229174832
+PHP_(www.oshibochka.com),_hosted_by_www.ukraine.com.ua 20131210015607
+Opera/9.80_(Android;_Opera_Mini/7.5.33361/32.1382;_U;_es)_Presto/2.8.119_Version/11.10 20131202071553
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20131205143550
+Opera/9.80_(Android;_Opera_Mini/6.5.27431/34.818;_U;_en)_Presto/2.8.119_Version/11.10 20131220205208
+W3C_Validator/1.654 20131221064648
+Opera/9.80_(Android;_Opera_Mini/7.5.33361/34.817;_U;_es)_Presto/2.8.119_Version/11.10 20131221214344
+Mozilla/5.0_(Series40;_NokiaC3-00/08.63;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.0.2.68.14 20131221005953
+Visited_by_http://tools.geek-tools.org 20131220191146
+Mozilla/5.0_(BB10;_Kbd)_AppleWebKit/537.10__(KHTML,_like_Gecko)_Version/10.1.0.1720_Mobile_Safari/537.10_ 20131230233736
+NokiaC3-00/5.0_(08.63)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20131229114709
+Mozilla/5.0_(en-us)_AppleWebKit/534.14_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Chrome/9.0.597_Safari/534.14 20131228200431
+Mozilla/5.0_(compatible;_Ezooms/1.0;_help@moz.com) 20131231041836
+Opera/9.80_(Android;_Opera_Mini/7.5.33361/34.818;_U;_es)_Presto/2.8.119_Version/11.10 20131228173337
+Mozilla/4.0_(compatible;) 20131230075905
+Opera/9.80_(Android;_Opera_Mini/7.5.33361/32.1528;_U;_es)_Presto/2.8.119_Version/11.10 20131216225204
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+checks.panopta.com 20131203031030
+Visited_by_http://tools.geek-tools.org 20131220191146
+Apache-HttpClient/4.3_(java_1.5) 20131207122727
+Xenu_Link_Sleuth/1.3.8 20131204093109
+unused/0_(C771_C771M120);_gzip 20131215064847
+PHP_(www.oshibochka.com),_hosted_by_www.ukraine.com.ua 20131210015607
+PHP/5.2.17p1 20131224110253
+wscheck.com/1.0.0_(_http://wscheck.com/) 20131204145052
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20131205143550
+nook_browser/1.0 20131222044455
+nutch-1.4/Nutch-1.4 20131224102214
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 680 878
+From1 0 0
+From2 1539 1583
+From3 24 118
+From4 1792 39817
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 1514 1554
+search 3 3
+bing 8 11
+ask 4 4
+yahoo 10 11
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 24
+http://ekosumki.com.ua 5 5
+http://www.facebook.com/l.php 4 4
+http://domainsigma.com/whois/courierpack.com.ve 3 3
+http://translate.googleusercontent.com/translate_c 2 26
+http://start.iminent.com/StartWeb/3082/toolbox/ 2 2
+http://www.safehomepage.com/image/ 1 1
+http://translate.google.co.ve/translate_p 1 1
+http://navidaddiciembre.com/como-traer-regalos-estados-unidos-venezuela-diciembre/ 1 1
+http://m.facebook.com/l.php 1 1
+https://www.facebook.com 1 1
+http://www.taringa.net/comunidades/venezolanos/8084299/Consuta-Duda-sobre-tarjetas-credito-de-amazon.html 1 1
+http://sameid.net/domain/courierpack.com.ve/ 1 1
+http://t.co/H1LRBEE1 1 1
+http://www.preciolandia.com/pe/munecos-serie-mario-bros-set-12-figuras-6n1f36-a.html 0 1
+http://www.preciolandia.com/pe/oferta-de-juegos-ps3-a-solo-s-100-nuevos-6ndzxg-a.html 0 1
+http://articulo.mercadolibre.com.ve/MLV-415895686-sensor-iac-cavalier-sunfire-_JM 0 4
+http://articulo.mercadolibre.com.ve/descriptions/MLV416201291 0 2
+http://es-mg42.mail.yahoo.com/neo/launch 0 3
+http://m.olx.com.ve/item/show/44316114 0 3
+http://articulo.mercadolibre.com.ve/MLV-416201291-valvula-o-sensor-de-minimo-iac-cavalier-sunfire-_JM 0 44
+http://23.23.205.208/quality/sh/sh-review-2013-48/AR/eleonora.gil/review.html 0 6
+http://www.preciolandia.com/pe/robot-invincibility-armables-tipo-lego-b-6n5fxy-a.html 0 2
+http://www.mercadolibre.com 0 1
+http://www.preciolandia.com/pe/munecos-serie-mario-bros-nintendo-figura-6n1emb-a.html 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 131
+eliminacion+de+cadivi 71
+eliminaci%c3%b3n+de+cadivi 14
+courierpack 10
+courier+pack 8
+eliminacion+de+cupos+cadivi+para+compras+por+internet 4
+cupo+de+internet+2014 4
+dolar+internet+paralelo 3
+eliminacion+de+cupos+electronicos 3
+cadivi+cupo+internet+2014 3
+cupo+internet+cadivi+2014 3
+cadivi+eliminacion 3
+como+comprar+por+mas+de+400+dolares 2
+cupos+cadivi+2014 2
+eliminaci%c3%b3n+cadivi 2
+eliminacion+de+los+cupos+cadivi 2
+eliminacion+del+cupo+viajero+por+cadivi 2
+cupo+cadivi+de+internet+2014 2
+cupo+electronico+cadivi+2014 2
+cupo+internet+2014 2
+eliminacion+cadivi 2
+eliminacion+del+cupo+electronico+cadivi 2
+cupo+cadivi+electronico+en+donde+comprar 1
+eliminacion+de+cadavi 1
+cupo+cadivi+para+2014+internet 1
+compras+por+dolares+electronicos 1
+compro+cupo+internet+cadivi 1
+eliminacion+de+cadivi+%3f 1
+cuanto+aumentaron+los+cupos+de+viajeros+de+cadivi 1
+precioparalelodecuposcadivi 1
+eliminaci%c3%b3n+de+cupos+cadivi 1
+dolar+paralelo+cupo+electeonico 1
+compras+en+amazon+desde+venezuela 1
+eliminacion+de+los+cupos+para+compras+de+internet 1
+como+comprar+por+internet 1
+comprar+por+internet+en+dolares 1
+cupo+cadivi+2014+internet 1
+currier+amazon+venezuela 1
+compras+por+internet+desde+venezuela+problemas+con+las+facturas+2013 1
+calcular+courier+venezuela 1
+aumentaron+el+cupo+cadivi 1
+en+amanson+se+puede+ir+acumulando+los+dolares+sin+perderlos 1
+eliminaci%c3%b3n+de.+cadivi 1
+aumento+de+cupo+cadivi+viajero 1
+compras+con+dolares+de+cadivi 1
+gift+card+compror+cupo+cadivi 1
+aumento+de+cupo+viajero+cadivi 1
+aumento+cupo+cadivi+viajero 1
+como+saber+cuando+asignan+los+dolares+electronicos+de+cadivi 1
+retiro+en+efectivo+por+cupo+cadivi 1
+para+comprar+por+amazon+debes+colocar+que+la+tarjeta+tiene+d%c3%b3lares+americanos 1
+estudian+aumento+dek+cupo+cadivi 1
+servicio+courier+puerta+a+puerta 1
+www+empresas+courier+.com.ve 1
+amazon+comprar+cupo+cadive 1
+como+hacer+compras+por+internet+con+cupos+cadivi 1
+compra+con+cupos+cadivi 1
+eliminaci%f3n+de+cadivi 1
+rumores+sobre+la+eliminaci%c3%b3n+de+cadivi 1
+cupo+de+internet+del+2014 1
+compras+internacionales+cupo+cadivi 1
+eliminacion+del+cupo+viajero+cadivi 1
+como+comprar+con+el+cupo+de+internet+en+el+exterior 1
+best+packing+courier 1
+como+comprar+en+amazon+con+mas+de+400+dolares 1
+cadivi+aumenta+cupo+viajero 1
+aprobacion+del+cupo+viajero+por+el+banco+becintenario 1
+cadivi+aumento+de+cupos 1
+posible+eliminaci%c3%b3n+cadivi+en+2014 1
+courier+international+venezuela 1
+cupo+electr%c3%b3nico+para+el+2014 1
+como+hago+para+comprar+en+amazon+algo+que+cuesta+mas+de+400+dolares 1
+se+pueden+hacer+compras+superiores+a+400+dolares+de+amazon 1
+aumento+cadivi 1
+envios+a+venezuela+fedex+cupo+cadivi 1
+cupo+electronico+cadivi+paralelo 1
+eliminacion+cupo+cadivi+viajero 1
+courier+internacional 1
+cupo+cadivi+para+compras+en+internet+para+2014 1
+cupos+cadivi+para+2014 1
+cadivi+compras+en+internet+2014 1
+cupos+cadivi+compras+internet+2014 1
+eliminacion+cupo+internet+cadivi 1
+como+hacer+compras+por+internet+cadivi 1
+compras+con+cupo+cadivi 1
+compras+electronicas+cadivi 1
+aumento+de+los+cupos+viajeros 1
+dolar+de+internet+paralelo 1
+eliminacion+del+cupo+electronico 1
+tiendas+para+compras+por+internet+con+cupos+cadivi 1
+cupo+cadivi+para+comoras+por+internet+2014 1
+courrier+para+cupo+de+internet 1
+cupo+electr%c3%b3nico+cadivi+2014 1
+vender+los+d%c3%b3lares+es+estafa+a+la+naci%c3%b3n 1
+como+calculo+courier 1
+cupo+compras+por+internet+venezuela 1
+cupo+electr%c3%b3nico+eliminaci%c3%b3n 1
+comprar+por+internet+con+cupo+cadivi 1
+cupo+electronico+2014 1
+courierpack.com.ve 1
+como+comprar+en+internet+con+cupo+cadivi 1
+compras+electronicas+con+cadivi+2014 1
+eliminacion+de+dividas+para+compras+en+internet 1
+como+afiliarse+a+un+coruier 1
+tu+cadivi+paralelo 1
+aumentaron+los+cupos+cadivi 1
+cadibi+le+da+los+400+dolares+a+quien+sea+o+tiene+que+trabajar+en+empresa? 1
+compras+cupo+cadivi+por+internet 1
+paginas+para+comprar+por+internet+con+dolares+cadivi 1
+se+puede+pagar+mas+de+400%24+por+internet 1
+comprar+con+dolar+cadivi+venezuela 1
+http+//www.courierpack.com.ve/ 1
+otros+courier+para+comprar+por+amazon 1
+comprar+con+cupos+de+internet+cadivi 1
+cupos+de+cadivi+aumenta 1
+costo+por+libra+en+env%c3%ados+de+puerta+a+puerta 1
+eliminacion+de+cupos+cadivi 1
+modificaran+cupo+de+viajeros+cadivi 1
+no+puedo+hacer+compras+de+la+gift+card+por+amazon 1
+aumento+de+divisas+cupos+a+viajeros 1
+aunmento+de+los+cupos+cadivi 1
+como+comprar+un+articulo+en+amazon+de+mas+de+400+dolares 1
+informacion+de+la+eliminacion+de+cadivi 1
+elimacion+de+cadivi 1
+eliminacion+de+cadivi+para+2014 1
+providencia+91+aprobaci%c3%b3n+de+cupo+segun+el+pais 1
+courir+con+calculadora 1
+cupo+cadivi+para+el+2014 1
+eliminacion+de+cupo+cadivi 1
+eliminacion+de+los+cupos+cadivi+para+compras+por+internet 1
+eliminacion+cupo+cadivi+compras+internet 1
+eliminacion+de+cupo+caduvi+electronico 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 153
+cadivi 175
+de 144
+eliminacion 104
+cupo 62
+internet 50
+2014 33
+por 28
+cupos 28
+compras 26
+para 21
+eliminaci%c3%b3n 21
+comprar 17
+courier 16
+en 16
+con 15
+como 13
+dolares 13
+los 12
+courierpack 10
+amazon 10
+viajero 9
+electronico 9
+venezuela 8
+a 8
+pack 8
+courir 1
+pagar 1
+da 1
+le 1
+puede 2
+cadive 1
+calcular 1
+asignan 1
+400%24 1
+hago 1
+electeonico 1
+compra 1
+superiores 1
+cuanto 1
+caduvi 1
+400 7
+costo 1
+precioparalelodecuposcadivi 1
+vender 1
+internacionales 1
+dolar 6
+aprobaci%c3%b3n 1
+saber 1
+perderlos 1
+la 5
+pais 1
+tiene 2
+viajeros 4
+elimacion 1
+otros 1
+coruier 1
+tarjeta 1
+se 3
+informacion 1
+exterior 1
+cuando 1
+cuesta 1
+dek 1
+compror 1
+rumores 1
+no 1
+becintenario 1
+http 1
+tu 1
+pueden 1
+electronicas 2
+packing 1
+puedo 1
+mas 6
+aumentaron 3
+trabajar 1
+de. 1
+sin 1
+card 2
+estafa 1
+ir 1
+que 3
+hacer 4
+electr%c3%b3nico 3
+www 1
+courrier 1
+providencia 1
+amanson 1
+sobre 1
+puerta 4
+las 1
+segun 1
+.com.ve 1
+libra 1
+banco 1
+currier 1
+calculadora 1
+acumulando 1
+posible 1
+international 1
+%3f 1
+o 1
+tiendas 1
+env%c3%ados 1
+quien 1
+paginas 1
+2013 1
+dividas 1
+estudian 1
+modificaran 1
+colocar 1
+debes 1
+d%c3%b3lares 2
+divisas 1
+gift 2
+91 1
+servicio 1
+cadavi 1
+facturas 1
+desde 2
+del 8
+courierpack.com.ve 1
+sea 1
+empresa? 1
+calculo 1
+efectivo 1
+afiliarse 1
+electronicos 5
+donde 1
+fedex 1
+es 1
+problemas 1
+algo 1
+compro 1
+articulo 1
+aprobacion 1
+un 2
+best 1
+naci%c3%b3n 1
+aunmento 1
+aumenta 2
+retiro 1
+eliminaci%f3n 1
+envios 1
+empresas 1
+comoras 1
+aumento 8
+americanos 1
+//www.courierpack.com.ve/ 1
+internacional 1
+el 7
+paralelo 7
+cadibi 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 212 229
+206 289 8265177
+404 4737 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 126
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_img_0612.jpg 3 -
+//phpMyAdmin-2.5.5-pl1/index.php 1 -
+/ 3 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_img_0619.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_img_0614.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_dads_kitchen.jpg 2 -
+//scripts/setup.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_35_wilson_st_018 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_35_wilson_st_017.jpg 7 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_shans_003.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_pictures0708_285.jpg 5 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_pictures0708_002.jpg 2 -
+/Zona%20Usuarios 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_renovation08_018.jpg 2 -
+//phpMyAdmin-2/scripts/setup.php 1 -
+//php-my-admin/scripts/setup.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_35_wilson_st_019.jpg 3 -
+/%23FFFFCC 2 http://www.courierpack.com.ve/
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_kitchen_182.jpg 3 -
+//MyAdmin/scripts/setup.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_shans_001.jpg 3 -
+//phpadmin/scripts/setup.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_pictures0708_285 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_new_years_2009_209.jpg 3 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_new_years_2009_208.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_pictures0708_271.jpg 3 -
+/browserconfig.xml 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_img_0615.jpg 2 -
+/cse 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_1rsz_lounge%5B1%5D.jpg 4 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/West%20penant%20hills%20kitchen.jpg 3 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_renovation08_018.jpg 2 -
+/https://www.assoc-amazon.com/e/ir 8 http://www.courierpack.com.ve
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_kitchen_188.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_kitchen_188.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_img_0622.jpg 3 -
+/store//wp-login.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_shans_013.jpg 3 -
+/wp//wp-login.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_family%5B1%5D.jpg 4 -
+/www.cadivi.gob.ve 10 -
+/alta.php 3 http://www.courierpack.com.ve/registrado.php
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_img_0614.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_img_0612.jpg 4 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_1dining%5B2%5D.jpg 3 -
+//web/phpMyAdmin/scripts/setup.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_35_wilson_st_017.jpg 3 -
+/old//wp-login.php 1 -
+//wp-login.php 1 -
+//admin/scripts/setup.php 1 -
+//phpmyadmin1/scripts/setup.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_kitchen_182.jpg 4 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_mark_bathromm.jpg 3 -
+//phpMyAdmin-2.5.5/index.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_pictures0708_311.jpg 4 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_dads_kitchen_22.jpg 3 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_dads_kitchen_22.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/West%20penant%20hills%20kitchen.jpg 2 -
+/test//wp-login.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_1rsz_lounge%5B1%5D.jpg 2 -
+//web/scripts/setup.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_new_years_2009_210.jpg 3 -
+/Rastreo%20en%20linea%20de%20laser%20ship 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_pictures0708_300.jpg 3 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_kitchen_197.jpg 5 -
+//pma/scripts/setup.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_pictures0708_298.jpg 4 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_new_years_2009_210.jpg 4 -
+//phpmyadmin/scripts/setup.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_img_0619.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_pictures0708_262.jpg 3 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_dads_kitchen.jpg 3 -
+//websql/scripts/setup.php 1 -
+/apple-touch-icon.png 21 -
+//phpmyadmin2/scripts/setup.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_pictures0708_271.jpg 4 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_1dining%5B2%5D.jpg 3 -
+/Scripts/swfobject_modified.js 783 http://www.courierpack.com.ve/
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_pictures0708_300.jpg 4 -
+/administrativo/administrativo/bizama.png 8 http://www.courierpack.com.ve/administrativo/guias/actualizado.php
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_pictures0708_002.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_family%5B1%5D.jpg 7 -
+//xampp/phpmyadmin/scripts/setup.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_35_wilson_st_019.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_shans_013.jpg 3 -
+//mysqladmin/scripts/setup.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_dads_kitchen_019.jpg 4 -
+/images/img01.gif 2749 http://www.courierpack.com.ve/style.css
+/index.htm 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_kitchen_197.jpg 3 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_shans_001.jpg 3 -
+/muieblackcat 1 -
+/blog//wp-login.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_renovation08_014.jpg 4 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_renovation08_014.jpg 3 -
+//myadmin/scripts/setup.php 1 -
+//db/scripts/setup.php 1 -
+//admin/pma/scripts/setup.php 1 -
+/Scripts/AC_RunActiveContent.js 863 http://www.courierpack.com.ve/
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_pictures0708_298.jpg 4 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_renovation08_016.jpg 4 -
+//wallet.dat 1 -
+/apple-touch-icon-precomposed.png 21 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_35_wilson_st_018.jpg 6 -
+//dbadmin/scripts/setup.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_shans_003.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_pictures0708_311.jpg 3 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_new_years_2009_209.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_new_years_2009_208.jpg 3 -
+/blank_clip_image001_0002.gif 1 http://courierpack.com.ve/preguntas.html
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_pictures0708_285.jpg 5 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_img_0615.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_mark_bathromm.jpg 4 -
+//admin/phpmyadmin/scripts/setup.php 1 -
+/a[i] 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_pictures0708_262.jpg 3 -
+//typo3/phpmyadmin/scripts/setup.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/rsz_renovation08_016.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_dads_kitchen_019.jpg 2 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_img_0622.jpg 3 -
+/wordpress//wp-login.php 1 -
+/Sites/spsty/Cms/PictureGalleries/7198/thumb/rsz_35_wilson_st_018.jpg 3 -
+//phpMyAdmin/scripts/setup.php 1 -
+//mysql/scripts/setup.php 1 -
+/sites/spsty/Cms/HeaderImages/header.jpg 3 -
+/supuesta-eliminacion-del-cupo-cadivi-para-compras-por-internet.html%20https://www.google.co.ve/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1978
+200.8.157.15 40 84 464464 20131228150926
+186.95.39.150 37 69 928300 20131222185948
+179.45.150.39 31 113 224339 20131203212806
+190.198.23.215 29 79 948722 20131219110402
+208.115.113.86 29 29 671051 20131231041836
+186.88.240.196 28 98 1632872 20131216130109
+181.182.146.44 26 50 151558 20131209201330
+201.242.102.137 26 43 1039251 20131230113506
+201.211.108.152 26 85 1666593 20131228144107
+186.93.170.142 25 62 1339320 20131204173448
+190.202.82.98 22 55 825743 20131219134350
+198.199.65.166 22 22 441152 20131208181641
+198.199.64.129 22 22 441152 20131214235801
+201.208.197.152 22 39 1094036 20131212020526
+190.199.250.136 22 56 1197209 20131216080303
+190.75.37.125 21 59 1046066 20131228175153
+208.115.111.70 21 21 317681 20131230221912
+190.204.34.115 21 56 986819 20131228164055
+186.95.32.102 21 87 1827951 20131211073442
+66.249.83.22 20 20 669540 20131231114932
+84.95.88.100 18 18 383686 20131222044455
+186.188.8.153 17 81 1739809 20131214140041
+186.94.25.103 17 52 884864 20131211233910
+190.201.205.40 16 100 1795363 20131202175952
+54.242.210.152 16 16 321753 20131204114936
+74.82.68.64 0 7 25584 
+200.35.95.131 1 25 243913 20131217105511
+190.75.229.52 1 24 241092 20131216233748
+186.92.113.202 1 25 243913 20131217115352
+190.207.163.189 2 21 634272 20131221224134
+150.70.172.200 1 1 15388 20131218181709
+186.92.158.148 2 18 624665 20131226190812
+202.46.61.105 1 1 16492 20131217164424
+199.30.24.6 0 18 201018 
+186.92.85.37 1 26 247230 20131218180402
+217.69.133.169 1 1 33477 20131209164651
+190.205.245.136 1 25 243913 20131218101226
+190.205.224.105 1 25 243913 20131221080831
+93.186.31.114 0 3 118810 
+190.79.221.12 1 27 326080 20131218151759
+190.79.252.116 1 25 243913 20131223092313
+190.203.250.220 1 27 326080 20131202191352
+74.82.64.35 0 4 16861 
+190.39.183.174 1 25 243913 20131217075042
+201.217.140.138 1 25 243913 20131213190510
+92.58.92.132 1 25 243913 20131223003948
+186.90.121.72 1 27 326080 20131215104557
+186.90.53.191 1 25 243913 20131218154921
+184.88.83.247 1 25 243913 20131218164332
+54.196.49.182 1 1 33477 20131218063233
+208.88.225.19 8 8 150471 20131230151722
+186.167.242.105 3 43 868578 20131218205614
+186.151.60.158 0 1 35215 
+186.95.192.19 2 21 634096 20131208155509
+186.88.90.211 1 25 243913 20131219143716
+190.38.149.170 1 25 244061 20131217002358
+190.39.229.11 1 25 243913 20131231115439
+186.92.102.67 1 25 243913 20131221103917
+190.204.106.147 1 27 326080 20131216204710
+201.243.38.99 1 25 243913 20131218073221
+150.70.173.45 1 1 33477 20131201183315
+201.208.14.151 0 1 38172 
+66.54.69.57 0 1 3299 
+118.85.208.222 1 1 33477 20131210080607
+199.80.54.23 1 1 10001 20131223081235
+186.91.174.219 1 25 243913 20131210052404
+190.72.148.144 4 35 693836 20131210230103
+186.167.242.61 1 25 244061 20131201083031
+190.36.71.173 2 50 487826 20131214000941
+186.184.31.235 1 17 244194 20131221082227
+79.149.120.226 1 25 243913 20131228055544
+190.203.175.151 1 25 243913 20131201194751
+186.14.96.200 0 1 76664 
+190.195.0.34 0 1 12635 
+199.101.134.198 2 2 31174 20131215082749
+186.91.150.123 1 17 244194 20131203040815
+190.73.113.191 1 27 326080 20131202000256
+198.211.96.53 2 2 66954 20131223164218
+190.74.124.33 1 25 243913 20131222065011
+186.167.243.76 1 9 71587 20131226143253
+66.54.69.125 0 1 3317 
+186.89.4.252 4 34 690519 20131210233826
+201.211.18.231 1 25 243913 20131218020725
+186.93.112.131 2 18 624665 20131203125944
+181.130.100.77 0 1 35215 
+186.94.126.26 1 25 243913 20131219185030
+69.171.235.113 0 3 30303 
+200.63.197.154 1 1 22422 20131209115118
+190.198.128.14 1 25 244061 20131222184123
+181.208.64.221 6 45 945452 20131210205741
+200.74.219.16 1 25 243913 20131219100519
+200.109.237.11 7 40 749539 20131223103319
+201.242.52.146 1 1 380471 20131227193415
+190.205.161.81 1 25 243913 20131219125859
+186.14.142.1 1 25 243913 20131229155613
+190.202.225.125 1 27 326080 20131223224312
+173.255.215.40 1 1 33477 20131224110253
+190.36.199.210 1 25 243913 20131220223730
+190.78.211.169 0 1 76664 
+150.70.173.52 1 1 15388 20131218181414
+200.8.177.174 1 25 243913 20131217082650
+80.174.54.92 1 25 243913 20131217175717
+186.89.58.188 2 18 624665 20131213161848
+190.39.64.23 0 1 76664 
+186.167.242.87 1 25 243913 20131224111036
+37.228.105.37 2 26 243913 20131220205208
+186.167.243.58 1 24 240779 20131217085203
+186.95.143.155 1 25 243913 20131225231630
+201.238.48.43 10 42 664758 20131203105513
+190.73.59.253 1 25 243913 20131213003919
+83.173.128.50 0 2 25270 
+190.201.175.215 1 25 243913 20131221174107
+186.91.193.183 1 25 243913 20131215210116
+186.92.153.45 2 18 624665 20131219131042
+66.249.85.212 4 5 210572 20131227124818
+181.17.157.29 0 2 127027 
+208.88.224.217 2 2 43886 20131230145937
+186.93.112.48 3 29 411339 20131227182748
+190.78.215.82 2 26 259301 20131229212443
+190.205.215.161 1 25 243913 20131221135404
+201.242.123.210 1 25 244061 20131229223904
+190.37.245.228 1 25 246540 20131206154006
+190.37.74.89 0 1 12635 
+190.74.163.251 2 19 627638 20131226204829
+74.82.64.69 2 7 171044 20131220094611
+186.14.183.104 1 25 243913 20131228202328
+190.78.61.115 1 25 243913 20131231160847
+74.82.64.161 5 71 772710 20131227181655
+190.142.250.242 1 25 243913 20131218100353
+186.167.243.17 1 27 326080 20131201123642
+5.228.79.142 0 1 80595 
+190.228.246.190 0 1 12635 
+190.74.52.58 2 18 624665 20131209234658
+190.200.5.233 1 25 244061 20131211130120
+190.74.59.143 1 25 243913 20131217163709
+66.54.69.2 0 1 817 
+157.55.104.78 0 10 182804 
+179.47.167.45 1 27 326080 20131211202052
+186.95.236.35 1 25 243913 20131217193506
+190.75.238.228 2 36 293541 20131218214253
+186.90.95.227 1 25 243913 20131217153343
+208.43.255.30 1 1 33477 20131221214503
+181.208.103.226 4 35 709076 20131211000713
+190.204.227.86 1 25 243913 20131217194230
+190.203.243.106 1 17 244194 20131202124008
+186.94.189.154 1 24 212242 20131208181452
+186.93.75.114 2 18 624665 20131213210242
+200.93.123.180 0 1 35215 
+186.151.153.146 0 1 35215 
+190.199.168.253 1 25 243913 20131217213058
+190.142.163.240 2 22 639349 20131216081043
+186.167.242.143 1 27 326080 20131212175917
+186.93.203.184 1 27 326080 20131211153245
+186.188.109.75 1 17 244194 20131211143428
+181.18.33.108 1 25 243913 20131217105240
+184.88.231.103 1 25 243913 20131216202403
+201.209.208.45 1 25 218043 20131213161320
+198.199.66.244 11 11 220576 20131204173645
+181.17.250.68 1 25 243913 20131216232433
+190.39.130.242 1 25 244061 20131217112335
+199.241.203.21 0 1 76664 
+74.117.177.167 6 6 182972 20131228021051
+66.54.69.110 0 1 3237 
+190.76.82.196 1 25 243913 20131204144319
+186.90.61.206 2 26 259743 20131228114818
+74.82.68.65 0 4 120577 
+74.82.68.35 0 6 105672 
+190.75.81.17 1 25 243913 20131217104354
+190.75.88.246 1 25 243913 20131220071749
+186.24.19.1 1 25 243913 20131217085033
+74.82.68.72 0 4 48695 
+186.88.77.9 1 15 344991 20131209150657
+200.84.65.51 2 18 624665 20131211185912
+190.202.108.138 1 25 243913 20131217150421
+186.92.62.2 12 46 873675 20131201174739
+69.171.242.115 0 1 12635 
+186.167.242.196 1 9 152914 20131217100547
+199.30.25.131 0 8 147642 
+190.73.123.40 4 35 732356 20131204181354
+190.198.226.15 6 40 791243 20131216115915
+190.199.52.114 5 35 721836 20131225113108
+66.54.69.41 0 1 5048 
+190.0.5.163 1 25 243913 20131220193443
+190.206.199.230 1 25 243913 20131218231945
+204.236.145.36 1 1 33477 20131230160156
+186.88.230.161 5 36 742105 20131203222722
+190.37.165.224 1 25 243913 20131202111218
+190.76.226.88 0 2 127027 
+200.8.102.160 2 28 400805 20131226175710
+190.202.254.173 3 33 690345 20131220081409
+190.6.2.184 2 25 647291 20131206102802
+186.46.132.179 0 1 35215 
+186.24.176.98 1 25 243913 20131222211704
+186.7.148.131 0 1 35215 
+190.206.235.230 1 27 326080 20131218210716
+190.38.128.4 0 1 76664 
+190.202.84.143 1 25 243913 20131217102355
+190.203.160.248 1 25 243913 20131223120534
+190.203.105.165 1 25 243913 20131222183212
+190.74.245.47 1 4 33222 20131229153428
+181.18.194.234 2 31 349332 20131208160741
+190.73.110.103 3 33 692333 20131209181548
+150.70.64.209 1 1 15388 20131217143025
+186.24.146.202 1 25 243913 20131220142600
+186.167.242.136 3 29 410931 20131207111019
+181.53.141.211 0 1 12635 
+189.155.124.146 0 1 35215 
+186.26.192.101 5 5 49306 20131204165149
+186.95.116.209 1 28 390252 20131215204706
+201.243.54.220 1 25 243913 20131219213739
+190.206.1.226 5 34 736488 20131210124326
+186.89.31.167 1 28 329053 20131203140025
+190.203.179.102 1 25 243913 20131218052649
+199.30.24.247 0 5 20827 
+74.82.64.21 0 6 152850 
+190.78.183.112 11 50 1102906 20131205142303
+186.92.97.117 8 38 773740 20131210120302
+186.89.153.122 2 20 630955 20131207004559
+190.141.145.253 2 18 624665 20131202173005
+190.207.249.96 1 27 326080 20131221084717
+74.82.64.65 1 7 146201 20131220095126
+64.34.169.244 3 3 100431 20131231085646
+201.243.129.66 1 25 243913 20131218062800
+190.39.154.51 3 32 685384 20131204211350
+200.8.141.16 1 25 243913 20131217212823
+200.8.59.178 1 19 222171 20131203223733
+200.82.137.17 1 25 244061 20131230102717
+200.90.98.198 1 23 209005 20131218092418
+186.167.242.120 1 25 243913 20131218193755
+190.202.221.58 1 25 243913 20131218154123
+186.188.166.154 1 25 243913 20131216162744
+189.251.16.189 0 1 35215 
+190.76.119.122 1 25 243913 20131218113755
+201.209.63.237 1 25 243913 20131217224114
+200.93.118.136 1 27 326080 20131219160939
+190.142.202.248 2 18 624665 20131209125931
+190.206.167.230 1 25 243913 20131218105608
+199.30.24.9 0 1 8543 
+208.43.255.27 2 2 49908 20131228054201
+186.14.134.167 1 27 326080 20131228201839
+179.44.245.123 0 2 127027 
+186.88.94.29 5 47 784691 20131207104727
+186.167.242.183 1 25 243913 20131209143246
+186.89.152.77 1 25 243913 20131221110431
+186.91.155.117 1 27 326080 20131223100101
+190.75.172.215 1 26 247230 20131229162405
+190.206.17.143 1 25 243913 20131218214100
+190.74.230.96 1 25 243913 20131217155352
+66.54.69.31 0 1 5048 
+181.184.38.244 1 29 584257 20131216125433
+186.88.227.195 1 25 243913 20131209002958
+201.209.12.119 1 25 244061 20131228231158
+190.202.125.179 1 25 243913 20131218093524
+200.35.192.2 2 19 627982 20131206150609
+190.72.36.96 6 42 851541 20131213105627
+186.14.2.229 1 26 251449 20131225123815
+198.229.63.3 1 12 184600 20131219180039
+190.38.90.97 11 43 882617 20131211114542
+190.74.242.234 1 25 243913 20131217155830
+186.167.243.104 10 43 888438 20131224020323
+181.19.84.10 0 2 127027 
+201.243.163.178 1 25 243913 20131220162913
+200.93.89.224 11 41 879557 20131227233035
+200.75.155.226 1 25 243913 20131217123039
+186.89.120.227 1 25 243913 20131222232533
+50.186.255.203 1 11 168653 20131220204758
+186.92.3.23 1 23 209005 20131223121947
+201.242.103.113 2 19 628028 20131221175537
+190.39.83.223 3 19 624665 20131222093336
+186.94.139.59 1 25 243913 20131214204546
+150.70.97.119 1 1 15388 20131218155740
+186.91.156.229 1 25 243913 20131212140230
+201.209.235.236 1 26 319408 20131213013425
+190.75.129.22 6 32 385908 20131226202733
+190.240.181.129 0 1 35215 
+161.196.38.9 4 33 702886 20131209160020
+190.142.90.233 1 25 243913 20131216230942
+201.209.41.53 1 25 243913 20131217152740
+186.95.79.242 0 1 76664 
+200.11.138.37 3 34 694104 20131223114642
+200.82.135.249 1 25 243913 20131216190854
+186.95.207.191 1 25 243913 20131208163906
+201.208.6.205 1 25 244061 20131228182814
+88.19.119.81 1 25 243913 20131225161500
+186.94.245.119 2 18 624665 20131216165057
+186.93.228.108 1 25 243913 20131218194719
+199.101.134.201 2 2 49064 20131213043729
+186.188.51.73 1 25 243913 20131221160049
+200.84.140.46 1 8 401170 20131212202620
+186.88.46.156 1 25 244061 20131201121034
+83.56.209.83 2 18 624665 20131230055646
+190.204.81.20 1 8 34199 20131218130129
+201.210.44.244 1 25 243913 20131219140942
+190.205.250.3 1 9 137526 20131224131044
+200.11.228.170 1 25 243913 20131216224004
+186.88.167.231 3 35 696860 20131210152647
+201.208.6.90 2 18 624665 20131222220332
+181.184.3.192 1 25 244061 20131230233731
+74.82.68.20 0 4 14259 
+190.76.47.127 0 1 76664 
+190.202.88.164 2 18 624665 20131226135100
+201.211.30.74 1 25 243913 20131217134540
+186.94.150.121 1 25 243913 20131220122750
+190.201.231.94 11 52 924643 20131208105113
+186.95.129.109 1 25 243913 20131217081149
+190.206.86.141 1 25 243913 20131217090204
+181.208.232.147 2 58 940432 20131219125903
+186.90.240.161 1 25 243913 20131225122256
+192.132.229.1 1 25 243913 20131220083113
+190.74.87.56 1 25 243913 20131218081812
+202.46.61.122 1 1 4695 20131219092530
+186.93.2.246 1 27 385343 20131204235042
+190.141.144.116 1 25 245017 20131218233019
+181.187.87.164 1 1 9716 20131203135324
+179.47.49.79 4 33 321456 20131202225932
+66.54.69.55 0 1 3253 
+190.77.241.199 2 26 254322 20131210103042
+190.199.251.66 1 25 243913 20131219170630
+190.15.170.153 1 25 243913 20131216164502
+201.211.181.4 1 25 243913 20131208210612
+201.248.28.254 1 25 243913 20131204052859
+181.17.103.50 1 3 42837 20131215112322
+181.184.37.102 1 27 326080 20131219182236
+199.30.25.74 1 17 591188 20131211213607
+190.203.206.156 3 33 690741 20131210165257
+207.10.104.50 1 25 243913 20131219101840
+67.17.249.194 1 6 56157 20131201211953
+186.94.214.121 1 28 253520 20131218200239
+190.75.80.214 1 26 247378 20131205214651
+201.209.71.249 0 1 2028 
+201.248.106.229 1 25 243913 20131223082056
+190.73.100.235 0 1 3095 
+186.188.102.46 1 25 243913 20131222203904
+186.167.242.198 2 15 504128 20131202142210
+186.91.168.205 0 3 11384 
+103.31.200.92 6 6 200862 20131226031840
+200.93.62.180 1 27 385343 20131227205844
+190.75.224.219 4 28 278278 20131212211442
+150.70.172.205 1 1 33477 20131201183617
+190.206.147.74 1 27 326080 20131217043726
+190.199.179.253 5 36 713984 20131201210020
+199.217.119.4 1 1 33477 20131204145052
+74.82.68.162 2 23 212784 20131221211423
+200.8.245.147 1 25 243913 20131206185252
+66.54.69.93 0 2 42300 
+208.94.234.20 4 4 43673 20131218124512
+190.77.253.170 1 25 243913 20131218111110
+200.75.140.226 1 25 243913 20131219162332
+190.78.12.109 5 24 672945 20131207102319
+190.74.49.121 1 25 244061 20131226111514
+186.186.14.139 1 25 243913 20131219005543
+190.73.72.216 7 37 772532 20131203124954
+66.249.81.231 2 2 66954 20131230205957
+201.228.197.226 1 25 243913 20131222213643
+187.138.218.3 0 1 12635 
+190.153.52.55 2 26 254470 20131217031254
+186.188.103.158 1 1 33477 20131206225725
+190.205.225.247 0 2 127027 
+91.206.201.99 1 1 33477 20131210015607
+186.26.245.193 6 46 495041 20131228080553
+185.3.40.132 1 1 0 20131215020626
+74.82.64.146 4 61 551621 20131217175331
+200.73.196.20 1 23 209005 20131219213252
+66.54.69.120 0 1 3299 
+150.188.25.253 1 24 238865 20131223110304
+190.67.224.208 2 18 624665 20131224144601
+190.201.221.96 2 23 640776 20131201215809
+186.167.243.130 1 27 326080 20131227111247
+181.208.247.106 7 68 1362312 20131224221452
+208.88.224.203 6 6 200862 20131230110637
+190.235.211.47 1 25 243913 20131203132331
+201.208.194.235 1 25 243913 20131217211239
+186.95.7.188 2 18 624665 20131210093104
+201.243.162.138 1 25 243913 20131227022800
+66.54.69.43 0 1 4802 
+208.43.225.84 6 6 101749 20131228070953
+186.90.249.183 1 25 243913 20131223110655
+190.78.55.33 1 25 243913 20131206164351
+65.55.157.155 0 2 127027 
+201.211.236.212 1 26 247230 20131218091902
+187.205.60.138 0 1 35215 
+190.206.180.235 2 19 627638 20131230114648
+190.203.150.19 1 25 243913 20131228213226
+186.150.9.66 7 38 746843 20131209230245
+190.72.40.96 0 1 80595 
+186.91.203.187 3 50 1049223 20131214085406
+200.0.126.3 1 25 243913 20131217120714
+200.8.49.19 1 13 203561 20131217160120
+190.40.235.90 0 1 35215 
+201.248.19.140 1 25 243913 20131226215958
+186.93.44.62 5 36 712474 20131228232808
+186.95.169.12 1 27 326080 20131220105805
+66.54.69.17 0 1 2866 
+186.14.54.242 4 41 724874 20131209122043
+190.72.242.222 3 25 676684 20131215203733
+190.201.228.139 1 25 243913 20131209085651
+186.25.88.21 1 27 385343 20131222152315
+190.200.182.244 8 37 770320 20131217232437
+190.73.91.92 1 25 243913 20131217194227
+201.211.99.112 1 25 243913 20131223065051
+66.54.69.112 0 1 111038 
+190.140.172.216 0 1 35215 
+190.94.194.108 1 25 243913 20131217233117
+190.77.38.12 1 23 209005 20131215201629
+181.208.118.105 1 25 243913 20131217200947
+74.82.64.70 1 6 47640 20131217082150
+190.142.252.45 1 25 243913 20131225130546
+200.75.106.233 1 14 207026 20131228161541
+190.36.96.162 1 25 243913 20131220003218
+190.142.246.81 2 18 624665 20131222174004
+66.54.69.113 0 1 2866 
+190.39.175.178 1 25 243913 20131217193312
+186.26.131.100 0 2 127027 
+190.206.122.159 1 25 243913 20131218195002
+65.55.118.94 0 4 254054 
+190.38.89.82 3 33 690345 20131227182326
+190.200.162.142 1 25 243913 20131231072558
+186.95.132.187 1 23 201544 20131202134418
+201.242.247.251 2 18 624665 20131213122921
+201.209.182.108 1 25 243913 20131222182907
+186.14.38.213 1 26 359714 20131207201846
+74.82.68.67 0 5 121377 
+201.210.91.63 1 25 243913 20131223085336
+190.206.14.77 2 26 259301 20131220213900
+131.253.24.101 1 2 32711 20131210004836
+186.94.209.156 7 36 736843 20131208101854
+82.145.219.9 2 16 512810 20131221214344
+190.37.215.132 1 25 243913 20131217150556
+201.210.133.53 4 34 1070816 20131202105858
+186.88.164.196 1 25 244061 20131209073917
+186.14.28.181 1 13 203561 20131219185924
+201.209.252.48 1 25 243913 20131226004626
+190.38.240.28 1 25 243913 20131218120128
+190.39.1.23 2 19 627638 20131218124542
+186.93.238.80 0 1 76664 
+74.82.64.18 0 5 32368 
+190.142.12.51 1 25 243913 20131221233501
+186.92.87.64 1 27 326080 20131221203714
+190.206.217.165 1 25 243913 20131223204643
+186.93.229.72 1 25 243913 20131218133214
+131.253.24.38 3 4 455968 20131212040207
+190.79.43.120 1 23 209005 20131220101605
+190.203.250.48 1 25 243913 20131218200653
+200.3.1.8 2 50 487826 20131217120220
+186.92.155.52 1 25 243913 20131217165606
+131.253.24.48 1 2 24974 20131205225911
+189.234.232.22 0 1 35215 
+153.2.247.30 2 18 624665 20131217144730
+190.207.41.79 1 23 201544 20131210192534
+201.234.224.103 1 27 326080 20131223152910
+186.24.41.162 2 18 624665 20131223200149
+186.188.21.37 1 25 243913 20131216221811
+199.101.134.194 3 3 59065 20131230145840
+201.208.12.165 1 25 243913 20131218171524
+201.243.153.193 1 1 33477 20131218190244
+186.93.38.249 2 18 624665 20131214194251
+186.167.243.92 1 13 203561 20131231211701
+200.8.143.165 1 23 209005 20131226152811
+190.202.81.201 2 50 336489 20131218173239
+200.8.191.56 2 18 624665 20131208130105
+186.92.201.144 1 15 344991 20131205194554
+190.153.116.159 1 25 243913 20131218065350
+186.88.0.64 1 27 326080 20131214142129
+190.204.241.159 1 25 243913 20131217110438
+93.186.31.113 0 2 6165 
+181.208.53.85 1 27 385343 20131201203809
+190.94.203.77 1 14 206656 20131223213037
+186.93.46.179 1 25 243913 20131220135108
+190.77.30.186 3 36 701886 20131211125958
+198.199.64.115 11 11 220576 20131221151842
+200.71.240.2 1 25 243913 20131217154258
+190.79.10.46 1 25 243913 20131218193317
+186.167.242.166 1 27 385343 20131207155513
+190.74.96.115 2 26 262235 20131219121619
+150.70.172.102 1 1 15388 20131218090337
+201.211.14.46 1 27 326080 20131204174356
+186.188.88.34 1 25 243913 20131202114629
+74.82.68.37 1 6 37392 20131216180831
+201.243.36.115 1 25 243913 20131203191058
+150.70.97.114 1 1 33477 20131209160037
+201.211.228.161 2 18 624665 20131218014527
+186.92.38.147 1 9 85603 20131217190510
+190.201.40.243 2 19 628028 20131217184759
+103.31.200.249 2 2 66954 20131222134642
+74.82.68.19 0 3 25450 
+176.9.53.186 6 22 344625 20131225061409
+190.73.67.144 1 25 243913 20131219214552
+186.88.5.102 1 25 243913 20131218214408
+190.72.239.88 0 2 153328 
+186.188.1.254 1 25 244061 20131207193914
+190.38.126.116 2 18 624665 20131219161415
+186.92.121.236 1 25 243913 20131203174820
+200.84.136.141 2 20 632669 20131216191646
+199.30.24.177 0 16 166137 
+189.155.90.77 0 1 35215 
+186.167.243.238 1 25 243913 20131231021833
+190.74.9.92 1 25 243913 20131223223933
+190.72.170.89 1 25 243913 20131222193543
+65.55.85.14 0 14 889189 
+179.45.249.158 1 25 243913 20131216184046
+181.208.104.151 1 25 243913 20131219203838
+201.243.193.254 2 26 259743 20131222214904
+74.82.68.16 0 5 24175 
+190.39.162.136 2 50 243913 20131218135135
+186.188.72.215 1 25 243913 20131221173417
+190.39.244.25 1 27 326080 20131226225116
+74.82.64.16 0 3 10884 
+186.26.148.243 0 1 76664 
+190.202.90.70 1 25 243913 20131223141915
+201.211.87.207 1 25 243913 20131218163629
+179.45.151.165 1 25 243913 20131218133817
+186.167.243.211 1 25 243913 20131218195106
+201.238.40.171 1 25 243913 20131217150832
+186.167.243.49 2 50 487826 20131221015128
+186.88.14.8 3 25 227415 20131229215829
+66.54.69.116 0 1 2973 
+181.19.127.219 5 29 252253 20131208100427
+186.14.13.179 1 25 246302 20131209221741
+186.93.110.214 0 4 27590 
+162.205.105.144 1 25 243913 20131210155151
+186.93.66.56 4 33 1067895 20131229174832
+199.30.25.120 1 16 582645 20131202162802
+181.19.105.138 1 13 203561 20131229170921
+190.142.87.75 1 26 248822 20131225235913
+200.84.73.52 2 20 632669 20131212175614
+66.119.41.34 1 1 33477 20131212212601
+192.81.210.165 0 1 35215 
+190.79.203.112 1 27 326080 20131221205141
+190.79.199.8 2 18 624665 20131213113318
+190.142.143.155 1 23 209005 20131211011621
+201.211.120.96 8 37 843199 20131204120845
+199.101.134.206 4 4 86460 20131223062300
+190.77.226.52 1 27 326080 20131227133820
+190.200.179.67 1 25 243913 20131221064308
+181.18.175.136 3 33 690345 20131220202238
+186.94.18.83 1 25 243913 20131211003153
+201.243.175.159 2 18 624665 20131214113058
+186.14.216.31 4 58 966618 20131216141932
+200.82.187.123 1 25 243913 20131223102527
+199.30.25.7 0 9 61795 
+190.76.90.15 1 12 191563 20131224113556
+181.208.52.135 4 36 1244606 20131210011159
+201.242.77.215 2 18 624665 20131229113847
+190.72.214.55 1 21 257332 20131220074151
+108.132.236.124 2 18 624665 20131229172924
+190.199.217.112 1 23 209005 20131229201923
+186.14.153.21 1 25 243913 20131224015701
+190.201.6.77 3 33 325778 20131216182203
+190.142.184.33 1 27 326080 20131201223259
+66.171.229.13 1 25 243913 20131218214943
+190.78.170.205 2 22 637860 20131231141239
+190.36.54.177 1 25 246540 20131216113323
+186.91.33.225 1 25 244061 20131217193217
+201.249.194.114 1 25 243913 20131218095558
+201.243.50.201 1 25 243913 20131229191949
+190.35.182.191 1 13 203561 20131219203643
+74.82.68.22 0 1 3253 
+190.37.103.35 7 64 1054192 20131211232833
+200.8.2.45 6 37 751016 20131218005546
+201.243.138.187 1 25 243913 20131217213224
+186.93.172.53 2 19 629574 20131216162946
+189.231.19.59 0 1 35215 
+190.206.8.148 5 36 728731 20131212220801
+186.24.33.161 2 26 259743 20131223090946
+186.92.88.211 1 25 243913 20131223104932
+190.75.225.214 1 26 246886 20131211144727
+190.71.232.200 0 1 35215 
+190.206.172.223 1 13 194536 20131216151143
+201.209.18.104 3 35 804872 20131217180415
+85.56.240.101 0 1 81451 
+190.200.51.129 1 25 243913 20131221110013
+179.47.21.87 1 25 243913 20131218210932
+190.75.143.84 1 27 326080 20131207061006
+186.187.199.208 1 17 244194 20131227091144
+190.78.119.123 1 2 38279 20131213062729
+186.94.51.210 1 17 244194 20131220104006
+200.75.105.168 6 37 1123282 20131217164952
+74.82.68.69 1 4 53358 20131211080306
+201.243.169.158 1 27 326080 20131203182212
+190.78.245.29 0 2 153328 
+186.167.242.141 2 18 624665 20131219215729
+201.209.38.116 2 18 624665 20131223144358
+200.44.255.192 1 27 326080 20131227132028
+190.202.214.157 1 25 246540 20131218001351
+190.72.127.112 3 35 697071 20131227204634
+200.93.56.176 1 25 243913 20131218141127
+190.79.47.229 1 26 246886 20131222192756
+200.82.160.57 1 25 243913 20131220215528
+74.82.68.144 0 68 541388 
+66.249.82.101 0 1 76664 
+66.249.88.212 5 77 781046 20131226192548
+186.89.98.227 1 25 244061 20131231011157
+186.14.194.97 7 37 739938 20131206130615
+69.58.178.59 10 10 198154 20131222044912
+181.181.220.79 1 25 243913 20131218211710
+46.229.166.195 2 18 277671 20131206090524
+181.208.122.206 1 26 247034 20131216131146
+181.208.77.137 1 25 243913 20131221171307
+201.249.197.186 1 25 243913 20131217162341
+186.89.24.124 1 25 243913 20131221101137
+201.209.198.160 1 17 244194 20131211200011
+186.92.159.123 0 1 76664 
+200.82.187.139 1 25 243913 20131217085146
+200.84.1.211 1 25 224959 20131211172746
+190.94.221.173 1 27 326080 20131201174813
+200.90.76.148 5 35 743115 20131224202624
+190.206.236.185 0 1 76664 
+190.205.151.212 1 25 243913 20131225224408
+190.142.157.10 0 10 155340 
+186.95.132.241 1 25 243913 20131217160810
+178.33.186.151 1 1 33477 20131215043015
+74.82.64.160 3 76 681595 20131229181939
+74.82.64.38 0 6 22073 
+186.116.25.86 0 1 35215 
+190.38.5.188 1 25 244061 20131229093738
+190.206.155.168 1 25 243913 20131217200354
+190.202.91.6 8 41 950802 20131227105709
+190.204.7.191 1 26 247008 20131220091333
+199.30.24.96 0 8 25646 
+186.92.91.195 1 25 243913 20131202184708
+190.36.17.130 1 25 243913 20131220230354
+186.164.57.196 1 25 243913 20131219122120
+186.88.174.89 2 20 631345 20131219095803
+66.54.69.117 0 1 817 
+199.30.24.217 1 17 591188 20131224091041
+201.208.199.101 1 27 385343 20131219174616
+181.18.78.26 1 2 32711 20131227073546
+186.88.224.113 15 36 743540 20131221144447
+186.14.55.74 1 25 243913 20131203233959
+190.79.51.229 1 25 243913 20131229112951
+181.208.88.201 1 13 203561 20131218131757
+190.216.248.250 2 48 483899 20131220143713
+66.54.69.9 0 3 19621 
+200.8.175.155 1 33 421434 20131231173652
+181.185.54.3 1 1 33477 20131222214057
+186.89.24.211 6 12 128738 20131205082245
+201.209.169.167 1 25 243913 20131216200452
+200.59.186.98 1 25 243913 20131216133509
+190.36.213.226 3 75 731739 20131221095426
+201.249.195.106 1 25 243913 20131217092201
+190.36.18.43 1 25 243913 20131221203720
+95.126.235.11 1 27 385343 20131203002741
+190.204.97.126 1 17 244194 20131211132609
+186.167.242.134 8 43 789658 20131207061630
+190.199.162.17 3 33 692333 20131226193914
+186.14.109.121 8 42 1029407 20131217011920
+186.88.110.227 1 25 246302 20131231170136
+190.73.74.89 1 25 243913 20131217184819
+98.254.76.76 2 18 277671 20131206234727
+190.205.151.64 1 10 180154 20131218005244
+190.76.244.50 1 23 125010 20131217123253
+186.167.242.212 0 4 108737 
+186.119.188.12 1 25 243913 20131228125258
+186.95.115.221 1 24 212995 20131204150847
+190.72.1.248 1 26 247276 20131218225740
+68.171.231.80 1 25 243913 20131223082459
+201.249.204.219 5 35 714350 20131210100436
+190.205.126.64 10 50 1151321 20131229105514
+186.94.20.57 1 25 243913 20131221202823
+80.103.233.208 1 25 243913 20131223041046
+186.14.71.21 1 25 244061 20131214205745
+37.228.106.180 1 24 220050 20131210180059
+186.90.236.100 5 36 717545 20131219225344
+186.90.59.86 0 1 8543 
+190.142.190.129 1 25 243913 20131212111417
+190.38.72.187 6 40 762809 20131207215614
+190.79.254.35 0 1 76664 
+201.209.192.18 2 18 624665 20131208115301
+201.248.69.195 1 25 243913 20131218094009
+190.198.80.176 0 1 76664 
+201.243.54.47 2 18 624665 20131225055246
+190.204.201.12 1 25 243913 20131216223835
+186.167.243.166 1 17 244194 20131207220913
+190.75.68.213 4 35 726917 20131208180923
+187.253.24.122 0 1 35215 
+186.90.117.37 4 33 702886 20131203225336
+190.74.61.197 4 43 547473 20131218101152
+190.79.147.59 5 36 711155 20131212102916
+190.74.82.11 1 25 243913 20131221103436
+186.24.49.178 3 29 411214 20131209111439
+37.57.193.118 5 5 167385 20131208072410
+66.249.82.22 2 39 529658 20131228200430
+190.39.135.227 2 18 624665 20131225205203
+190.205.230.218 7 41 770156 20131209142931
+186.88.238.156 1 25 243913 20131216202640
+190.142.90.29 1 25 243913 20131218132148
+200.84.75.214 1 25 243913 20131219181859
+186.188.120.103 3 27 274689 20131221220213
+201.210.226.252 2 24 211953 20131203192833
+5.9.113.13 1 1 33477 20131207095800
+186.14.30.146 1 27 326080 20131201200306
+190.72.227.58 1 25 243913 20131218183412
+186.89.213.167 1 25 243913 20131217200253
+190.198.131.35 1 25 243913 20131218110520
+190.36.232.102 1 27 326080 20131217214431
+66.54.69.53 0 1 2970 
+200.35.79.55 1 25 243913 20131216143228
+150.70.75.32 1 1 33477 20131209160112
+186.24.80.244 0 1 15989 
+31.34.58.222 1 25 243913 20131213102608
+190.94.250.199 0 2 153328 
+37.228.105.41 1 25 243913 20131216225202
+186.89.148.250 1 25 244061 20131227124812
+208.51.102.66 1 10 79708 20131230151251
+190.103.47.207 1 25 243913 20131221225245
+181.17.161.159 7 43 759544 20131230161745
+186.95.41.130 10 79 1596638 20131220160229
+190.121.231.66 1 23 209005 20131212113557
+186.89.182.210 2 18 624665 20131204150853
+186.91.75.161 1 25 243913 20131226104919
+190.75.62.29 2 18 624665 20131212154947
+190.79.127.159 2 18 624665 20131207232253
+128.30.52.72 1 1 33477 20131225061405
+186.188.122.242 1 25 243913 20131223004732
+186.94.243.89 6 35 751542 20131220164133
+190.76.6.152 1 27 326080 20131222103114
+190.39.113.75 1 6 502171 20131209111024
+190.40.177.99 0 1 76664 
+201.208.163.233 1 27 326080 20131201140402
+79.158.180.25 1 25 243913 20131204185153
+179.44.114.101 1 25 243913 20131230153706
+186.95.150.238 1 13 203561 20131231092755
+190.39.52.67 2 18 624665 20131223113828
+74.82.68.145 4 36 501607 20131223071940
+65.55.215.238 1 2 30965 20131230091214
+201.242.25.106 5 36 717664 20131204212426
+190.88.216.233 1 25 243913 20131218213224
+186.91.234.229 1 25 243913 20131217130750
+181.183.190.18 1 25 243913 20131204120647
+190.36.114.105 1 25 243913 20131217205557
+200.47.79.18 1 25 243913 20131217131242
+200.8.32.104 6 37 750626 20131208202336
+179.44.17.62 1 25 243913 20131223224710
+186.95.74.10 8 38 909005 20131208183544
+190.204.254.207 9 42 966438 20131227140030
+181.208.236.120 1 25 243913 20131217002300
+186.167.242.103 1 25 243913 20131218220400
+201.242.33.150 2 18 624665 20131211114507
+199.30.24.255 0 13 162561 
+190.39.51.70 2 18 624665 20131227122705
+190.199.160.52 1 25 243913 20131216235311
+190.38.72.69 1 18 209699 20131228140124
+190.204.18.91 1 25 243913 20131219091924
+190.78.39.90 1 27 326080 20131217211954
+200.84.128.219 2 18 624665 20131224184152
+190.78.25.51 11 45 819553 20131210162429
+204.13.200.8 1 2 24079 20131225172001
+186.93.235.44 6 35 765800 20131222110146
+187.205.86.61 0 1 35215 
+186.14.226.152 1 25 243913 20131217101203
+200.93.71.18 2 20 631123 20131226100445
+190.37.47.4 0 1 11998 
+2.47.119.11 1 27 326080 20131218094305
+200.84.247.14 1 25 243913 20131230140115
+190.36.175.42 2 31 306953 20131217220748
+200.74.194.132 2 24 219046 20131208094637
+200.44.50.43 1 25 243913 20131223095346
+186.94.159.14 1 25 243913 20131221233433
+200.82.180.216 3 20 644289 20131227100724
+179.9.5.134 0 1 35215 
+186.14.138.232 2 18 624665 20131219101052
+103.31.201.159 1 1 33477 20131204234639
+74.82.68.36 2 8 46583 20131221060555
+190.200.220.203 1 25 243913 20131216123630
+190.38.70.169 1 25 243913 20131218160630
+186.92.116.138 1 25 243913 20131228082831
+187.209.146.41 0 1 35215 
+190.202.1.130 1 24 238865 20131218103850
+190.205.201.133 2 18 624665 20131219105248
+201.208.163.86 1 25 243913 20131218212516
+199.30.24.126 0 13 50251 
+201.138.176.98 0 1 12635 
+74.82.68.33 0 4 11985 
+190.239.136.98 0 1 35215 
+199.101.132.161 5 5 202250 20131223062154
+190.78.169.165 1 25 243913 20131220172829
+186.95.100.46 1 1 7559 20131218221258
+200.84.230.135 5 38 726155 20131227212853
+200.8.114.130 2 21 634275 20131201152914
+208.43.255.31 8 8 154961 20131202163028
+74.82.68.40 0 1 30302 
+190.38.15.8 1 25 243913 20131231094631
+176.31.101.6 1 1 0 20131231034030
+190.78.188.75 6 47 927446 20131203182119
+200.11.218.146 4 40 747627 20131205113316
+186.91.61.153 1 23 209005 20131219185737
+181.17.79.135 1 25 243913 20131218000644
+201.209.26.42 1 25 243913 20131217153956
+81.57.126.150 2 18 624665 20131230095346
+190.201.125.171 1 27 326080 20131220213727
+74.82.64.67 2 11 161813 20131229154503
+190.207.3.247 3 25 683675 20131229164059
+201.209.4.29 1 24 241492 20131209135904
+208.94.233.138 3 3 78935 20131230145909
+65.55.183.184 0 2 127027 
+190.78.15.48 1 25 243913 20131228220514
+186.186.137.18 1 25 246302 20131231151513
+186.90.92.84 2 28 326080 20131205191712
+190.201.191.32 1 25 243913 20131222223725
+199.101.103.130 1 1 33477 20131212013030
+190.206.115.16 9 41 957440 20131224111048
+190.74.184.98 1 25 243913 20131216173827
+186.165.87.192 6 41 745828 20131210231659
+186.92.210.230 4 33 720901 20131204214332
+190.201.121.100 7 38 770067 20131225204258
+186.14.54.170 2 18 624665 20131213081617
+186.185.63.251 3 3 24912 20131203111627
+200.109.164.77 1 27 385343 20131207111659
+199.80.54.22 8 8 152639 20131223134828
+186.93.221.61 0 1 76664 
+186.89.155.176 4 40 888564 20131205230803
+190.166.90.124 0 1 12635 
+65.55.213.54 1 2 26133 20131205203022
+186.89.25.181 2 28 395752 20131215113616
+186.186.80.207 1 26 354951 20131217234730
+71.41.212.118 1 25 243913 20131220112205
+186.14.26.207 1 25 243913 20131221081701
+186.167.243.164 1 17 244194 20131227200923
+201.210.25.116 7 36 761951 20131217123219
+201.242.123.218 1 25 243913 20131218183338
+186.90.240.211 5 37 525122 20131208103904
+186.89.20.30 1 25 244061 20131228173541
+186.90.85.87 1 25 243913 20131218001115
+66.54.69.107 0 2 114291 
+74.82.64.36 0 10 166168 
+199.101.134.196 1 1 10409 20131213043742
+117.78.13.18 1 1 33477 20131210163641
+103.31.200.97 2 2 66954 20131228002517
+199.30.25.199 1 13 576968 20131230165907
+94.198.111.87 1 25 243913 20131226122331
+190.37.239.146 1 25 243913 20131218000626
+8.28.16.254 14 14 104399 20131230075905
+190.204.95.209 1 25 244061 20131202150115
+190.205.175.210 0 14 210339 
+181.182.4.30 1 27 326080 20131223175111
+186.90.89.101 0 3 8918 
+186.14.129.164 1 25 243913 20131216181701
+190.203.134.208 1 25 243913 20131228081652
+200.82.172.190 4 34 705971 20131207002524
+190.79.84.129 4 34 733114 20131217215959
+199.101.134.204 1 1 8868 20131223062107
+200.84.61.197 2 18 624665 20131206134123
+190.88.230.89 1 25 243913 20131217115524
+190.36.95.145 1 26 319408 20131214101049
+66.54.69.64 0 2 6183 
+186.91.235.152 0 1 38172 
+190.75.87.73 1 25 243913 20131219215648
+74.82.64.32 0 4 132926 
+201.209.227.91 1 25 243913 20131216144224
+186.95.15.212 6 40 750912 20131224022829
+66.54.69.11 0 2 11513 
+186.95.102.237 1 27 326080 20131221195113
+181.208.54.107 2 17 623848 20131230204640
+186.90.50.87 1 27 385343 20131201080954
+190.201.96.211 1 25 244061 20131229020816
+190.77.5.4 1 25 243913 20131221213659
+190.71.166.71 0 1 76664 
+66.54.69.59 0 1 3237 
+181.185.117.226 0 1 113804 
+190.76.163.230 1 25 243913 20131217081911
+186.188.48.127 2 18 624665 20131205180353
+190.216.240.80 1 25 243913 20131219070724
+190.200.217.122 1 25 246593 20131222111034
+186.95.82.82 1 25 243913 20131218161536
+186.167.242.227 2 28 247150 20131217121725
+186.95.29.199 1 25 244061 20131224112109
+190.73.238.42 5 36 742775 20131227114336
+186.89.27.100 1 25 243913 20131217110209
+199.30.25.60 1 3 388572 20131208172500
+190.250.8.199 0 1 35215 
+186.185.21.212 2 18 624665 20131201220940
+190.38.73.64 2 19 629574 20131211180822
+66.54.69.14 0 1 3253 
+189.204.108.90 0 1 76664 
+200.44.248.78 3 32 316954 20131227204638
+186.167.243.89 1 25 243913 20131217170123
+190.72.144.61 2 18 624665 20131227173121
+181.184.213.14 1 25 243913 20131214125414
+190.77.245.104 1 27 326080 20131206102025
+186.92.195.77 1 25 243913 20131217104534
+201.242.52.131 2 18 624665 20131219132143
+190.199.38.5 3 37 870593 20131203154242
+200.84.33.17 2 18 624665 20131219134116
+186.167.243.23 2 18 624665 20131209220827
+190.78.177.130 1 27 250203 20131221093636
+200.35.235.201 4 35 709124 20131214213705
+190.199.197.189 1 25 243913 20131219120440
+200.8.183.108 1 25 243913 20131217210134
+186.94.83.35 2 24 653225 20131218124123
+190.73.205.119 1 25 243913 20131220100037
+98.254.196.112 2 50 487826 20131218163212
+201.211.217.220 1 27 385343 20131202184616
+66.54.69.0 0 2 114011 
+69.171.235.115 0 2 115840 
+186.26.183.147 10 41 773157 20131206231902
+150.70.173.55 1 1 15388 20131218085911
+190.39.135.237 1 25 244061 20131225234006
+190.37.10.10 2 50 243913 20131220110737
+201.249.174.234 1 25 243913 20131218142442
+181.19.36.138 3 35 804872 20131214063840
+148.204.201.148 0 1 35215 
+200.75.105.106 1 23 209005 20131231111425
+186.90.88.165 1 25 244061 20131218150151
+190.39.106.198 1 25 243913 20131218092522
+190.36.230.89 4 36 874544 20131218214203
+66.54.69.76 0 1 3299 
+186.93.103.225 0 2 6390 
+190.39.104.193 1 27 385343 20131217164801
+200.93.126.40 1 25 243913 20131218113624
+186.95.210.120 0 1 76664 
+186.95.225.64 1 25 243913 20131229141715
+74.82.64.23 0 1 4263 
+190.72.62.4 1 11 161192 20131219193114
+190.202.208.113 1 11 81011 20131226194110
+190.199.115.166 1 25 244061 20131219042653
+181.19.78.133 8 48 330385 20131206092721
+190.206.127.142 1 25 243913 20131218195246
+190.142.138.229 1 27 250371 20131217165209
+190.6.1.95 1 25 243913 20131229014604
+200.93.86.45 1 27 326080 20131218012756
+186.26.186.156 1 27 385343 20131215232231
+201.249.224.17 1 8 117320 20131231084008
+201.210.207.223 1 24 238865 20131226084645
+201.249.224.18 0 19 208760 
+199.30.24.70 0 9 36952 
+190.76.7.147 1 27 326080 20131209194706
+199.116.169.254 1 1 33477 20131202173001
+199.30.24.26 0 13 185597 
+179.47.166.123 1 25 244061 20131225230612
+200.8.231.122 2 18 624665 20131214212819
+54.211.163.98 1 1 33477 20131216044113
+201.242.10.25 1 25 243913 20131227161738
+186.88.104.112 2 19 629574 20131231185834
+200.74.204.233 1 25 243913 20131218105401
+190.75.77.65 2 18 624665 20131216115323
+157.56.172.30 0 4 254054 
+186.91.167.207 7 38 744673 20131209144914
+181.182.200.77 1 25 243913 20131221170839
+190.203.183.222 1 25 243913 20131228232822
+190.39.84.107 1 27 326080 20131226193835
+186.95.113.233 1 25 243913 20131216222220
+186.94.117.239 1 25 244061 20131228212759
+190.142.39.129 1 13 203561 20131228231934
+186.90.241.204 4 36 711823 20131204103525
+187.134.184.33 1 17 244194 20131210103605
+190.6.5.233 1 25 243913 20131229000053
+200.11.148.210 1 25 243913 20131202133833
+190.142.121.68 2 19 627760 20131211065034
+190.77.212.88 1 25 243913 20131212102404
+190.75.213.46 1 11 161192 20131204200210
+128.30.52.73 1 1 33477 20131221064648
+201.210.13.118 3 34 693882 20131229160038
+190.233.209.51 0 1 76664 
+176.9.105.105 2 2 66954 20131209073808
+190.207.60.43 1 25 243913 20131216231956
+186.95.32.130 1 25 244061 20131224101456
+186.88.131.35 1 25 243913 20131217234753
+37.228.106.169 1 22 120060 20131217203622
+95.222.200.179 1 27 326080 20131217005617
+72.14.199.102 1 1 33477 20131208074344
+199.30.24.175 0 8 64584 
+186.91.34.120 7 55 852205 20131231194931
+190.78.23.11 1 25 244061 20131218092441
+190.142.25.143 1 25 243913 20131206211506
+181.180.99.171 3 35 698349 20131205001738
+190.72.36.21 1 25 246540 20131219200600
+88.12.40.17 1 25 243913 20131224174040
+74.117.179.18 2 2 25588 20131218102845
+200.84.38.223 1 25 243913 20131216180126
+190.36.214.158 0 1 76664 
+190.38.157.119 1 25 243913 20131229133954
+208.88.225.18 4 4 111853 20131230145925
+186.92.180.79 1 25 243913 20131220194943
+186.178.119.203 0 1 35215 
+190.77.237.21 1 27 385343 20131218210627
+181.208.5.144 1 27 385343 20131208213115
+201.242.144.150 2 22 639127 20131221141502
+186.188.16.53 11 45 793467 20131230133026
+186.14.89.195 1 25 243913 20131218073259
+189.155.248.164 0 2 25270 
+200.11.208.227 2 52 569993 20131218120842
+201.209.0.131 3 35 697529 20131203140939
+186.94.21.66 2 18 624665 20131224210326
+190.75.127.125 5 37 908021 20131203193551
+186.14.9.107 2 26 259375 20131217162814
+186.95.255.122 1 12 171748 20131227154808
+74.82.68.160 5 52 540866 20131218043738
+190.39.92.65 0 1 35215 
+190.203.227.63 1 25 243913 20131220195517
+190.0.48.78 0 1 35215 
+37.228.106.237 1 25 244061 20131226011938
+190.78.62.109 1 25 243913 20131221015834
+201.209.221.207 1 25 243913 20131203091658
+181.208.248.206 1 25 243913 20131210111411
+199.30.25.107 0 12 172256 
+186.91.205.23 1 25 243913 20131217150558
+213.205.40.29 1 1 33477 20131204002419
+74.82.64.145 3 83 671169 20131217163855
+186.93.33.76 1 25 243913 20131209123131
+190.78.131.238 1 25 243913 20131216185255
+186.90.220.217 1 27 385343 20131217111403
+66.54.69.3 0 1 2973 
+190.39.132.202 1 25 243913 20131217201739
+190.75.87.247 1 17 591188 20131218154234
+186.92.6.18 2 18 624665 20131203163641
+186.166.200.199 1 25 244061 20131224233056
+181.180.127.1 1 25 243913 20131218130040
+200.26.161.81 1 13 203561 20131220182338
+74.117.179.19 3 3 41200 20131230145909
+201.243.42.59 8 38 805601 20131217195233
+186.187.116.185 1 23 209005 20131227194614
+190.15.176.157 1 25 243913 20131218132619
+181.17.50.4 4 50 430040 20131205092255
+190.142.222.61 1 25 243913 20131217122202
+74.82.64.19 1 6 48835 20131229154415
+199.30.24.233 0 13 167869 
+186.14.57.17 1 10 59003 20131228114412
+190.204.88.132 1 27 326080 20131206141925
+186.93.42.160 8 38 782533 20131210100655
+208.43.225.85 2 2 41846 20131228014715
+190.250.111.159 1 22 307433 20131218210337
+186.7.107.64 2 33 676415 20131217143650
+201.211.117.63 1 25 243913 20131216094738
+190.75.79.54 3 35 804872 20131204110037
+186.90.116.96 2 21 634765 20131210160226
+186.94.217.137 1 25 243913 20131217125225
+186.90.57.232 1 25 244061 20131226095734
+199.30.24.228 0 4 26751 
+190.79.126.64 2 20 631077 20131216213245
+50.27.102.44 1 25 243913 20131231111159
+190.204.242.168 12 67 1141172 20131217175324
+181.18.118.84 1 25 243913 20131217095307
+190.205.19.97 0 1 76664 
+201.243.138.26 5 22 627982 20131201205049
+190.199.220.117 1 26 248822 20131230112449
+201.210.52.210 3 32 687424 20131208125523
+65.55.77.30 0 10 635135 
+186.89.253.95 1 25 243913 20131230190504
+186.167.242.160 9 43 1021518 20131222073501
+74.82.68.38 0 5 127182 
+79.152.243.100 0 1 35215 
+186.14.226.182 1 25 243913 20131220150236
+190.71.201.13 0 1 80595 
+186.94.210.202 1 25 243913 20131217223807
+201.211.186.58 2 18 624665 20131207135759
+190.76.16.75 1 24 220050 20131208185517
+190.36.87.111 8 38 773683 20131227132949
+190.72.162.116 6 8 127417 20131213110922
+190.204.140.23 1 25 243913 20131224094908
+198.211.104.25 12 12 254053 20131212212152
+66.54.69.40 1 1 24168 20131212200838
+190.10.229.22 0 1 35215 
+190.232.211.173 0 1 35215 
+201.209.194.107 6 35 726842 20131205220338
+69.171.235.112 1 7 70713 20131210224730
+199.30.25.188 0 1 8543 
+190.79.130.8 0 3 23348 
+74.82.68.24 0 1 2973 
+190.205.201.189 1 25 243913 20131219172226
+200.35.131.5 2 21 635864 20131205110354
+190.198.16.70 1 25 243913 20131222014656
+186.188.98.99 1 25 243913 20131217123919
+190.121.230.179 1 25 243913 20131218172236
+186.167.242.86 0 4 254054 
+186.91.200.59 1 17 244194 20131229191057
+199.30.24.11 0 4 12631 
+74.82.64.20 3 6 68452 20131220095527
+186.95.36.193 1 25 243913 20131222113108
+23.23.34.137 1 24 241047 20131221142511
+186.167.242.176 1 25 243913 20131219232829
+201.248.22.90 1 25 243913 20131231000944
+66.54.69.56 1 1 15388 20131221005952
+186.96.70.34 1 1 33477 20131218154233
+74.82.68.163 0 1 3237 
+181.183.109.29 1 25 246302 20131231033405
+74.82.64.144 8 111 1031517 20131221032819
+74.82.68.147 0 5 15408 
+190.142.26.228 1 27 326080 20131203142643
+190.142.143.227 2 18 624665 20131210205602
+190.142.107.9 1 25 244061 20131230093951
+200.44.139.105 1 25 243913 20131217011309
+190.200.149.7 1 25 243913 20131229124804
+190.78.109.39 1 23 201544 20131210092958
+2.225.199.240 1 25 243913 20131205162900
+190.38.229.94 1 25 243913 20131230234408
+200.93.198.82 1 27 385343 20131217145226
+186.95.95.207 6 37 735330 20131227201158
+190.198.55.196 1 25 243913 20131221223340
+200.8.228.157 1 25 243913 20131221212814
+190.201.4.239 1 25 243913 20131216065231
+186.88.178.190 2 19 628028 20131218103630
+190.206.173.158 3 36 701444 20131204113036
+201.208.31.187 1 25 243913 20131216205822
+190.72.102.214 2 20 632937 20131216200930
+190.206.106.175 1 25 243913 20131219214307
+186.95.131.53 2 20 631077 20131201004130
+199.30.25.78 0 1 8543 
+198.199.66.41 11 11 220576 20131231070755
+190.36.214.60 2 28 395752 20131206041632
+190.198.49.80 1 25 243913 20131217223213
+199.30.24.138 0 12 39702 
+190.73.14.189 4 20 111556 20131201001314
+201.250.177.10 2 18 624665 20131201205648
+201.243.157.12 1 27 326080 20131209152413
+186.14.128.82 1 15 210241 20131221132754
+198.199.66.138 12 12 254053 20131229191417
+186.188.13.134 2 18 277671 20131204180938
+200.8.9.56 1 25 243913 20131218203524
+186.167.242.130 2 28 395752 20131214180054
+201.234.230.34 1 25 243913 20131223084102
+190.72.148.150 1 25 243913 20131203175031
+69.60.121.29 1 27 326080 20131220225135
+201.242.42.169 9 43 1021518 20131221090719
+190.202.251.146 5 35 739284 20131201151155
+190.239.49.141 1 25 243913 20131217234232
+190.199.95.81 1 25 243913 20131212074019
+186.93.137.54 2 18 624665 20131229085603
+186.89.130.66 0 1 76664 
+186.93.73.225 1 25 243913 20131215163339
+181.208.123.175 1 26 247230 20131222171530
+201.208.17.65 5 39 896342 20131206150541
+200.71.150.66 1 24 238865 20131218105605
+198.229.63.4 0 10 38250 
+190.206.124.160 3 33 690345 20131206174735
+208.80.194.121 1 1 33477 20131205162844
+190.204.106.160 1 25 244061 20131228084734
+190.77.122.50 1 15 209851 20131216141800
+208.94.232.182 3 3 70873 20131223062159
+186.165.75.18 2 28 395752 20131220115222
+190.36.167.129 1 25 243913 20131217120428
+177.230.103.217 0 1 76664 
+199.101.134.202 2 2 18584 20131230150014
+190.198.191.172 1 13 203561 20131223191750
+190.38.185.114 3 19 624665 20131209111746
+190.202.87.212 8 38 773415 20131216161641
+190.202.89.195 2 50 487826 20131217131406
+190.72.102.205 1 25 243913 20131221182922
+179.44.34.138 0 1 8543 
+37.228.107.183 1 25 243913 20131218201447
+76.21.172.228 1 26 359714 20131219230811
+186.167.242.53 1 13 203561 20131207122057
+190.200.182.250 3 29 351951 20131224015916
+190.36.158.15 1 27 326080 20131205071630
+201.208.180.223 1 25 243913 20131217233938
+190.198.16.152 12 32 686881 20131228154238
+190.131.208.51 1 25 243913 20131224132300
+186.24.32.26 1 15 238337 20131203104801
+190.206.216.133 0 1 76664 
+190.202.82.93 2 18 624665 20131204103104
+190.37.69.10 1 26 252456 20131218155927
+200.93.93.251 1 25 243913 20131218223634
+190.77.29.253 7 40 776408 20131226171343
+186.88.212.220 3 33 690345 20131221192038
+190.72.103.77 0 16 210717 
+186.188.86.158 1 25 243913 20131212080743
+186.91.163.60 1 25 243913 20131224125814
+201.243.62.229 1 28 253688 20131218105740
+186.94.140.23 1 27 326080 20131227190441
+190.38.28.209 1 25 246540 20131217094241
+186.93.243.30 1 27 326080 20131216220103
+190.199.215.94 0 2 13591 
+190.142.157.4 1 3 27843 20131228235347
+193.105.210.69 1 1 33477 20131208172536
+190.38.126.181 4 33 694730 20131217102959
+186.95.220.87 0 4 147830 
+179.44.211.215 1 25 243913 20131228173003
+201.208.166.138 1 27 326080 20131218145801
+78.158.11.226 3 3 26605 20131211055023
+179.45.52.38 1 25 243913 20131217221113
+201.211.162.71 9 41 784746 20131225212423
+37.228.105.18 1 22 120060 20131217235108
+201.210.53.175 2 26 259301 20131222064239
+201.243.25.97 3 32 687424 20131229165909
+190.72.121.128 4 23 663227 20131202182633
+192.198.80.71 1 1 33477 20131212211726
+150.70.75.38 1 1 15388 20131218155718
+190.75.50.53 1 27 326080 20131207144540
+190.142.122.172 1 25 244061 20131208203027
+190.76.39.143 0 1 76664 
+186.88.165.57 1 25 243913 20131228111041
+190.79.35.97 2 18 624665 20131209223045
+74.82.68.71 1 3 134969 20131222183842
+200.93.47.195 0 3 9004 
+190.75.236.85 0 1 76664 
+190.207.162.248 1 25 243913 20131217204417
+190.153.51.90 1 25 243913 20131217112834
+190.199.97.13 2 26 259743 20131229133404
+80.229.34.191 1 1 0 20131204093109
+190.37.139.246 1 26 246779 20131218142148
+190.206.216.108 3 27 269784 20131206130946
+38.100.21.63 9 9 207004 20131211224435
+50.154.172.140 4 34 386120 20131217224558
+190.198.87.51 2 18 624665 20131217163415
+93.186.31.115 1 5 53145 20131228111711
+65.55.157.152 0 4 254054 
+190.204.206.175 1 25 243913 20131219204808
+66.54.69.108 0 1 5048 
+190.216.242.195 1 27 326080 20131216125443
+186.167.242.77 1 27 326080 20131204204826
+181.208.229.77 1 25 243913 20131216172242
+66.54.69.42 0 1 817 
+181.208.193.244 2 19 629574 20131219134319
+200.8.174.224 1 27 326080 20131202151617
+190.76.45.230 4 39 716904 20131228165625
+179.44.157.53 0 2 127027 
+200.1.171.138 7 71 769921 20131222214141
+190.75.51.6 1 25 243913 20131216215914
+186.92.120.204 1 25 243913 20131229145513
+186.91.66.125 1 27 385343 20131216235805
+69.242.241.162 1 27 326080 20131206130942
+190.39.176.21 1 25 243913 20131221104911
+186.91.169.132 5 38 725275 20131229210442
+201.248.12.51 1 25 243913 20131217130748
+186.93.234.139 1 25 243913 20131216140357
+74.82.64.34 0 6 24339 
+66.249.85.37 2 29 436221 20131229005749
+144.76.100.150 5 53 358040 20131220191146
+201.249.203.154 1 23 209005 20131218144754
+190.74.124.227 7 38 781252 20131203161027
+200.16.95.164 0 1 4909 
+190.78.100.93 0 1 76664 
+65.49.14.156 1 25 243913 20131217163730
+186.90.126.243 1 27 326080 20131222212739
+186.167.243.56 2 18 624665 20131220230522
+37.228.106.128 1 24 220050 20131221144521
+190.38.147.69 1 25 243913 20131222231956
+190.203.231.195 3 33 690787 20131218183200
+186.92.29.35 1 25 246302 20131228195812
+181.187.178.89 1 25 243913 20131218220352
+187.213.197.83 0 1 35215 
+201.242.241.159 1 27 326080 20131206214321
+208.88.224.197 3 3 56591 20131223092215
+190.36.170.242 2 18 624665 20131203171927
+190.40.162.133 13 146 805713 20131201213507
+200.11.150.38 8 40 780580 20131217094916
+190.77.209.165 0 1 76664 
+74.82.64.66 1 8 36386 20131220094942
+190.74.118.110 1 24 238865 20131217234954
+190.36.152.24 1 25 243913 20131216204124
+79.152.59.16 1 25 243913 20131203124556
+181.208.232.56 1 25 244061 20131217123037
+199.30.24.238 0 10 145700 
+190.201.208.175 2 18 624665 20131204101739
+186.94.203.242 3 32 687424 20131228144441
+181.182.28.22 1 2 23931 20131218124043
+186.94.114.139 0 1 76664 
+190.199.199.76 2 18 624665 20131229213307
+186.92.133.36 1 13 203561 20131216201549
+201.249.47.18 4 21 628028 20131214133449
+74.82.68.39 0 3 7353 
+201.242.110.87 1 25 243913 20131218220327
+181.19.74.156 1 25 243913 20131218202859
+186.167.243.230 1 27 326080 20131208170059
+190.143.8.30 1 27 326080 20131207170342
+200.8.58.23 2 26 252282 20131222210144
+186.14.121.97 0 1 76664 
+186.93.75.202 1 25 243913 20131217111215
+66.54.69.114 0 1 2821 
+201.195.126.4 0 1 35215 
+186.95.76.143 3 32 687424 20131211122526
+200.75.144.221 1 25 243913 20131217081339
+201.209.204.246 1 25 246302 20131211102756
+199.30.25.25 1 12 557698 20131222115122
+37.228.106.133 1 25 243913 20131218175147
+190.205.122.155 4 43 754571 20131213194842
+201.211.122.217 12 47 888855 20131204215436
+50.150.69.217 1 25 243913 20131216183713
+186.91.158.1 1 17 244194 20131203094439
+190.38.190.159 1 25 243913 20131216173145
+190.38.88.242 7 29 641805 20131230122451
+66.249.93.231 3 19 311148 20131230175752
+190.94.242.147 1 17 244194 20131217201249
+201.243.1.139 6 45 755156 20131231060827
+186.188.32.197 1 25 243913 20131211133347
+181.208.97.196 1 25 243913 20131216184024
+190.206.15.17 1 23 201544 20131219115223
+65.52.241.141 1 1 15388 20131222193100
+186.188.79.174 2 18 624665 20131208234846
+186.94.3.161 7 36 754858 20131222214325
+190.102.147.186 0 1 35215 
+190.73.38.119 3 19 624665 20131217094919
+190.205.157.162 1 25 243913 20131229173106
+190.198.206.76 1 25 243913 20131221221854
+74.82.68.66 0 5 133799 
+23.23.222.104 1 1 33477 20131208051031
+190.73.227.230 4 38 738016 20131215224459
+200.8.6.43 2 26 254322 20131227220016
+190.201.251.146 1 25 243913 20131222120124
+186.90.153.6 2 18 624665 20131213212529
+186.167.242.241 1 25 243913 20131222233553
+190.142.26.134 2 18 624665 20131217124357
+208.43.255.24 2 2 33816 20131202163042
+147.108.253.253 1 25 243913 20131217102657
+179.44.98.240 1 12 198759 20131202192248
+190.36.177.4 0 6 25841 
+186.90.82.58 1 27 326080 20131213154031
+161.196.38.10 1 25 243913 20131218085735
+190.203.107.151 1 25 243913 20131211140258
+190.78.116.38 1 25 243913 20131216225109
+186.94.132.183 4 46 864889 20131218154459
+186.26.172.220 5 50 395060 20131213075743
+74.82.68.18 0 3 18678 
+187.143.73.89 0 1 12635 
+186.14.1.27 0 1 113804 
+186.95.70.249 1 2 23931 20131210083501
+74.82.64.147 0 9 28781 
+200.93.124.243 2 26 259743 20131219103659
+201.210.18.95 1 25 243913 20131217073440
+200.84.162.68 2 10 75915 20131212202718
+31.131.177.239 0 1 35215 
+190.207.34.178 9 53 997695 20131230103441
+190.79.62.190 1 25 243913 20131210121941
+200.8.220.68 15 52 1039177 20131225171625
+190.94.245.3 2 18 624665 20131227200304
+190.142.214.48 1 25 243913 20131224015550
+200.8.220.164 1 25 243913 20131203204205
+200.82.187.33 2 19 627982 20131204113524
+74.82.68.32 0 2 3683 
+190.94.202.230 0 1 76664 
+37.228.106.37 1 25 243913 20131228173335
+186.92.215.153 1 25 243913 20131217153401
+200.44.253.82 1 27 326080 20131201173118
+186.167.16.154 1 17 244194 20131211073236
+201.243.52.55 1 25 243913 20131218074116
+200.11.150.50 2 21 635520 20131226120908
+81.184.67.62 1 17 244194 20131201170350
+190.202.17.27 1 25 243913 20131221100233
+93.186.31.112 0 2 13591 
+186.167.243.65 1 27 326080 20131215191709
+181.18.171.98 1 23 237556 20131210153757
+190.142.202.166 1 25 243913 20131219081708
+190.97.232.225 1 25 243913 20131231001953
+198.105.219.57 2 2 33477 20131203031030
+186.95.162.187 1 27 326080 20131204201736
+201.242.137.152 1 25 244061 20131216185509
+186.26.9.106 0 2 127027 
+186.167.242.238 1 25 243913 20131218001744
+181.185.142.84 1 1 33477 20131210201502
+202.46.56.164 1 1 15830 20131206203045
+190.73.68.129 3 33 690787 20131204113845
+181.208.5.245 1 25 243913 20131220010131
+83.36.147.168 2 18 624665 20131208050404
+190.121.230.5 1 1 15388 20131219102728
+208.43.255.28 1 1 33477 20131201090616
+87.10.36.98 1 1 33477 20131222130311
+200.1.10.63 2 54 500918 20131223104533
+67.84.54.8 1 25 243913 20131223144609
+190.198.21.25 3 33 690787 20131226160206
+186.90.113.199 2 18 624665 20131226113517
+186.167.242.112 1 25 243913 20131207032258
+190.79.133.42 1 25 243913 20131228191308
+181.208.117.230 1 17 244194 20131208133841
+190.79.206.233 0 1 35215 
+186.24.8.46 2 50 487826 20131219080231
+200.8.52.56 1 25 243913 20131218174826
+66.54.69.38 0 1 30302 
+201.208.165.208 0 1 76664 
+201.243.218.20 1 25 243913 20131216195214
+181.19.162.58 2 18 277671 20131210150236
+186.26.213.209 1 1 33477 20131213084131
+190.78.138.148 1 25 243913 20131218181049
+190.201.114.160 3 44 728857 20131214101132
+201.242.239.254 2 19 627638 20131227085936
+190.201.175.33 1 25 243913 20131221233928
+181.17.45.54 5 33 297844 20131203052448
+190.121.231.34 1 25 243913 20131217082650
+190.60.46.115 1 25 243913 20131213114156
+181.208.235.146 1 25 243913 20131211225140
+190.72.149.243 1 26 246779 20131221161334
+200.62.8.133 1 28 253688 20131219145548
+186.167.243.87 1 25 243913 20131218190959
+201.248.73.169 1 25 243913 20131217220755
+181.183.226.184 1 25 243913 20131216221107
+103.31.200.170 2 2 66954 20131205033424
+190.206.135.64 1 25 243913 20131217204058
+200.44.51.170 1 27 385343 20131216134225
+190.207.138.8 1 25 243913 20131202094624
+198.211.102.105 11 11 220576 20131219044749
+200.84.98.237 1 25 243913 20131219124522
+190.78.81.219 1 17 244194 20131208204055
+201.243.42.248 3 26 682040 20131213122227
+181.19.168.83 1 17 244194 20131216165043
+190.39.68.189 1 25 243913 20131221144253
+190.79.36.6 1 27 250371 20131225142907
+186.167.242.210 2 26 259743 20131221152813
+190.202.109.74 1 25 243913 20131216141146
+74.82.64.68 0 6 138758 
+201.243.171.40 1 25 243913 20131210185845
+186.166.72.210 1 2 23931 20131219181603
+186.188.84.216 1 25 243913 20131219181903
+201.243.6.21 2 18 624665 20131209215757
+186.188.30.147 1 25 243913 20131218191412
+190.74.248.191 2 18 624665 20131218183027
+181.208.84.66 3 20 627982 20131231190531
+181.208.226.164 1 17 244194 20131211105235
+5.9.113.20 1 1 33477 20131207122727
+190.37.36.155 1 25 243913 20131220205111
+201.210.242.212 1 27 326080 20131225124734
+200.90.39.49 1 23 209005 20131219093932
+201.211.195.215 1 25 246302 20131231111851
+190.39.127.114 1 25 243913 20131220201058
+200.84.42.218 1 25 246540 20131219110522
+201.248.71.123 1 25 243913 20131217162633
+190.203.68.65 1 25 243913 20131217225539
+181.184.163.1 6 35 374262 20131225165107
+74.82.68.21 0 1 3237 
+190.206.77.81 3 36 869044 20131213144628
+190.204.165.156 2 18 624665 20131207153521
+190.94.234.29 1 25 243913 20131218112641
+190.79.159.244 1 25 243913 20131207194108
+190.203.41.46 2 18 624665 20131230205341
+201.243.61.35 1 23 209005 20131228154828
+201.208.197.176 1 25 243913 20131203152905
+186.167.242.230 3 38 706088 20131203190524
+181.52.72.6 0 1 35215 
+186.95.163.253 1 27 326080 20131227012117
+200.8.134.126 5 31 375907 20131209113207
+190.207.47.229 6 25 681675 20131222213954
+190.200.146.251 3 37 706353 20131201183707
+186.95.232.228 6 35 860115 20131204200946
+186.184.60.135 1 25 244061 20131217001521
+190.36.159.97 14 45 1031502 20131218183455
+161.196.190.147 1 25 243913 20131219080043
+189.176.185.9 0 1 35215 
+190.203.33.45 4 34 705807 20131229233905
+200.109.159.99 1 25 243913 20131222175136
+200.75.119.147 1 25 243913 20131217171941
+181.185.126.157 3 35 864135 20131216201617
+186.95.18.197 7 40 979007 20131215132258
+190.38.4.163 5 32 829971 20131223171047
+201.211.81.196 5 41 760456 20131218085608
+190.198.232.208 1 25 243913 20131218074300
+186.92.95.120 0 1 76664 
+66.249.88.37 1 22 514237 20131218225408
+186.188.35.154 1 25 243913 20131225090904
+184.97.232.241 3 19 624665 20131211145542
+186.26.218.42 4 4 62658 20131202105320
+186.94.11.180 1 25 243913 20131202173523
+201.209.170.53 1 25 243913 20131208193750
+200.84.254.208 2 27 329401 20131212132604
+190.153.48.162 1 25 243913 20131218144942
+186.188.49.7 1 25 243913 20131229132626
+190.36.163.56 1 27 326080 20131228131122
+190.39.231.232 1 19 222171 20131218132717
+190.198.58.77 1 26 247276 20131220171448
+200.84.130.170 1 27 385343 20131202031819
+74.82.68.161 0 36 613312 
+65.55.157.154 0 2 127027 
+186.89.90.76 2 18 624665 20131223092158
+186.93.201.203 1 25 243913 20131220112257
+201.208.192.39 4 33 720688 20131213110625
+24.127.222.254 0 1 113804 
+181.18.189.201 9 48 198422 20131203183608
+69.157.246.233 2 18 624665 20131211231818
+201.209.145.39 1 17 244194 20131201230825
+186.164.242.216 4 30 360320 20131201203625
+190.78.57.108 1 27 385343 20131210180908
+186.188.43.50 1 25 244061 20131225130017
+190.198.133.203 2 18 624665 20131215104636
+219.90.145.62 1 19 222171 20131229172446
+186.88.84.21 1 25 243913 20131221214822
+190.79.46.211 1 25 243913 20131217181112
+186.95.105.72 9 42 798649 20131226131055
+190.78.54.87 1 25 243913 20131222165216
+186.164.150.203 1 18 247167 20131219113916
+186.167.242.246 9 41 492099 20131231133441
+98.254.166.18 2 18 624665 20131231154630
+24.9.46.214 1 27 326080 20131228190341
+201.242.74.219 2 26 252282 20131217185405
+190.153.48.150 1 25 243913 20131217142824
+201.242.154.158 0 1 76664 
+186.88.161.64 1 25 243913 20131206203100
+186.95.82.190 1 2 59383 20131230084725
+190.36.124.1 6 35 726842 20131209221621
+66.176.191.162 1 25 243913 20131223122858
+74.82.64.162 0 51 1049436 
+190.77.128.198 2 18 624665 20131225123438
+82.157.11.48 3 34 693440 20131218202040
+186.88.35.120 1 25 243913 20131217002435
+190.142.139.49 1 25 243913 20131208131522
+190.204.226.243 1 25 243913 20131221165158
+93.159.230.88 1 2 42020 20131202124448
+150.70.97.99 1 1 15388 20131217142940
+190.75.87.17 2 45 469005 20131217083507
+181.185.55.49 1 28 254878 20131229183721
+190.162.122.141 1 25 243913 20131231132242
+66.249.81.112 1 1 33477 20131217174432
+190.78.104.39 2 18 624665 20131217174817
+179.45.98.55 1 25 243913 20131218070641
+186.14.180.29 1 25 243913 20131223163456
+200.85.79.2 1 25 243913 20131226152932
+74.82.68.68 0 4 131005 
+186.92.20.19 0 1 76664 
+190.206.142.214 1 25 243913 20131218141352
+181.19.54.139 4 37 710039 20131219021828
+190.72.204.121 0 14 162902 
+201.243.173.14 1 25 243913 20131223094328
+186.94.124.46 1 25 243913 20131217130523
+201.210.133.153 1 25 243913 20131228011601
+190.75.47.5 1 23 209005 20131218142355
+186.188.3.3 1 27 385343 20131224113720
+186.88.209.240 4 28 285371 20131217012710
+201.248.125.80 1 25 244061 20131230214020
+205.237.88.155 3 3 100431 20131221052547
+201.243.214.15 1 25 243913 20131225151242
+186.89.80.189 1 25 243913 20131223093648
+190.8.169.62 1 11 168211 20131217092316
+208.94.233.142 1 1 33477 20131204170342
+190.94.235.23 1 27 326080 20131222174058
+201.211.235.177 6 35 751950 20131227200241
+190.204.51.38 12 93 1131259 20131219160402
+78.46.103.115 1 1 33477 20131202182340
+186.24.138.76 1 25 243913 20131205130024
+190.130.190.169 0 1 35215 
+65.55.129.187 0 6 381081 
+186.167.243.251 1 1 10409 20131227112145
+186.26.129.101 4 29 210468 20131202224938
+200.75.135.62 1 13 203561 20131217101339
+190.78.100.150 1 26 247156 20131220083334
+190.38.94.181 9 50 1291576 20131220191011
+190.205.204.55 4 41 892252 20131213204320
+190.74.193.243 3 19 658142 20131216170243
+199.30.24.1 0 10 149420 
+186.95.17.194 1 25 243913 20131219220024
+186.164.212.185 1 25 243913 20131219093624
+190.204.143.7 1 25 243913 20131203104655
+201.210.118.151 4 34 729374 20131207151404
+201.210.27.15 1 25 243913 20131218113737
+189.161.2.241 0 1 35215 
+200.84.4.215 1 25 243913 20131219213546
+190.77.112.245 1 26 359714 20131228220034
+190.72.100.207 6 41 909118 20131211211348
+179.45.33.227 1 17 244194 20131206124308
+23.23.22.249 2 18 624665 20131218032459
+181.208.232.49 15 46 824801 20131209205901
+186.26.8.24 1 25 243913 20131222200900
+202.46.60.140 1 1 16492 20131218212759
+186.90.176.234 1 27 326080 20131207095734
+80.111.55.213 2 18 624665 20131213105648
+68.202.249.16 1 25 243913 20131225103434
+148.231.239.201 0 1 35215 
+65.94.138.138 2 18 624665 20131215150704
+190.78.191.169 2 18 624665 20131221143317
+186.184.33.73 1 17 244194 20131209151239
+179.45.20.1 1 25 243913 20131231003916
+190.101.46.136 0 2 70430 
+192.96.204.42 3 3 0 20131229181010
+190.205.237.52 1 26 246886 20131222160555
+186.26.28.85 0 1 76664 
+190.74.77.28 1 25 243913 20131214205621
+69.171.235.116 0 2 20664 
+186.95.71.31 2 18 624665 20131213231611
+179.45.72.123 1 25 243913 20131217112543
+200.93.82.134 1 25 243913 20131216173652
+181.181.54.216 1 25 243913 20131217102728
+186.92.191.197 1 25 243913 20131229002538
+190.204.149.189 1 27 385343 20131207143327
+150.70.173.39 1 1 33477 20131218182143
+95.150.251.33 1 17 244194 20131211044420
+190.205.199.243 1 25 243913 20131218120207
+201.243.172.59 1 25 243913 20131226111237
+186.188.40.12 3 34 725678 20131228054353
+181.183.154.111 1 25 243913 20131218080319
+186.188.22.34 1 25 243913 20131203084737
+190.203.238.137 5 24 713505 20131201074121
+200.82.187.141 1 25 243913 20131204125617
+190.73.9.24 1 25 246302 20131230223641
+190.78.119.136 1 25 243913 20131222170405
+186.120.234.57 1 27 385343 20131218215925
+216.110.127.110 1 23 209005 20131202190355
+186.167.3.18 1 25 243913 20131217093330
+200.8.166.183 7 43 761136 20131209183657
+190.206.245.109 2 18 624665 20131203211955
+181.19.72.206 1 25 243913 20131205165710
+186.90.158.5 1 25 243913 20131225203908
+79.144.164.9 1 25 243913 20131207200645
+74.82.68.34 0 3 16725 
+190.74.212.186 1 25 243913 20131229074004
+190.74.119.67 8 39 776500 20131206062954
+186.186.253.172 1 16 289148 20131213213731
+186.92.15.164 1 18 247167 20131209223929
+190.78.8.107 1 25 243913 20131216203008
+174.48.235.80 1 25 243913 20131218113630
+190.142.134.62 2 18 624665 20131209230543
+190.81.193.68 0 1 76664 
+186.14.251.13 1 25 244061 20131229202559
+200.109.202.99 2 18 624665 20131213204602
+186.89.141.86 2 32 342234 20131228152904
+190.73.75.88 1 23 209005 20131229154446
+190.15.182.66 1 25 243913 20131219142724
+190.39.182.142 2 31 304913 20131228171235
+190.205.26.73 3 27 275131 20131218112935
+186.92.29.247 2 18 624665 20131224131802
+186.90.217.79 1 25 243913 20131220203330
+181.186.168.223 1 26 247230 20131221105516
+186.14.208.74 1 25 243913 20131222212115
+69.171.235.118 0 3 6674 
+186.167.242.161 1 25 246302 20131229105639
+186.95.50.138 1 13 203561 20131220124623
+89.169.32.187 2 2 66954 20131215061111
+190.232.9.24 2 18 624665 20131204015408
+186.95.233.204 10 43 1653889 20131214211236
+186.167.242.85 1 23 203584 20131221164253
+200.82.200.96 1 25 244061 20131231183504
+37.228.104.12 1 25 244061 20131223022730
+201.243.5.102 2 19 627982 20131230174529
+186.88.65.52 1 25 244061 20131230171109
+186.90.179.246 4 64 1088107 20131205130857
+190.39.88.163 1 25 243913 20131228201929
+181.18.147.105 3 33 690844 20131201194203
+190.142.141.123 1 27 385343 20131222211004
+200.84.150.207 1 27 326080 20131217173411
+161.196.38.11 3 3 41458 20131204153536
+190.198.233.181 1 27 326080 20131207003912
+200.75.106.117 1 28 388706 20131229180409
+186.188.83.248 1 25 243913 20131217160208
+200.73.196.222 7 40 939003 20131201220114
+200.8.156.72 1 17 244194 20131212200454
+199.30.25.88 0 18 258480 
+201.210.194.14 1 26 319408 20131214151017
+117.78.13.17 1 1 33477 20131224102214
+212.40.254.62 2 18 624665 20131203184613
+74.82.68.17 0 9 38416 
+186.167.242.13 4 33 700846 20131213014609
+190.199.173.24 1 25 243913 20131218101853
+200.8.165.99 1 25 243913 20131225114021
+186.91.65.206 1 25 244061 20131228182502
+85.155.103.35 1 25 243913 20131229152403
+161.196.173.90 1 25 243913 20131218100858
+190.74.48.120 1 13 203561 20131229114604
+190.199.208.65 1 26 247008 20131211114225
+199.30.24.140 0 5 132481 
+186.14.10.231 1 27 326080 20131225222651
+201.249.201.114 1 25 244061 20131220090343
+199.30.24.183 0 1 8543 
+201.242.63.139 1 25 243913 20131217195838
+190.201.99.214 3 33 690519 20131215194626
+186.92.149.41 1 25 243913 20131219124127
+181.208.77.107 1 25 243913 20131218115707
+89.7.203.76 1 17 244194 20131214040423
+190.39.205.149 1 25 243913 20131213000331
+201.204.219.26 0 1 35215 
+190.39.175.27 6 49 1157075 20131231142630
+69.31.70.111 1 13 203561 20131220132742
+190.153.65.75 1 17 244194 20131203123353
+201.210.193.47 1 25 243913 20131217151154
+66.54.69.15 1 2 18625 20131223125611
+87.221.217.210 6 36 724619 20131211173410
+201.248.70.74 1 25 243913 20131217123648
+186.185.28.72 15 42 925720 20131210155452
+190.72.177.48 4 35 708749 20131217094542
+201.248.6.38 1 25 243913 20131217100932
+190.72.146.220 1 25 243913 20131220145323
+190.73.72.86 1 25 243913 20131213091428
+199.101.134.205 6 6 155497 20131230145839
+181.184.132.122 1 1 15388 20131217152654
+199.30.24.51 0 5 130636 
+208.84.81.210 1 25 243913 20131208203209
+198.199.66.173 11 11 220576 20131225191417
+200.8.143.39 1 25 244061 20131217174611
+190.142.159.45 4 35 759545 20131220191955
+181.19.175.201 0 2 6505 
+199.101.134.195 2 2 18085 20131211094130
+188.132.190.12 1 1 33477 20131226161542
+186.88.5.113 2 18 277671 20131205040535
+201.209.103.112 0 1 76664 
+190.167.199.195 1 25 243913 20131216225714
+46.229.167.149 1 1 33477 20131222170749
+186.90.208.146 1 23 209005 20131218201217
+190.39.34.19 1 25 243913 20131203150331
+186.24.34.10 1 25 243913 20131218085648
+74.117.181.205 6 6 103518 20131230151633
+200.35.81.92 1 25 243913 20131218131131
+181.181.170.38 1 19 225303 20131226200112
+190.72.183.41 1 27 326080 20131224144922
+190.199.231.73 1 25 243913 20131216184558
+186.96.72.58 1 25 243913 20131218204412
+186.167.242.10 8 40 780051 20131220201507
+190.78.173.178 3 34 693882 20131221165720
+186.93.18.15 1 27 326080 20131215202426
+190.77.25.55 8 37 770320 20131231144959
+186.88.16.117 1 25 243913 20131201183719
+200.26.137.53 0 1 12635 
+186.24.46.3 1 25 243913 20131218102151
+186.90.255.110 2 28 395752 20131218015159
+186.91.228.197 1 25 243913 20131217114950
+190.74.193.45 3 36 701769 20131229202157
+131.253.24.85 1 2 26558 20131230142317
+201.242.147.207 1 27 385343 20131205181218
+186.93.204.234 10 94 1694649 20131210084050
+186.95.100.225 1 25 243913 20131216182114
+201.209.46.32 1 27 250371 20131222021135
+190.201.120.185 3 35 864135 20131205234354
+186.89.129.220 0 1 76664 
+200.8.18.66 0 4 16229 
+186.14.154.214 1 25 243913 20131218083821
+190.206.78.250 1 25 243913 20131218122214
+201.208.170.44 1 25 243913 20131217235811
+201.210.184.46 1 33 243913 20131217113735
+72.14.199.81 1 1 33477 20131215114049
+200.10.234.130 2 19 637300 20131210124213
+190.78.191.160 2 18 624665 20131211174059
+84.122.146.43 0 1 35215 
+201.242.82.203 6 35 782058 20131229004740
+181.208.84.213 1 27 326080 20131201143308
+186.166.29.187 1 25 244061 20131217101024
+186.167.242.74 4 36 1082804 20131230200950
+186.91.125.239 1 25 243913 20131221163151
+74.82.64.39 0 1 23767 
+190.204.103.180 1 25 243913 20131220134806
+74.82.68.23 1 1 15388 20131217120803
+200.8.114.105 1 25 243913 20131210075920
+186.90.4.141 1 27 385343 20131230115553
+186.7.158.128 1 25 243913 20131213235457
+150.185.20.3 0 1 76664 
+200.124.236.101 0 1 12635 
+200.109.143.18 1 25 243913 20131213134726
+190.201.24.152 5 24 670581 20131214123259
+186.93.157.199 1 25 243913 20131221190220
+190.73.67.186 1 27 385343 20131217072246
+186.167.243.88 2 18 624665 20131223070430
+190.73.248.92 1 25 243913 20131217235418
+186.95.28.40 1 27 250467 20131217124744
+66.54.69.12 0 1 38172 
+186.89.5.22 1 25 243913 20131218091817
+199.30.24.107 0 12 144460 
+190.8.169.68 1 25 243913 20131217145916
+190.39.42.152 2 50 487826 20131221230131
+181.186.242.167 1 23 209005 20131217133751
+208.94.234.21 7 7 140347 20131230145927
+186.92.37.17 1 25 243913 20131217181046
+190.77.124.30 1 25 243913 20131215120625
+181.186.112.139 1 27 326080 20131204131532
+176.9.106.5 1 1 33477 20131212231726
+190.199.171.227 1 27 326080 20131211015038
+200.84.162.38 2 18 277671 20131221162555
+190.73.105.63 1 25 243913 20131226092844
+190.15.175.18 2 26 243913 20131219074416
+190.153.26.94 0 1 76664 
+190.73.40.111 1 26 247230 20131218120643
+201.248.126.139 1 25 243913 20131218181320
+190.36.125.186 1 25 243913 20131217182140
+198.211.110.246 11 11 220576 20131228012802
+190.204.155.85 1 25 243913 20131216071339
+186.91.127.40 1 17 244194 20131209091836
+201.209.245.197 1 25 243913 20131206085731
+108.76.252.243 2 18 624665 20131219161241
+200.84.249.28 1 25 243913 20131218100902
+200.82.229.152 1 27 385343 20131209124603
+190.204.128.94 1 25 243913 20131218085351
+190.142.86.173 1 25 243913 20131216150648
+74.82.64.33 0 7 55685 
+181.17.108.132 6 50 542038 20131212120021
+187.188.146.32 0 1 12635 
+201.242.12.20 0 2 153328 
+201.242.185.97 1 24 220050 20131220102818
+37.228.105.68 2 16 512810 20131202071553
+200.93.57.112 2 18 624665 20131201150906
+190.142.224.10 1 25 243913 20131212150355
+186.25.147.63 2 32 342234 20131219110104
+186.93.129.227 4 34 706306 20131229182942
+181.18.61.7 1 27 326080 20131215153349
+200.74.201.157 1 25 243913 20131223132318
+199.30.25.152 0 10 149068 
+190.199.240.133 16 113 2242718 20131226162154
+190.114.247.234 1 24 238865 20131218155550
+186.89.180.95 2 50 266663 20131223050251
+200.6.27.15 3 76 247276 20131223110802
+66.249.84.170 11 11 368247 20131226225137
+72.136.10.152 1 25 243913 20131223033204
+190.121.230.34 1 25 243913 20131217091136
+150.70.75.167 1 1 33477 20131218160614
+199.30.24.143 0 7 133072 
+186.95.86.40 0 1 76664 
+201.210.244.216 0 1 76664 
+186.167.243.241 1 25 243913 20131218100759
+190.201.164.252 1 25 243913 20131217110520
+186.14.183.209 1 25 244061 20131206202130
+64.134.216.52 1 27 326080 20131228115559
+190.232.230.189 1 27 326080 20131210094245
+93.159.230.28 2 4 84040 20131230150758
+190.207.156.219 1 2 57244 20131209111006
+190.206.20.85 1 26 247008 20131231114157
+201.243.173.224 1 25 243913 20131217200002
+186.92.53.49 3 36 869044 20131222174748
+190.37.172.8 0 1 76664 
+190.39.198.196 1 25 243913 20131217091810
+201.242.249.167 1 25 243913 20131217195253
+186.88.130.143 3 34 725800 20131222224545
+190.94.208.119 1 25 243913 20131229082329
+66.249.83.101 4 7 371973 20131231162746
+190.204.6.233 1 25 243913 20131228190127
+186.24.43.18 1 1 15830 20131218082022
+201.243.173.135 3 34 695428 20131207143033
+190.39.78.243 0 1 80595 
+190.207.21.221 0 2 7683 
+190.203.45.25 1 25 243913 20131226170758
+190.38.77.128 1 27 326080 20131220161910
+186.95.46.133 0 2 3095 
+190.75.109.237 1 25 243913 20131216224042
+190.79.236.21 2 24 211953 20131224144903
+186.93.71.177 1 25 244061 20131217193404
+201.209.209.121 1 25 243913 20131218131826
+190.142.254.112 2 18 624665 20131206231513
+201.242.91.157 1 25 243913 20131219201758
+74.82.64.22 0 5 39332 
+201.210.4.165 0 1 8543 
+186.95.163.31 1 27 326080 20131228203400
+174.141.173.243 1 25 243913 20131218102602
+190.36.22.64 0 1 76664 
+85.59.182.196 4 37 936061 20131202174036
+200.82.234.4 1 25 243913 20131217093519
+201.243.109.192 0 1 2866 
+190.72.172.28 1 25 243913 20131217114230
+186.187.114.48 1 25 243913 20131213024200
+190.72.239.156 2 18 624665 20131201123051
+200.8.223.204 1 1 0 20131230185729
+66.249.93.112 0 1 76664 
+190.38.148.145 1 27 385343 20131201114535
+181.225.41.32 1 28 253668 20131230172720
+146.82.236.134 1 25 243913 20131226102114
+186.88.227.207 1 23 209005 20131220154001
+190.200.157.153 1 27 250696 20131218051401
+186.165.98.230 0 2 127027 
+186.167.242.88 2 18 277671 20131203181845
+190.38.143.80 1 25 243913 20131219230437
+190.39.71.182 1 25 243913 20131227141933
+190.202.250.58 2 18 624665 20131229180054
+190.199.38.188 1 26 246886 20131217164904
+200.35.92.154 12 46 775178 20131211123122
+190.76.166.103 1 15 285728 20131227120118
+74.82.64.71 0 5 44456 
+190.77.58.121 1 26 246886 20131216160413
+190.79.129.204 1 25 243913 20131219170502
+200.35.79.54 1 25 234391 20131216153141
+186.89.166.61 1 25 243913 20131217130845
+186.24.152.252 1 25 243913 20131206140415
+190.153.54.154 3 20 661115 20131203164406
+74.82.68.146 1 39 347061 20131217100021
+201.209.53.95 1 26 247276 20131217213426
+66.54.69.103 0 2 11513 
+181.17.120.20 7 29 730475 20131202222602
+201.242.53.164 2 18 624665 20131207095453
+190.36.215.128 2 18 624665 20131214162942
+186.92.37.53 1 23 201544 20131217195300
+190.36.235.36 7 38 755868 20131217233747
+181.208.201.235 2 18 624665 20131201072414
+190.77.254.195 0 1 76664 
+178.12.89.169 1 27 326080 20131210092713
+190.199.161.154 1 25 243913 20131220220406
+190.198.180.6 0 1 3363 
+190.36.80.83 2 18 624665 20131203122110
+186.90.117.109 1 25 243913 20131218215229
+186.159.113.6 1 27 326080 20131221155007
+186.95.177.247 1 25 243913 20131202130817
+190.73.14.226 2 26 259743 20131218145526
+186.95.102.240 2 26 264555 20131220145025
+63.110.89.212 1 1 33477 20131203095102
+186.95.177.4 1 25 243913 20131218090137
+190.198.23.198 2 26 277390 20131216144728
+85.155.52.250 1 25 243913 20131221151927
+190.206.119.36 1 25 243913 20131218120211
+83.111.67.154 1 25 244061 20131229033721
+190.72.242.3 1 25 243913 20131218184840
+190.142.28.121 1 25 243913 20131218183444
+74.82.64.64 0 4 21910 
+190.200.206.237 1 25 243913 20131220063102
+201.209.77.78 1 17 244194 20131208204308
+200.11.208.125 1 2 111038 20131217115318
+66.54.69.21 0 1 30302 
+88.150.199.69 2 18 244194 20131222010750
+186.14.61.96 8 73 2501977 20131226175036
+186.89.77.198 1 20 227893 20131218140715
+201.242.138.68 2 18 624665 20131214095257
+201.208.112.110 1 23 209005 20131202193359
+186.94.6.110 1 25 243913 20131202100637
+190.200.207.126 1 25 243913 20131219100153
+190.77.98.13 1 25 243913 20131218081527
+190.36.110.35 4 34 733114 20131218114110
+190.206.245.191 8 40 770207 20131217112640
+199.101.134.200 2 2 43193 20131230144151
+200.11.142.34 7 36 736843 20131226105153
+190.77.4.70 1 13 203709 20131209114825
+190.206.143.67 0 2 3951 
+186.167.242.67 3 33 690345 20131208234759
+190.79.102.123 1 27 250249 20131203100008
+190.199.222.60 0 1 76664 
+181.208.42.247 1 25 243913 20131216224210
+190.142.66.33 1 25 243913 20131228150018
+201.242.28.56 8 37 770320 20131217105150
+74.65.249.157 2 18 277671 20131215211535
+186.95.82.177 9 28 772292 20131223200104
+186.88.236.34 1 25 243913 20131220094032
+200.35.64.107 3 30 444537 20131229114514
+186.95.36.214 1 25 243913 20131217081816
+198.199.66.52 11 11 220576 20131206154252
+201.238.47.232 0 2 127027 
+190.39.78.253 1 25 243913 20131223170706
+190.36.184.164 2 18 277671 20131230225618
+190.206.216.110 4 33 702886 20131207000406
+190.112.235.244 2 18 624665 20131202121714
+200.185.109.220 6 35 873853 20131210105415
+190.78.221.213 0 1 80595 
+186.80.190.243 0 1 12635 
+200.59.185.50 1 25 243913 20131226160235
+190.207.36.69 0 1 113804 
+190.77.227.184 2 18 624665 20131207215352
+186.95.55.30 2 18 624665 20131207055013
+66.54.69.124 0 1 35215 
+186.94.21.146 1 25 243913 20131220144705
+201.248.19.86 2 18 624665 20131201141645
+190.198.214.137 1 25 243913 20131218135436
+74.82.64.163 0 3 10922 
+190.94.254.68 1 25 243913 20131217131516
+200.8.78.89 2 18 624665 20131220213756
+190.38.247.96 1 1 33477 20131210001743
+190.201.107.66 1 25 243913 20131218195533
+190.206.27.78 1 25 243913 20131220142502
+186.167.243.221 1 25 244061 20131229193912
+199.101.134.203 2 2 26147 20131230145858
+186.187.140.66 1 25 243913 20131217155408
+190.71.223.50 0 1 35215 
+199.30.25.161 0 1 8543 
+186.93.160.112 1 25 243913 20131217141405
+200.84.168.175 1 25 243913 20131217094624
+66.54.69.73 0 1 11998 
+190.39.198.48 1 26 247230 20131218221916
+190.222.175.38 0 1 76664 
+201.242.168.107 2 19 627638 20131211114556
+190.198.255.33 1 25 243913 20131219095912
+66.54.69.101 0 1 4802 
+190.234.106.29 0 1 35215 
+190.206.35.233 1 25 243913 20131219082544
+199.101.134.199 6 6 131853 20131230145952
+186.167.243.222 4 21 1061241 20131206182537
+186.167.242.233 1 25 243913 20131217131946
+200.109.57.138 1 25 243913 20131218203136
+74.82.64.17 1 4 55525 20131218113547
+200.84.42.22 2 18 624665 20131218000702
+190.205.97.217 1 26 247230 20131218213823
+201.242.20.194 1 25 243913 20131206185126
+201.248.64.250 1 25 243913 20131218105836
+200.84.12.172 2 18 624665 20131213083623
+190.73.97.71 1 27 385343 20131219113057
+198.211.107.216 11 11 220576 20131217011829
+190.41.163.170 1 25 245017 20131209101529
+189.167.109.150 0 1 76664 
+179.44.137.213 0 1 80595 
+200.73.196.203 2 18 624665 20131221214411
+78.45.200.201 0 1 76664 
+201.216.254.141 0 6 0 
+201.209.0.207 1 28 329443 20131231090019
+190.202.111.234 5 41 752283 20131213111646
+190.198.213.174 1 27 326080 20131224003527
+201.210.88.208 2 18 624665 20131212120039
+186.95.37.218 1 17 244194 20131206223503
+181.19.77.249 2 18 624665 20131218003730
+200.84.39.128 1 25 243913 20131220225227
+190.8.151.119 1 25 243913 20131201165947
+74.82.64.37 0 7 42724 
+199.101.134.197 3 3 54295 20131218043932
+186.188.78.165 1 25 243913 20131219073536
+181.18.180.204 3 3 34240 20131208214952
+190.72.49.197 1 25 243913 20131217195450
+201.242.123.19 9 48 857104 20131201182247
+190.78.57.126 3 33 690345 20131229001152
+190.37.208.72 1 24 240779 20131212104451
+131.253.24.33 1 2 16912 20131230122518
+186.93.21.210 1 23 201544 20131207200233
+200.71.147.147 2 19 627638 20131202134840
+190.78.85.134 1 25 243913 20131227140035
+66.54.69.65 0 1 8543 
+186.188.86.104 2 50 487826 20131221101125
+200.74.202.10 2 18 624665 20131231085625
+201.209.228.155 3 36 699422 20131211163517
+190.205.168.19 1 25 243913 20131218195252
+190.77.122.229 3 23 670226 20131216133215
+190.199.57.175 5 36 737243 20131226192542
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20131201 116 1158 19756518 45
+20131202 117 931 16793936 51
+20131203 152 1331 20532513 54
+20131204 158 953 18286761 47
+20131205 79 683 11904869 35
+20131206 127 914 15250417 43
+20131207 95 919 16875455 46
+20131208 101 858 14627940 45
+20131209 137 1028 18201759 60
+20131210 167 1177 21544123 52
+20131211 141 1140 21110209 56
+20131212 79 701 11539462 37
+20131213 95 914 17486882 50
+20131214 82 690 14540058 26
+20131215 80 595 10281391 38
+20131216 152 2106 28879730 95
+20131217 354 5296 64449582 222
+20131218 273 4591 54174693 205
+20131219 169 2147 28548271 96
+20131220 121 1847 23652953 74
+20131221 128 1778 22951549 80
+20131222 141 1262 18211286 61
+20131223 99 1285 17149670 70
+20131224 73 748 12858322 38
+20131225 91 811 11608053 37
+20131226 110 1046 17225472 45
+20131227 115 1020 18836753 42
+20131228 190 1408 17884004 62
+20131229 108 1377 20856638 60
+20131230 99 764 13997262 56
+20131231 86 918 13458385 39
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 3
+5mn-15mn 55
+0s-30s 1663
+2mn-5mn 69
+30s-2mn 129
+15mn-30mn 37
+30mn-1h 11
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 45
+/ 912 27216801 649 288
+/supuesta-eliminacion-del-cupo-cadivi-para-compras-por-internet.html 814 12141132 785 765
+/animacion.swf 440 164743943 11 199
+/tarifas.html 243 2508569 28 96
+/preguntas.html 148 1188398 32 47
+/servicios.html 148 2241990 7 33
+/zona_usuarios.php 143 1481108 3 15
+/sabes-como-realizar-compras-por-internet-de-mas-de-400$-con-tu-cupo-cadivi-para-compras-electronicas-en-usa-en-un-sitio-seruro.html 141 3359352 126 115
+/contacto.html 124 1220122 19 36
+/nosotros.html 121 1839266 14 29
+/consejos-para-utilizar-un-courier-internacional-puerta-a-puerta-y-saber-calcular-los-costos-de-envio-hasta-Venezuela-en-sus-compras-por-internet-con-su-CUPO-CADIVI.html 99 2219778 63 59
+/registro_clientes.php 89 4698132 16 26
+/guias_actuales.php 85 1200833 0 11
+/cadivi-estudia-aumento-de-cupo-para-viajeros.html 72 1087520 72 70
+/identificarse.php 53 514948 16 30
+/gobierno-desmiente-eliminacion-de-divisas-para-internet-eliminacion-de-cupo-cadivi-para-compras-electronicas-por-internet.html 49 712350 40 38
+/consulta_estatus_por_guia.php 40 320986 0 4
+/cargar_ordenes.php 37 535190 0 4
+/reenviar_clave.php 31 274445 6 5
+/registrado.php 30 1301180 1 2
+/administrativo/guias/guias.php 28 939492 7 7
+/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com.html 21 365085 9 13
+/track.php 18 144879 0 2
+/autentificar.php 17 129418 1 3
+/contacto.php 15 100615 0 6
+/nuevos-cambios-para-regular-cupo-cadivi-para-compras-en-el-exterior-entrara-en-vigencia-a-partir-del-1-enero-2010.html 1 18068 1 1
+/sitemap.xml 1 7559 1 1
+/si-no-vas-a-usar-tu-cupo-de-cadivi-te-lo-compro.html 8 174616 8 7
+/actualizado.php 4 25282 0 1
+/eshop.html 6 85314 6 6
+/cadivi-disena-cambios-radicales-en-el-cupo-cadivi-que-beneficiaran-a-los-viajeros-en-sus-compras-en-USA-e-Internet.html 1 18322 1 0
+/blackberry-vs-nokia.html 14 230034 9 9
+/administrativo/guias/parametro_guia.php 10 66728 0 0
+/consulta.php 6 58888 0 0
+/reenviar_clave.php/ 1 8869 0 1
+/En-riesgo-uso-de-tarjetas-de-credito-por-retrasos-de-Cadivi.html 4 65968 4 4
+/nueva_providencia_para_el_cupo_cadivi_para_viajes_al_exterior_entrara_en_vigencia_en_enero_del_2010.html 14 252210 13 13
+/administrativo/guias/actualizado.php 10 45130 0 0
+/cadivi-estudia-mecanismos-para-ajustar-cupo-cadivi-para-compras-por-internet.html 2 35584 2 2
+/aviso.html 8 37560 1 2
+/Complicaciones-tecnologicas-retardan-modificaciones-del-cupo-de-Cadivi.html 3 52770 3 3
+/seran-sancionados-bancos-que-limiten-uso-de-tarjetas-para-fines-de-ano-modificaran-cupo-para-los-viajes-al-exterior.html 9 159993 9 9
+/actualizar.php 11 169297 0 1
+/Contacto.html 1 9776 1 1
+/cadivi-cupo-en-dolares-para-compras-por-internet-no-sera-aumentado-en-2009.html 3 50931 3 3
+END_SIDER

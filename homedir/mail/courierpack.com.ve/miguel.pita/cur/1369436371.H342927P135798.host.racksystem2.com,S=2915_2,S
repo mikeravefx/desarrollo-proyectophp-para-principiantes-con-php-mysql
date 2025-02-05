@@ -1,0 +1,67 @@
+Return-path: <atencionalcliente@mis-facturas.com>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Fri, 24 May 2013 18:29:31 -0430
+Received: from credicorreo2.credicard.com.ve ([200.109.231.217]:39874 helo=smtpesa1.credicard.com.ve)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <atencionalcliente@mis-facturas.com>)
+	id 1Ug0xO-000ZJ1-GG
+	for miguel.pita@courierpack.com.ve; Fri, 24 May 2013 18:29:30 -0430
+Received-SPF: None (smtpesa1.credicard.com.ve: no sender
+  authenticity information available from domain of
+  atencionalcliente@mis-facturas.com) identity=mailfrom;
+  client-ip=10.136.0.6; receiver=smtpesa1.credicard.com.ve;
+  envelope-from="atencionalcliente@mis-facturas.com";
+  x-sender="atencionalcliente@mis-facturas.com";
+  x-conformance=spf_only
+Received: from srv-xccs-exc.credicard.com.ve (HELO credicorreo.credicard.com.ve) ([10.136.0.6])
+  by smtpesa1.credicard.com.ve with ESMTP/TLS/AES128-SHA; 24 May 2013 18:30:04 -0430
+Received: from webfact (10.136.0.8) by credicorreo.credicard.com.ve
+ (10.136.0.7) with Microsoft SMTP Server id 8.2.255.0; Fri, 24 May 2013
+ 18:29:22 -0430
+Message-ID: <184421118.1369436731579.JavaMail.bgadmin@webfact>
+From: <atencionalcliente@mis-facturas.com>
+To: miguel.pita@courierpack.com.ve
+Subject: =?UTF-8?Q?Notificaci=C3=B3n:_mis-facturas.com?=
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_Part_0_1083719832.1369435379753"
+Date: Fri, 24 May 2013 18:29:22 -0430
+
+------=_Part_0_1083719832.1369435379753
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body>
+Estimado Usuario:<br>
+<br>
+Motivado a mejoras dentro del producto Mis-Facturas, cumplimos con informar=
+le que el servicio no estar=C3=A1 disponible el d=C3=ADa martes 28/05/2013,=
+ entre las 5:00 p.m y 7:00 p.m.<br>
+<br>
+Pedimos disculpa por las molestias ocasionadas. <br>
+Gracias por utilizar nuestros servicios.<br>
+<br>
+Atte.<br>
+www.mis-facturas.com<br>
+<hr>
+<font face=3D"Arial" color=3D"Gray" size=3D"1">=E2=80=9CEste correo y cualq=
+uier archivo transmitidos con =C3=A9l son confidenciales y previsto solamen=
+te para el uso del individuo o de la entidad a quienes se tratan. Si UD. ha=
+ recibido este correo por error por favor notificar
+ a abuso@credicard.com.ve. Por favor considere que cualquier opini=C3=B3n p=
+resentada en este correo es solamente la del autor y no representa necesari=
+amente la opini=C3=B3n de Consorcio Credicard, C.A. Finalmente, el receptor=
+ debe comprobar este correo y cualquier anexo
+ del mismo para identificar la presencia de virus. La compa=C3=B1=C3=ADa no=
+ acepta ninguna responsabilidad por ning=C3=BAn da=C3=B1o causado por alg=
+=C3=BAn virus transmitido en este correo=E2=80=9D.'<br>
+</font>
+</body>
+</html>
+
+------=_Part_0_1083719832.1369435379753--

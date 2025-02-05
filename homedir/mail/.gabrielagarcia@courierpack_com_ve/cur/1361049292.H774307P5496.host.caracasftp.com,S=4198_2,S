@@ -1,0 +1,61 @@
+Return-path: <pellingomez@yahoo.es>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Sat, 16 Feb 2013 16:44:52 -0430
+Received: from nm24-vm5.bullet.mail.ird.yahoo.com ([212.82.109.196]:46863)
+	by host.caracasftp.com with smtp (Exim 4.80)
+	(envelope-from <pellingomez@yahoo.es>)
+	id 1U6p5w-0001QE-E9
+	for gabrielagarcia@courierpack.com.ve; Sat, 16 Feb 2013 16:44:52 -0430
+Received: from [77.238.189.50] by nm24.bullet.mail.ird.yahoo.com with NNFMP; 16 Feb 2013 21:14:51 -0000
+Received: from [212.82.108.133] by tm3.bullet.mail.ird.yahoo.com with NNFMP; 16 Feb 2013 21:14:51 -0000
+Received: from [127.0.0.1] by omp1038.mail.ird.yahoo.com with NNFMP; 16 Feb 2013 21:14:51 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 337898.29393.bm@omp1038.mail.ird.yahoo.com
+Received: (qmail 42137 invoked by uid 60001); 16 Feb 2013 21:14:51 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1361049291; bh=ja7j5vOpSmhU5tOj+7pbwvYLKdwoRFX0lRJeQh7pOOg=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=KWS5ivXx3fA68HL7fPTq0lf/IRFFYmiIeuHiAMCL8gadVrBdvTcJc0k+Ej0jxAbEx4M5fgBQtS11NbIbKaA+yNILZ+RtirNLoMy31Ts1QEhMcQZbsdlmhgDvlPAeuT7RhAA87POSuesc/4IqmQp46ci4+SL0dZx4imBMZG3tInI=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.es;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=V7tU4fY997LT/DV2N/FJBx7R5EeAxPQ9ZEcTOsd7dWuqkZMZFmXUe3sJGrRSy3N3EsHmIdpKsRqmV6LancaIzMYAqCXWcCh8uc1VEtwcc8do6EYUAjlNmjcjLTRiqtIf3tysX6Kmk+8MUlPPqhleMOW5cb3+TO0mj24KzmdtQbU=;
+X-YMail-OSG: Su_4QL0VM1mFJHHNM9NkUqo4X64Yoiwi9SRBhZAGnMPim._
+ IMi4U3gHz7WzBURp7NsROHJaCirvRhjs3hyXE8jnVi_Vnyfz8uFGvDF5EyCj
+ 4fSYeR0o5TggpxkEslIKlAT9bHCTMYVkuZ1.pZbCoBm9TJQs0ZqiPzrvZFAn
+ wOpXkm1W.U2zVODyTFbNrdwHlFLD0_lwTYm3h2Z4BCPaFq2986o1eEF2l1AV
+ eOy7k3a_QhnBehSM8arAcwnEU.KWU259Q4RAu1Kpoq2LLXvi4y5dm9eY3nzc
+ nWKgFmGLLA5WuU0YwB3T0H9WfcOolDw7zQbmbFLRWmNvo4J05QE9YdF15Vwx
+ RV9ntnf5WwtFAJV.s.hvp6xS_qVqb_Ipts7SaOCjML9_XzNqGCeeDSkW6a3n
+ IrRZ8Ll.Grg_.pHeu5q02xJDoPQFBWfFk2QwV6bqtB7Y.Rmz5AC68.eL37JH
+ 9rQ8SP5aTdj3xvgES_CZ9Sr_2tuxw6PuU
+Received: from [186.88.54.156] by web171905.mail.ir2.yahoo.com via HTTP; Sat, 16 Feb 2013 21:14:51 GMT
+X-Rocket-MIMEInfo: 001.001,CgrCoFBvciBmYXZvciBlbnZpYXIgYSBsYSBvZmljaW5hIGRlIFpvb20gZGUgbGEgY2FycmVyYSAyNCBlbnRyZSBjYWxsZXMgMjMgeSAyNCBkZSBCYXJxdWlzaW1ldG8sIGVzdGFkbyBMYXJhLgpMYSBvZmljaW5hIHF1ZWRhIGFsIGZyZW50ZSBkZSBsYSBQbGF6YSBMYSBNb3JhCmEgbm9tYnJlIGRlIFBlbGxpbiBHb21leiBDZWR1bGEgNzQzMzUyMiBDZWx1bGFyIDA0MjYtNTUwLTY1LTM1CgpMY2RvLiBQZWxsaW4gR8OzbWV6ATABAQEB
+X-Mailer: YahooMailWebService/0.8.133.508
+Message-ID: <1361049291.35450.YahooMailNeo@web171905.mail.ir2.yahoo.com>
+Date: Sat, 16 Feb 2013 21:14:51 +0000 (GMT)
+From: Pellin Gomez <pellingomez@yahoo.es>
+Reply-To: Pellin Gomez <pellingomez@yahoo.es>
+Subject: Dikreccion de envio
+To: Gabriela Garcia <gabrielagarcia@courierpack.com.ve>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1200650283-648734000-1361049291=:35450"
+
+--1200650283-648734000-1361049291=:35450
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+=0A=0A=A0Por favor enviar a la oficina de Zoom de la carrera 24 entre calle=
+s 23 y 24 de Barquisimeto, estado Lara.=0ALa oficina queda al frente de la =
+Plaza La Mora=0Aa nombre de Pellin Gomez Cedula 7433522 Celular 0426-550-65=
+-35=0A=0ALcdo. Pellin G=F3mez
+--1200650283-648734000-1361049291=:35450
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:14pt"><div><span><br></span=
+></div><div>&nbsp;Por favor enviar a la oficina de Zoom de la carrera 24 en=
+tre calles 23 y 24 de Barquisimeto, estado Lara.<br>La oficina queda al fre=
+nte de la Plaza La Mora<br>a nombre de Pellin Gomez Cedula 7433522 Celular =
+0426-550-65-35<br></div><div><font size=3D"5"><i><font color=3D"#0000ff" fa=
+ce=3D"comic sans ms">Lcdo. Pellin G=F3mez</font></i></font></div></div></bo=
+dy></html>
+--1200650283-648734000-1361049291=:35450--

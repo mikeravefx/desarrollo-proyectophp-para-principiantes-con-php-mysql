@@ -1,0 +1,366 @@
+Return-path: <bounces+info=courierpack.com.ve@dynect-mailer.net>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Tue, 08 Apr 2014 01:26:21 -0430
+Received: from mtaout-042-pao.sendlabs.com ([208.76.63.42]:51564)
+	by host.racksystem2.com with esmtp (Exim 4.82)
+	(envelope-from <bounces+info=courierpack.com.ve@dynect-mailer.net>)
+	id 1WXP17-003pkI-Mo
+	for info@courierpack.com.ve; Tue, 08 Apr 2014 01:26:20 -0430
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dynect; d=olx.com;
+ h=Date:To:From:Reply-to:Subject:Message-ID:MIME-Version:Content-Type:Sender; i=support@olx.com;
+ bh=8QR7gyElGxDrPHL620zDSOkxOWE=;
+ b=ix8NYVZR+eQBYvvaZGNvAoOHL2P4M7OTs4XExOCSsEjct/TE5yQtBzpqXFPs6qKWcn+Sk/asqFwH
+   fA6nBgBv+JODbG5OOSNGwLhEpHJvKp5FwffXxg2cX1mPhNtOg56qOHPFxJCHDOMht/Kv51vz+k2M
+   WvvrLw2mGvuuxbvifBY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dynect; d=olx.com;
+ b=R41XP3ZjOXNbTwEG9jBqOiJD+AEkip/42GMiBdwpy+6TqTOQsw3SDELB0A07hhFnmWNWUC+mAHWi
+   FhAeow60vHGZhGb7t6pqntdWuVM87M9P4dheh/D92N3vBl51gt7pC05JWudMzkxlxmYigitrAxcM
+   Q75RuiqgSoqy7zMsKzk=;
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=olx.com; h=date:to:from
+ :reply-to:subject:message-id:mime-version:content-type; s= relay1;
+ bh=QSU384LtsYUmJZ051h5I2U5tRZk=; b=AVH7CNji0IMiHh8FQ+0RV
+ HmwK4jY6YLdsy5ODMDOVfQveQ9xf6+GP1JI/MMPWjWLyCr6cPIC/O6fER+MN7I1l
+ j8yCvQLRD98xf8imlTkL53DFNlpAnqKaSgpzmpX5HmWUPqVUeYaImz5IZnl3Ys8q
+ tYLyF+xFMVwoUtRSyC1aj4=
+DomainKey-Signature: a=rsa-sha1; c=simple; d=olx.com; h=date:to:from
+ :reply-to:subject:message-id:mime-version:content-type; q=dns; s=relay1;
+ b=eFvDtQGnDI+c8DSvQOCtkCzSJ7B5UNQPnb34/RHTL6h1B8FxP3O
+ QzSlNn83nRjvp41SaSoKQmxRevnS7OKdRJRd44wlPyf8yOZHU+HfjnnvTwWFQEDg
+ 6w2gjIdfTPi7iuGgfUcqiNdmusGw9FuhGrw6Tc8toaGwmIz+ZEwY+mpM=
+Date: Tue, 8 Apr 2014 01:56:12 -0400
+To: info@courierpack.com.ve
+From: OLX <support@olx.com>
+Reply-to: OLX <support@olx.com>
+Subject: =?utf-8?Q?Informaci=C3=B3n_sobre_tu_anuncio:Courier_Pack?=
+X-DynectEmail-Msg-Key: 20140408055614.9FB40C350036@mail6-11-ewr
+Message-ID: <c0cbbb0f275dcce50286b7611d4665be@relay1.olx.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+Bounces-To: olx-bounce@olx-inc.com
+Mail-ID: 978122583
+Process-Date: Tue, 08 Apr 2014 01:56:12 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="b1_c0cbbb0f275dcce50286b7611d4665be"
+Sender: support@olx.com
+X-DynectEmail-Msg-Hash:
+ btYXC68syxk4XP7k0NvQoxaGzBuoW85iYfB68nMK0Dpwg0P3ptnnKC9u4jzG+OFWg7Va19MuhU+fqtcTa+86/TiMY4j2Dc9fzvkQHkWeERw=
+X-DynectEmail-X-Headers: 
+X-Feedback-ID: T2x4Vk1UQXM=:426396:161220:dyn06
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Información sobre tu anuncio:&lt;&lt;ItemTitle&gt;&gt; @media
+    only screen and (max-width: 600px) { .principal-container{ width: 100%; zoom:
+    1; } .link-button{ margin-bottom: 10px; margin-right: 0; } } [...] 
+ 
+ Content analysis details:   (-0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+
+--b1_c0cbbb0f275dcce50286b7611d4665be
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+   =20
+                        Informaci=C3=B3n sobre tu
+anuncio:&lt;&lt;ItemTitle&gt;&gt;
+
+           =20
+           =20
+                @media only screen and (max-width: 600px) {
+                    .principal-container{
+                        width: 100%;
+                        zoom: 1;
+                    }
+                    .link-button{
+                        margin-bottom: 10px;
+                        margin-right: 0;
+                    }
+                }
+           =20
+           =20
+   =20
+           =20
+       =20
+           =20
+               =20
+                   =20
+                       =20
+                   =20
+                   =20
+                        Clasificados gratis
+                   =20
+               =20
+           =20
+       =20
+           =20
+               =20
+                   =20
+                       =20
+                           =20
+                                =C2=A1Felicidades por publicar su
+primer anuncio en OLX!
+                                "Courier Pack"
+                                Le recomendamos conservar este
+email, puede encontrarlo =C3=BAtil para futuras transacciones en
+sitios de subastas o clasificados.
+                                Le recomendamos operar
+localmente, de esta manera, ambas partes se pueden conocer en
+persona antes de proceder.
+                                Sin embargo, si el potencial
+comprador/vendedor no esta en su =C3=A1rea, aqu=C3=AD tiene algunas
+recomendaciones que deber=C3=ADa tener en mente:
+                           =20
+                           =20
+                       =20
+                   =20
+               =20
+                Tips de seguridad
+               =20
+                     NUNCA venda nada a nadie fuera de su pa=C3=ADs
+de residencia.=20
+Una orden de pago de un banco extranjero puede tardar de 3 a 4
+semanas o m=C3=A1s en ser procesada por su banco. Mientras tanto, el
+monto es acreditado en su cuenta, pero si el pago es falso, este
+monto ser=C3=A1 debitado de su cuenta.=20
+
+                     Nunca acepte cheques de caja de bancos
+extranjeros.
+ La mayor=C3=ADa de los estafadores usa y env=C3=ADa versiones falsas de
+este tipo de cheques.=20
+
+                    NUNCA acepte un pago por un monto superior
+al valor de su art=C3=ADculo.=20
+NUNCA deber=C3=ADa enviar dinero para reembolsar un sobrepago,
+cualquiera sea la raz=C3=B3n que le dieron (regalo, costos de
+env=C3=ADo, cargos de aduana, cargos por intermediarios...)=20
+
+                    Si el comprador se presenta a si mismo como
+un intermediario (abogado, consejero...) representando a su
+cliente extranjero, NO ACEPTE la venta.=20
+
+                    OLX nunca toma partido en negociaciones o
+transacciones.=20
+No facilitamos pagos ni envios; no proveemos garant=C3=ADa alguna de
+satisfacci=C3=B3n de producto; y no ofrecemos ning=C3=BAn servicio de
+financiamiento o protecci=C3=B3n financiera para compradores o
+vendedores.=20
+
+                     Nunca d=C3=A9 informaci=C3=B3n financiera
+ Como su n=C3=BAmero de cuenta bancaria, tu CBU, etc=E2=80=A6 =20
+
+                      Sea extremadamente precavido en caso de
+que necesite enviar el art=C3=ADculo por correo, barco u otros
+servicios de transporte o encomiendas. =20
+
+                    Si recibe emails que le comunican que es
+ganador de un premio y que debe pagar para recibirlo, no lo
+conteste y contacte a nuestro Equipo de Atenci=C3=B3n al Cliente=20
+
+               =20
+
+                               =20
+                           =20
+                       =20
+                =C2=A1Le deseamos una transacci=C3=B3n exitosa en OLX!=20
+
+                Gracias por usar OLX,
+
+
+
+
+El equipo de OLX
+
+
+
+
+
+Si necesita asistencia o tiene alg=C3=BAn comentario, p=C3=B3ngase en
+contacto con nosotros a trav=C3=A9s de nuestro equipo de atenci=C3=B3n
+al cliente=20
+
+                Si no deseas recibir consejos de OLX,
+simplemente =20
+haz clic aqu=C3=AD y desmarca la casilla: "Quiero recibir consejos
+sobre compra y venta en OLX".
+           =20
+       =20
+   =20
+
+
+
+
+--b1_c0cbbb0f275dcce50286b7611d4665be
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" =
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head>
+                    <title>    Informaci=C3=B3n sobre tu =
+anuncio:&lt;&lt;ItemTitle&gt;&gt;
+</title>
+            <meta http-equiv=3D"Content-type" content=3D"text/html; =
+charset=3DUTF-8;" />
+            <style type=3D"text/css">
+                @media only screen and (max-width: 600px) {
+                    .principal-container{
+                        width: 100%;
+                        zoom: 1;
+                    }
+                    .link-button{
+                        margin-bottom: 10px;
+                        margin-right: 0;
+                    }
+                }
+            </style>
+            </head>
+    <body bgcolor=3D"#FFFFFF" text=3D"#000000" link=3D"#0066CC" =
+style=3D"margin:0; padding:0; background-color:#FFFFFF;">
+            <div style=3D"font-family:Arial; width:620px; font-size: =
+12px;">
+        <div id=3D"mailheader" style=3D"font-size:20px;padding: 5px 10px =
+15px;">
+            <table>
+                <tr>
+                    <td>
+                        <a id=3D"site" href=3D"http://www.olx.com.ve?invit=
+e=3DCRMfirst_posting-vz_logo&amp;a=3D99&amp;utm_source=3Dcrm_email&amp;utm=
+_medium=3Demail&amp;utm_content=3Dlogo&amp;utm_campaign=3Dfirst_posting" =
+target=3D"_blank"><img id=3D"site_logo" =
+src=3D"http://static03.olx-st.com/images/t/olx/mail_CRM_logo.gif" =
+alt=3D"OLX" border=3D"0" style=3D"display:block; border:none;" /></a>
+                    </td>
+                    <td valign=3D"middle">
+                        <span style=3D" margin-left:10px;">Clasificados =
+gratis</span>
+                    </td>
+                </tr>
+            </table>
+        </div>
+            <div id=3D"mailcontent" style=3D"background:#f5f5f5; =
+padding:10px;">
+                <div id=3D"mailcontenttop">
+                    <table>
+                        <tr>
+                            <td>
+                                <h1 =
+style=3D"font-size:18px;color:#000;margin-bottom:0;">=C2=A1Felicidades por =
+publicar su primer anuncio en OLX!</h1>
+                                <p style=3D"margin:0; =
+font-weight:bold;">"Courier Pack"</p>
+                                <p>Le recomendamos conservar este email, =
+puede encontrarlo =C3=BAtil para futuras transacciones en sitios de =
+subastas o clasificados.</p>
+                                <p>Le recomendamos operar localmente, de =
+esta manera, ambas partes se pueden conocer en persona antes de =
+proceder.</p>
+                                <p>Sin embargo, si el potencial =
+comprador/vendedor no esta en su =C3=A1rea, aqu=C3=AD tiene algunas =
+recomendaciones que deber=C3=ADa tener en mente:</p>
+                            </td>
+                            <td rowspan=3D"4" valign=3D"top"><img =
+src=3D"http://static03.olx-st.com/images/t/olx/mail_CRM_22_01.gif"/></td>
+                        </tr>
+                    </table>
+                </div>
+                <h2 style=3D"color:#0070b7;font-size:18px;">Tips de =
+seguridad</h2>
+                <ol style=3D"list-style:disc ; padding-left:15px;">
+                    <li><strong> NUNCA venda nada a nadie fuera de su =
+pa=C3=ADs de residencia. </strong><br />Una orden de pago de un banco =
+extranjero puede tardar de 3 a 4 semanas o m=C3=A1s en ser procesada por =
+su banco. Mientras tanto, el monto es acreditado en su cuenta, pero si el =
+pago es falso, este monto ser=C3=A1 debitado de su cuenta.</li> <br />
+                    <li><strong> Nunca acepte cheques de caja de bancos =
+extranjeros.</strong><br /> La mayor=C3=ADa de los estafadores usa y =
+env=C3=ADa versiones falsas de este tipo de cheques.</li> <br />
+                    <li><strong>NUNCA acepte un pago por un monto superior =
+al valor de su art=C3=ADculo. </strong><br />NUNCA deber=C3=ADa enviar =
+dinero para reembolsar un sobrepago, cualquiera sea la raz=C3=B3n que le =
+dieron (regalo, costos de env=C3=ADo, cargos de aduana, cargos por =
+intermediarios...)</li> <br />
+                    <li><strong>Si el comprador se presenta a si mismo =
+como un intermediario (abogado, consejero...) representando a su cliente =
+extranjero, NO ACEPTE la venta.</strong></li> <br />
+                    <li><strong>OLX nunca toma partido en negociaciones o =
+transacciones. </strong><br />No facilitamos pagos ni envios; no proveemos =
+garant=C3=ADa alguna de satisfacci=C3=B3n de producto; y no ofrecemos =
+ning=C3=BAn servicio de financiamiento o protecci=C3=B3n financiera para =
+compradores o vendedores.</li> <br />
+                    <li> <strong>Nunca d=C3=A9 informaci=C3=B3n =
+financiera</strong><br /> Como su n=C3=BAmero de cuenta bancaria, tu CBU, =
+etc=E2=80=A6 </li> <br />
+                    <li> <strong> Sea extremadamente precavido en caso de =
+que necesite enviar el art=C3=ADculo por correo, barco u otros servicios =
+de transporte o encomiendas. </strong></li> <br />
+                    <li><strong>Si recibe emails que le comunican que es =
+ganador de un premio y que debe pagar para recibirlo, no lo conteste y =
+contacte a nuestro</strong> <a href=3D"http://www.olx.com.ve/contacts.php?=
+invite=3DCRMfirst_posting-vz_contact_us&a=3D99&utm_source=3Dcrm_email&utm_=
+medium=3Demail&utm_content=3Dcontact_us&utm_campaign=3Dfirst_posting">Equi=
+po de Atenci=C3=B3n al Cliente</a></li> <br />
+                </ol>
+
+                               =20
+                            </div>
+            <div id=3D"mailfooter">           =20
+                <p style=3D"background:#f5f5f5;padding:10px;">=C2=A1Le =
+deseamos una transacci=C3=B3n exitosa en OLX!</p> <br />
+                <p>Gracias por usar OLX,
+
+<br /><strong>
+
+El equipo de OLX
+
+</strong><br /><br />
+
+Si necesita asistencia o tiene alg=C3=BAn comentario, p=C3=B3ngase en =
+contacto con nosotros a trav=C3=A9s de nuestro <a class=3D"CommonMail" =
+href=3D"http://www.olx.com.ve/contacts.php?invite=3DCRMfirst_posting-vz_co=
+ntact_us&a=3D99&utm_source=3Dcrm_email&utm_medium=3Demail&utm_content=3Dco=
+ntact_us&utm_campaign=3Dfirst_posting">equipo de atenci=C3=B3n al =
+cliente</a></p> <br />
+                <p style=3D"font-size:10px; border-top:1px solid #d5d5d5; =
+padding-top:10px;">Si no deseas recibir consejos de OLX, simplemente <a =
+href=3D"http://www.olx.com.ve/myolx/emailsnotification.php">=20
+haz clic aqu=C3=AD</a> y desmarca la casilla: "Quiero recibir consejos =
+sobre compra y venta en OLX".</p>
+            </div>
+        </div>
+    </body>
+</html>
+<img src=3D"http://www.google-analytics.com/__utm.gif?utmwv=3D5.3.7&amp;ut=
+mac=3DUA-2530746-3&amp;utms=3D1&amp;utmn=3D201178131&amp;utmcs=3DUTF-8&amp=
+;utmsr=3D1x1&amp;utmvp=3D1x1&amp;utmsc=3D24-bit&amp;utmul=3Des-vz&amp;utmj=
+e=3D0&amp;utmfl=3D11.4%20r402&amp;utmhid=3D1556084628&amp;utmcc=3D__utma%3=
+D18082220.1511670066.1351890289.1351890289.1351890289.1%3B%2B__utmz%3D1808=
+2220.1351890289.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none=
+)%3B&amp;utmu=3Dq~&amp;utmr=3Dcourierpack.com.ve&amp;utmhn=3Dwww.olx.com.v=
+e&amp;utmp=3DcampaignName%3Dfirst_posting%26recipientDomain%3Dinfo%40couri=
+erpack.com.ve%26countryUrl%3Dwww.olx.com.ve%26category%3D371%26registerdUs=
+er%3D%26daysSincePosting%3D-4.09375E-5" />
+
+
+
+--b1_c0cbbb0f275dcce50286b7611d4665be--
+
+

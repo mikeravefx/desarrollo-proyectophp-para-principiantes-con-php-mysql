@@ -1,0 +1,431 @@
+Return-path: <b00635099bfgabrielagarcia=courierpack.com.ve@bounce.twitter.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Tue, 24 Dec 2013 06:10:44 -0430
+Received: from spruce-goose-aa.twitter.com ([199.59.150.70]:52621)
+	by host.racksystem2.com with esmtp (Exim 4.80.1)
+	(envelope-from <b00635099bfgabrielagarcia=courierpack.com.ve@bounce.twitter.com>)
+	id 1VvPPm-001aZy-Qf
+	for gabrielagarcia@courierpack.com.ve; Tue, 24 Dec 2013 06:10:44 -0430
+DKIM-Signature: v=1; a=rsa-sha1; d=twitter.com; s=dkim-201303; c=relaxed/relaxed;
+	q=dns/txt; i=@twitter.com; t=1387880438;
+	h=From:Subject:Date:To;
+	bh=FvQfIbA4P5FhOFNoYD3dxiv3iJg=;
+	b=ZJ/Mb5dwRM8Ft88rrNJzxZOZnRhlQkh6WVUH6RZTnAj7vrD0XyWP1b1WXO8BpKk0
+	/BZUIzT0Sxxg/aOTS5s3RTk7ibmwHmxbVsOjm1ZAkP5XDe7i4/Du+ymDcRXv1wzF
+	RvTi+r/jQnDgzH1FOrQfd7GnxPYXEOxoP8793XTN7KI=;
+X-MSFBL: Z2FicmllbGFnYXJjaWFAY291cmllcnBhY2suY29tLnZlQHNtZjEtYmZwLTA3LXNy
+	MS1FdmVyeXRoaW5nLjE3MEBFdmVyeXRoaW5nQGdhYnJpZWxhZ2FyY2lhXEBjb3Vy
+	aWVycGFjay5jb20udmVcQDE1NlxAMFxAMFxAZDUzZjI5NjVjZDQ5NzBmYzJkOTM0
+	YmIzMzg4ODZmMDdlNTRkZGYxZg==
+Date: Tue, 24 Dec 2013 10:20:38 +0000
+From: Twitter <connections@twitter.com>
+To: gabrielagarcia@courierpack.com.ve
+Subject: =?UTF-8?Q?Erick_Alvarenga_and_VICTOR_ALBETO_DIAZ_M_toda?=
+ =?UTF-8?Q?v=C3=ADa_est=C3=A1n_esperando_a_que_te_unas_a_Twitter...?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_39575394_1868301741.1387880438353"
+Precedence: Bulk
+Message-ID: <5B.43.19220.6FF59B25@spruce-goose.twitter.com>
+X-Spam-Status: No, score=1.3
+X-Spam-Score: 13
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Erick Alvarenga and VICTOR ALBETO DIAZ M todavía están esperando
+    a que te unas a Twitter... Twitter te ayuda a estar conectado con lo que
+   está sucediendo en estos momentos y con las personas y organizaciones que
+    te importan. [...] 
+ 
+ Content analysis details:   (1.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.5 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: twimg.com]
+  1.3 URI_HEX                URI: URI hostname has long hexadecimal sequence
+  0.6 HTML_IMAGE_RATIO_04    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+X-Spam-Flag: NO
+
+------=_Part_39575394_1868301741.1387880438353
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Erick Alvarenga and VICTOR ALBETO DIAZ M todav=C3=ADa est=C3=A1n esperando =
+a que te unas a Twitter...
+
+Twitter te ayuda a estar conectado con lo que est=C3=A1 sucediendo en estos=
+ momentos y con las personas y organizaciones que te importan.
+
+    Aceptar su invitaci=C3=B3n
+
+https://twitter.com/i/257dde6285e72604f720965e353852634df4c912
+
+--=20
+
+Este mensaje fue enviado por Twitter en nombre de los usuarios de Twitter q=
+ue ingresaron tu direcci=C3=B3n de correo electr=C3=B3nico para invitarte a=
+ Twitter.
+Eliminar subscripci=C3=B3n: https://twitter.com/i/o?t=3D1&iid=3D64bc4ec3314=
+340de971c3f7cc0f96396&uid=3D0&c=3D2F47lRPyIsmzlUMCLCIL%2Fy65C9uDHhW7lFJk4wg=
+D%2B4FCeG5OwZO1TA%3D%3D&nid=3D156+26+20131222
+
+=C2=BFNecesitas ayuda?
+https://support.twitter.com
+------=_Part_39575394_1868301741.1387880438353
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/htm=
+l4/strict.dtd">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, minimum-scale=3D1.=
+0, maximum-scale=3D1.0, user-scalable=3D0" />
+<meta name=3D"apple-mobile-web-app-capable" content=3D"yes" />
+<style type=3D"text/css">
+@media only screen and (max-width: 480px) {
+table[class=3Douterinvite] .cut {
+display: none !important;
+}
+
+table[class=3Douterinvite] .spacer {
+font-size: 1px !important;
+}
+
+table[class=3Douterinvite] .frame, .top-corners, .content, .envelope, .foot=
+er-inner {
+width: 320px !important;
+}
+
+table[class=3Douterinvite] .top-spacer {
+height: 10px !important;
+}
+
+table[class=3Douterinvite] .content {
+width: 308px !important;
+}
+
+table[class=3Douterinvite] .top-corners {
+height: 22px !important;
+background: url(https://ea.twimg.com/email/t1/invite/top-corners-mobile.png=
+) left top no-repeat !important;
+}
+
+table[class=3Douterinvite] .invite {
+width: 306px !important;
+}
+
+table[class=3Douterinvite] .invite-top {
+height: 10px !important;
+}
+
+table[class=3Douterinvite] .invite .avatar {
+width: 74px !important;
+}
+
+table[class=3Douterinvite] .invite .avatar-last {
+width: 64px !important;
+}
+
+table[class=3Douterinvite] .invite .avatar img {
+width: 64px !important;
+height: 64px !important;
+}
+
+table[class=3Douterinvite] .envelope {
+height: 75px !important;
+background: url(https://ea.twimg.com/email/t1/invite/envelope-with-logo-mob=
+ile.png) left top no-repeat !important;
+}
+
+table[class=3Douterinvite] .footer-inner {
+width: 300px !important;
+}
+
+table[class=3Douterinvite] .footer-inner .break {
+display: block !important;
+}
+
+.inviter_follows.no-bio .inviter-follows-td {
+padding-left: 0 !important;
+}
+
+.inviter_follows.no-bio .divider {
+display: none !important;
+}
+
+.inviter_follows.no-bio .follow {
+width: 100% !important;
+float: none !important;
+}
+
+.inviter_follows.no-bio .follow-content {
+border-top: 1px solid #e8e8e8 !important;
+}
+
+.inviter_follows.no-bio .avatar-mid {
+width: 50px !important;
+float: left !important;
+}
+
+.inviter_follows.no-bio .name_handler {
+text-align: left !important;
+margin: 0 !important;
+padding-left: 60px !important;
+}
+
+.inviter_follows.no-bio .followers-count {
+padding-top: 5px !important;
+}
+
+.inviter_follows.no-bio .name_handler.names .name-break {
+display: none !important;
+}
+
+</style>
+<!--[if gte mso 9]>
+<style inline=3D"false">
+.content { width: 520px !important; }
+</style>
+<![endif]-->
+</head>
+<body bgcolor=3D"#eeeeee" style=3D"margin: 0px; padding: 0px; -webkit-text-=
+size-adjust: none;">
+<!-- 100% body table, class outerinvite -->
+<table class=3D"outerinvite" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0">
+<tbody>
+<tr>
+<td bgcolor=3D"#eeeeee">
+<!-- Frame -->
+<table class=3D"frame" width=3D"542" border=3D"0" align=3D"center" cellpadd=
+ing=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-size: 1px;" class=3D"top-spacer" height=3D"40" valign=3D"=
+top"><img width=3D"1" height=3D"1" style=3D"display: block;margin:0px;paddi=
+ng:0px;display:block;" src=3D"https://twitter.com/scribe/ibis?uid=3D0&amp;i=
+id=3D64bc4ec3314340de971c3f7cc0f96396&amp;nid=3D156+20+20131222&amp;t=3D1" =
+/>&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top">
+<!-- Top corners -->
+<table class=3D"top-corners" bgcolor=3D"#eeeeee" width=3D"522" border=3D"0"=
+ align=3D"center" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td height=3D"12" valign=3D"top"><img class=3D"cut" style=3D"margin: 0px; p=
+adding: 0px; display: block;margin:0px;padding:0px;display:block;" border=
+=3D"0" src=3D"https://ea.twimg.com/email/t1/invite/top-corners.png" width=
+=3D"522" height=3D"12" alt=3D"Top corners image" /></td>
+</tr>
+</tbody>
+</table>
+<!--/ Top corners -->
+<!-- Content -->
+<table style=3D"border-left-style: solid; border-left-width: 1px; border-le=
+ft-color: #cccccc; border-right-style: solid; border-right-width: 1px; bord=
+er-right-color: #cccccc;" class=3D"content" bgcolor=3D"#ffffff" width=3D"52=
+2" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td width=3D"522" align=3D"center" valign=3D"top">
+<table class=3D"invite" width=3D"520" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0">
+<tbody>
+<tr>
+<td class=3D"spacer" width=3D"9%">&nbsp;</td>
+<td class=3D"invite-top spacer" height=3D"38" width=3D"82%" valign=3D"top">=
+&nbsp;</td>
+<td class=3D"spacer" width=3D"9%">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td align=3D"center" valign=3D"top">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td class=3D"avatar" width=3D"106"><a href=3D"https://twitter.com/i/redirec=
+t?url=3Dhttps%3A%2F%2Ftwitter.com%2Fi%2F257dde6285e72604f720965e353852634df=
+4c912&amp;sig=3D346a3316e301a9710c64157114a68ebbdac5a147&amp;uid=3D0&amp;ii=
+d=3D64bc4ec3314340de971c3f7cc0f96396&amp;nid=3D156+478+20131222&amp;t=3D1" =
+style=3D"color:#0084b4;text-decoration:none;"><img border=3D"0" class=3D"av=
+atar-image" src=3D"https://pbs.twimg.com/profile_images/2185319054/DSC00523=
+_reasonably_small.jpg" width=3D"96" height=3D"96" style=3D"margin:0px;paddi=
+ng:0px;display:block;border-radius:3px;" /></a></td>
+<td class=3D"avatar avatar-last" width=3D"96"><a href=3D"https://twitter.co=
+m/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fi%2F257dde6285e72604f720965e=
+353852634df4c912&amp;sig=3D346a3316e301a9710c64157114a68ebbdac5a147&amp;uid=
+=3D0&amp;iid=3D64bc4ec3314340de971c3f7cc0f96396&amp;nid=3D156+479+20131222&=
+amp;t=3D1" style=3D"color:#0084b4;text-decoration:none;"><img border=3D"0" =
+class=3D"avatar-image" src=3D"https://pbs.twimg.com/profile_images/26642451=
+36/d0d2278028f128afc4e4b8a75ecc5ca0_reasonably_small.png" width=3D"96" heig=
+ht=3D"96" style=3D"margin:0px;padding:0px;display:block;border-radius:3px;"=
+ /></a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td height=3D"20" colspan=3D"5">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!--/ Avatar images --> </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td valign=3D"top" align=3D"center"> <p class=3D"names" style=3D"font-famil=
+y:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:18px;line-height=
+:normal;color:#333333;margin-top:0px;margin-bottom:25px;"> <a href=3D"https=
+://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fi%2F257dde6285e=
+72604f720965e353852634df4c912&amp;sig=3D346a3316e301a9710c64157114a68ebbdac=
+5a147&amp;uid=3D0&amp;iid=3D64bc4ec3314340de971c3f7cc0f96396&amp;nid=3D156+=
+475+20131222&amp;t=3D1" class=3D"name" style=3D"color:#0084b4;text-decorati=
+on:none;font-weight:bold;color:#333333;text-decoration:none;">Erick Alvaren=
+ga</a> y <a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwit=
+ter.com%2Fi%2F257dde6285e72604f720965e353852634df4c912&amp;sig=3D346a3316e3=
+01a9710c64157114a68ebbdac5a147&amp;uid=3D0&amp;iid=3D64bc4ec3314340de971c3f=
+7cc0f96396&amp;nid=3D156+476+20131222&amp;t=3D1" class=3D"name" style=3D"co=
+lor:#0084b4;text-decoration:none;font-weight:bold;color:#333333;text-decora=
+tion:none;">VICTOR ALBETO DIAZ M</a> est&aacute;n todav&iacute;a esperando =
+a que te unas a Twitter... <img width=3D"1" height=3D"1" src=3D"loadimage" =
+style=3D"margin:0px;padding:0px;display:block;" /> </p> </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td valign=3D"top" align=3D"center">
+<!-- Button -->
+<table bgcolor=3D"#33a9e5" class=3D"newbutton" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" style=3D"white-space:nowrap;background:#33a9e5;backgro=
+und-image:url(https://ea.twimg.com/email/t1/button_bg.png);border-radius:5p=
+x;border-color:#2288cc;border-style:solid;border-width:1px;text-align:cente=
+r;height:28px;">
+<tbody>
+<tr>
+<td class=3D"spacer" width=3D"15">&nbsp;</td>
+<td height=3D"28" align=3D"center"><span class=3D"newbutton-text" style=3D"=
+color:#ffffff;font-size:15px;font-weight:bold;text-shadow:0px -1px 0px #339=
+9dd;white-space:nowrap;overflow:hidden;padding:0px;margin:0px;font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif;"><a class=3D"newbutton-link"=
+ href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fi=
+%2F257dde6285e72604f720965e353852634df4c912&amp;sig=3D346a3316e301a9710c641=
+57114a68ebbdac5a147&amp;uid=3D0&amp;iid=3D64bc4ec3314340de971c3f7cc0f96396&=
+amp;nid=3D156+442+20131222&amp;t=3D1" style=3D"color:#0084b4;text-decoratio=
+n:none;color:#ffffff;text-decoration:none;"> Aceptar su invitaci&oacute;n <=
+/a></span></td>
+<td class=3D"spacer" width=3D"15">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!--/ Button --> </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td height=3D"20">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td valign=3D"top" align=3D"center"> <p class=3D"extra" style=3D"font-famil=
+y:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;line-height=
+:normal;color:#666666;margin-top:0px;margin-bottom:10px;">Twitter te ayuda =
+a estar conectado con lo que est&aacute; sucediendo en estos momentos y con=
+ las personas y organizaciones que te importan.</p> </td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!--/ Content -->
+<!-- Envelope -->
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"envelope" valign=3D"top"> <img class=3D"cut" border=3D"0" src=
+=3D"https://ea.twimg.com/email/t1/invite/envelope-with-logo.png" width=3D"5=
+42" height=3D"133" style=3D"margin:0px;padding:0px;display:block;" /></td>
+</tr>
+</tbody>
+</table>
+<!--/ Envelope --> </td>
+</tr>
+</tbody>
+</table>
+<!--/ Frame -->
+<!-- Footer -->
+<table class=3D"footer" style=3D"background: url(https://ea.twimg.com/email=
+/t1/invite/footer-shadow.png) top repeat-x; border-top-style: solid; border=
+-top-width: 1px; border-top-color: #cccccc;" width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top">
+<table class=3D"footer-inner" width=3D"500" border=3D"0" align=3D"center" c=
+ellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td height=3D"25">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"ios" valign=3D"top"> <p style=3D"font-family:'Helvetica Neue',=
+ Helvetica, Arial, sans-serif;font-size:11px;line-height:normal;color:#7777=
+77;text-shadow:0 1px 0 #ffffff;margin-top:0px;margin-bottom:15px;">Puedes <=
+a href=3D"https://twitter.com/i/o?t=3D1&amp;iid=3D64bc4ec3314340de971c3f7cc=
+0f96396&amp;uid=3D0&amp;c=3D2F47lRPyIsmzlUMCLCIL%2Fy65C9uDHhW7lFJk4wgD%2B4F=
+CeG5OwZO1TA%3D%3D&amp;nid=3D156+26+20131222" style=3D"text-decoration:none;=
+color:#999999;color:#0084b4;text-decoration:none;">anular tu suscripci&oacu=
+te;n</a> a estos correos electr&oacute;nicos en cualquier momento o encontr=
+ar <a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Fsupport.tw=
+itter.com&amp;sig=3Dd5a93ec8dc3f5086b47a0022aac6b1bd71661580&amp;uid=3D0&am=
+p;iid=3D64bc4ec3314340de971c3f7cc0f96396&amp;nid=3D156+97+20131222&amp;t=3D=
+1" style=3D"text-decoration:none;color:#999999;color:#0084b4;text-decoratio=
+n:none;">respuestas</a> a tus preguntas en el Soporte de Twitter.</p> <p cl=
+ass=3D"address" style=3D"font-family:'Helvetica Neue', Helvetica, Arial, sa=
+ns-serif;font-size:11px;line-height:normal;color:#777777;text-shadow:0 1px =
+0 #ffffff;margin-top:0px;margin-bottom:15px;font-family:'Helvetica Neue', H=
+elvetica, Arial, sans-serif;font-size:11px;line-height:normal;color:#999999=
+;text-shadow:0 1px 0 #ffffff;margin-top:0px;margin-bottom:15px;"> <a href=
+=3D"#" style=3D"text-decoration:none;color:#999999;color:#0084b4;text-decor=
+ation:none;text-decoration:none;color:#999999;">Twitter, Inc. 1355 Market S=
+t., Suite 900<span class=3D"break"></span> San Francisco, CA 94103</a></p> =
+</td>
+</tr>
+<tr>
+<td height=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!--/ Footer --> </td>
+</tr>
+</tbody>
+</table>
+<!--/ 100% body table, class outerinvite -->
+</body>
+</html>
+
+------=_Part_39575394_1868301741.1387880438353--

@@ -1,0 +1,84 @@
+Return-path: <>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Tue, 09 Jul 2013 07:12:59 -0430
+Received: from smtp04.bis6.us.blackberry.com ([74.82.85.4]:24629)
+	by host.racksystem2.com with esmtp (Exim 4.80)
+	id 1UwWJv-0019Tz-JQ
+	for miguel.pita@courierpack.com.ve; Tue, 09 Jul 2013 07:12:59 -0430
+Received: from antispam7.c0.bise5.blackberry ([192.168.0.22])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r69Bgs1I006633
+	for <SRS0=6ZcHOB=QU=courierpack.com.ve=miguel.pita@srs.bis6.us.blackberry.com>; Tue, 9 Jul 2013 11:42:54 GMT
+X-SBRS: 5.6
+Received: from smtp03.bis6.us.blackberry.com ([74.82.85.3])
+  by antispam7.c0.bise5.blackberry with ESMTP; 09 Jul 2013 11:42:54 +0000
+Received: from localhost by smtp03.bis6.us.blackberry.com;
+  09 Jul 2013 11:42:54 +0000
+Message-Id: <77ee8d$u18adk@smtp3.c0.bise6.blackberry>
+Date: 09 Jul 2013 11:42:54 +0000
+To: SRS0=6ZcHOB=QU=courierpack.com.ve=miguel.pita@srs.bis6.us.blackberry.com
+From: "Mail Delivery System" <MAILER-DAEMON@smtp3.c0.bise6.blackberry>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="y1kVT.4uHAfR8Qw.Ha/VK.FVZ4FWU"
+
+--y1kVT.4uHAfR8Qw.Ha/VK.FVZ4FWU
+content-type: text/plain;
+    charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <ibijar@gmaill.com> was undeliverable.
+The reason for the problem:
+5.4.7 - Delivery expired (message too old) 'DNS Soft Error looking up gmail=
+l.com (MX) while asking ns4.google.com. Error was: unable to reach nameserv=
+er on any valid IP'
+
+--y1kVT.4uHAfR8Qw.Ha/VK.FVZ4FWU
+content-type: message/delivery-status
+
+Reporting-MTA: dns; smtp3.c0.bise6.blackberry
+
+Final-Recipient: rfc822;ibijar@gmaill.com
+Action: failed
+Status: 5.0.0 (permanent failure)
+Diagnostic-Code: smtp; 5.4.7 - Delivery expired (message too old) 'DNS Soft Error looking up gmaill.com (MX) while asking ns4.google.com. Error was: unable to reach nameserver on any valid IP' (delivery attempts: 0)
+
+--y1kVT.4uHAfR8Qw.Ha/VK.FVZ4FWU
+content-type: message/rfc822
+
+Received: from unknown (HELO srs.bis6.us.blackberry.com) ([172.29.231.127])
+  by smtp03.bis6.us.blackberry.com with ESMTP; 06 Jul 2013 11:18:13 +0000
+Received: from b11.c10.bise6.blackberry ([192.168.0.111])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r66BIQED017966;
+	Sat, 6 Jul 2013 11:18:26 GMT
+Received: from 172.29.203.173 (cmp3.c10.bise6.blackberry [172.29.203.173])
+	by b11.c10.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id r66BIL76026322;
+	Sat, 6 Jul 2013 11:18:21 GMT
+X-rim-org-msg-ref-id: 1209516746
+Message-ID: <1209516746-1373109499-cardhu_decombobulator_blackberry.rim.net-733111369-@b13.c10.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: miguel.pita@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: WhatsApp Messenger: BlackBerry + iPhone + Android + Windows Phone + Nokia
+To: "miguel pita" <miguel.pita@courierpack.com.ve>
+From: miguel.pita@courierpack.com.ve
+Date: Sat, 6 Jul 2013 11:25:43 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+
+SG9sYSwNCg0KQWNhYm8gZGUgYmFqYXJtZSBXaGF0c0FwcCBNZXNzZW5nZXIgZW4gbWkgQmxhY2tC
+ZXJyeS4NCg0KRXMgdW4gcHJvZ3JhbWEgZGUgbWVuc2FqZXLtYSBwYXJhIHNtYXJ0cGhvbmVzIHF1
+ZSBzdXN0aXR1eWUgYSBsb3MgU01TLiBIYXN0YSBwdWVkZXMgZW52aWFyIGZvdG9zLCB27WRlb3Mg
+eSBvdHJvcyBhcmNoaXZvcyBtdWx0aW1lZGlhLg0KDQpXaGF0c0FwcCBNZXNzZW5nZXIgZXN04SBk
+aXNwb25pYmxlIHBhcmEgQW5kcm9pZCwgaVBob25lLCBOb2tpYSwgV2luZG93cyBQaG9uZSwgeSBC
+bGFja0JlcnJ5IHkgbm8gaGFjZSBmYWx0YSByZWNvcmRhciBuaW5n+m4gUElOIG5pIG5vbWJyZSBk
+ZSB1c3VhcmlvOyBmdW5jaW9uYSBpZ3VhbCBhbCBTTVMsIHBlcm8gdXNhIHR1IGNvbmV4afNuIGRl
+IGRhdG9zIGRlIEludGVybmV0Lg0KDQpC4WphdGVsbyBkZSBodHRwOi8vd3d3LndoYXRzYXBwLmNv
+bS9kb3dubG9hZC8geSBvbHbtZGF0ZSBkZSBsb3MgU01TLg0KDQoNCkVudmlhZG8gZGVzZGUgbWkg
+QmxhY2tCZXJyeSBkZSBNb3Zpc3Rhcg==
+
+
+--y1kVT.4uHAfR8Qw.Ha/VK.FVZ4FWU--
+
+

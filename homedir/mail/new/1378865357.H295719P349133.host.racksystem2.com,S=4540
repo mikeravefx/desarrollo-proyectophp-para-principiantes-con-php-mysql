@@ -1,0 +1,97 @@
+Return-path: <>
+Envelope-to: courierp@host.racksystem2.com
+Delivery-date: Tue, 10 Sep 2013 21:39:17 -0430
+Received: from mailnull by host.racksystem2.com with local (Exim 4.80)
+	id 1VJZrp-001Sp5-7Q
+	for courierp@host.racksystem2.com; Tue, 10 Sep 2013 21:39:17 -0430
+X-Failed-Recipients: argeninojosa@hotmail.com6
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@host.racksystem2.com>
+To: courierp@host.racksystem2.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1VJZrp-001Sp5-7Q@host.racksystem2.com>
+Date: Tue, 10 Sep 2013 21:39:17 -0430
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  argeninojosa@hotmail.com6
+    The mail server could not deliver mail to argeninojosa@hotmail.com6.  The account or domain may not exist, they may be blacklisted, or missing the proper dns entries.
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <courierp@host.racksystem2.com>
+Received: from courierp by host.racksystem2.com with local (Exim 4.80)
+	(envelope-from <courierp@host.racksystem2.com>)
+	id 1VJZrp-001Sow-3e
+	for argeninojosa@hotmail.com6; Tue, 10 Sep 2013 21:39:17 -0430
+To: argeninojosa@hotmail.com6
+Subject:  Bienvenido a Nuestra Familia de Clientes Satisfechos
+X-PHP-Script: www.courierpack.com.ve/registrado.php for 190.73.167.205
+From: info@courierpack.com.ve.com.ve
+Content-type: text/html
+Message-Id: <E1VJZrp-001Sow-3e@host.racksystem2.com>
+Date: Tue, 10 Sep 2013 21:39:17 -0430
+
+<html> <head>  <title>  </title>  
+<style type='text/css'>
+<!--
+.style1 {
+	font-size: 9px;
+	font-weight: bold;
+}
+-->
+</style>
+</head>  
+<body style='background:#FFFFFF;font-size:12px;font-family:Verdana, Arial, Helvetica, sans-serif;color:#333333;'> <p>&nbsp;</p>  
+<table width='754' border='0'>
+  <tr>
+    <td width='562' bgcolor='#FFFFFF'><div align='center'><img src='http://www.courierpack.com.ve/images/kubrickheader.jpg' alt='' width='380' height='138'></div></td>
+    <td width='182' bgcolor='#FFFFFF'><b>Caracas, 10-09-13</b></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFFFF'><div align='right'><span style='color:#333333;font-size:12pt;'>Estimado(a):</span></div></td>
+    <td bgcolor='#FFFFFF'><b>johnny a ynojosa g</b></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFFFF'>&nbsp;</td>
+    <td bgcolor='#FFFFFF'>&nbsp;</td>
+  </tr>
+  <tr>
+    <td bordercolor='#AAD2FF' bgcolor='#AAD2FF'><p align='justify'><span style='color:#333333;font-size:12pt;'>Bienvenido(a)!!!<br>
+          <br>
+          <br>
+          Recuerde que los datos mostrados a continuaci&oacute;n, son estrictamente confidenciales.</span></p>
+      <p>Usuario: <b><i> argeninojosa@hotmail.com6</b></i><br>
+Password: <b><i>60COYOTE</b></i><br>
+Nombre: <b><i>johnny a ynojosa g</b></i><br>
+Cedula o Rif:<b><i> 4559176</b></i><br>
+Responsable de la Carga: <b><i>johnny a ynojosa g<br>
+</b></i>Direccion: <b><i>cafetal final boulevard raul leoni c.c plaza las americas I nivel mezzanina plata local 2-7 Rosa del mar boutique alta costura c.a municipio baruta estado miranda caracas</b></i><br>
+Estado:<b><i>Miranda</b></i><br>
+Ciudad:El Cafetal<br>
+</b></i>Telefono Fijo:<b><i>02129861357</b></i><br>
+Telefono Movil 1: <b><i>04141195572</b></i><br>
+Telefono Movil 2: <b><i>04143230621</b></i></p>
+      <p>Gracias por su paciencia y espera, para nosotros su tiempo es importante, si posee otra solicitud no dude en <a href='http://www.courierpack.com.ve/contacto.html'>contactarnos</a><br>
+        <a href='contacto.html'><br>
+</a></p></td>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'><div align='center'><img src='http://www.courierpack.com.ve/images/mundocourierpack.jpg' alt='courier internacional puerta a puerta' width='174' height='172'></div></td>
+  </tr>
+  <tr>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'><div align='center'>
+      <p class='style1'><a href='www.courierpack.com.ve'>Sencillamente marcamos la diferencia en transporte internacional de carga </a><br>     
+        Copyright &copy; 2006 - 2009. Todos los derechos reservados, CourierPack &reg; Consulting C.A. Rif J30592360-4.</span></p>
+    </div></td>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'>&nbsp;</td>
+  </tr>
+  <tr>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'><br>
+    <p align='justify' style='color:#333333;font-size:12pt;' >&nbsp;</p></td>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'>&nbsp;</td>
+  </tr>
+</table>
+</body> 
+</html>

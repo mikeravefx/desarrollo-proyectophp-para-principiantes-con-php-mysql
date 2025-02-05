@@ -1,0 +1,178 @@
+Return-path: <yajarivas_2514@yahoo.es>
+Envelope-to: Miguel.pita@courierpack.com.ve
+Delivery-date: Tue, 17 Dec 2013 15:58:52 -0430
+Received: from nm42.bullet.mail.ne1.yahoo.com ([98.138.120.49]:45087)
+	by host.racksystem2.com with smtp (Exim 4.80.1)
+	(envelope-from <yajarivas_2514@yahoo.es>)
+	id 1Vt1G7-002GFY-8w
+	for Miguel.pita@courierpack.com.ve; Tue, 17 Dec 2013 15:58:52 -0430
+Received: from [127.0.0.1] by nm42.bullet.mail.ne1.yahoo.com with NNFMP; 17 Dec 2013 20:28:49 -0000
+Received: from [98.138.100.102] by nm42.bullet.mail.ne1.yahoo.com with NNFMP; 17 Dec 2013 20:25:53 -0000
+Received: from [212.82.98.52] by tm101.bullet.mail.ne1.yahoo.com with NNFMP; 17 Dec 2013 20:25:53 -0000
+Received: from [212.82.108.120] by tm5.bullet.mail.ir2.yahoo.com with NNFMP; 17 Dec 2013 20:25:53 -0000
+Received: from [127.0.0.1] by omp1029.mail.ird.yahoo.com with NNFMP; 17 Dec 2013 20:25:53 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 216449.1830.bm@omp1029.mail.ird.yahoo.com
+Received: (qmail 75746 invoked by uid 60001); 17 Dec 2013 20:25:53 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1387311953; bh=lFH+ZgBkGCEgssrNCKfvlFuy5MTQOgTR19nIc+4PzLE=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=4HJO3f3QQJwG5Fy4RjPWNJThT0Xg1lJO87Orri6CZRSeXqWhbwMXhxxn1p3W/W57KtTfJFx7UBd17IoXPOEJteYQrHjR7MX13/yoQKgxFARH6jKOlbF4t4d6+a43fuOMkUi837ypOXi6lUJ6VUFJ9+82xWTMXRiXkh4cAUu+zbg=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.es;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=Aqcy1XYQvOsOnx1uGqXSoxwhNfn+ZXfPvkVmQtP44NWpH+Sq3CM1H2Ek32hBSJianXoJDY3hE0b7pMVF/rEB2veX4A9T4fZafNueOw7X26a8MxVa/I3w56bmvnQ1jCl50EmCp39Fy4X5ZQPxofMFL3oNdJRPMbOy9AAH49jFK1I=;
+X-YMail-OSG: DLL7nCMVM1lgmc_qi35DEkOt7PenaP7YBMeHl6jRofhCO1e
+ u63eHzzlcBMOFuQCodm3RnG1vbsgppIy.Z.3cr1JoIhmt_.bq4WbPNbGTHzu
+ YJhvNNBdqrJsC674rDkem6qdQwH1uWuQIFfYRlTr781fVz08HaFpSh5q.ovT
+ HMLpTZRV.WTmqJCAkOT4r44Suf9EG33DNfjCPj7HlZznHo_vtu.J45hCphyJ
+ jru5iPMGQdqW34e9nn1zasd0MRa.Br9lkJHYuF1L8cCqyglzJvGSVrbkTCM7
+ Ad3MbnhukqRYMzm_dqk6dt8MIDA45DBrOpcR4L6NuGsm5CxxTIXRk0aCWfbe
+ FxywcG_YMTtB2Y1F2MyH0vpTYCR08Z7syMat9KuhirrkBxKv7n0BEymkLcmd
+ No1X5.8r8DzdVvm3VDjT2I.YtKFJFZfnhHqlKO6LOiZulSeYHXSYhFVrzMNC
+ V_9W6mnPZixh9S1GtPq.6uuNVnE93veSkTDZo1joHuD2jA5brEoWMgzjgpND
+ 4ic92nGjDM3Yxl_UcfmosGqd7d4Zif07ibhT.xh6fk1i4SglSIbAagnJM033
+ x976gpXd4jdY-
+Received: from [190.205.225.247] by web171202.mail.ir2.yahoo.com via HTTP; Tue, 17 Dec 2013 20:25:53 GMT
+X-Rocket-MIMEInfo: 002.001,VW5hIHZleiByZWFsaXphZG8gZWwgcGFnbywgZW52aWFywqAgdW4gY29ycmVvIGEgZXN0YSBkaXJlY2Npw7NuR2FicmllbGFnYXJjaWFAY291cmllcnBhY2suY29twqAKTWlndWVsLnBpdGFAY291cmllcnBhY2suY29tLnZlwqBjb24gbGEgc2lndWllbnRlIGluZm9ybWFjacOzbjoKCkRhdG9zIGRlIGxhIENvbXByYQoKTm9tYnJlIGRlbCBjbGllbnRlIHJlZ2lzdHJhZG8gWWFqYWlyYSBSaXZhcwpQcm9kdWN0byhzKSBDYW5jZWxhZG9zIF8xwqAKZmVjaGEgZGUgRGVwb3NpdG8gX19fMTcvMTIvMjAxMwpNb250byABMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.170.612
+Message-ID: <1387311953.83847.YahooMailNeo@web171202.mail.ir2.yahoo.com>
+Date: Tue, 17 Dec 2013 20:25:53 +0000 (GMT)
+From: yajaira rivas <yajarivas_2514@yahoo.es>
+Reply-To: yajaira rivas <yajarivas_2514@yahoo.es>
+Subject: deposito de envio
+To: "Gabrielagarcia@courierpack.com" <Gabrielagarcia@courierpack.com>,
+  "Miguel.pita@courierpack.com.ve" <Miguel.pita@courierpack.com.ve>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1093466778-360238504-1387311953=:83847"
+X-Spam-Status: No, score=0.4
+X-Spam-Score: 4
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Una vez realizado el pago, enviar un correo a esta direcciónGabrielagarcia@courierpack.com
+    Miguel.pita@courierpack.com.ve con la siguiente información: Datos de la
+   Compra Nombre del cliente registrado Yajaira Rivas Producto(s) Cancelados
+   _1 fecha de Deposito ___17/12/2013 Monto Depositado 4721.25 Envio Incluido
+    en el Pago (Si/No)_si______ Banco en donde se depositó__BANESCO Tipo de Deposito
+    __EFECTIVO Nro de Referencia/Comprobante ____1313173948 [...] 
+ 
+ Content analysis details:   (0.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (yajarivas_2514[at]yahoo.es)
+  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+                             (yajaira rivas <yajarivas_2514[at]yahoo.es>
+ )
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (yajarivas_2514[at]yahoo.es)
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: yahoo.es]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+X-Spam-Flag: NO
+
+---1093466778-360238504-1387311953=:83847
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Una vez realizado el pago, enviar=A0 un correo a esta direcci=F3nGabrielaga=
+rcia@courierpack.com=A0=0AMiguel.pita@courierpack.com.ve=A0con la siguiente=
+ informaci=F3n:=0A=0ADatos de la Compra=0A=0ANombre del cliente registrado =
+Yajaira Rivas=0AProducto(s) Cancelados _1=A0=0Afecha de Deposito ___17/12/2=
+013=0AMonto Depositado 4721.25=0AEnvio Incluido en el Pago (Si/No)_si______=
+=0ABanco en donde se deposit=F3__BANESCO=0ATipo de Deposito __EFECTIVO=0ANr=
+o de Referencia/Comprobante ____1313173948=0A=0ADatos para el Envio=0A=0ADi=
+reccion de Envio Envio: =A0GRUPO ZOOM_FINAL AV. TOSTA GARCIA, EDIF. BOAL, L=
+OCAL B-1, PB. SECTOR SUCUA.=A0=0A=0ACiudad y Estado_MIRANDA=0AMunicipio CRI=
+STOBAL ROJAS=0AParroquia CHARALLAVE=0ACodigo Postal _2210_=0APersona que Re=
+cibe __Yajaira Rivas___________=0ATelefono de Contacto __04129559659.=0A=0A=
+En CPK=A0 estamos para servirte. Cualquier duda no dejes de consultarnos po=
+r las canales antes presentados.=0A
+---1093466778-360238504-1387311953=:83847
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:14pt"><div><span style=3D"font-family: monospace; font-size: 13px;"=
+>Una vez realizado el pago, enviar&nbsp; un correo a esta direcci=F3n</span=
+><a ymailto=3D"mailto:Gabrielagarcia@courierpack.com" href=3D"mailto:Gabrie=
+lagarcia@courierpack.com" style=3D"background-color: rgb(255, 255, 255); co=
+lor: rgb(25, 106, 212); font-family: monospace; font-size: 13px;">Gabrielag=
+arcia@courierpack.com</a><span style=3D"font-family: monospace; font-size: =
+13px;">&nbsp;</span><br style=3D"font-family: monospace; font-size: 13px;">=
+<a ymailto=3D"mailto:Miguel.pita@courierpack.com.ve" href=3D"mailto:Miguel.=
+pita@courierpack.com.ve" style=3D"background-color: rgb(255, 255, 255); col=
+or: rgb(25, 106, 212); font-family: monospace; font-size: 13px;">Miguel.pit=
+a@courierpack.com.ve</a><span style=3D"font-family: monospace; font-size: 1=
+3px;">&nbsp;con
+ la siguiente informaci=F3n:</span><br style=3D"font-family: monospace; fon=
+t-size: 13px;"><br style=3D"font-family: monospace; font-size: 13px;"><span=
+ style=3D"font-family: monospace; font-size: 13px;">Datos de la Compra</spa=
+n><br style=3D"font-family: monospace; font-size: 13px;"><br style=3D"font-=
+family: monospace; font-size: 13px;"><span style=3D"font-family: monospace;=
+ font-size: 13px;">Nombre del cliente registrado Yajaira Rivas<span class=
+=3D"Apple-tab-span" style=3D"white-space:pre">=09</span></span></div><div s=
+tyle=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: monospace; backg=
+round-color: transparent; font-style: normal;"><span style=3D"font-family: =
+monospace; font-size: 13px;">Producto(s) Cancelados _1&nbsp;</span></div><d=
+iv style=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: monospace; b=
+ackground-color: transparent; font-style: normal;"><span style=3D"font-fami=
+ly: monospace; font-size: 13px;">fecha de Deposito ___17/12/2013</span><br =
+style=3D"font-family:
+ monospace; font-size: 13px;"><span style=3D"font-family: monospace; font-s=
+ize: 13px;">Monto Depositado 4721.25</span><br style=3D"font-family: monosp=
+ace; font-size: 13px;"><span style=3D"font-family: monospace; font-size: 13=
+px;">Envio Incluido en el Pago (Si/No)_si______</span><br style=3D"font-fam=
+ily: monospace; font-size: 13px;"><span style=3D"font-family: monospace; fo=
+nt-size: 13px;">Banco en donde se deposit=F3__BANESCO</span></div><div styl=
+e=3D"color: rgb(0, 0, 0); font-size: 13px; font-family: monospace; backgrou=
+nd-color: transparent; font-style: normal;"><span style=3D"font-family: mon=
+ospace; font-size: 13px;">Tipo de Deposito __EFECTIVO</span><br style=3D"fo=
+nt-family: monospace; font-size: 13px;"><span style=3D"font-family: monospa=
+ce; font-size: 13px;">Nro de Referencia/Comprobante ____1313173948</span><b=
+r style=3D"font-family: monospace; font-size: 13px;"><br style=3D"font-fami=
+ly: monospace; font-size: 13px;"><span style=3D"font-family: monospace; fon=
+t-size:
+ 13px;">Datos para el Envio</span><br style=3D"font-family: monospace; font=
+-size: 13px;"><br style=3D"font-family: monospace; font-size: 13px;"><span =
+style=3D"font-family: monospace; font-size: 13px;">Direccion de Envio Envio=
+: &nbsp;GRUPO ZOOM_<span style=3D"color: rgb(52, 52, 52); font-family: Aria=
+l, Helvetica, sans-serif; font-size: 11px;">FINAL AV. TOSTA GARCIA, EDIF. B=
+OAL, LOCAL B-1, PB. SECTOR SUCUA.</span>&nbsp;</span></div><div style=3D"co=
+lor: rgb(52, 52, 52); font-size: 11px; font-family: Arial, Helvetica, sans-=
+serif; background-color: transparent; font-style: normal;"><br style=3D"fon=
+t-family: monospace; font-size: 13px;"><span style=3D"font-family: monospac=
+e; font-size: 13px;">Ciudad y Estado_MIRANDA</span><br style=3D"font-family=
+: monospace; font-size: 13px;"><span style=3D"font-family: monospace; font-=
+size: 13px;">Municipio CRISTOBAL ROJAS</span></div><div style=3D"color: rgb=
+(0, 0, 0); font-size: 13px; font-family: monospace; background-color: trans=
+parent;
+ font-style: normal;"><span style=3D"background-color: transparent;">Parroq=
+uia CHARALLAVE</span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13=
+px; font-family: monospace; background-color: transparent; font-style: norm=
+al;"><span style=3D"font-family: monospace; font-size: 13px;">Codigo Postal=
+ _2210_</span><br style=3D"font-family: monospace; font-size: 13px;"><span =
+style=3D"font-family: monospace; font-size: 13px;">Persona que Recibe __Yaj=
+aira Rivas___________</span><br style=3D"font-family: monospace; font-size:=
+ 13px;"><span style=3D"font-family: monospace; font-size: 13px;">Telefono d=
+e Contacto __04129559659.</span></div><div style=3D"color: rgb(0, 0, 0); fo=
+nt-size: 13px; font-family: monospace; background-color: transparent; font-=
+style: normal;"><span style=3D"font-family: monospace; font-size: 13px;"><b=
+r></span></div><div style=3D"color: rgb(0, 0, 0); font-size: 13px; font-fam=
+ily: monospace; background-color: transparent; font-style: normal;"><span
+ style=3D"font-family: monospace; font-size: 13px;">En CPK&nbsp; estamos pa=
+ra servirte. Cualquier duda no dejes de consultarnos por las canales antes =
+presentados.</span><br style=3D"font-family: monospace; font-size: 13px;"><=
+/div></div></body></html>
+---1093466778-360238504-1387311953=:83847--

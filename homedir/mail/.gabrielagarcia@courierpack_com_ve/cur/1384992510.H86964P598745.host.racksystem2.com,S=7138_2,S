@@ -1,0 +1,142 @@
+Return-path: <ymhr25@gmail.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Wed, 20 Nov 2013 19:38:30 -0430
+Received: from mail-oa0-f46.google.com ([209.85.219.46]:35875)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80.1)
+	(envelope-from <ymhr25@gmail.com>)
+	id 1VjHor-002Vl1-70
+	for gabrielagarcia@courierpack.com.ve; Wed, 20 Nov 2013 19:38:30 -0430
+Received: by mail-oa0-f46.google.com with SMTP id o6so4967311oag.19
+        for <gabrielagarcia@courierpack.com.ve>; Wed, 20 Nov 2013 16:08:27 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=URB3d5WMhkMJ+1IAKNGXM81It9AuCpjxUF+vBL2fDgY=;
+        b=CONTbPDdI3vPrlZD6Yp2Gt4ck2jtGB1pnGohynfKYAzOtyGvMIvFRwj8FO/vNsM+c0
+         6g7CNkr0qOaDmJdz+yWLUy8JCNsQOPaAIwUVEiomLJBK+Npe9D11jLGFN0zUO0dxDwzc
+         wxjPWypL9rxDuYX03sPPSlSfPvFNxYRj8TbgwE0ZdtnZ/B0aB9m7OMVyvq6Bq+RyRo3H
+         AZz4LontPLkxMqT19A7/PkpymLcNNOkBdmlVjDwJZOHmJSFvjmLWafszH8PDmFVsDZ2u
+         62diDUu6Qa740SkGjGdLzePwSQ495LjzIBkHVByx71wLqUWJFa0JdiSjWQtgoYp4ovr8
+         60ow==
+MIME-Version: 1.0
+X-Received: by 10.182.221.230 with SMTP id qh6mr2805000obc.7.1384992506935;
+ Wed, 20 Nov 2013 16:08:26 -0800 (PST)
+Received: by 10.60.3.170 with HTTP; Wed, 20 Nov 2013 16:08:26 -0800 (PST)
+Received: by 10.60.3.170 with HTTP; Wed, 20 Nov 2013 16:08:26 -0800 (PST)
+In-Reply-To: <1411952117-1384992396-cardhu_decombobulator_blackberry.rim.net-2079967228-@b2.c4.bise6.blackberry>
+References: <CAG8hTmPHd0L5AUyM9swZr6cW345c-i_2vV9WT1-Ytt79iqKwew@mail.gmail.com>
+	<1411952117-1384992396-cardhu_decombobulator_blackberry.rim.net-2079967228-@b2.c4.bise6.blackberry>
+Date: Wed, 20 Nov 2013 22:08:26 -0200
+Message-ID: <CAG8hTmP_aLXkskwgie6F7O=XTAPp8YoS4fnLqbKaHG8wcm1YKg@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?Re=3A_Informaci=F3n?=
+From: Yuderkys Heredia <ymhr25@gmail.com>
+To: gabrielagarcia@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=001a11c2fcb8647e2704eba4b231
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Ok, gracias Si me decido, les aviso El 20/11/2013 19:36, escribió:
+    > Hola buenas tardes, si decides comprarla tienes chance hasta esta semana
+    > porque en miami trabajaremos hasta la ultima semana de noviembre. El costo
+    > no podria decirte ya que depende el costo del envío, dimensiones del >
+   vendedor y del seguro internacional. Gracias de antemano. > Enviado desde
+   mi BlackBerry de Movistar > > *From: * Yuderkys Heredia > *Date: *Wed, 20
+   Nov 2013 20:02:16 -0200 > *To: * > *Subject: *Información > > Buenas tardes
+    > Quería saber si ustedes están recibiendo aun mercancía en USA con destino
+    > a Venezuela. > Deseo comprar por amazon una Tablet y me gustaría saber
+   si me pueden dar > un estimado del costo del flete. > En espera de su comentario
+    > Saludos > Yuderkys > [...] 
+ 
+ Content analysis details:   (0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (ymhr25[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (ymhr25[at]gmail.com)
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: courierpack.com.ve]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+X-Spam-Flag: NO
+
+--001a11c2fcb8647e2704eba4b231
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Ok, gracias
+Si me decido, les aviso
+El 20/11/2013 19:36, <gabrielagarcia@courierpack.com.ve> escribi=F3:
+
+> Hola buenas tardes, si decides comprarla tienes chance hasta esta semana
+> porque en miami trabajaremos hasta la ultima semana de noviembre. El cost=
+o
+> no podria decirte ya que depende el costo del env=EDo, dimensiones del
+> vendedor y del seguro internacional. Gracias de antemano.
+> Enviado desde mi BlackBerry de Movistar
+> ------------------------------
+> *From: * Yuderkys Heredia <ymhr25@gmail.com>
+> *Date: *Wed, 20 Nov 2013 20:02:16 -0200
+> *To: *<gabrielagarcia@courierpack.com.ve>
+> *Subject: *Informaci=F3n
+>
+> Buenas tardes
+> Quer=EDa saber si ustedes est=E1n recibiendo aun mercanc=EDa en USA con d=
+estino
+> a Venezuela.
+> Deseo comprar por amazon una Tablet y me gustar=EDa saber si me pueden da=
+r
+> un estimado del costo del flete.
+> En espera de su comentario
+> Saludos
+> Yuderkys
+>
+
+--001a11c2fcb8647e2704eba4b231
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">Ok, gracias<br>
+Si me decido, les aviso</p>
+<div class=3D"gmail_quote">El 20/11/2013 19:36,  &lt;<a href=3D"mailto:gabr=
+ielagarcia@courierpack.com.ve">gabrielagarcia@courierpack.com.ve</a>&gt; es=
+cribi=F3:<br type=3D"attribution"><blockquote class=3D"gmail_quote" style=
+=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+<u></u><div>Hola buenas tardes, si decides comprarla tienes chance hasta es=
+ta semana porque en miami trabajaremos hasta la ultima semana de noviembre.=
+ El costo no podria decirte ya que depende el costo del env=EDo, dimensione=
+s del vendedor y del seguro internacional. Gracias de antemano. <div>
+Enviado desde mi BlackBerry de Movistar</div><hr><div><b>From: </b> Yuderky=
+s Heredia &lt;<a href=3D"mailto:ymhr25@gmail.com" target=3D"_blank">ymhr25@=
+gmail.com</a>&gt;
+</div><div><b>Date: </b>Wed, 20 Nov 2013 20:02:16 -0200</div><div><b>To: </=
+b>&lt;<a href=3D"mailto:gabrielagarcia@courierpack.com.ve" target=3D"_blank=
+">gabrielagarcia@courierpack.com.ve</a>&gt;</div><div><b>Subject: </b>Infor=
+maci=F3n</div>
+<div><br></div><div dir=3D"ltr">Buenas tardes<div>Quer=EDa saber si ustedes=
+ est=E1n recibiendo aun mercanc=EDa en USA con destino a Venezuela.</div><d=
+iv>Deseo comprar por amazon una Tablet y me gustar=EDa saber si me pueden d=
+ar un estimado del costo del flete.</div>
+
+<div>En espera de su comentario</div><div>Saludos</div><div>Yuderkys=A0</di=
+v></div>
+
+</div></blockquote></div>
+
+--001a11c2fcb8647e2704eba4b231--

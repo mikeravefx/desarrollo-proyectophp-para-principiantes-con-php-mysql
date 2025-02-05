@@ -1,0 +1,51 @@
+Return-path: <aduanair@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Mon, 02 Jul 2012 11:50:44 -0430
+Received: from mail-bk0-f52.google.com ([209.85.214.52]:60840)
+	by host.caracasftp.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.77)
+	(envelope-from <aduanair@gmail.com>)
+	id 1SljMi-0000S7-Mm
+	for info@courierpack.com.ve; Mon, 02 Jul 2012 11:50:44 -0430
+Received: by bkcjf3 with SMTP id jf3so1062256bkc.39
+        for <info@courierpack.com.ve>; Mon, 02 Jul 2012 09:20:43 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=lvYqMvuYG2h8JNUm3DZ/JzTv0oN0FN7LX+OQehzZRaI=;
+        b=OtD+5aTwF3dmXcZ2nkO2r6ES8Kg/Lt0DoctXrXNZ/jG3dmbhLPQcHzKpvsHS7DvRlH
+         jxsUbZzG2FBjyv37kKxEbEwM/Ulikf2ZnBgZJjPnqFq2zA0VQk0UJBnWuia8hWU6mPN4
+         b2dI8EV1mEcZB/z/xEcYWNxbKNzjL3OWdQCrDXOPrncxS5Gul7LMsf1krLFy4Vs3wW7q
+         GLvFiWQt8OL2Hr/hxvT8kXwV9lNlv5HI62siyHxI8OHQIPjIS3qYteLjX0rtuD/uH3OS
+         DvVXNMzo3kkUrLCLGh2ZVOWoR6DWKnjcAIJaPX0B2o6RUD+31dbAmufam0zHIvh2+1VI
+         p4EA==
+MIME-Version: 1.0
+Received: by 10.152.125.236 with SMTP id mt12mr13550045lab.12.1341246043391;
+ Mon, 02 Jul 2012 09:20:43 -0700 (PDT)
+Received: by 10.112.75.129 with HTTP; Mon, 2 Jul 2012 09:20:43 -0700 (PDT)
+Date: Mon, 2 Jul 2012 12:20:43 -0400
+Message-ID: <CAM9q1kyuwvJKSkNET7WeD4G7iXSugjCTL2-X57ziyKKE3QtHtg@mail.gmail.com>
+Subject: relacion aereo 06/29/2012
+From: ADUANAIR <aduanair@gmail.com>
+To: info@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=f46d04426e90f904cf04c3db2d75
+
+--f46d04426e90f904cf04c3db2d75
+Content-Type: text/plain; charset=ISO-8859-1
+
+RELACION AEREO 06/29/2012
+
+22338 FRANCISCO BARRIOS       44$
+22426 OMAIRA CASTELLANOS    20$
+22308 MIGUEL A PITA                  12$
+                                 TOTAL        76$
+
+--f46d04426e90f904cf04c3db2d75
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: base64
+
+UkVMQUNJT04gQUVSRU8gMDYvMjkvMjAxMjxicj48YnI+MjIzMzggRlJBTkNJU0NPIEJBUlJJT1Og
+oKCgIKAgNDQkPGJyPjIyNDI2IE9NQUlSQSBDQVNURUxMQU5PU6AgoCAyMCQ8YnI+MjIzMDggTUlH
+VUVMIEEgUElUQaCgoKCgoKCgoKCgoKCgoKCgIDEyJDxicj6goKCgoKCgoKCgoKCgoKCgoKCgoKCg
+oKCgoKCgoKCgoCBUT1RBTKCgoKCgoKAgNzYkPGJyPgo=
+--f46d04426e90f904cf04c3db2d75--

@@ -1,0 +1,122 @@
+Return-path: <mati_karizavar27@yahoo.es>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Mon, 19 May 2014 23:43:28 -0430
+Received: from nm31-vm4.bullet.mail.ir2.yahoo.com ([212.82.97.91]:47126)
+	by host.racksystem2.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <mati_karizavar27@yahoo.es>)
+	id 1WmbQc-002PCU-EA
+	for info@courierpack.com.ve; Mon, 19 May 2014 23:43:28 -0430
+Received: from [212.82.98.48] by nm31.bullet.mail.ir2.yahoo.com with NNFMP; 20 May 2014 04:13:25 -0000
+Received: from [46.228.39.91] by tm1.bullet.mail.ir2.yahoo.com with NNFMP; 20 May 2014 04:13:25 -0000
+Received: from [127.0.0.1] by smtp128.mail.ir2.yahoo.com with NNFMP; 20 May 2014 04:13:25 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1400559205; bh=vSYxdc4T+5oIM3oQjZMoC+CZq/yLnv8do3PbqECVBNg=; h=X-Yahoo-Newman-Id:X-Yahoo-Newman-Property:X-YMail-OSG:X-Yahoo-SMTP:X-Rocket-Received:Content-Type:MIME-Version:Content-Transfer-Encoding:X-Mailer:Message-ID:Date:Subject:From:In-Reply-To:References:To; b=IxG8bDveBq+3Z+KQOhOeDhdxDq0AQ3JYbRn+Cy8JdKZJWZt9COvEm7FrnWK4ZZgShBHoluAi7VLiSAcf7Hx6OPCDfT4QhOzJ052R0bRsE/JZMHZSzjs1QiRJGrgilQz2/4DUW3vc9/YXg0VSUOqNT7bC0s/HJvemulJBWEY0YxU=
+X-Yahoo-Newman-Id: 195543.89713.bm@smtp128.mail.ir2.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: D1WHYd8VM1nJyt2.MnE1MqPuNcpo_bgc36qR1403oyffYqr
+ XPItZrR5Z99SFAbEMA.iAJzSuh22MPfL0zK0OCrzI4Z29ah_c6q4NEFgFxKB
+ H8lAAkIlsS.1M4eqGAWC6OGNb8NEj2NGPwmLnLo.TkPciQXhWbHcjVfWUcny
+ u.9NWv_WA5GjZAar8cXA7Uyfof5yjcSEKwof68M.P4NLORokHBnEa3c8MBd_
+ 04bSprfGKSqt8CIb1T9HYURUVJP0MFU_3jy7OEBPlfgQzAD_hercaIoQ1tjj
+ H_62RDLM051ad7A854xM9gbZ9XvFom68e1hZ.9ix2IveSMsn7xVibyVh.5YX
+ b7gVrMMx.iMrwSfRycnLHAb238rm1VfL.TfL1rZM9vXXRpDLyldWo.uNJAYp
+ 8oOoQdlQ._W6DOYY_AimMN64evTS1FlFAAqBq815X0LbVXMXmTeHrMBGP4gV
+ dQptRdn4EK8p4J3P4Gru3i7faO.82rP1VWbW_QhpayWy7B14Z_rMDve6Xpcm
+ TVGv4VlJ2lXR2oFKwzLQemxqvKltXJI2H85zb8aI-
+X-Yahoo-SMTP: UyyeOhWswBCCMFnp_OT6qq5JQAGC932GjBxMviI-
+X-Rocket-Received: from [127.0.0.1] (mati_karizavar27@186.164.163.152 with xymcookie [216.39.61.254])
+        by smtp128.mail.ir2.yahoo.com with SMTP; 20 May 2014 04:13:25 +0000 UTC
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: BlackBerry Email (10.2.1.2174)
+Message-ID: <20140520041321.5890194.82327.647@yahoo.es>
+Date: Mon, 19 May 2014 23:43:21 -0430
+Subject: Re: Requisicion del Email desde el Web Site
+From: mati_karizavar27@yahoo.es
+In-Reply-To: <1214203085-1400551986-cardhu_decombobulator_blackberry.rim.net-959634927-@b3.c4.bise6.blackberry>
+References: 
+ <1214203085-1400551986-cardhu_decombobulator_blackberry.rim.net-959634927-@b3.c4.bise6.blackberry>
+To: info@courierpack.com.ve
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Ok, perfecto y donde están sus oficinas, para llegar hasta
+    allá a retirarla. Enviado desde mi smartphone BlackBerry 10. Mensaje original
+    De: CourierPack Enviado: lunes, 19 de mayo de 2014 21:43 Para: mati_karizavar27@yahoo.es
+    Responder a: Re: Requisicion del Email desde el Web Site [...] 
+ 
+ Content analysis details:   (0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (mati_karizavar27[at]yahoo.es)
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (mati_karizavar27[at]yahoo.es)
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+Ok, perfecto y donde est=E1n sus oficinas, para llegar hasta all=E1 a retir=
+arla.=A0
+
+
+Enviado desde mi smartphone BlackBerry 10.
+=A0 Mensaje original =A0
+De: CourierPack
+Enviado: lunes, 19 de mayo de 2014 21:43
+Para: mati_karizavar27@yahoo.es
+Responder a: info@courierpack.com.ve
+Asunto: Re: Requisicion del Email desde el Web Site
+
+Sra Matioska nos indica porfavor el nombre de su cu=F1ado por que si es el =
+Sr Marco Mogollon a ese Sr se le hizo la entrega TOTAL de sus articulos. Ma=
+s aun siendo consolidada sin cobrarle ni un centavo y yendo mas aun haciend=
+ole un reempaque de sus articulos economizandole su envio nacional.. Asi qu=
+e si es ese disculpenos pero esta muy equivocada. Por otro lado, no se le h=
+a hecho el envio de la misma, xq es algo muy pequeno la cual zoom no nos qu=
+iere asegurar y nos exijen seguro de mercancia.
+Por MRW no trabajamos. Si puede lleguese a nuestra oficina y le hacemos ent=
+rega de la misma con mucho gusto..=20
+Sin mas nada que agregar me despido
+Nolarex Velazquez.=20
+
+------Mensaje original------
+De: mati_karizavar27@yahoo.es
+Para: info@courierpack.com.ve
+Responder a: mati_karizavar27@yahoo.es
+Asunto: Requisicion del Email desde el Web Site
+Enviado: 19 de may de 2014 11:44 AM
+
+Matiosca Izaguirre Escribio :
+Hola, la presente es para saber que ocurrio con un a tarjeta micro sd adqui=
+rida en el mes de noviembre junto con otras cosas, las otras cosas llegaron=
+ y la tarjeta no y me canso de llamar al Sr. Miguel Pita por la tarjeta y s=
+olo una vez me pude comunicar con el, donde me informaba que la tenia en su=
+ oficina y que me la iba a enviar, pero hasta la fecha nada, me molesta y m=
+e extra?a eso de parte de uds, ya que en una oportunidad se me extraviaron =
+unas cosas y me respondieron, por lo que los recomende con un cu?ado, al cu=
+al le quedaron mal,ya que no todas sus cosas llegaron, a mi me da verguenza=
+ con el porque yo fui la que los recomendo como responsables y han quedado =
+mal. Sin m?s que a?adir, quedo de uds.
+
+Atentamente=20
+
+Matiosca Izaguirre=20
+
+Mensaje Enviado el Dia: 19-05-14
+
+Atencion al Cliente
+
+Courier Pack=20
+5900 NW 99th Ave Unit # 6
+Doral, FL 33178

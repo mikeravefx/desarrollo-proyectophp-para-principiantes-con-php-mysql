@@ -1,0 +1,895 @@
+Return-path: <bounce-md_30022254.52c5d470.v1-9850ad2c4bee4dc897043b9845db17d5@mandrillapp.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Thu, 02 Jan 2014 16:34:51 -0430
+Received: from mail221.wdc04.mandrillapp.com ([205.201.131.221]:41872)
+	by host.racksystem2.com with esmtp (Exim 4.80.1)
+	(envelope-from <bounce-md_30022254.52c5d470.v1-9850ad2c4bee4dc897043b9845db17d5@mandrillapp.com>)
+	id 1VypRh-004D9E-JM
+	for info@courierpack.com.ve; Thu, 02 Jan 2014 16:34:51 -0430
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=statigr.am;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type; i=no-reply@statigr.am;
+ bh=CSkAC5xColY6nFweAPaogCz5tkA=;
+ b=dDgxMYAghn8P3VuOsi49dfcr1hVyqCc1ggkDumtE+uv5qAwQg1xFTwJF/XC9sxR6VLpRi5xbFbvY
+   6BgJBczW+5P5j9akevXSrt4XrY/iEw5lOfcGdekyaLwE88q9jeSol0GNPPpwHy653j0TEq0qzo5o
+   JAcpqHh8M4ipMnJ/vi4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=statigr.am;
+ b=i41FOSVLTwQX7iufMjCBDaDavK+DiKc2psMSS8ehsnFIEEpOHQtHHij4GoHlstv31kjhPtvgAjkN
+   zn0dMDrGbi47sNnFONRytkre0mHzz/hQLQUNAMfIFTabMe97Ifh2EnJR8L9uBNwq2U2j/paDTNlg
+   6s58AWJ+AQXLuJpJ2X0=;
+Received: from localhost (127.0.0.1) by mail221.wdc04.mandrillapp.com id hona721jvjgv for <info@courierpack.com.ve>; Thu, 2 Jan 2014 21:04:48 +0000 (envelope-from <bounce-md_30022254.52c5d470.v1-9850ad2c4bee4dc897043b9845db17d5@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1388696688; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : From : 
+ Subject : Date : X-Mandrill-User : List-Unsubscribe; 
+ bh=EMyZVV8AqVEyLwYYohxepUa6ad1LvqQiOnGq+A6uC1A=; 
+ b=UDNMdVOSOqpiOTFAbXMkL922FAnsvFVWK9rR51tK6A8EYoMEJryxBdvqnHQys1ZA8hK2TV
+ k6+pmd7ls4jr26slwqctR6xR8aDVlboLNDzs1CbqpDsg+eaMTqw1NOzp7MkC9rQGZ0cnv08I
+ pPIv7FRowBt3DYSU2HZVVhaym0riY=
+From: Statigram <no-reply@statigr.am>
+Subject: Review your top 5 moments of 2013 on an Instagram video
+To: <info@courierpack.com.ve>
+Received: from [77.87.110.41] by mandrillapp.com id 9850ad2c4bee4dc897043b9845db17d5; Thu, 02 Jan 2014 21:04:48 +0000
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30022254.9850ad2c4bee4dc897043b9845db17d5
+X-Mandrill-User: md_30022254
+Message-Id: <30022254.20140102210448.52c5d4700c71b2.73358865@mail221.wdc04.mandrillapp.com>
+Date: Thu, 02 Jan 2014 21:04:48 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-9MNtk-sHBGXpSXwrzd8soQ"
+X-Spam-Status: No, score=1.1
+X-Spam-Score: 11
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Review your top 5 moments of 2013 on an Instagram video View
+    in browser <http://statigr.am/newsletters/memories.php>. <http://statigr.am/viewer.php?action=saisieMailMemoVideoFromMail>
+    Connect with us <http://blog.statigr.am> <http://twitter.com/statigram> <http://facebook.com/statigram>
+    <http://statigr.am/statigram> [...] 
+ 
+ Content analysis details:   (1.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.1 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: statigr.am]
+  1.3 URI_HEX                URI: URI hostname has long hexadecimal sequence
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+X-Spam-Flag: NO
+
+--_av-9MNtk-sHBGXpSXwrzd8soQ
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+       Review your top 5 moments of 2013 on an Instagram video             
+    View in browser <http://statigr.am/newsletters/memories.php>.
+<http://statigr.am/viewer.php?action=3DsaisieMailMemoVideoFromMail> 
+            
+            Connect with us <http://blog.statigr.am>
+<http://twitter.com/statigram> <http://facebook.com/statigram>
+<http://statigr.am/statigram> 
+
+  5 rue des ar=C3=A8nes, 87000, Limoges, France.
+ =C2=A9 2013 Statigram - All rights reserved 
+
+    
+
+  Have a question? Visit our Support center <http://statigram.desk.com>.
+ You can unsubscribe
+<http://statigr.am/newsletterUnsub.php?id=3D572691319&k=3D4a6629e98e40fc20e=
+d9eb7544b5e6bc342e86b32>.
+
+--_av-9MNtk-sHBGXpSXwrzd8soQ
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html style=3D"background:#F5F5F5;">
+    <head>
+        <!-- This is a simple example template that you can edit to create =
+your own custom templates -->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8">
+        <!-- Facebook sharing information tags -->
+        <meta property=3D"og:title" content=3D"Review your top 5 moments of=
+ 2013 on an Instagram video">
+
+        <title>Review your top 5 moments of 2013 on an Instagram video</tit=
+le>
+=09=09<style type=3D"text/css">
+=09=09/* NOTE: CSS should be inlined to avoid having it stripped in certain=
+ email clients like GMail.
+        MailChimp automatically inlines CSS for you or you can use this too=
+l: http://beaker.mailchimp.com/inline-css. */
+
+=09=09=09/* Client-specific Styles */
+=09=09=09#outlook a{padding:0;} /* Force Outlook to provide a "view in brow=
+ser" button. */
+                        body{width:100% !important; -webkit-text-size-adjus=
+t:100%; -ms-text-size-adjust:100%; margin:0; padding:0;font-family: Helveti=
+ca,arial;}
+
+=09=09=09/* Reset Styles */
+=09=09=09img{border:none; font-size:13px; font-weight:bold; height:auto; li=
+ne-height:100%; outline:none; text-decoration:none; text-transform:capitali=
+ze;}
+=09=09=09#backgroundTable{height:100% !important; margin:0; padding:0; widt=
+h:100% !important;}
+
+=09=09=09/* Template Styles */
+
+=09=09=09/* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: COMMON PAGE ELEMENTS /\/=
+\/\/\/\/\/\/\/\/\ */
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section background color
+=09=09=09* @tip Set the background color for your email. You may want to ch=
+oose one that matches your company's branding.
+=09=09=09* @theme page
+=09=09=09*/
+                        html {
+                            background:#F5F5F5;
+                        }
+
+=09=09=09body, .backgroundTable{
+=09=09=09=09background-color:#F5F5F5;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section email border
+=09=09=09* @tip Set the border for your email.
+=09=09=09*/
+=09=09=09#templateContainer{
+=09=09=09=09border: 0px solid #FFF;
+                                -moz-border-radius: 4px;
+                                -webkit-border-radius: 4px;
+                                border-radius: 4px;
+=09=09=09}
+
+                        #headBackground {
+                            -moz-border-radius: 4px 4px 0 0;
+                            -webkit-border-radius: 4px 4px 0 0;
+                            border-radius: 4px 4px 0 0;
+                        }
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section heading 1
+=09=09=09* @tip Set the styling for all first-level headings in your emails=
+. These should be the largest of your headings.
+=09=09=09* @theme heading1
+=09=09=09*/
+=09=09=09h1, .h1{
+=09=09=09=09color:#585858;
+=09=09=09=09display:block;
+=09=09=09=09font-family:Helvetica;
+=09=09=09=09font-size:34px;
+=09=09=09=09font-weight:bold;
+=09=09=09=09line-height:100%;
+=09=09=09=09margin-bottom:10px;
+=09=09=09=09text-align:left;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section heading 2
+=09=09=09* @tip Set the styling for all second-level headings in your email=
+s.
+=09=09=09* @theme heading2
+=09=09=09*/
+=09=09=09h2, .h2{
+=09=09=09=09color:#585858;
+=09=09=09=09display:block;
+=09=09=09=09font-family:Helvetica;
+=09=09=09=09font-size:30px;
+=09=09=09=09font-weight:bold;
+=09=09=09=09line-height:100%;
+=09=09=09=09margin-bottom:10px;
+=09=09=09=09text-align:left;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section heading 3
+=09=09=09* @tip Set the styling for all third-level headings in your emails=
+.
+=09=09=09* @theme heading3
+=09=09=09*/
+=09=09=09h3, .h3{
+=09=09=09=09color:#585858;
+=09=09=09=09display:block;
+=09=09=09=09font-family:Helvetica;
+=09=09=09=09font-size:26px;
+=09=09=09=09font-weight:bold;
+=09=09=09=09line-height:100%;
+=09=09=09=09margin-bottom:10px;
+=09=09=09=09text-align:left;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section heading 4
+=09=09=09* @tip Set the styling for all fourth-level headings in your email=
+s. These should be the smallest of your headings.
+=09=09=09* @theme heading4
+=09=09=09*/
+=09=09=09h4, .h4{
+=09=09=09=09color:#585858;
+=09=09=09=09display:block;
+=09=09=09=09font-family:Helvetica;
+=09=09=09=09font-size:18px;
+=09=09=09=09font-weight:bold;
+=09=09=09=09line-height:1;
+                                margin-top:0;
+=09=09=09=09margin-bottom:10px;
+=09=09=09=09text-align:left;
+=09=09=09}
+
+=09=09=09/* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: PREHEADER /\/\/\/\/\/\/\=
+/\/\/\ */
+
+                        .preheaderContent {
+                            padding: 0;
+                        }
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section preheader text
+=09=09=09* @tip Set the styling for your email's preheader text. Choose a s=
+ize and color that is easy to read.
+=09=09=09*/
+=09=09=09.preheaderContent div{
+=09=09=09=09color:#FFF;
+=09=09=09=09font-family:Helvetica;
+=09=09=09=09font-size:13px;
+=09=09=09=09line-height:100%;
+=09=09=09=09text-align:right;
+=09=09=09}
+
+                        .browser_links {
+                            padding-right:0;
+                        }
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section preheader link
+=09=09=09* @tip Set the styling for your email's preheader links. Choose a =
+color that helps them stand out from your text.
+=09=09=09*/
+=09=09=09.preheaderContent div a:link, .preheaderContent div a:visited{
+=09=09=09=09color:#585858;
+=09=09=09=09font-weight:normal;
+=09=09=09=09text-decoration:underline;
+=09=09=09}
+
+=09=09=09.preheaderContent div img{
+=09=09=09=09height:auto;
+=09=09=09=09max-width:600px;
+=09=09=09}
+
+=09=09=09/* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: HEADER /\/\/\/\/\/\/\/\/=
+\/\ */
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section header style
+=09=09=09* @tip Set the background color and border for your email's header=
+ area.
+=09=09=09* @theme header
+=09=09=09*/
+=09=09=09#templateHeader{
+=09=09=09=09background-color:#FFFFFF;
+=09=09=09=09border-bottom:0;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section header text
+=09=09=09* @tip Set the styling for your email's header text. Choose a size=
+ and color that is easy to read.
+=09=09=09*/
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section header text
+=09=09=09* @tip Set the styling for your email's header text. Choose a size=
+ and color that is easy to read.
+=09=09=09*/
+=09=09=09.headerContent{
+=09=09=09=09color:#585858;
+=09=09=09=09font-family:Helvetica;
+=09=09=09=09font-size:34px;
+=09=09=09=09font-weight:bold;
+=09=09=09=09line-height:100%;
+=09=09=09=09padding:0;
+=09=09=09=09text-align:center;
+=09=09=09=09vertical-align:middle;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section header link
+=09=09=09* @tip Set the styling for your email's header links. Choose a col=
+or that helps them stand out from your text.
+=09=09=09*/
+=09=09=09.headerContent a:link, .headerContent a:visited{
+=09=09=09=09color:#336699;
+=09=09=09=09font-weight:normal;
+=09=09=09=09text-decoration:underline;
+=09=09=09}
+
+=09=09=09#headerImage{
+=09=09=09=09height:auto;
+=09=09=09=09max-width:600px !important;
+=09=09=09}
+
+=09=09=09/* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: MAIN BODY /\/\/\/\/\/\/\=
+/\/\/\ */
+
+=09=09=09/**
+=09=09=09* @tab Body
+=09=09=09* @section body style
+=09=09=09* @tip Set the background color for your email's body area.
+=09=09=09*/
+=09=09=09#templateContainer, .bodyContent{
+=09=09=09=09background-color:#FFF;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Body
+=09=09=09* @section body text
+=09=09=09* @tip Set the styling for your email's main content text. Choose =
+a size and color that is easy to read.
+=09=09=09* @theme main
+=09=09=09*/
+=09=09=09.bodyContent div{
+=09=09=09=09color:#585858;
+=09=09=09=09font-family:Helvetica;
+=09=09=09=09font-size:14px;
+=09=09=09=09line-height:150%;
+=09=09=09=09text-align:left;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Body
+=09=09=09* @section body link
+=09=09=09* @tip Set the styling for your email's main content links. Choose=
+ a color that helps them stand out from your text.
+=09=09=09*/
+=09=09=09.bodyContent div a:link, .bodyContent div a:visited{
+=09=09=09=09color:#3b96d4;
+=09=09=09=09font-weight:normal;
+=09=09=09=09text-decoration:none;
+=09=09=09}
+
+=09=09=09.bodyContent img{
+=09=09=09=09display:inline;
+=09=09=09}
+
+=09=09=09/* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: FOOTER /\/\/\/\/\/\/\/\/=
+\/\ */
+
+=09=09=09/**
+=09=09=09* @tab Footer
+=09=09=09* @section footer style
+=09=09=09* @tip Set the background color and top border for your email's fo=
+oter area.
+=09=09=09* @theme footer
+=09=09=09*/
+=09=09=09#templateFooter{
+=09=09=09=09border-top:0;
+=09=09=09}
+
+                        .footerContent {
+                            padding-top: 0;
+                        }
+
+=09=09=09/**
+=09=09=09* @tab Footer
+=09=09=09* @section footer text
+=09=09=09* @tip Set the styling for your email's footer text. Choose a size=
+ and color that is easy to read.
+=09=09=09* @theme footer
+=09=09=09*/
+=09=09=09.footerContent div{
+=09=09=09=09font-family:Helvetica;
+=09=09=09=09font-size:13px;
+=09=09=09=09line-height:125%;
+=09=09=09=09text-align:left;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Footer
+=09=09=09* @section footer link
+=09=09=09* @tip Set the styling for your email's footer links. Choose a col=
+or that helps them stand out from your text.
+=09=09=09*/
+=09=09=09.footerContent div a:link, .footerContent div a:visited{
+=09=09=09=09color:#585858;
+=09=09=09=09font-weight:normal;
+=09=09=09=09text-decoration:underline;
+=09=09=09}
+
+=09=09=09.footerContent img{
+=09=09=09=09display:inline;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Footer
+=09=09=09* @section utility bar style
+=09=09=09* @tip Set the background color and border for your email's footer=
+ utility bar.
+=09=09=09*/
+=09=09=09#utility{
+=09=09=09=09background-color:#FDFDFD;
+=09=09=09=09border-top:1px solid #F5F5F5;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Footer
+=09=09=09* @section utility bar style
+=09=09=09* @tip Set the background color and border for your email's footer=
+ utility bar.
+=09=09=09*/
+=09=09=09#utility div{
+=09=09=09=09text-align:center;
+=09=09=09}
+
+=09=09=09#monkeyRewards img{
+=09=09=09=09max-width:160px;
+=09=09=09}
+
+                        .unConcours {
+                            background-color:#FFF;
+                            border: 1px solid #ccc;
+                            /*@editable*/font-size: 13px;
+                            margin-bottom: 10px;
+                            margin-top: 10px;
+                            color:#585858;
+                        }
+
+                        .imageC {
+                            width: 250px;
+                        }
+
+                        #subtext {
+                            padding-left: 0;
+                        }
+
+                        #subtext {
+                            color:#585858;
+                        }
+
+                        #subtext a {
+                            color:#585858;
+                        }
+
+                        .contest-box {
+                            font-family:Helvetica;
+                        }
+
+                        #templateBody {
+                            margin-top: 0;
+                            margin-bottom: 0px;
+                        }
+
+                        .contest-box h4 {
+                            margin-top: 0;
+                            font-style: italic;
+                            color:#999999;
+                            font-size: 13px;
+                            font-weight: normal;
+                        }
+
+                        .contest-box h4 b {
+                            font-weight: bold;
+                        }
+
+                        .concours_texte {
+                            line-height: 1.4;
+                            margin-top: 0;
+                            height: 120px;
+                        }
+
+                        div.participate-box {
+                            background-color:#F5F5F5;
+                            color:#F2F2F2;
+                            padding: 2px 8px;
+                            height: 19px;
+                        }
+
+                        .clear {
+                            clear: both;
+                        }
+
+                        .concours_date {
+                            font-weight: bold;
+                            color:#5EBF78;
+                        }
+
+                        .concours_participate {
+                            float: right;
+                            color:#F2F2F2;
+                            font-weight: bold;
+                        }
+
+                        .bodyContent span.concours_participate a {
+                            text-decoration: none;
+                            color:#F2F2F2;
+                            font-weight: bold;
+                        }
+
+                        .logo {
+                            height: 30px;
+                            margin-top: 15px;
+                        }
+
+                        .picto {
+                            position: relative;
+                            top: 3px;
+                            margin-right: 3px;
+                        }
+
+                        .footerContent2 {
+                                color: #585858;
+                                font-family:Helvetica;
+                                font-size:13px;
+                                line-height:140%;
+                                text-align:left;
+                        }
+
+                        .footerContent2 a {
+                            color: #585858;
+                        }
+
+                        .first {
+                            margin-top: 0;
+                        }
+
+                        .nobottom {
+                            margin-bottom: 0;
+                        }
+
+                        .nomarge {
+                            margin: 0;
+                        }
+
+                        .notop {
+                            margin-top: 0;
+                        }
+
+                        #headBackground {
+                            background: #202629;
+                        }
+
+                        .logoHead {
+                            text-align: center;
+                        }
+
+                        .avatar-dm img {
+                            width: 40px;
+                            -webkit-border-radius: 4px;
+                            -moz-border-radius: 4px;
+                            border-radius: 4px;
+                            float: left;
+                            margin-right: 20px;
+                        }
+
+                        .text-dm {
+                            margin-bottom: 40px;
+                        }
+
+                        .bodyContent div a.lienDM {
+                            text-decoration: none;
+                            color: #FFF;
+                            text-transform: uppercase;
+                            padding: 10px 15px 10px 15px;
+                            background-color: #3b96d4;
+                            border-radius: 3px;
+                            -moz-border-radius: 3px;
+                            -webkit-border-radius: 3px;
+                            font-weight: bold;
+                            font-size: 13px;
+                        }
+
+                        .left {
+                            float: left;
+                        }
+
+                        .right {
+                            float: right;
+                        }
+
+                        .tright, .bodyContent div.tright {
+                            text-align: right;
+                        }
+
+                        .clear {
+                            clear: both;
+                        }
+
+                        .picto {
+                            text-decoration: none;
+                            margin-left: 5px;
+                        }
+
+                        hr {
+                            height: 0px;
+                            width: 100%;
+                            border: none;
+                            border-top: 2px solid #F5F5F5;
+                            margin-top: 30px;
+                            display: block;
+                        }
+
+                        .bodyContent div  .post h1 {
+                            font-size: 25px;
+
+                        }
+
+                        .bodyContent div .post h1 a {
+                            color: #585858;
+                            font-weight: bold;
+                        }
+
+                        .post img {
+                            margin: 20px 0;
+                            max-width: 560px;
+                        }
+
+                        .bodyContent div a.checkItOut {
+                            text-decoration: none;
+                            color: #FFF;
+                            text-transform: uppercase;
+                            text-align: center;
+                            padding: 10px 15px 10px 15px;
+                            background-color: #3b96d4;
+                            border-radius: 3px;
+                            -moz-border-radius: 3px;
+                            -webkit-border-radius: 3px;
+                            font-weight: bold;
+                            font-size: 13px;
+                            display: block;
+                            margin: 20px auto;
+                            width: 94px;
+                        }
+
+                        .fullwidth {
+                            width: 100%;
+                        }
+
+                        .round {
+                            border-radius: 0 0 4px 4px;
+                        }
+
+                        
+=09=09</style>
+=09</head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"width:100% ;-webkit-text-size-adjust:100%;-ms-=
+text-size-adjust:100%;margin:0;padding:0;font-family:Helvetica,arial;backgr=
+ound-color:#F5F5F5;">
+    =09<center>
+        =09<table border=3D"0" cellpadding=3D"10" cellspacing=3D"10" height=
+=3D"100%" width=3D"100%" id=3D"backgroundTable" bgcolor=3D"#F5F5F5" style=
+=3D"height:100% ;margin:0;padding:0;width:100% ;">
+            =09<tr>
+                =09<td align=3D"center" valign=3D"top">
+                        <!-- // Begin Template Preheader \\ -->
+                        <table border=3D"0" cellpadding=3D"10" cellspacing=
+=3D"0" width=3D"600" id=3D"templatePreheader">
+                            <tr>
+                                <td valign=3D"top" class=3D"preheaderConten=
+t" style=3D"padding:0;">
+
+                                =09<!-- // Begin Module: Standard Preheader=
+ \\ -->
+                                    <table border=3D"0" cellpadding=3D"10" =
+cellspacing=3D"0" width=3D"100%">
+                                    =09<tr>
+                                            <td valign=3D"top" width=3D"180=
+" class=3D"browser_links" style=3D"padding-right:0;">
+                                                <!--  -->
+                                            =09<div class=3D"hide" style=3D=
+"color:#FFF;font-family:Helvetica;font-size:13px;line-height:100%;text-alig=
+n:right;">
+                                                    <a href=3D"http://mandr=
+illapp.com/track/click.php?u=3D30022254&id=3D9850ad2c4bee4dc897043b9845db17=
+d5&url=3Dhttp%3A%2F%2Fstatigr.am%2Fnewsletters%2Fmemories.php&url_id=3D8404=
+2601629e056cfd7f632b7d276a4b08c68b6e" target=3D"_blank" style=3D"color:#585=
+858;font-weight:normal;text-decoration:underline;">View in browser</a>.
+                                                </div>
+                                                <!--  -->
+                                            </td>
+                                        </tr>
+                                    </table>
+                                =09<!-- // End Module: Standard Preheader \=
+\ -->
+
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // End Template Preheader \\ -->
+                    =09<table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"600" id=3D"templateContainer" style=3D"border:0px solid #FFF;-=
+moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;backgroun=
+d-color:#FFF;">
+                                <tr>
+                                    <td align=3D"center" valign=3D"top">
+                                        <table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"10" width=3D"600" id=3D"headBackground" style=3D"-moz-bor=
+der-radius:4px 4px 0 0;-webkit-border-radius:4px 4px 0 0;border-radius:4px =
+4px 0 0;background:#202629;">
+                                            <tr>
+                                                <td valign=3D"top" class=3D=
+"logoHead" style=3D"text-align:center;">
+                                                        <img alt=3D"Statigr=
+am" src=3D"http://static.statigr.am/images/emails/logo-statigram.png" style=
+=3D"border:none;font-size:13px;font-weight:bold;height:auto;line-height:100=
+%;outline:none;text-decoration:none;text-transform:capitalize;">
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top">
+                                    <!-- // Begin Template Body \\ -->
+                                =09<table border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"600" id=3D"templateBody" style=3D"margin-top:0;mar=
+gin-bottom:0px;">
+                                    =09<tr>
+                                            <td valign=3D"top" class=3D"bod=
+yContent" style=3D"background-color:#FFF;">
+
+                                                <!-- // Begin Module: Stand=
+ard Content \\ -->
+                                                <table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                    <tr>
+                                                        <td valign=3D"top">
+                                                            <div mc:edit=3D=
+"std_content00" style=3D"color:#585858;font-family:Helvetica;font-size:14px=
+;line-height:150%;text-align:left;">
+                                                                <img src=3D=
+"http://static.statigr.am/images/newsletter/memories/top.jpg" style=3D"bord=
+er:none;font-size:13px;font-weight:bold;height:auto;line-height:100%;outlin=
+e:none;text-decoration:none;text-transform:capitalize;display:inline;">
+
+                                                                <a href=3D"=
+http://mandrillapp.com/track/click.php?u=3D30022254&id=3D9850ad2c4bee4dc897=
+043b9845db17d5&url=3Dhttp%3A%2F%2Fstatigr.am%2Fviewer.php%3Faction%3Dsaisie=
+MailMemoVideoFromMail&url_id=3D61c14475d6ea77db601ac900b0f7c3fccc83acfa" st=
+yle=3D"color:#3b96d4;font-weight:normal;text-decoration:none;">
+                                                                    <img cl=
+ass=3D"round" src=3D"http://static.statigr.am/images/newsletter/memories/bo=
+ttom.jpg" style=3D"border:none;font-size:13px;font-weight:bold;height:auto;=
+line-height:100%;outline:none;text-decoration:none;text-transform:capitaliz=
+e;display:inline;border-radius:0 0 4px 4px;">
+                                                                </a>
+                                                            </div>
+=09=09=09=09=09=09=09</td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standar=
+d Content \\ -->
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Body \\ -->
+                                </td>
+                            </tr>
+
+                        </table>
+                        <br>
+                    </td>
+                </tr>
+                <tr>
+                    <td align=3D"center" valign=3D"top">
+
+                        <table class=3D"hide" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"600" id=3D"templateFooter2">
+                            <tr>
+                                    <td valign=3D"top" class=3D"footerConte=
+nt2" style=3D"color:#585858;font-family:Helvetica;font-size:13px;line-heigh=
+t:140%;text-align:left;">
+                                        <table width=3D"600" border=3D"0" c=
+ellpadding=3D"0">
+                                        <tr>
+                                            <td>
+                                                <p>
+                                                    Connect with us&nbsp;&n=
+bsp;&nbsp;
+                                                    <a class=3D"picto" href=
+=3D"http://mandrillapp.com/track/click.php?u=3D30022254&id=3D9850ad2c4bee4d=
+c897043b9845db17d5&url=3Dhttp%3A%2F%2Fblog.statigr.am&url_id=3Db2eb5085f9a1=
+9ed61fcd076ca7cf50fc0df79ce2" style=3D"position:relative;top:3px;margin-rig=
+ht:3px;text-decoration:none;margin-left:5px;color:#585858;">
+                                                        <img src=3D"http://=
+static.statigr.am/images/emails/footer-wordpress.png" style=3D"border:none;=
+font-size:13px;font-weight:bold;height:auto;line-height:100%;outline:none;t=
+ext-decoration:none;text-transform:capitalize;">
+                                                    </a>
+                                                    <a class=3D"picto" href=
+=3D"http://mandrillapp.com/track/click.php?u=3D30022254&id=3D9850ad2c4bee4d=
+c897043b9845db17d5&url=3Dhttp%3A%2F%2Ftwitter.com%2Fstatigram&url_id=3D807a=
+0cbf61a729c038d6c03adfcb35c71ec1ddb5" style=3D"position:relative;top:3px;ma=
+rgin-right:3px;text-decoration:none;margin-left:5px;color:#585858;">
+                                                        <img src=3D"http://=
+static.statigr.am/images/emails/footer-twitter.png" style=3D"border:none;fo=
+nt-size:13px;font-weight:bold;height:auto;line-height:100%;outline:none;tex=
+t-decoration:none;text-transform:capitalize;">
+                                                    </a>
+                                                    <a class=3D"picto" href=
+=3D"http://mandrillapp.com/track/click.php?u=3D30022254&id=3D9850ad2c4bee4d=
+c897043b9845db17d5&url=3Dhttp%3A%2F%2Ffacebook.com%2Fstatigram&url_id=3D5cc=
+1b4efd4b2129cbd0af4b073182614256b5eff" style=3D"position:relative;top:3px;m=
+argin-right:3px;text-decoration:none;margin-left:5px;color:#585858;">
+                                                        <img src=3D"http://=
+static.statigr.am/images/emails/footer-facebook.png" style=3D"border:none;f=
+ont-size:13px;font-weight:bold;height:auto;line-height:100%;outline:none;te=
+xt-decoration:none;text-transform:capitalize;">
+                                                    </a>
+                                                    <a class=3D"picto" href=
+=3D"http://mandrillapp.com/track/click.php?u=3D30022254&id=3D9850ad2c4bee4d=
+c897043b9845db17d5&url=3Dhttp%3A%2F%2Fstatigr.am%2Fstatigram&url_id=3D7fb0b=
+0520dd4199d6b97e620b0febcf1cc31447c" style=3D"position:relative;top:3px;mar=
+gin-right:3px;text-decoration:none;margin-left:5px;color:#585858;">
+                                                        <img src=3D"http://=
+static.statigr.am/images/emails/footer-instagram.png" style=3D"border:none;=
+font-size:13px;font-weight:bold;height:auto;line-height:100%;outline:none;t=
+ext-decoration:none;text-transform:capitalize;">
+                                                    </a>
+                                                </p>
+                                                <p>
+                                                    5 rue des ar=C3=A8nes, =
+87000, Limoges, France.<br>
+                                                    =C2=A9 2013 Statigram -=
+ All rights reserved
+                                                </p>
+                                            </td>
+                                            <td class=3D"tright" style=3D"t=
+ext-align:right;">
+                                                <p>&nbsp;</p>
+                                                <p>
+                                                    Have a question? Visit =
+our <a href=3D"http://mandrillapp.com/track/click.php?u=3D30022254&id=3D985=
+0ad2c4bee4dc897043b9845db17d5&url=3Dhttp%3A%2F%2Fstatigram.desk.com&url_id=
+=3Db5d6a2f4ca53165249031ae79036c94682c0ec7b" style=3D"color:#585858;">Suppo=
+rt center</a>.<br>
+                                                    You can <a href=3D"http=
+://mandrillapp.com/track/click.php?u=3D30022254&id=3D9850ad2c4bee4dc897043b=
+9845db17d5&url=3Dhttp%3A%2F%2Fstatigr.am%2FnewsletterUnsub.php%3Fid%3D57269=
+1319%26k%3D4a6629e98e40fc20ed9eb7544b5e6bc342e86b32&url_id=3Dad300d71f56bbd=
+446554ef58f6714b37390d37e6" style=3D"color:#585858;">unsubscribe</a>.
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        </table>
+                                    </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://mandrillapp.com/track/open.php?u=3D30022254&id=3D985=
+0ad2c4bee4dc897043b9845db17d5" height=3D"1" width=3D"1"></body>
+</html>
+
+--_av-9MNtk-sHBGXpSXwrzd8soQ--

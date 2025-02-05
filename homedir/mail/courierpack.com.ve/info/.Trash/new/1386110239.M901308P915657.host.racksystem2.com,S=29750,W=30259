@@ -1,0 +1,509 @@
+Return-path: <bounce-mc.us2_6381894.1384309-info=courierpack.com.ve@mail15.atl11.rsgsv.net>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Tue, 03 Dec 2013 17:57:59 -0430
+Received: from mail15.atl11.rsgsv.net ([205.201.133.15]:56834)
+	by host.racksystem2.com with esmtp (Exim 4.80.1)
+	(envelope-from <bounce-mc.us2_6381894.1384309-info=courierpack.com.ve@mail15.atl11.rsgsv.net>)
+	id 1VnyRh-003maQ-Cz
+	for info@courierpack.com.ve; Tue, 03 Dec 2013 17:57:59 -0430
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail15.atl11.rsgsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=info=3Dcoolsiteoftheday.com@mail15.atl11.rsgsv.net;
+ bh=Zrvapy7XmnZ1bIx4u6SmD3ubxj8=;
+ b=fDjeRHLUTara2DCvQl64A/Gqiiv6dnm+/HYUYZLp2rtQSltwTqGLewYMMv15cmK6Q+Dg/RJ3iFOo
+   ObtV1LlJCCs004cSht6NC//dnEkfksEAyVaQVHA0rZ1Ml7Kiee4i1OeL8IApxpqkM1HKGjPBJiQR
+   JhFVMYiXKW0HOnRnFTo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail15.atl11.rsgsv.net;
+ b=hV/cmGq1TkNYmNF6zGXsrIhCT/WnDeoJslVUQKQWO5q74mZzBs+0IXgqTxw4/sEBdVXe3yLzHFIt
+   HptTLFJL2p5D7UgyaYbbNnLzyIofVfypRc0DOruRdEK/J2vkU3W/NFbmUcxDS8yNXe0IJ5GU+RSF
+   s/sLC63hZYmEegGJilM=;
+Received: from (127.0.0.1) by mail15.atl11.rsgsv.net id hjpdeq1lgi0k for <info@courierpack.com.ve>; Tue, 3 Dec 2013 22:27:55 +0000 (envelope-from <bounce-mc.us2_6381894.1384309-info=courierpack.com.ve@mail15.atl11.rsgsv.net>)
+Subject: =?utf-8?Q?Tell=20me=20what=20to=20teach=20you?=
+From: =?utf-8?Q?Mike=20Corso?= <info@coolsiteoftheday.com>
+Reply-To: =?utf-8?Q?Mike=20Corso?= <info@coolsiteoftheday.com>
+To: =?utf-8?Q?Miguel=20Angel=20Pita=20Fernandez?= <info@courierpack.com.ve>
+Date: Tue, 3 Dec 2013 22:27:55 +0000
+Message-ID: <7b23cf154129f233fe39db000137089908a.20131203222711@mail15.atl11.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CIDe1a9c3f89c137089908a**
+X-Campaign: mailchimp7b23cf154129f233fe39db000.e1a9c3f89c
+X-campaignid: mailchimp7b23cf154129f233fe39db000.e1a9c3f89c
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=7b23cf154129f233fe39db000&id=e1a9c3f89c&e=137089908a
+X-MC-User: 7b23cf154129f233fe39db000
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-7b23cf154129f233fe39db000-e1a9c3f89c-137089908a@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://coolsiteoftheday.us2.list-manage.com/unsubscribe?u=7b23cf154129f233fe39db000&id=b4c1acbabf&e=137089908a&c=e1a9c3f89c>
+Sender: "Mike Corso" <info=coolsiteoftheday.com@mail15.atl11.rsgsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_2132903328"
+MIME-Version: 1.0
+X-Spam-Status: No, score=-0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  See today's 'Cool Site of the Day'. Click here (http://www.coolsiteoftheday.com/frmindex.html)
+    . Email not displaying correctly? View it in your browser (http://us2.campaign-archive2.com/?u=7b23cf154129f233fe39db000&id=e1a9c3f89c&e=137089908a)
+    . http://www.coolsiteoftheday.com December 3, 2013 Miguel Angel Pita Fernandez
+    - [...] 
+ 
+ Content analysis details:   (-0.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: list-manage1.com]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_2132903328
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+See today's 'Cool Site of the Day'. Click here (http://www.coolsiteoftheda=
+y.com/frmindex.html) .
+------------------------------------------------------------
+Email not displaying correctly?
+View it in your browser (http://us2.campaign-archive2.com/?u=3D7b23cf15412=
+9f233fe39db000&id=3De1a9c3f89c&e=3D137089908a) .
+http://www.coolsiteoftheday.com
+December 3=2C 2013
+Miguel Angel Pita Fernandez -
+
+Pick a topic about which you need to know more and I'll reply with a short=
+ video tutorial.
+
+Choose from one of these 3 topics: click here (http://mikecorso.polldaddy.=
+com/s/what-can-teach-you) . (http://mikecorso.polldaddy.com/s/what-can-tea=
+ch-you)
+
+Cheers=2C
+
+Mike Corso
+Cool Site of the Day
+
+P.S. Consider this my 'cyber week' gift to you ;)
+
+
+** ABOUT COOL SITE OF THE DAY
+------------------------------------------------------------
+Cool Site of the Day has been featuring the best of the Internet since 199=
+4! We rely on feedback and submissions from fine folks like yourself. Than=
+ks for being a part of the journey!
+
+See Today's Cool Site (http://www.coolsiteoftheday.com/frmindex.html)
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Copyright =C2=A9 2013 Cool Site of the Day=2C All rights reserved.
+ I'm writing to you because you opted into this list from our form here: h=
+ttp://eepurl.com/gb9af
+
+Our mailing address is:
+Cool Site of the Day
+64 Brevoort Rd
+Chappaqua=2C NY 10514
+USA
+
+ Email Marketing Powered by MailChimp
+http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium_newsletter&=
+utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D7b23cf154129f233fe3=
+9db000&afl=3D1
+** Follow on Twitter (https://www.twitter.com/Mike_Corso/
+
+)
+** Friend on Facebook (https://www.facebook.com/mikecorso
+
+)
+** Forward to Friend (http://us2.forward-to-friend.com/forward?u=3D7b23cf1=
+54129f233fe39db000&id=3De1a9c3f89c&e=3D137089908a)
+** unsubscribe from this list (http://coolsiteoftheday.us2.list-manage.com=
+/unsubscribe?u=3D7b23cf154129f233fe39db000&id=3Db4c1acbabf&e=3D137089908a&c=
+=3De1a9c3f89c)
+** update subscription preferences (http://coolsiteoftheday.us2.list-manag=
+e1.com/profile?u=3D7b23cf154129f233fe39db000&id=3Db4c1acbabf&e=3D137089908a)
+--_----------=_MCPart_2132903328
+Content-Type: text/html; charset="us-ascii"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Tell me what to teach you</title>
+		
+    <style type="text/css">
+		#outlook a{
+			padding:0;
+		}
+		body{
+			width:100% !important;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		body{
+			-webkit-text-size-adjust:none;
+		}
+		body{
+			margin:0;
+			padding:0;
+		}
+		img{
+			border:0;
+			height:auto;
+			line-height:100%;
+			outline:none;
+			text-decoration:none;
+		}
+		table td{
+			border-collapse:collapse;
+		}
+		#bodyTable{
+			height:100% !important;
+			margin:0;
+			padding:0;
+			width:100% !important;
+		}
+		body,#bodyTable{
+			background-color:#DEE0E2;
+		}
+		.borderBar{
+			background-image:url('http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png');
+			background-position:top left;
+			background-repeat:repeat;
+			height:5px !important;
+		}
+		h1{
+			color:#3F3A38;
+			display:block;
+			font-family:Georgia;
+			font-size:40px;
+			font-weight:normal;
+			line-height:100%;
+			letter-spacing:normal;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			text-align:left;
+		}
+		h2{
+			color:#3F3A38;
+			display:block;
+			font-family:Georgia;
+			font-size:24px;
+			font-weight:bold;
+			line-height:100%;
+			letter-spacing:normal;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			text-align:left;
+		}
+		h3{
+			color:#ED5E29;
+			display:block;
+			font-family:Georgia;
+			font-size:16px;
+			font-weight:normal;
+			line-height:100%;
+			letter-spacing:normal;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			text-align:left;
+		}
+		h4{
+			color:#3F3A38;
+			display:block;
+			font-family:Georgia;
+			font-size:12px;
+			font-weight:bold;
+			line-height:100%;
+			letter-spacing:normal;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			text-align:left;
+		}
+		.preheaderContent{
+			color:#505050;
+			font-family:Helvetica;
+			font-size:11px;
+			line-height:125%;
+			text-align:left;
+		}
+		.preheaderContent a:link,.preheaderContent a:visited,.preheaderContent a .yshortcuts {
+			color:#505050;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateHeader{
+			background-color:#F8F8F8;
+			border-top:10px solid #A6BFC9;
+		}
+		.headerContent{
+			color:#505050;
+			font-family:Helvetica;
+			font-size:18px;
+			font-weight:bold;
+			line-height:100%;
+			padding-top:20px;
+			padding-right:40px;
+			padding-bottom:20px;
+			padding-left:40px;
+			text-align:left;
+			vertical-align:middle;
+		}
+		.headerContent a:link,.headerContent a:visited,.headerContent a .yshortcuts {
+			color:#505050;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#headerImage{
+			height:auto;
+			max-width:600px !important;
+		}
+		#templateBody{
+			background-color:#F8F8F8;
+		}
+		.upperBodyContent{
+			color:#43404D;
+			font-family:Georgia;
+			font-size:16px;
+			line-height:150%;
+			text-align:left;
+		}
+		.upperBodyContent a:link,.upperBodyContent a:visited,.upperBodyContent a .yshortcuts {
+			color:#ED5E29;
+			font-weight:normal;
+			text-decoration:none;
+		}
+		.lowerBodyContent{
+			color:#43404D;
+			font-family:Georgia;
+			font-size:14px;
+			line-height:125%;
+			text-align:left;
+		}
+		.lowerBodyContent a:link,.lowerBodyContent a:visited,.lowerBodyContent a .yshortcuts {
+			color:#ED5E29;
+			font-weight:normal;
+			text-decoration:none;
+		}
+		.bodyContent img{
+			display:inline;
+			height:auto;
+		}
+		#templateFooter{
+			background-color:#F8F8F8;
+			border-bottom:10px solid #A6BFC9;
+		}
+		.footerContent{
+			color:#3F3A38;
+			font-family:Georgia;
+			font-size:12px;
+			line-height:150%;
+			text-align:center;
+		}
+		.footerContent a:link,.footerContent a:visited,.footerContent a .yshortcuts {
+			color:#EB4102;
+			font-weight:normal;
+			text-decoration:none;
+		}
+		.footerContent img{
+			display:inline;
+		}
+		#monkeyRewards img{
+			max-width:190px;
+		}
+</style></head>
+    <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="-webkit-text-size-adjust: none;margin: 0;padding: 0;background-color: #DEE0E2;width: 100% !important;">
+    	<center>
+        	<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="margin: 0;padding: 0;background-color: #DEE0E2;height: 100% !important;width: 100% !important;">
+            	<tr>
+                	<td align="center" valign="top" style="padding-bottom: 40px;border-collapse: collapse;">
+                    	<!-- // BEGIN CONTAINER -->
+                        <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer">
+                        	<tr>
+                            	<td align="center" valign="top" style="padding-bottom: 20px;border-collapse: collapse;">
+                                    <!-- // BEGIN PREHEADER -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
+                                        <tr>
+                                            <td align="center" valign="top" style="padding-top: 10px;padding-bottom: 10px;border-collapse: collapse;">
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td valign="top" class="preheaderContent" style="border-collapse: collapse;color: #505050;font-family: Helvetica;font-size: 11px;line-height: 125%;text-align: left;">See today&#39;s &#39;Cool Site of the Day&#39;. Click <a href="http://coolsiteoftheday.us2.list-manage1.com/track/click?u=7b23cf154129f233fe39db000&id=a0cf7ffd1a&e=137089908a" target="_self" style="color: #505050;font-weight: normal;text-decoration: underline;">here</a>.</td>
+                                                        <!-- 
+ -->
+                                                        <td width="20" style="border-collapse: collapse;">
+                                                            <br>
+                                                        </td>
+                                                        <td valign="top" width="200" class="preheaderContent" style="border-collapse: collapse;color: #505050;font-family: Helvetica;font-size: 11px;line-height: 125%;text-align: left;">
+                                                            Email not displaying correctly?<br><a href="http://us2.campaign-archive2.com/?u=7b23cf154129f233fe39db000&id=e1a9c3f89c&e=137089908a" target="_blank" style="color: #505050;font-weight: normal;text-decoration: underline;">View it in your browser</a>.
+                                                        </td>
+                                                        <!-- 
+ -->
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END PREHEADER \\ -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align="center" valign="top" style="border-collapse: collapse;">
+                                	<!-- // BEGIN HEADER -->
+                                	<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateHeader" style="background-color: #F8F8F8;border-top: 10px solid #A6BFC9;">
+                                    	<tr>
+                                        	<td align="center" valign="top" style="padding-top: 20px;padding-bottom: 20px;border-collapse: collapse;">
+                                            	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td class="headerContent" style="border-collapse: collapse;color: #505050;font-family: Helvetica;font-size: 18px;font-weight: bold;line-height: 100%;padding-top: 20px;padding-right: 40px;padding-bottom: 20px;padding-left: 40px;text-align: left;vertical-align: middle;">
+                                                            <a href="http://coolsiteoftheday.us2.list-manage1.com/track/click?u=7b23cf154129f233fe39db000&id=67e651a8cf&e=137089908a" style="color: #505050;font-weight: normal;text-decoration: underline;"><img src="http://gallery.mailchimp.com/7b23cf154129f233fe39db000/images/csotd_logo_high_res_white_600w.2.jpg" alt="" border="0" style="border: px none;border-color: ;border-style: none;border-width: px;height: 142px;width: 500px;margin: 0;padding: 0;max-width: 600px;line-height: 100%;outline: none;text-decoration: none;" width="500" height="142" id="headerImage campaign-icon"></a>
+                                                        </td>
+                                                    </tr>
+                                                	<tr>
+                                                        <td class="headerContent" style="border-collapse: collapse;color: #505050;font-family: Helvetica;font-size: 18px;font-weight: bold;line-height: 100%;padding-top: 20px;padding-right: 40px;padding-bottom: 20px;padding-left: 40px;text-align: left;vertical-align: middle;"><span style="font-family:tahoma,verdana,segoe,sans-serif;"><font color="#000000"><span style="font-size: 12px;"><i>December 3, 2013</i></span></font></span></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END HEADER \\ -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align="center" valign="top" style="border-collapse: collapse;">
+                                	<!-- // BEGIN BODY -->
+                                	<table border="0" cellpadding="40" cellspacing="0" width="600" id="templateBody" style="background-color: #F8F8F8;">
+                                    	<tr>
+                                        	<td align="center" valign="top" style="padding-top: 20px;padding-bottom: 20px;border-collapse: collapse;">
+                                            	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                	<tr>
+                                                        <td valign="top" class="upperBodyContent" style="border-collapse: collapse;color: #43404D;font-family: Georgia;font-size: 16px;line-height: 150%;text-align: left;">Miguel Angel Pita Fernandez -<br>
+<br>
+Pick a topic about which you need to know more and I&#39;ll reply with a short video tutorial.<br>
+<br>
+Choose from one of these 3 topics: <a href="http://coolsiteoftheday.us2.list-manage1.com/track/click?u=7b23cf154129f233fe39db000&id=39f8a12187&e=137089908a" target="_self" style="color: #ED5E29;font-weight: normal;text-decoration: none;">click here</a><a href="http://coolsiteoftheday.us2.list-manage.com/track/click?u=7b23cf154129f233fe39db000&id=1aed4c1b32&e=137089908a" target="_self" style="color: #ED5E29;font-weight: normal;text-decoration: none;">.</a><br>
+<br>
+Cheers,<br>
+<br>
+Mike Corso<br>
+Cool Site of the Day<br>
+<br>
+P.S. Consider this my &#39;cyber week&#39; gift to you ;)<br>
+</td>
+                                                    </tr>
+                                                    <tr>
+                                                    	<td align="center" valign="top" style="padding-top: 40px;border-collapse: collapse;">
+                                                        	<table border="0" cellpadding="0" cellspacing="0" width="520">
+                                                            	<tr>
+                                                                    <td valign="top" width="180" class="borderBar" background="http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png" style="border-collapse: collapse;background-image: url(http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png);background-position: top left;background-repeat: repeat;height: 5px !important;">
+                                                                        <img src="http://gallery.mailchimp.com/2425ea8ad3/images/blank.gif" height="5" width="5" style="display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;">
+                                                                    </td>
+                                                                    <td width="20" style="border-collapse: collapse;">
+                                                                        <img src="http://gallery.mailchimp.com/2425ea8ad3/images/blank.gif" height="5" width="5" style="display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;">
+                                                                    </td>
+                                                                    <td valign="top" width="320" class="borderBar" background="http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png" style="border-collapse: collapse;background-image: url(http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png);background-position: top left;background-repeat: repeat;height: 5px !important;">
+                                                                        <img src="http://gallery.mailchimp.com/2425ea8ad3/images/blank.gif" height="5" width="5" style="display: block;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                	<td valign="top" width="180" style="border-collapse: collapse;">
+                                                                    	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                        	<tr>
+                                                                            	<td valign="top" class="lowerBodyContent" style="padding-top: 15px;border-collapse: collapse;color: #43404D;font-family: Georgia;font-size: 14px;line-height: 125%;text-align: left;"></td>
+                                                                            </tr>
+                                                                            
+                                                                        </table>
+                                                                    </td>
+                                                                    <td width="20" style="padding-top: 15px;border-collapse: collapse;">
+                                                                    	<br>
+                                                                    </td>
+                                                                    <td valign="top" width="320" class="lowerBodyContent" style="padding-top: 15px;border-collapse: collapse;color: #43404D;font-family: Georgia;font-size: 14px;line-height: 125%;text-align: left;"><h4 style="color: #3F3A38;display: block;font-family: Georgia;font-size: 12px;font-weight: bold;line-height: 100%;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">
+	<span style="font-size:14px;"><span style="font-family: georgia, serif; ">ABOUT COOL SITE OF THE DAY</span></span></h4>
+<span style="font-size:14px;"><span style="font-family: georgia, serif; "><span style="color: rgb(80, 80, 80); line-height: 16.66666603088379px; text-align: justify; -webkit-text-size-adjust: auto; background-color: rgb(255, 255, 255); ">Cool Site of the Day has been featuring the best of the Internet since 1994! We rely on feedback and submissions from fine folks like yourself. Thanks for being a part of the journey!&nbsp;</span></span></span><br>
+<br>
+<a href="http://coolsiteoftheday.us2.list-manage.com/track/click?u=7b23cf154129f233fe39db000&id=711fe77ddb&e=137089908a" style="color: rgb(237, 94, 41);text-decoration: none;font-weight: normal;" target="_blank">See Today&#39;s Cool Site</a></td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END BODY \\ -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align="center" valign="top" style="border-collapse: collapse;">
+                                	<!-- // BEGIN FOOTER -->
+                                	<table border="0" cellpadding="20" cellspacing="0" width="600" id="templateFooter" style="background-color: #F8F8F8;border-bottom: 10px solid #A6BFC9;">
+                                    	<tr>
+                                        	<td align="center" valign="top" style="padding-right: 40px;padding-left: 40px;border-collapse: collapse;">
+                                            	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <tr>
+                                                    	<td valign="top" class="footerContent" style="border-top: 1px solid #BBBBBB;border-bottom: 1px solid #BBBBBB;padding-top: 20px;padding-bottom: 20px;border-collapse: collapse;color: #3F3A38;font-family: Georgia;font-size: 12px;line-height: 150%;text-align: center;">
+                                                        	<a href="https://www.twitter.com/Mike_Corso/" style="color: #EB4102;font-weight: normal;text-decoration: none;">Follow on Twitter</a> | <a href="https://www.facebook.com/mikecorso" style="color: #EB4102;font-weight: normal;text-decoration: none;">Friend on Facebook</a> | <a href="http://us2.forward-to-friend.com/forward?u=7b23cf154129f233fe39db000&id=e1a9c3f89c&e=137089908a" style="color: #EB4102;font-weight: normal;text-decoration: none;">Forward to Friend</a>&nbsp;
+                                                        </td>
+                                                    </tr>
+                                                	<tr>
+                                                        <td valign="top" class="footerContent" style="padding-top: 20px;border-collapse: collapse;color: #3F3A38;font-family: Georgia;font-size: 12px;line-height: 150%;text-align: center;">
+                                                            <em>Copyright &copy; 2013 Cool Site of the Day, All rights reserved.</em>
+                                                            <br>
+                                                            
+ I'm writing to you because you opted into this list from our form here: http://eepurl.com/gb9af
+                                                            <br>
+                                                            <br>
+                                                            <strong>Our mailing address is:</strong>
+                                                            <br>
+                                                            <div class="vcard"><span class="org fn">Cool Site of the Day</span><div class="adr"><div class="street-address">64 Brevoort Rd</div><span class="locality">Chappaqua</span>, <span class="region">NY</span>  <span class="postal-code">10514</span></div><br><a href="http://coolsiteoftheday.us2.list-manage2.com/vcard?u=7b23cf154129f233fe39db000&id=b4c1acbabf" class="hcard-download">Add us to your address book</a></div>
+                                                            <br>
+                                                            
+                                                            <br>
+                                                        	
+ <a href="http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=7b23cf154129f233fe39db000&afl=1"><img src="http://cdn-images.mailchimp.com/monkey_rewards/MC_MonkeyReward_15.png" border="0" alt="Email Marketing Powered by MailChimp" title="MailChimp Email Marketing" width="139" height="54"></a> 
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                    	<td valign="top" class="footerContent" style="padding-top: 20px;border-collapse: collapse;color: #3F3A38;font-family: Georgia;font-size: 12px;line-height: 150%;text-align: center;">
+                                                        	<a href="http://coolsiteoftheday.us2.list-manage.com/unsubscribe?u=7b23cf154129f233fe39db000&id=b4c1acbabf&e=137089908a&c=e1a9c3f89c" style="color: #EB4102;font-weight: normal;text-decoration: none;">unsubscribe from this list</a> | <a href="http://coolsiteoftheday.us2.list-manage1.com/profile?u=7b23cf154129f233fe39db000&id=b4c1acbabf&e=137089908a" style="color: #EB4102;font-weight: normal;text-decoration: none;">update subscription preferences</a>&nbsp;
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END FOOTER \\ -->
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END CONTAINER \\ -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src="http://coolsiteoftheday.us2.list-manage.com/track/open.php?u=7b23cf154129f233fe39db000&id=e1a9c3f89c&e=137089908a" height="1" width="1"></body>
+</html>
+--_----------=_MCPart_2132903328--

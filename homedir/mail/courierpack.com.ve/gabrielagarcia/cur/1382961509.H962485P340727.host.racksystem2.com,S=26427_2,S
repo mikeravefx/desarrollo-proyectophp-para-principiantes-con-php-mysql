@@ -1,0 +1,597 @@
+Return-path: <dytovar@gmail.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Mon, 28 Oct 2013 07:28:31 -0430
+Received: from mail-la0-f51.google.com ([209.85.215.51]:38521)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <dytovar@gmail.com>)
+	id 1ValSI-001Q0i-FV; Mon, 28 Oct 2013 07:28:01 -0430
+Received: by mail-la0-f51.google.com with SMTP id ea20so5181774lab.10
+        for <multiple recipients>; Mon, 28 Oct 2013 04:57:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=DFxxBpOsQdtOKUze9MlD8Xe7arfAEpso+BhA5rc8JF0=;
+        b=QtVdDO3Jy6jXozANk3moJ4hLmlzDsPWatVdw01/cjlCO5Nlzcjz5E2RSbX6UcFLM+0
+         NYWANnG/HzrmjyXb4bEcVLhrq8vnNRHQblIaKX9F9VuNN4lox3/cPTE/5sId2OUtYN9/
+         Ua1ZS+ZEM1rpaH9XV/E07K+a1m3iDhSm143iLC6RaKHA/RsXSVZ0KXja+GeeiRsB1Rh+
+         +EwPjJtPMjSN2/Onc8N3evqeFiNeC2U/xuvz4SEDPb1Cdl5Sogv4Kr0DdYSLnNxOYfJ9
+         NzH2Qpn4E6EEwkanUjh1sEOZDDWAwflCiCXY/CWYvNm5FzWro93sZWGTNtZYeKQGez1M
+         5PQg==
+MIME-Version: 1.0
+X-Received: by 10.112.125.33 with SMTP id mn1mr11066157lbb.8.1382961476965;
+ Mon, 28 Oct 2013 04:57:56 -0700 (PDT)
+Received: by 10.112.180.166 with HTTP; Mon, 28 Oct 2013 04:57:56 -0700 (PDT)
+Received: by 10.112.180.166 with HTTP; Mon, 28 Oct 2013 04:57:56 -0700 (PDT)
+In-Reply-To: <CAE-Zhx3uJmJr3CBTz60SBniZVL3yZvF2qz=vPZ_g8F5VipqiUA@mail.gmail.com>
+References: <10034090-1382481206-cardhu_decombobulator_blackberry.rim.net-1270907600-@b12.c4.bise6.blackberry>
+	<CAE-Zhx3XQDtXRPRtQu6UT02_4Q74G7on6iWyFHTVgzNW9ftP2A@mail.gmail.com>
+	<CAE-Zhx1iM0a7_BBLyUb0nFy78vN_Ey_FRaeXv7enEAv7pYnQAg@mail.gmail.com>
+	<1965456947-1382623632-cardhu_decombobulator_blackberry.rim.net-2130904586-@b12.c4.bise6.blackberry>
+	<CAE-Zhx2Nt-c=jrMmhBO_o1_8ZkfTdBSkUPKNwXFiJexaJ+t8tw@mail.gmail.com>
+	<CAE-Zhx1bbvj7E82ju30wkfBoLTNFn2O2GrKM0d7ZrbU5Wr7j0Q@mail.gmail.com>
+	<687841857-1382638943-cardhu_decombobulator_blackberry.rim.net-180577527-@b12.c4.bise6.blackberry>
+	<CAE-Zhx36FrzAQGbM4Vo8NZSGxZiY-N8D7zaTLW5=p6nzFM=A8w@mail.gmail.com>
+	<CAE-Zhx3Qn235p_v6TRdQRXb5mX+-mvmq4ZYSpEBMf7RnGD1URQ@mail.gmail.com>
+	<CAE-Zhx1u4Pzj1ahyhaVuJqBqORMLUoGaGS5-fkZsxNSsXTZq1Q@mail.gmail.com>
+	<CAE-Zhx3LKrdqavymMS+wwcGD968tXpwRTNGFJcksfAE0_PCekg@mail.gmail.com>
+	<CAE-Zhx305odc1hSEAsD=DA25ofAsOBs_EK3fsJD0+GJBQy=pTw@mail.gmail.com>
+	<1124827714-1382717321-cardhu_decombobulator_blackberry.rim.net-1106556293-@b12.c4.bise6.blackberry>
+	<CAE-Zhx3hJ822TEdMu8QObAowCrGy0Y8xXyioRyj4cwynRNUWSg@mail.gmail.com>
+	<CAE-Zhx2SSmUx6AHhtcxjD1yNdLdO9y6nm_edh9hMC9QfmyTSVQ@mail.gmail.com>
+	<CAE-Zhx3uJmJr3CBTz60SBniZVL3yZvF2qz=vPZ_g8F5VipqiUA@mail.gmail.com>
+Date: Mon, 28 Oct 2013 07:27:56 -0430
+Message-ID: <CAE-Zhx3Js-2eHnE0MLD=d7j2BR3=-6uEbsK90Gf7ds2ypxp1UQ@mail.gmail.com>
+Subject: Re: Fwd: Re: CPK
+From: Dubraskha Tovar <dytovar@gmail.com>
+To: "info@courierpack.com.ve" <info@courierpack.com.ve>, 
+	"Miguel.pita@courierpack.com.ve" <Miguel.pita@courierpack.com.ve>, 
+	"gabrielagarcia@courierpack.com.ve" <gabrielagarcia@courierpack.com.ve>
+Content-Type: multipart/alternative; boundary=089e0116136a92996004e9cbcfe0
+
+--089e0116136a92996004e9cbcfe0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Buenos dias! Por favor envienme el numero de guia del envio por zoom.
+El 25/10/2013 15:19, "Dubraskha Tovar" <dytovar@gmail.com> escribi=F3:
+
+> Avisenme en cuanto hagan la entrega en zoom con el numero de guia.
+> El 25/10/2013 13:40, "Dubraskha Tovar" <dytovar@gmail.com> escribi=F3:
+>
+>> Puede ser en el zoom del centro comercial san martin. El cobro de ese
+>> envio supongo que corre por su cuenta. Para cuan realmente estaran dando=
+le
+>> salida. Mandenme el numero de guia.
+>> ---------- Mensaje remitido ----------
+>> De: "Dubraskha Tovar" <dytovar@gmail.com>
+>> Fecha: 25/10/2013 11:52
+>> Asunto: Re: CPK
+>> Para: <info@courierpack.com.ve>
+>>
+>> Veo que en sus oficinas no es posible entonces Puede ser en el zoom del
+>> centro comercial san martin. El cobro de ese envio corre por su cuenta? =
+Y
+>> para cuando realmente le estaran dando salida.
+>> El 25/10/2013 11:38, <info@courierpack.com.ve> escribi=F3:
+>>
+>>> **
+>>> Se=F1ora Dubraska facilitenos una direccion de casillero zoom porque
+>>> direccion fiscal no estaremos haciendo entregas de este modo por seguri=
+dad
+>>> propia
+>>> Enviado desde mi BlackBerry de Movistar
+>>> ------------------------------
+>>> *From: * Dubraskha Tovar <dytovar@gmail.com>
+>>> *Date: *Fri, 25 Oct 2013 11:23:34 -0430
+>>> *To: *info@courierpack.com.ve<info@courierpack.com.ve>; <
+>>> gabrielagarcia@courierpack.com.ve>
+>>> *Subject: *Re: CPK
+>>>
+>>> Buenos dias! Que paso con la entrega de la mercancia. Quedaron que
+>>> despues de recibido el pago por ustedes me hacian la entrega en 12 hora=
+s y
+>>> ya ha pasado ese tiempo. Por favor me pueden dar respuesta
+>>> El 25/10/2013 08:31, "Dubraskha Tovar" <dytovar@gmail.com> escribi=F3:
+>>>
+>>>>
+>>>> > Buenas, que paso con la mercancia no me fue entregada en todo el d=
+=EDa
+>>>> de ayer.
+>>>>
+>>>> > El 24/10/2013 18:27, "Dubraskha Tovar" <dytovar@gmail.com> escribi=
+=F3:
+>>>> >
+>>>> > >
+>>>> > > Buenas, que paso con la mercancia no me fue entregada en todo el d=
+=EDa
+>>>> > >
+>>>> > > El 24/10/2013 13:59, "Dubraskha Tovar" <dytovar@gmail.com>
+>>>> escribi=F3:
+>>>> > >
+>>>> > >> Y con el numero de guia me das la hora mas exacta posible para la
+>>>> entrega?
+>>>> > >>
+>>>> > >> El 24/10/2013 13:52, <gabrielagarcia@courierpack.com.ve> escribi=
+=F3:
+>>>> > >>>
+>>>> > >>> Si amiga al finalizar la tarde me da el numero de guia
+>>>> > >>> Enviado desde mi BlackBerry de Movistar
+>>>> > >>> ________________________________
+>>>> > >>> From: Dubraskha Tovar <dytovar@gmail.com>
+>>>> > >>> Date: Thu, 24 Oct 2013 13:38:12 -0430
+>>>> > >>> To: <gabrielagarcia@courierpack.com.ve>
+>>>> > >>> Subject: Re: CPK
+>>>> > >>>
+>>>> > >>> Ya el motorizado tiene la mercancia? Para estar pendiente con la
+>>>> entrada
+>>>> > >>>
+>>>> > >>> El 24/10/2013 09:48, "Dubraskha Tovar" <dytovar@gmail.com>
+>>>> escribi=F3:
+>>>> > >>>>
+>>>> > >>>> Ok gracias
+>>>> > >>>>
+>>>> > >>>> El 24/10/2013 09:37, <gabrielagarcia@courierpack.com.ve>
+>>>> escribi=F3:
+>>>> > >>>>>
+>>>> > >>>>> Buenos Dias. Amiga. Ya estamos esperando el motorizado para qu=
+e
+>>>> realice su envio
+>>>> > >>>>> Enviado desde mi BlackBerry de Movistar
+>>>> > >>>>> ________________________________
+>>>> > >>>>> From: Dubraskha Tovar <dytovar@gmail.com>
+>>>> > >>>>> Date: Thu, 24 Oct 2013 09:10:20 -0430
+>>>> > >>>>> To: info@courierpack.com.ve<info@courierpack.com.ve>;
+>>>> gabrielagarcia@courierpack.com.ve<gabrielagarcia@courierpack.com.ve>;
+>>>> Miguel.pita@courierpack.com.ve<Miguel.pita@courierpack.com.ve>
+>>>> > >>>>> Subject: Re: CPK
+>>>> > >>>>>
+>>>> > >>>>> Buenas d=EDa,
+>>>> > >>>>>
+>>>> > >>>>> Ayer realice dos trasferencias por el monto total del env=EDo =
+de
+>>>> la mercanc=EDa, adjunto los datos solicitados.
+>>>> > >>>>>
+>>>> > >>>>> Datos de la Compra
+>>>> > >>>>>
+>>>> > >>>>> Nombre del cliente registrado: Dubraskha Yoscar Tovar
+>>>> Montenegro C.I. 19.354.175 Producto(s) Cancelados Tel=E9fono BlackBerr=
+y 9360
+>>>> Fecha de Deposito 23 de Octubre de 2013 Monto Depositado 3010 bs
+>>>> > >>>>>
+>>>> > >>>>> Envio Incluido en el Pago (Si/No) Banco en donde se deposit=F3
+>>>> Banesco Tipo de Deposito Dos transferencias Nro de Referencia/Comproba=
+nte:
+>>>> Banesco Recibo 224522353 (2610 bs) y Tesoro 161202 (400bs) Datos para =
+el
+>>>> Envio
+>>>> > >>>>>
+>>>> > >>>>> Direccion de Envio Envio: Avenida San Martin, calle Sevilla co=
+n
+>>>> calle Cordoba Casa teresa (Calle cerrada con port=F3n negro) punto de
+>>>> referencia bajando por el Hospital Militar casi frente a la empresa de
+>>>> env=EDos Tealca. Ciudad y Estado: Distrito Capital Municipio: Libertad=
+or
+>>>> Parroquia San Juan Codigo Postal 1020 Persona que Recibe Dubraskha Tov=
+ar
+>>>> Telefono de Contacto 04169000671, 04126047115 y 04120150784
+>>>> > >>>>>
+>>>> > >>>>> Espero su recibido y que me mantengan informado de la entrega.
+>>>> Gracias.
+>>>> > >>>>>
+>>>> > >>>>> El 23/10/2013 16:15, "Dubraskha Tovar" <dytovar@gmail.com>
+>>>> escribi=F3:
+>>>> > >>>>>>
+>>>> > >>>>>> Buenas tardes,
+>>>> > >>>>>>
+>>>> > >>>>>>      Acabo de realizar dos trasferencias por el monto total
+>>>> del env=EDo de la mercanc=EDa, adjunto los datos solicitados.
+>>>> > >>>>>>
+>>>> > >>>>>> Datos de la Compra
+>>>> > >>>>>>
+>>>> > >>>>>> Nombre del cliente registrado:  Dubraskha Yoscar Tovar
+>>>> Montenegro C.I. 19.354.175
+>>>> > >>>>>> Producto(s) Cancelados Tel=E9fono BlackBerry 9360
+>>>> > >>>>>> Fecha de Deposito 23 de Octubre de 2013
+>>>> > >>>>>> Monto Depositado 3010 bs
+>>>> > >>>>>> Envio Incluido en el Pago (Si/No)
+>>>> > >>>>>> Banco en donde se deposit=F3 Banesco
+>>>> > >>>>>> Tipo de Deposito Dos transferencias
+>>>> > >>>>>> Nro de Referencia/Comprobante:    Banesco Recibo 224522353
+>>>> (2610 bs) y Tesoro 161202 (400bs)
+>>>> > >>>>>> Datos para el Envio
+>>>> > >>>>>>
+>>>> > >>>>>> Direccion de Envio Envio: Avenida San Martin, calle Sevilla
+>>>> con calle Cordoba Casa teresa (Calle cerrada con port=F3n negro) punto=
+ de
+>>>> referencia bajando por el Hospital Militar casi frente a la empresa de
+>>>> env=EDos Tealca.
+>>>> > >>>>>> Ciudad y Estado: Distrito Capital
+>>>> > >>>>>> Municipio: Libertador Parroquia San Juan
+>>>> > >>>>>> Codigo Postal 1020
+>>>> > >>>>>> Persona que Recibe Dubraskha Tovar
+>>>> > >>>>>> Telefono de Contacto 04169000671, 04126047115 y 04120150784
+>>>> > >>>>>>
+>>>> > >>>>>>
+>>>> > >>>>>>
+>>>> > >>>>>> Espero su recibido y que me mantengan informado de la entrega=
+.
+>>>> > >>>>>> Gracias.
+>>>> > >>>>>>
+>>>> > >>>>>> El 22/10/2013 18:03, <info@courierpack.com.ve> escribi=F3:
+>>>> > >>>>>>>
+>>>> > >>>>>>> Buenas Tardes  Sra. Tovar  Por este medio se le informa que
+>>>> su carga se encuentra en nuestros almaneces disponible para su envio y
+>>>> entrega .
+>>>> > >>>>>>>
+>>>> > >>>>>>> Aprovechamos para indicar que el costo por el servicio de
+>>>> flete es de Bs.3010,
+>>>> > >>>>>>> Conjuntamente se le indica el detalle bancario
+>>>> > >>>>>>>
+>>>> > >>>>>>> Titular: Gabriela Garcia
+>>>> > >>>>>>> Cuenta Corriente:  0134.0066.12.066.306.9613
+>>>> > >>>>>>> Banco: Banesco
+>>>> > >>>>>>> C.I.: 18.539.138
+>>>> > >>>>>>>
+>>>> > >>>>>>>
+>>>> > >>>>>>> Atencion telefonica  de Lunes a Viernes  de 10am a 4 pm
+>>>> > >>>>>>>
+>>>> > >>>>>>> Esta es nuestra informaci=F3n de contacto:
+>>>> > >>>>>>> Tel=E9fono: 0424.108.27.57 / 0414.900.75.90
+>>>> > >>>>>>> E-mail: Gabrielagarcia@courierpack.com.ve
+>>>> > >>>>>>> Miguel.pita@courierpack.com.ve
+>>>> > >>>>>>> Persona Contacto: Gabriela Garcia/ Miguel Pita
+>>>> > >>>>>>>
+>>>> > >>>>>>>
+>>>> > >>>>>>> Una vez realizado el pago, enviar  un correo a esta direcci=
+=F3n
+>>>> Gabrielagarcia@courierpack.com
+>>>> > >>>>>>> Miguel.pita@courierpack.com.ve con la siguiente informaci=F3=
+n:
+>>>> > >>>>>>>
+>>>> > >>>>>>> Datos de la Compra
+>>>> > >>>>>>>
+>>>> > >>>>>>> Nombre del cliente registrado _______________
+>>>> > >>>>>>> Producto(s) Cancelados _______________
+>>>> > >>>>>>> Fecha de Deposito ________
+>>>> > >>>>>>> Monto Depositado _______
+>>>> > >>>>>>> Envio Incluido en el Pago (Si/No)_______
+>>>> > >>>>>>> Banco en donde se deposit=F3__________
+>>>> > >>>>>>> Tipo de Deposito _____________
+>>>> > >>>>>>> Nro de Referencia/Comprobante ___________
+>>>> > >>>>>>>
+>>>> > >>>>>>> Datos para el Envio
+>>>> > >>>>>>>
+>>>> > >>>>>>> Direccion de Envio Envio: ___________
+>>>> > >>>>>>> Ciudad y Estado_____________
+>>>> > >>>>>>> Municipio __________                  Parroquia ____________
+>>>> > >>>>>>> Codigo Postal ___________
+>>>> > >>>>>>> Persona que Recibe _____________
+>>>> > >>>>>>> Telefono de Contacto ____________
+>>>> > >>>>>>>
+>>>> > >>>>>>> En CPK  estamos para servirte. Cualquier duda no dejes de
+>>>> consultarnos por las canales antes presentados.
+>>>> > >>>>>>>
+>>>> > >>>>>>>
+>>>> > >>>>>>> Enviado desde mi BlackBerry de Movistar
+>>>>
+>>>
+
+--089e0116136a92996004e9cbcfe0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<p>Buenos dias! Por favor envienme el numero de guia del envio por zoom.</p=
+>
+<div class=3D"gmail_quote">El 25/10/2013 15:19, &quot;Dubraskha Tovar&quot;=
+ &lt;<a href=3D"mailto:dytovar@gmail.com">dytovar@gmail.com</a>&gt; escribi=
+=F3:<br type=3D"attribution"><blockquote class=3D"gmail_quote" style=3D"mar=
+gin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+<p>Avisenme en cuanto hagan la entrega en zoom con el numero de guia.</p>
+<div class=3D"gmail_quote">El 25/10/2013 13:40, &quot;Dubraskha Tovar&quot;=
+ &lt;<a href=3D"mailto:dytovar@gmail.com" target=3D"_blank">dytovar@gmail.c=
+om</a>&gt; escribi=F3:<br type=3D"attribution"><blockquote class=3D"gmail_q=
+uote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1e=
+x">
+
+<p>Puede ser en el zoom del centro comercial san martin. El cobro de ese en=
+vio supongo que corre por su cuenta. Para cuan realmente estaran dandole sa=
+lida. Mandenme el numero de guia.</p>
+<div class=3D"gmail_quote">---------- Mensaje remitido ----------<br>De: &q=
+uot;Dubraskha Tovar&quot; &lt;<a href=3D"mailto:dytovar@gmail.com" target=
+=3D"_blank">dytovar@gmail.com</a>&gt;<br>Fecha: 25/10/2013 11:52<br>Asunto:=
+ Re: CPK<br>
+
+Para:  &lt;<a href=3D"mailto:info@courierpack.com.ve" target=3D"_blank">inf=
+o@courierpack.com.ve</a>&gt;<br>
+<br type=3D"attribution"><p>Veo que en sus oficinas no es posible entonces =
+Puede ser en el zoom del centro comercial san martin. El cobro de ese envio=
+ corre por su cuenta? Y para cuando realmente le estaran dando salida.</p>
+
+
+
+<div class=3D"gmail_quote"><div>El 25/10/2013 11:38,  &lt;<a href=3D"mailto=
+:info@courierpack.com.ve" target=3D"_blank">info@courierpack.com.ve</a>&gt;=
+ escribi=F3:<br type=3D"attribution"></div><blockquote class=3D"gmail_quote=
+" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+
+
+
+<u></u><div>Se=F1ora Dubraska facilitenos una direccion de casillero zoom p=
+orque direccion fiscal no estaremos haciendo entregas de este modo por segu=
+ridad propia <div><div>Enviado desde mi BlackBerry de Movistar</div>
+<hr><div><b>From: </b> Dubraskha Tovar &lt;<a href=3D"mailto:dytovar@gmail.=
+com" target=3D"_blank">dytovar@gmail.com</a>&gt;
+</div><div><b>Date: </b>Fri, 25 Oct 2013 11:23:34 -0430</div><div><b>To: </=
+b><a href=3D"mailto:info@courierpack.com.ve" target=3D"_blank">info@courier=
+pack.com.ve</a>&lt;<a href=3D"mailto:info@courierpack.com.ve" target=3D"_bl=
+ank">info@courierpack.com.ve</a>&gt;; &lt;<a href=3D"mailto:gabrielagarcia@=
+courierpack.com.ve" target=3D"_blank">gabrielagarcia@courierpack.com.ve</a>=
+&gt;</div>
+
+
+
+<div><b>Subject: </b>Re: CPK</div><div><br></div><p>Buenos dias! Que paso c=
+on la entrega de la mercancia. Quedaron que despues de recibido el pago por=
+ ustedes me hacian la entrega en 12 horas y ya ha pasado ese tiempo. Por fa=
+vor me pueden dar respuesta</p>
+
+
+
+
+<div class=3D"gmail_quote">El 25/10/2013 08:31, &quot;Dubraskha Tovar&quot;=
+ &lt;<a href=3D"mailto:dytovar@gmail.com" target=3D"_blank">dytovar@gmail.c=
+om</a>&gt; escribi=F3:<br type=3D"attribution"><blockquote class=3D"gmail_q=
+uote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1e=
+x">
+
+
+
+
+<p><br>
+&gt; Buenas, que paso con la mercancia no me fue entregada en todo el d=EDa=
+ de ayer.</p>
+<p>&gt; El 24/10/2013 18:27, &quot;Dubraskha Tovar&quot; &lt;<a href=3D"mai=
+lto:dytovar@gmail.com" target=3D"_blank">dytovar@gmail.com</a>&gt; escribi=
+=F3:<br>
+&gt;<br>
+&gt; &gt;<br>
+&gt; &gt; Buenas, que paso con la mercancia no me fue entregada en todo el =
+d=EDa<br>
+&gt; &gt;<br>
+&gt; &gt; El 24/10/2013 13:59, &quot;Dubraskha Tovar&quot; &lt;<a href=3D"m=
+ailto:dytovar@gmail.com" target=3D"_blank">dytovar@gmail.com</a>&gt; escrib=
+i=F3:<br>
+&gt; &gt;<br>
+&gt; &gt;&gt; Y con el numero de guia me das la hora mas exacta posible par=
+a la entrega?<br>
+&gt; &gt;&gt;<br>
+&gt; &gt;&gt; El 24/10/2013 13:52, &lt;<a href=3D"mailto:gabrielagarcia@cou=
+rierpack.com.ve" target=3D"_blank">gabrielagarcia@courierpack.com.ve</a>&gt=
+; escribi=F3:<br>
+&gt; &gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt; Si amiga al finalizar la tarde me da el numero de guia<br=
+>
+&gt; &gt;&gt;&gt; Enviado desde mi BlackBerry de Movistar<br>
+&gt; &gt;&gt;&gt; ________________________________<br>
+&gt; &gt;&gt;&gt; From: Dubraskha Tovar &lt;<a href=3D"mailto:dytovar@gmail=
+.com" target=3D"_blank">dytovar@gmail.com</a>&gt;<br>
+&gt; &gt;&gt;&gt; Date: Thu, 24 Oct 2013 13:38:12 -0430<br>
+&gt; &gt;&gt;&gt; To: &lt;<a href=3D"mailto:gabrielagarcia@courierpack.com.=
+ve" target=3D"_blank">gabrielagarcia@courierpack.com.ve</a>&gt;<br>
+&gt; &gt;&gt;&gt; Subject: Re: CPK<br>
+&gt; &gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt; Ya el motorizado tiene la mercancia? Para estar pendiente=
+ con la entrada<br>
+&gt; &gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt; El 24/10/2013 09:48, &quot;Dubraskha Tovar&quot; &lt;<a h=
+ref=3D"mailto:dytovar@gmail.com" target=3D"_blank">dytovar@gmail.com</a>&gt=
+; escribi=F3:<br>
+&gt; &gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt; Ok gracias<br>
+&gt; &gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt; El 24/10/2013 09:37, &lt;<a href=3D"mailto:gabrielaga=
+rcia@courierpack.com.ve" target=3D"_blank">gabrielagarcia@courierpack.com.v=
+e</a>&gt; escribi=F3:<br>
+&gt; &gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt; Buenos Dias. Amiga. Ya estamos esperando el motor=
+izado para que realice su envio<br>
+&gt; &gt;&gt;&gt;&gt;&gt; Enviado desde mi BlackBerry de Movistar<br>
+&gt; &gt;&gt;&gt;&gt;&gt; ________________________________<br>
+&gt; &gt;&gt;&gt;&gt;&gt; From: Dubraskha Tovar &lt;<a href=3D"mailto:dytov=
+ar@gmail.com" target=3D"_blank">dytovar@gmail.com</a>&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt; Date: Thu, 24 Oct 2013 09:10:20 -0430<br>
+&gt; &gt;&gt;&gt;&gt;&gt; To: <a href=3D"mailto:info@courierpack.com.ve" ta=
+rget=3D"_blank">info@courierpack.com.ve</a>&lt;<a href=3D"mailto:info@couri=
+erpack.com.ve" target=3D"_blank">info@courierpack.com.ve</a>&gt;; <a href=
+=3D"mailto:gabrielagarcia@courierpack.com.ve" target=3D"_blank">gabrielagar=
+cia@courierpack.com.ve</a>&lt;<a href=3D"mailto:gabrielagarcia@courierpack.=
+com.ve" target=3D"_blank">gabrielagarcia@courierpack.com.ve</a>&gt;; <a hre=
+f=3D"mailto:Miguel.pita@courierpack.com.ve" target=3D"_blank">Miguel.pita@c=
+ourierpack.com.ve</a>&lt;<a href=3D"mailto:Miguel.pita@courierpack.com.ve" =
+target=3D"_blank">Miguel.pita@courierpack.com.ve</a>&gt;<br>
+
+
+
+
+
+
+&gt; &gt;&gt;&gt;&gt;&gt; Subject: Re: CPK<br>
+&gt; &gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt; Buenas d=EDa,<br>
+&gt; &gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt; Ayer realice dos trasferencias por el monto total=
+ del env=EDo de la mercanc=EDa, adjunto los datos solicitados.<br>
+&gt; &gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt; Datos de la Compra<br>
+&gt; &gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt; Nombre del cliente registrado: Dubraskha Yoscar T=
+ovar Montenegro C.I. 19.354.175 Producto(s) Cancelados Tel=E9fono BlackBerr=
+y 9360 Fecha de Deposito 23 de Octubre de 2013 Monto Depositado 3010 bs<br>
+
+
+
+
+
+
+&gt; &gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt; Envio Incluido en el Pago (Si/No) Banco en donde =
+se deposit=F3 Banesco Tipo de Deposito Dos transferencias Nro de Referencia=
+/Comprobante: Banesco Recibo 224522353 (2610 bs) y Tesoro 161202 (400bs) Da=
+tos para el Envio<br>
+
+
+
+
+
+
+&gt; &gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt; Direccion de Envio Envio: Avenida San Martin, cal=
+le Sevilla con calle Cordoba Casa teresa (Calle cerrada con port=F3n negro)=
+ punto de referencia bajando por el Hospital Militar casi frente a la empre=
+sa de env=EDos Tealca. Ciudad y Estado: Distrito Capital Municipio: Liberta=
+dor Parroquia San Juan Codigo Postal 1020 Persona que Recibe Dubraskha Tova=
+r Telefono de Contacto 04169000671, 04126047115 y 04120150784<br>
+
+
+
+
+
+
+&gt; &gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt; Espero su recibido y que me mantengan informado d=
+e la entrega. Gracias.<br>
+&gt; &gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt; El 23/10/2013 16:15, &quot;Dubraskha Tovar&quot; =
+&lt;<a href=3D"mailto:dytovar@gmail.com" target=3D"_blank">dytovar@gmail.co=
+m</a>&gt; escribi=F3:<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Buenas tardes,<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; =A0<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; =A0=A0=A0=A0 Acabo de realizar dos trasferenc=
+ias por el monto total del env=EDo de la mercanc=EDa, adjunto los datos sol=
+icitados.<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; =A0<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Datos de la Compra<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Nombre del cliente registrado: =A0Dubraskha Y=
+oscar Tovar Montenegro C.I. 19.354.175<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Producto(s) Cancelados Tel=E9fono BlackBerry =
+9360<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Fecha de Deposito 23 de Octubre de 2013<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Monto Depositado=A03010 bs<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Envio Incluido en el Pago (Si/No)=A0<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Banco en donde se deposit=F3 Banesco<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Tipo de Deposito=A0Dos transferencias <br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Nro de Referencia/Comprobante:=A0=A0=A0 Banes=
+co Recibo 224522353=A0 (2610 bs) y Tesoro 161202 (400bs)<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Datos para el Envio<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Direccion de Envio Envio:=A0Avenida San Marti=
+n, calle Sevilla con calle Cordoba Casa teresa (Calle=A0cerrada con port=F3=
+n negro) punto de referencia bajando por el=A0Hospital Militar casi frente =
+a la empresa de env=EDos Tealca.<br>
+
+
+
+
+
+
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Ciudad y Estado: Distrito Capital<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Municipio: Libertador Parroquia=A0San Juan<br=
+>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Codigo Postal=A01020<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Persona que Recibe Dubraskha Tovar<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Telefono de Contacto 04169000671, 04126047115=
+ y 04120150784<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; =A0<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; =A0<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; =A0<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Espero su recibido y que me mantengan informa=
+do de la entrega.<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; Gracias.<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; =A0<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt; El 22/10/2013 18:03, &lt;<a href=3D"mailto:in=
+fo@courierpack.com.ve" target=3D"_blank">info@courierpack.com.ve</a>&gt; es=
+cribi=F3:<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Buenas Tardes=A0 Sra. Tovar =A0Por este m=
+edio se le informa que su carga se encuentra en nuestros almaneces disponib=
+le para su envio y entrega .<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Aprovechamos para indicar que el costo po=
+r el servicio de flete es de Bs.3010,<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Conjuntamente se le indica el detalle ban=
+cario=A0<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Titular: Gabriela Garcia=A0<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Cuenta Corriente: =A00134.0066.12.066.306=
+.9613=A0<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Banco: Banesco<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; C.I.: 18.539.138=A0<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Atencion telefonica =A0de Lunes a Viernes=
+ =A0de 10am a 4 pm<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Esta es nuestra informaci=F3n de contacto=
+:<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Tel=E9fono: 0424.108.27.57 / 0414.900.75.=
+90<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; E-mail: <a href=3D"mailto:Gabrielagarcia@=
+courierpack.com.ve" target=3D"_blank">Gabrielagarcia@courierpack.com.ve</a>=
+<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; <a href=3D"mailto:Miguel.pita@courierpack=
+.com.ve" target=3D"_blank">Miguel.pita@courierpack.com.ve</a><br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Persona Contacto: Gabriela Garcia/ Miguel=
+ Pita<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Una vez realizado el pago, enviar =A0un c=
+orreo a esta direcci=F3n <a href=3D"mailto:Gabrielagarcia@courierpack.com" =
+target=3D"_blank">Gabrielagarcia@courierpack.com</a><br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; <a href=3D"mailto:Miguel.pita@courierpack=
+.com.ve" target=3D"_blank">Miguel.pita@courierpack.com.ve</a> con la siguie=
+nte informaci=F3n:<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Datos de la Compra<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Nombre del cliente registrado ___________=
+____<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Producto(s) Cancelados _______________<br=
+>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Fecha de Deposito ________<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Monto Depositado _______<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Envio Incluido en el Pago (Si/No)_______<=
+br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Banco en donde se deposit=F3__________<br=
+>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Tipo de Deposito _____________<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Nro de Referencia/Comprobante ___________=
+<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Datos para el Envio<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Direccion de Envio Envio: ___________<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Ciudad y Estado_____________<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Municipio __________ =A0 =A0 =A0 =A0 =A0 =
+=A0 =A0 =A0 =A0Parroquia ____________<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Codigo Postal ___________<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Persona que Recibe _____________<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Telefono de Contacto ____________<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; En CPK =A0estamos para servirte. Cualquie=
+r duda no dejes de consultarnos por las canales antes presentados.<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;<br>
+&gt; &gt;&gt;&gt;&gt;&gt;&gt;&gt; Enviado desde mi BlackBerry de Movistar</=
+p>
+</blockquote></div>
+
+</div></div></blockquote></div>
+</div>
+</blockquote></div>
+</blockquote></div>
+
+--089e0116136a92996004e9cbcfe0--

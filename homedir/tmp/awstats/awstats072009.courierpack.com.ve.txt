@@ -1,0 +1,452 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 200907 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2534                
+POS_VISITOR 10074               
+POS_DAY 11751               
+POS_DOMAIN 3285                
+POS_LOGIN 3564                
+POS_ROBOT 3755                
+POS_WORMS 4011                
+POS_EMAILSENDER 4142                
+POS_EMAILRECEIVER 4285                
+POS_SESSION 12416               
+POS_SIDER 12624               
+POS_FILETYPES 4420                
+POS_OS 4606                
+POS_BROWSER 4701                
+POS_SCREENSIZE 4897                
+POS_UNKNOWNREFERER 4971                
+POS_UNKNOWNREFERERBROWSER 5298                
+POS_ORIGIN 5579                
+POS_SEREFERRALS 5723                
+POS_PAGEREFS 5889                
+POS_SEARCHWORDS 6646                
+POS_KEYWORDS 6798                
+POS_MISC 2197                
+POS_ERRORS 6857                
+POS_CLUSTER 3420                
+POS_SIDER_404 6976                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20090801070747 1 0 38105187814
+FirstTime 20090702100736
+LastTime 20090731050024
+LastUpdate 20090801230859 1 0 0 0 0
+TotalVisits 96                  
+TotalUnique 38                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 40                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 28 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 146 342 2914395 14 14 438
+1 78 279 1663421 28 28 142352
+2 0 0 0 7 7 58825
+3 0 0 0 9 9 11748
+4 10 43 361908 4 4 4
+5 5 39 346703 1 1 4553
+6 0 0 0 8 8 36549
+7 0 1 23767 0 0 0
+8 54 176 626735 6 6 52788
+9 6 32 68911 0 0 0
+10 17 132 521182 5 5 25600
+11 21 175 1315521 1 1 2
+12 32 188 570131 2 2 0
+13 49 276 909558 23 23 253138
+14 70 748 702264 5 7 20614
+15 80 606 1585280 9 10 848
+16 122 534 2045850 11 12 20
+17 120 583 3226577 27 28 112118
+18 169 1053 3050987 12 12 13
+19 277 1145 3477704 32 51 191741
+20 162 820 1992906 30 31 296616
+21 110 698 2082974 19 21 64356
+22 118 1036 2460694 20 23 159765
+23 260 1050 2655471 28 28 22
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+ve 1878 9877 31544412
+us 24 30 524632
+es 2 19 243482
+tt 2 30 290413
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 1
+courier 21 48 328500 20090716013205
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 35 819165 20090718203041 0
+ia_archiver 28 456550 20090722063350 0
+bot[+:,\.\;\/\\-] 3 124674 20090716082557 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 494 676506 0 0
+php 744 12681304 0 0
+png 154 65009 0 0
+html 1162 6474143 0 0
+jpg 6826 12155687 0 0
+js 86 376507 0 0
+gif 490 173783 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 5
+macosx 3
+winxp 9841
+winlong 67
+linuxubuntu 2
+Unknown 43
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 11
+msie8.0 229
+firefox3.0.3 2
+msie6.0 4033
+mozilla 12
+firefox3.0.12 208
+chrome 111
+msie7.0 198
+opera 44
+firefox3.0.11 5044
+Unknown 31
+firefox3.5 44
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20090720191916
+CSE_HTML_Validator_Professional_(http://www.htmlvalidator.com/) 20090716014143
+Mozilla/4.0_(compatible;) 20090716111902
+WordPress/2.7.1 20090716011710
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20090720191916
+CSE_HTML_Validator_Professional_(http://www.htmlvalidator.com/) 20090716014143
+WordPress/2.7.1 20090716011710
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 427 499
+From1 0 0
+From2 15 97
+From3 26 39
+From4 1438 9321
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 1 4
+live 14 93
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 13
+http://wwwapps.ups.com/etracking/tracking.cgi 9 9
+http://host.caracaspremium.com:2082/awstats.pl 4 4
+http://host.caracasftp.com:2082/frontend/x3/addoncgi/cpaddons.html 3 3
+http://www.facebook.com/home.php 3 7
+http://www.facebook.com/album.php 1 1
+http://host.caracasftp.com:2082/awstats.pl 1 1
+http://www.facebook.com/ext/share.php 1 1
+http://www.facebook.com/inbox/ 1 4
+http://es.mc267.mail.yahoo.com/mc/welcome 1 2
+http://whois.domaintools.com/courierpack.com.ve 1 1
+http://wwwapps.ups.com/ietracking/tracking.cgi 1 1
+http://es.mg40.mail.yahoo.com/dc/blank.html 0 2
+http://www.facebook.com/profile.php 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 87 137
+206 5 27671
+301 9 3913
+404 164 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 52
+/tarifas.html 5 http://www.courierpack.com.ve/servicios.html
+/robots.txt 20 -
+/model1/ 1 http://host.caracasftp.com:2082/awstats.pl
+/foro/ucp.php 1 -
+/foro/viewtopic.php 1 -
+/foro/install/index.php 2 -
+/si-no-vas-a-usar-tu-cupo-cadivi-te-lo-compro.html 3 http://www.courierpack.com.ve/
+/campos_actualizados.php 1 http://www.courierpack.com.ve/actualizar.php
+/zona_cliente.php 4 http://www.courierpack.com.ve/autentificar.php
+/registro.php 6 http://www.courierpack.com.ve/registro_clientes.php
+/Escritorio/IndexA.jpg 5 http://www.courierpack.com.ve/
+/foro/index.php 2 -
+/nosotros.html 1 http://www.courierpack.com.ve/index.html
+/login.php 2 http://www.courierpack.com.ve/autentificar.php
+/images/kubrickheader.jpg 1 http://www.courierpack.com.ve/style.css
+/img/next_year.gif 1 http://www.courierpack.com.ve/cargar_ordenes.php
+/actualizar 1 -
+/img/shade_tr.png 1 http://www.courierpack.com.ve/cargar_ordenes.php
+/foro/adm/index.php 1 -
+/img/no_cal.gif 1 http://www.courierpack.com.ve/cargar_ordenes.php
+/img/prev_year.gif 1 http://www.courierpack.com.ve/cargar_ordenes.php
+/img/cal.gif 1 http://www.courierpack.com.ve/cargar_ordenes.php
+/track.php 2 http://www.courierpack.com.ve/cargar_ordenes.php
+/img/shade_mr.png 1 http://www.courierpack.com.ve/cargar_ordenes.php
+/restablecer.php 1 http://www.courierpack.com.ve/index.html
+/img/shade_bl.png 1 http://www.courierpack.com.ve/cargar_ordenes.php
+/registrado.php 2 http://www.courierpack.com.ve/registro_clientes.php
+/mailphppropio.php 3 http://www.courierpack.com.ve/contacto.html
+/model1 1 -
+/resistro_clientes.php 3 http://www.courierpack.com.ve/registrado.php
+/alta.php 2 http://www.courierpack.com.ve/registrado.php
+/img/shade_bm.png 1 http://www.courierpack.com.ve/cargar_ordenes.php
+/img/pixel.gif 1 http://www.courierpack.com.ve/cargar_ordenes.php
+/bizama.png 2 http://www.courierpack.com.ve/actualizar.php
+/zona_ususarios.php 1 http://www.courierpack.com.ve/actualizar.php
+/images/mundocourierpack.jpg 1 -
+/img/next_mon.gif 1 http://www.courierpack.com.ve/cargar_ordenes.php
+/foro 1 -
+/osc/admin/ 1 http://host.caracasftp.com:2082/frontend/x3/addoncgi/cpaddons.html
+/foro/viewforum.php 1 -
+/img/prev_mon.gif 1 http://www.courierpack.com.ve/cargar_ordenes.php
+/webceo.js 1 http://www.courierpack.com.ve/En-riesgo-uso-de-tarjetas-de-credito-por-retrasos-de-Cadivi.html
+/img/shade_br.png 1 http://www.courierpack.com.ve/cargar_ordenes.php
+/www.courierpack.com.ve 2 http://www.courierpack.com.ve/nosotros.html
+/actualizar.php 1 -
+/preguntas.html 53 http://www.courierpack.com.ve/tarifas.html
+/foro/memberlist.php 1 -
+/servicios.html 1 http://www.courierpack.com.ve/nosotros.html
+/Contacto.html 10 http://www.courierpack.com.ve/tarifas.html
+/cargar.php 3 http://www.courierpack.com.ve/track.php
+/cargar_ordenes.php 1 -
+/estados.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 40
+201.208.0.142 870 5126 12022004 20090716201543
+201.208.5.201 674 2620 7699431 20090720224552
+200.84.124.159 106 658 1715134 20090716102150
+201.208.11.75 68 428 2316448 20090707184238
+200.84.115.215 55 254 1264559 20090729224353
+201.211.80.55 17 55 429257 20090722195746
+190.78.86.74 16 43 338507 20090715175638
+201.208.0.217 14 64 465129 20090731050024
+201.243.124.83 12 146 789071 20090716211828
+69.63.178.246 7 7 136357 20090716010834
+200.82.199.184 7 65 623999 20090716111309
+69.63.178.247 6 6 85820 20090717235237
+201.208.6.230 5 25 47311 20090721192550
+201.208.2.233 5 36 237643 20090727113907
+69.63.178.248 5 6 96995 20090717192112
+201.208.2.197 4 51 246136 20090723185715
+200.84.115.151 4 30 596960 20090709235232
+200.35.75.93 3 32 305120 20090728110601
+201.208.6.135 3 27 200323 20090709171152
+190.58.43.46 2 30 290413 20090715204841
+69.63.178.251 2 3 55440 20090715141319
+69.63.178.250 2 2 23204 20090713231738
+200.71.162.128 2 30 289893 20090719171325
+190.72.162.50 2 30 289971 20090716003203
+201.248.194.135 2 29 287070 20090716175712
+82.98.131.30 1 1 0 20090716011710
+201.242.103.151 1 16 235153 20090720172427
+200.84.125.182 1 9 0 20090710015817
+83.46.246.7 1 18 243482 20090719053041
+69.63.180.244 0 2 47534 
+190.78.39.105 1 23 210665 20090713213515
+69.63.178.249 1 2 35446 20090715134548
+200.1.171.138 1 16 234883 20090716111859
+190.78.46.170 1 9 196609 20090704203650
+200.84.115.228 1 9 0 20090710145734
+200.93.16.224 1 3 1038 20090702100736
+66.249.16.212 1 1 20069 20090715175707
+69.63.180.248 0 1 23767 
+200.93.9.72 1 16 234863 20090715222233
+190.200.183.125 1 27 267235 20090713211608
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20090702 10 17 188442 2
+20090704 47 311 1619288 3
+20090705 2 18 396637 1
+20090706 7 63 268337 2
+20090707 6 49 438028 3
+20090708 2 18 200323 1
+20090709 3 21 200323 3
+20090710 2 18 0 2
+20090712 2 19 200323 2
+20090713 396 2527 4579653 12
+20090714 68 314 537814 5
+20090715 269 2357 5792105 19
+20090716 309 1014 6662067 17
+20090717 368 1690 3964139 4
+20090718 314 907 3493683 4
+20090719 3 51 533375 2
+20090720 20 131 685096 4
+20090721 5 25 47311 1
+20090722 17 55 429257 1
+20090723 4 51 246136 2
+20090726 23 121 599536 2
+20090727 5 39 237643 1
+20090728 3 32 305120 1
+20090729 7 44 513174 1
+20090731 14 64 465129 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 10
+5mn-15mn 11
+30s-2mn 9
+15mn-30mn 9
+2mn-5mn 5
+0s-30s 48
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 60
+/ 588 4140557 74 56
+/nosotros.html 124 370042 1 1
+/tarifas.html 108 461878 2 8
+/contacto.html 104 283516 1 4
+/cargar_ordenes.php 102 1270179 1 2
+/servicios.html 101 280245 1 2
+/zona_usuarios.php 100 830274 0 1
+/actualizar.php 83 1181511 0 0
+/registro_clientes.php 71 3702153 1 2
+/reenviar_clave.php 62 479183 0 1
+/registrado.php 57 2288982 1 2
+/aviso.html 41 87618 0 0
+/foro/adm/index.php 35 434065 0 1
+/track.php 33 201030 0 1
+/actualizado.php 27 185573 0 0
+/identificarse.php 27 262084 0 0
+/autentificar.php 26 175380 0 0
+/Complicaciones-tecnologicas-retardan-modificaciones-del-cupo-de-Cadivi.html 25 250062 4 3
+/contacto.php 21 145955 0 1
+/En-riesgo-uso-de-tarjetas-de-credito-por-retrasos-de-Cadivi.html 19 132953 1 1
+/foro/install/index.php 17 91775 0 0
+/blackberry-vs-nokia.html 10 82168 2 3
+/wordpress/wp-content/themes/default/images/header-img.php 9 78208 0 0
+/foro/style.php 8 549888 0 0
+/cadivi-disena-cambios-radicales-en-el-cupo-cadivi-que-beneficiaran-a-los-viajeros-en-sus-compras-en-USA-e-Internet.html 8 84246 2 2
+/osc/shopping_cart.php 1 22848 0 0
+/wordpress/ 3 16458 0 0
+/model1/ 7 33936 1 3
+/osc/admin/countries.php 6 98922 0 0
+/foro/ucp.php 5 40026 0 0
+/osc/create_account.php 1 41409 0 0
+/foro/viewtopic.php 1 14039 0 0
+/osc/admin/backup.php 3 20726 0 0
+/wordpress/wp-admin/index-extra.php 4 5380 0 0
+/si-no-vas-a-usar-tu-cupo-de-cadivi-te-lo-compro.html 5 51569 1 0
+/foro/cron.php 5 215 0 0
+/osc/admin/modules.php 6 93777 0 0
+/foro/index.php 6 48214 0 0
+/wordpress/wp-admin/widgets.php 1 37431 0 0
+/wordpress/wp-login.php 2 3984 0 0
+/osc/product_info.php 1 27715 0 0
+/osc/admin/define_language.php 1 17776 0 0
+/wordpress/wp-admin/theme-editor.php 1 17071 0 0
+/foro/ 3 21359 0 0
+/osc/ 2 52538 0 0
+/osc/login.php 1 24661 0 0
+/wordpress/wp-cron.php 1 0 1 1
+/osc/admin/login.php 1 3429 0 0
+/osc/admin/administrators.php 1 11560 0 0
+/cadivi-estudia-mecanismos-para-ajustar-cupo-cadivi-para-compras-por-internet.html 5 40656 1 0
+/wordpress/wp-admin/plugins.php 2 33180 0 0
+/wordpress/wp-admin/options-general.php 1 18984 0 0
+/wordpress/wp-admin/ 1 29298 0 0
+/foro/viewforum.php 2 22506 0 0
+/osc/admin/index.php 1 10878 0 0
+/economistas-estiman-que-el-gobierno-recortara-el-cupo-en-dolares-para-2009.html 8 55044 1 1
+/foro/memberlist.php 1 7374 0 0
+/osc/admin/configuration.php 2 42610 0 0
+/estados.php 4 49127 0 0
+/wordpress/wp-admin/themes.php 5 91222 0 0
+END_SIDER

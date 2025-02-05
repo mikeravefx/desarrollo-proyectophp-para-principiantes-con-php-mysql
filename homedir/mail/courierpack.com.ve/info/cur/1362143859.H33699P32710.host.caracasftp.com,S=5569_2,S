@@ -1,0 +1,133 @@
+Return-path: <>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Fri, 01 Mar 2013 08:47:39 -0430
+Received: from smtp02.bis6.us.blackberry.com ([74.82.85.2]:21912)
+	by host.caracasftp.com with esmtp (Exim 4.80)
+	id 1UBPqD-0008VL-KL
+	for info@courierpack.com.ve; Fri, 01 Mar 2013 08:47:38 -0430
+Received: from antispam18.c0.bise6.blackberry ([192.168.0.33])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r21DHX67029099
+	for <SRS0=bQk0pe=MV=courierpack.com.ve=info@srs.bis6.us.blackberry.com>; Fri, 1 Mar 2013 13:17:33 GMT
+X-SBRS: 4.5
+Received: from smtp03.bis6.us.blackberry.com ([74.82.85.3])
+  by antispam18.c0.bise6.blackberry with ESMTP; 01 Mar 2013 13:17:33 +0000
+Received: from localhost by smtp03.bis6.us.blackberry.com;
+  01 Mar 2013 13:17:33 +0000
+Message-Id: <dd1237$s4frt5@smtp3.c0.bise6.blackberry>
+Date: 01 Mar 2013 13:17:33 +0000
+To: SRS0=bQk0pe=MV=courierpack.com.ve=info@srs.bis6.us.blackberry.com
+From: "Mail Delivery System" <MAILER-DAEMON@smtp3.c0.bise6.blackberry>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="uH++V.4rjpKYchG.1oOkKV.5xbV3Kx"
+
+--uH++V.4rjpKYchG.1oOkKV.5xbV3Kx
+content-type: text/plain;
+    charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <m_pita@courierpack.com.ve> was undeliverable.
+The reason for the problem:
+5.1.0 - Unknown address error 550-'No such person at this address'
+
+--uH++V.4rjpKYchG.1oOkKV.5xbV3Kx
+content-type: message/delivery-status
+
+Reporting-MTA: dns; smtp03.bis6.us.blackberry.com
+
+Final-Recipient: rfc822;m_pita@courierpack.com.ve
+Action: failed
+Status: 5.0.0 (permanent failure)
+Remote-MTA: dns; [82.98.131.174]
+Diagnostic-Code: smtp; 5.1.0 - Unknown address error 550-'No such person at this address' (delivery attempts: 0)
+
+--uH++V.4rjpKYchG.1oOkKV.5xbV3Kx
+content-type: message/rfc822
+
+Received: from unknown (HELO srs.bis6.us.blackberry.com) ([172.29.231.132])
+  by smtp03.bis6.us.blackberry.com with ESMTP; 01 Mar 2013 13:17:32 +0000
+Received: from b18.c15.bise6.blackberry ([192.168.0.118])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id r21DHTpW025084
+	for <m_pita@courierpack.com.ve>; Fri, 1 Mar 2013 13:17:29 GMT
+Received: from 172.29.208.209 (cmp39.c15.bise6.blackberry [172.29.208.209])
+	by b18.c15.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id r21DHSke006679
+	for <m_pita@courierpack.com.ve>; Fri, 1 Mar 2013 13:17:28 GMT
+X-rim-org-msg-ref-id: 1223424296
+Message-ID: <1223424296-1362143847-cardhu_decombobulator_blackberry.rim.net-1153473005-@b27.c15.bise6.blackberry>
+Reply-To: info@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: RV: RELACION AEREO 02/27/2013
+Cc: m_pita@courierpack.com.ve
+From: info@courierpack.com.ve
+Date: Thu, 28 Feb 2013 20:50:21 +0000
+Content-Type: multipart/alternative; boundary="part3571-boundary-1902104047-2099239942"
+MIME-Version: 1.0
+
+
+--part3571-boundary-1902104047-2099239942
+Content-Type: text/plain; charset="Windows-1252"
+
+
+Enviado desde mi BlackBerry de Movistar
+
+-----Original Message-----
+From: ADUANAIR <aduanair@gmail.com>
+Date: Thu, 28 Feb 2013 15:32:16 
+To: <info@courierpack.com.ve>
+Subject: RELACION AEREO 02/27/2013
+
+RELACION AEREO
+
+28330 MIGUEL ANGEL PITA   84$
+28373 DIANA MARQUEZ        20$
+
+                            TOTAL      104$
+
+1Z21F61F0308787948, 4203317892612904851051571001780673, LL14626394,
+1Z104Y1F0325929517, 420331789400110200883686498261, LH12836641,
+
+-- 
+*ADUANAIR CARGO & COURIER CORP.
+5900 NW 99 Ave Unit 6
+Doral, Florida 33178
+Phone:(305)7183636
+Fax:(305)7183969*
+
+BY TSA REGULATIONS ALL CARGO WILL BE SUBJECT TO INSPECTION.
+
+
+--part3571-boundary-1902104047-2099239942
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset="Windows-1252"
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj48aHRtbD48aGVhZD48bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgi
+IGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSI+PC9oZWFkPjxib2R5PjxkaXY+RW52aWFkbyBkZXNk
+ZSBtaSBCbGFja0JlcnJ5IGRlIE1vdmlzdGFyPC9kaXY+PGhyLz48ZGl2PjxiPkZyb206IDwvYj4g
+QURVQU5BSVIgJmx0O2FkdWFuYWlyQGdtYWlsLmNvbSZndDsNCjwvZGl2PjxkaXY+PGI+RGF0ZTog
+PC9iPlRodSwgMjggRmViIDIwMTMgMTU6MzI6MTYgLTA1MDA8L2Rpdj48ZGl2PjxiPlRvOiA8L2I+
+Jmx0O2luZm9AY291cmllcnBhY2suY29tLnZlJmd0OzwvZGl2PjxkaXY+PGI+U3ViamVjdDogPC9i
+PlJFTEFDSU9OIEFFUkVPIDAyLzI3LzIwMTM8L2Rpdj48ZGl2Pjxici8+PC9kaXY+PGRpdiBkaXI9
+Imx0ciI+PGRpdj48ZGl2PjxkaXY+UkVMQUNJT04gQUVSRU8gPGJyPjxicj48L2Rpdj4yODMzMCBN
+SUdVRUwgQU5HRUwgUElUQaCgIDg0JDxicj48L2Rpdj4yODM3MyBESUFOQSBNQVJRVUVaoKCgoKCg
+oCAyMCQ8YnI+PGJyPjwvZGl2PqCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoCBUT1RBTKCgoKCg
+IDEwNCQ8YnI+PGJyPjFaMjFGNjFGMDMwODc4Nzk0OCwgNDIwMzMxNzg5MjYxMjkwNDg1MTA1MTU3
+MTAwMTc4MDY3MywgTEwxNDYyNjM5NCwgMVoxMDRZMUYwMzI1OTI5NTE3LCA0MjAzMzE3ODk0MDAx
+MTAyMDA4ODM2ODY0OTgyNjEsIExIMTI4MzY2NDEsIDxiciBjbGVhcj0iYWxsIj4NCjxkaXY+PGRp
+dj48ZGl2PjxkaXY+PGJyPi0tIDxicj48Yj48Zm9udCBjb2xvcj0iI2UzNmMwOSI+QURVQU5BSVIg
+Q0FSR08gJmFtcDsgQ09VUklFUiBDT1JQLjwvZm9udD48YnI+NTkwMCBOVyA5OSBBdmUgVW5pdCA2
+PGJyPkRvcmFsLCBGbG9yaWRhIDMzMTc4PGJyPlBob25lOjxhIHZhbHVlPSIrMTMwNTcxODM2MzYi
+PigzMDUpNzE4MzYzNjwvYT48YnI+RmF4OjxhIHZhbHVlPSIrMTMwNTcxODM5NjkiPigzMDUpNzE4
+Mzk2OTwvYT48L2I+PGJyPg0KPGJyPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTBwdCI+QlkgVFNB
+IFJFR1VMQVRJT05TIEFMTCBDQVJHTyBXSUxMIEJFIFNVQkpFQ1QgVE8gSU5TUEVDVElPTi48L3Nw
+YW4+DQo8ZGl2IHN0eWxlPSJkaXNwbGF5OmlubGluZSI+PC9kaXY+DQo8L2Rpdj48L2Rpdj48L2Rp
+dj48L2Rpdj48L2Rpdj4NCg0KPC9ib2R5PjwvaHRtbD4=
+
+--part3571-boundary-1902104047-2099239942--
+
+
+--uH++V.4rjpKYchG.1oOkKV.5xbV3Kx--
+
+

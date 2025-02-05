@@ -1,0 +1,129 @@
+Return-path: <olx-bounce@olx-inc.com>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Thu, 31 May 2012 00:48:56 -0430
+Received: from relay1.olx.com ([204.232.252.90]:53482)
+	by host.caracasftp.com with esmtp (Exim 4.77)
+	(envelope-from <olx-bounce@olx-inc.com>)
+	id 1SZxmh-0005RY-Sy
+	for miguel.pita@courierpack.com.ve; Thu, 31 May 2012 00:48:56 -0430
+Received: from relay1.olx.com (localhost [127.0.0.1])
+	by relay1.olx.com (Postfix) with ESMTP id 399BD7D38F4
+	for <miguel.pita@courierpack.com.ve>; Thu, 31 May 2012 01:18:54 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=olx.com; h=date:to:from
+	:reply-to:subject:message-id:mime-version:content-type; s=
+	relay1; bh=l0dsJJitzaQrDJ5TEhW46O6AXZM=; b=JehrAXmIonvZ0MgZXPz6q
+	oqD6aF5KHLxESnptlP9R6cr9wMqZKEADouGnYrUCts245VPsOMhTnEAWybYpa2Ox
+	g7lS8Pe+Q2ykhz9Gq8azdyjudtEYj5tg+GEFZpBmGerdWcc6LbI9/SzDJw0kNPgz
+	c994dr4zx4aCvMCAhIzAys=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=olx.com; h=date:to:from
+	:reply-to:subject:message-id:mime-version:content-type; q=dns;
+	 s=relay1; b=aR5O/uF41q6B5ZqFmJ0/PvlnyYQFTe/WTWTlL6JMD96v//HClcy
+	7zUxpGwUyZN3NiZ2b4db/sKMrFPnq35BwiMLLvyB8+hIgWTy7K5VEf3UsFiPNzr0
+	/HWW/mM45c/3+QpqvAET1FFOXsjE69BmpGzrP+Zm/zIb9IlR7q66ocoM=
+Date: Thu, 31 May 2012 01:18:54 -0400
+To: courierpack <miguel.pita@courierpack.com.ve>
+From: OLX <support@olx.com>
+Reply-to: OLX <support@olx.com>
+Subject: =?utf-8?Q?=C2=A1Republica_gratis_tu_anuncio_en_OLX!?=
+Message-ID: <b516aae539212058f13aecba87e7d787@relay1.olx.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+Bounces-To: olx-bounce@olx-inc.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_b516aae539212058f13aecba87e7d787"
+
+
+--b1_b516aae539212058f13aecba87e7d787
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+                                                               =20
+       O                L                X                     =20
+                     Esperamos que hayas tenido una exitosa
+experiencia en OLX.             * Puedes hacer que tu anuncio
+aparezca al principio de los resultados haciendo click en el
+link de abajo y eligiendo el bot=C3=B3n                            =20
+                                                               =20
+                   * Los anuncios destacados aparecen en los
+mejores lugares de OLX y llaman la atenci=C3=B3n.               =20
+=C2=A1En promedio recibir=C3=A1s 6 veces m=C3=A1s respuestas!              =
+=20
+                Para destacar tus anuncios haz click en el link
+de abajo y en el bot=C3=B3n "Destaca tu anuncio"                   =20
+                                                               =20
+                                               Ir a Mi OLX para
+manejar mis anuncios                                           =20
+                                                              =20
+CONSEJO UTIL: =C2=BFLeyendo este email en tu celular?              =20
+                                            Haz click aqu=C3=AD para
+manejar tu anuncio desde tu celular                            =20
+                      Gracias por usar OLX,
+El equipo de OLX
+
+Si necesita asistencia o tiene alg=C3=BAn comentario, p=C3=B3ngase en
+contacto con nosotros a trav=C3=A9s de nuestro equipo de atenci=C3=B3n
+al cliente               =20
+                        Si no quiere recibir m=C3=A1s este email=20
+haz click aqu=C3=AD y desmarca la opci=C3=B3n   Avisarme cuando se pueda
+republicar mi anuncio.           =20
+
+
+--b1_b516aae539212058f13aecba87e7d787
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>    <head>        <title></title>        <style =
+type=3D"text/css"><!-- .Style2 {font-size: 10px;}--></style>    </head>    =
+<body>        <div =
+style=3D"font-family:arial,sans-serif;font-size:13px;width:620px;">        =
+    <div id=3D"mailheader" style=3D"font-size:20px;border-bottom: 1px =
+solid rgb(255, 180, 1); padding: 0pt 5px 5px;">                        =
+<span style=3D"color: rgb(114, 27, 134);">O</span>                <span =
+style=3D"color: rgb(182, 209, 16);">L</span>                <span =
+style=3D"color: rgb(255, 137, 0);">X</span>                    </div>      =
+      <br/>            <p>Esperamos que hayas tenido una exitosa =
+experiencia en OLX. </p>            <p>* Puedes hacer que tu anuncio =
+aparezca al principio de los resultados haciendo click en el link de abajo =
+y eligiendo el bot=C3=B3n                  <a href=3D"http://www.olx.com.v=
+e/myolx/index.php?hm=3D27GiDFyzqWE4%2F8SHTl5ttJNH9On9plS0NMl0niR7%2FRoQk7%=
+2BiWbxUp9Fru3%2FhTEpywNTe%2BAtKJI7DQUum0E4%3D">                    <img =
+src=3D"http://www.olx.com.ve/images/i-myolx-republish.gif" border=3D"0" =
+align=3D"absmiddle"/>                </a>                <br/>             =
+   <br/>                            * Los anuncios destacados aparecen en =
+los mejores lugares de OLX y llaman la atenci=C3=B3n.                 =
+=C2=A1En promedio recibir=C3=A1s 6 veces m=C3=A1s respuestas!              =
+  <br/>                Para destacar tus anuncios haz click en el link de =
+abajo y en el bot=C3=B3n "Destaca tu anuncio"                 <a =
+href=3D"http://www.olx.com.ve/myolx/index.php?hm=3D27GiDFyzqWE4%2F8SHTl5tt=
+JNH9On9plS0NMl0niR7%2FRoQk7%2BiWbxUp9Fru3%2FhTEpywNTe%2BAtKJI7DQUum0E4%3D"=
+>                    <img =
+src=3D"http://www.olx.com.ve/images/i-myolx-featured.gif" border=3D"0" =
+align=3D"absmiddle"/>                </a>                <br/>             =
+   <br/>                            <a href=3D"http://www.olx.com.ve/myolx=
+/index.php?hm=3D27GiDFyzqWE4%2F8SHTl5ttJNH9On9plS0NMl0niR7%2FRoQk7%2BiWbxU=
+p9Fru3%2FhTEpywNTe%2BAtKJI7DQUum0E4%3D">                    Ir a Mi OLX =
+para manejar mis anuncios                 </a>                <br/>        =
+        <br/>            </p>            <div style=3D"border:1px solid =
+#f00;padding:10px 10px;">                <p style=3D"color:#f00;">         =
+           <strong>CONSEJO UTIL: =C2=BFLeyendo este email en tu =
+celular?</strong>                    <br/>                    <br/>        =
+            <a =
+href=3D"http://m.olx.com.ve/login.php?a=3D4&x=3D1&mli=3D1">Haz click =
+aqu=C3=AD para manejar tu anuncio desde tu celular</a>                </p> =
+           </div>            <br/>            Gracias por usar OLX,<br =
+/><strong>El equipo de OLX</strong><br /><br />Si necesita asistencia o =
+tiene alg=C3=BAn comentario, p=C3=B3ngase en contacto con nosotros a =
+trav=C3=A9s de nuestro <a =
+href=3D"http://www.olx.com.ve/contacts.php">equipo de atenci=C3=B3n al =
+cliente</a>        </div>        <span class=3D"Style2"><br>            =
+<br/>            Si no quiere recibir m=C3=A1s este email  <a =
+href=3D"http://www.olx.com.ve/myclassifieds/emailsnotification.php">haz =
+click aqu=C3=AD</a> y desmarca la opci=C3=B3n   Avisarme cuando se pueda =
+republicar mi anuncio.        </span>    </body></html>
+
+
+
+--b1_b516aae539212058f13aecba87e7d787--
+
+

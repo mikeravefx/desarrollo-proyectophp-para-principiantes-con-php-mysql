@@ -1,0 +1,57 @@
+Return-path: <francisortizsalazar@gmail.com>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Fri, 22 Feb 2013 18:07:58 -0430
+Received: from mail-da0-f44.google.com ([209.85.210.44]:42981)
+	by host.caracasftp.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <francisortizsalazar@gmail.com>)
+	id 1U91Fb-0008S2-BK
+	for miguel.pita@courierpack.com.ve; Fri, 22 Feb 2013 18:07:55 -0430
+Received: by mail-da0-f44.google.com with SMTP id z20so569257dae.3
+        for <miguel.pita@courierpack.com.ve>; Fri, 22 Feb 2013 14:37:51 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:x-received:date:message-id:subject:from:to
+         :content-type;
+        bh=fiLqYBrQIA/lc7XBSQCMGbxFD2GI2jQiw3qziEAbPOA=;
+        b=Df22Du3O7Xzogr8Abs9QKFQO8iJkT0s3S3ihieP8zKhrHLinlMO8gud1lEbBV3VrZB
+         JnsM6Wj94h4qe214imFXKKKCIIIVpr/5JfCkKnU2WnVCpZFAsmF1iMCZClfzuCpOEBPX
+         POyvEty8/r0/hOTQaqW8DJG1k41MeoCws8qIarvRAu8/Tf0+FDNzaVRNNGsrl1p15TDJ
+         K4St8NjOEm6xtdzyGLJddZtGXA9N44jJHON1Df+wUGrh/nO8fAkzyTMtdAUQd80lev6K
+         0QqdRaZCFA89xBAqC58XxgXmOs6CKlg9Xw714vpTqmmqtE8et04los7EOCJkfg2d8VAZ
+         R9Dg==
+MIME-Version: 1.0
+X-Received: by 10.68.11.35 with SMTP id n3mr5439353pbb.220.1361572670728; Fri,
+ 22 Feb 2013 14:37:50 -0800 (PST)
+Received: by 10.68.115.166 with HTTP; Fri, 22 Feb 2013 14:37:50 -0800 (PST)
+Date: Fri, 22 Feb 2013 14:37:50 -0800
+Message-ID: <CAD5vDuBZkSQ=ENAARSexe9fpEDoAmtwM5dLaD=ZGG0dbDcnYbg@mail.gmail.com>
+Subject: COTIZACION FLETE
+From: Francis Ortiz <francisortizsalazar@gmail.com>
+To: miguel.pita@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=bcaec5215a6f5feb2604d657d7d5
+
+--bcaec5215a6f5feb2604d657d7d5
+Content-Type: text/plain; charset=ISO-8859-1
+
+http://www.amazon.com/gp/product/B0020LZO80/ref=ox_sc_act_title_3?ie=UTF8&psc=1&smid=ATVPDKIKX0DER
+
+MIGUEL ESTE ES EL LINK.
+
+A LA ESPERA DE UN MONTO APROX DEL FLETE. GRACIAS POR TU AMABLE ATENCION.
+
+SLDOS.
+
+--bcaec5215a6f5feb2604d657d7d5
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<a href=3D"http://www.amazon.com/gp/product/B0020LZO80/ref=3Dox_sc_act_titl=
+e_3?ie=3DUTF8&amp;psc=3D1&amp;smid=3DATVPDKIKX0DER">http://www.amazon.com/g=
+p/product/B0020LZO80/ref=3Dox_sc_act_title_3?ie=3DUTF8&amp;psc=3D1&amp;smid=
+=3DATVPDKIKX0DER</a><div>
+<br></div><div>MIGUEL ESTE ES EL LINK.=A0</div><div><br></div><div>A LA ESP=
+ERA DE UN MONTO APROX DEL FLETE. GRACIAS POR TU AMABLE ATENCION.</div><div>=
+<br></div><div>SLDOS.</div>
+
+--bcaec5215a6f5feb2604d657d7d5--

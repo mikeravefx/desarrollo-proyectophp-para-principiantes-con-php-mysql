@@ -1,0 +1,92 @@
+Return-path: <arixcalderon@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Mon, 07 Oct 2013 21:32:48 -0430
+Received: from mail-oa0-f49.google.com ([209.85.219.49]:44509)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <arixcalderon@gmail.com>)
+	id 1VTMdM-000hK5-FU
+	for info@courierpack.com.ve; Mon, 07 Oct 2013 21:32:48 -0430
+Received: by mail-oa0-f49.google.com with SMTP id i4so6906464oah.8
+        for <info@courierpack.com.ve>; Mon, 07 Oct 2013 19:02:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:content-transfer-encoding:reply-to:references
+         :in-reply-to:sensitivity:importance:subject:to:from:date
+         :content-type:mime-version;
+        bh=LdrlQDcoB3T2mqE9hjWrhUnbLPxWaIhefAHEG0+05qY=;
+        b=qaT8JI+cW82NMr6/jCqMIQuxUcs/nT4NU644HR/VIjiLiUOrOb3G06cbBMSSnXWbJM
+         RtAbxG4gZFtQcxLrOfvFlrJ7bEdoIesWUbZcJHicUuyybUcUFUvioJJ6HI1Xx5LqTCEU
+         5rCQKVYzWMT6f5nskYx0MWopkg6bA6MIbxXDKcZOMVex3YnuhLRdq+yGJdxb7C3v7yvN
+         rGNNZunnX6rV9TCh32AnMB38PIzwPHB0B9ZstRLGDQr5wYiDKdq1E6hxsun4nvrBpvft
+         ZDGjDW3Ls1UC3KYc6od617h1JtEJjF5B84YlfFxaICSPgnHzO77A/9hUY0wtjDvz0eSf
+         erjg==
+X-Received: by 10.60.42.234 with SMTP id r10mr6429627oel.40.1381197766100;
+        Mon, 07 Oct 2013 19:02:46 -0700 (PDT)
+Received: from 172.29.203.214 (bda-74-82-82-126.bis6.us.blackberry.com. [74.82.82.126])
+        by mx.google.com with ESMTPSA id b5sm947532obj.8.1969.12.31.16.00.00
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Mon, 07 Oct 2013 19:02:45 -0700 (PDT)
+X-rim-org-msg-ref-id:1898334310
+Message-ID:<1898334310-1381197762-cardhu_decombobulator_blackberry.rim.net-498388905-@b5.c10.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: arixcalderon@gmail.com
+X-Priority: Normal
+References: <1420796165-1381195033-cardhu_blackberry.rim.net-copy_sent_folder-167133471-@b12.c4.bise6.blackberry>
+  <556351873-1381195647-cardhu_decombobulator_blackberry.rim.net-1102683396-@b12.c4.bise6.blackberry>
+In-Reply-To: <556351873-1381195647-cardhu_decombobulator_blackberry.rim.net-1102683396-@b12.c4.bise6.blackberry>
+Sensitivity: Normal
+Importance: Normal
+Subject: Re: Requisicion del Email desde el Web Site
+To: info@courierpack.com.ve
+From: arixcalderon@gmail.com
+Date: Tue, 8 Oct 2013 02:02:42 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+
+U2XRb3JlcyBsb3MgcGFxdWV0ZXMgZW52aWFkb3MgZXN0YW4gYSBub21icmUgZGVsIHNl0W9yIEJl
+bmlnbm8gRXNwaW5vemEuIEVsIHNlIGVuY3VlbnRyYSByZXNnaXN0cmFkbyB5IGxvcyBwZWRpbW9z
+IGRlc2RlIHN1IGN1ZW50YS4gQSBtaSBubyBtZSBoYWJsZW4gZGUgbGV5LCB5YSBxdWUgbGVzIGhl
+bW9zIGVzY3JpdG8gdmFyaWFzIHZlY2VzIGRlc2RlIGxhIGN1ZW50YSBkZWwgc2XRb3IgRXNwaW5v
+emEgeSBubyBzZSBkaWduYW4gYSByZXNwb25kZXIuIFRpZW5lbiBudWVzdHJvcyBwYXF1ZXRlcyBk
+ZXNkZSBoYWNlIGNhc2kgdW4gbWVzLCB5IG5vIHNlIGhhbiBkaWdhZG8gYSBjb250ZXN0YXIgbmlu
+Z3VuIG1lbnNhamUgbmkgbWFpbC4gSGljaW1vcyBwZWRpZG8gZGUgMyBvYmpldG9zLiBFbCBtYWls
+IGRlbCBhZmlsaWFkbyBlcyBiZW5pZ2VzcGlub3phQGdtYWlsLmNvbSBsZXMgaGVtb3MgZXNjcml0
+byBkZXNkZSBhbGxpIHRhbWJpZW4geSBuYWRhIHF1ZSByZXNwb25kZW4uIERpZ2FtZSBjb21vIHZh
+bW9zIGEgcGFnYXIgc2kgbm8gbm9zIGNvbnRlc3Rhbj8/Li4ubGUgc3VnaWVybyBxdWUgbm9zIGV4
+cGxpcXVlIG8gbm9zIG1hbmRlIGxhIGluZm9ybWFjaW9uIHNvYnJlIGNvbW8gc2UgaGFjZSBwYXJh
+IHF1ZSBlbCBwYXF1ZXRlIGxlIGxsZWd1ZSBhIG1pIHBhZHJlLCBlbCBzZfFvciBlc3Bpbm96YSBh
+IHZlbmV6dWVsYSwgbyBtZSB2ZXJlIGZvcnphZGEgYSB0b21hciBtZWRpZGFzLiANCkVudmlhZG8g
+ZGVzZGUgbWkgQmxhY2tCZXJyeSBkZSBNb3Zpc3Rhcg0KDQotLS0tLU9yaWdpbmFsIE1lc3NhZ2Ut
+LS0tLQ0KRnJvbTogaW5mb0Bjb3VyaWVycGFjay5jb20udmUNCkRhdGU6IFR1ZSwgOCBPY3QgMjAx
+MyAwMToyNDozOCANClRvOiA8YXJpeGNhbGRlcm9uQGdtYWlsLmNvbT4NClJlcGx5LVRvOiBpbmZv
+QGNvdXJpZXJwYWNrLmNvbS52ZQ0KU3ViamVjdDogUmU6IFJlcXVpc2ljaW9uIGRlbCBFbWFpbCBk
+ZXNkZSBlbCBXZWIgU2l0ZQ0KDQpQcmltZXIgbWVuc2FqZSBkZSB1c3RlZCBxdWUgcmVjaWJpbW9z
+LiBMYSBsZXkgbm8gZXMgY29tbyB1c3RlZCBxdWllcmEgcXVlIHNlYSwgcHJpbWVybyBoYWdhIGxs
+ZWdhciB4IGVzdGUgbWVkaW8gbGFzICJwcnVlYmFzIiBxdWUgZGljZSB0ZW5lci4gSWd1YWwgdGVu
+ZHJpYSBxdWUgY2FuY2VsYXIgZWwgcGljayB1cCB5IHBydWViYXMgY29uc2lzdGVudGVzLi4uIFlh
+IHF1ZSBlbCBhbG1hY2VuIHF1ZSBub3MgcHJlc3RhIHNlcnZpY2lvIG5vIHRpZW5lIG5hZGEgcXVl
+IHZlcg0KRW52aWFkbyBkZXNkZSBtaSBCbGFja0JlcnJ5IGRlIE1vdmlzdGFyDQoNCi0tLS0tT3Jp
+Z2luYWwgTWVzc2FnZS0tLS0tDQpGcm9tOiBpbmZvQGNvdXJpZXJwYWNrLmNvbS52ZQ0KRGF0ZTog
+VHVlLCA4IE9jdCAyMDEzIDAxOjE0OjI0IA0KVG86IDxhcml4Y2FsZGVyb25AZ21haWwuY29tPg0K
+UmVwbHktVG86IGluZm9AY291cmllcnBhY2suY29tLnZlDQpTdWJqZWN0OiBSZTogUmVxdWlzaWNp
+b24gZGVsIEVtYWlsIGRlc2RlIGVsIFdlYiBTaXRlDQoNClByaW1lcm8gaWRlbnRpZmlxdWVzZSwg
+ZW4gZWwgc2lzdGVtYXMgdXN0ZWQgbm8gZXN0YSByZWdpc3RyYWRhISANCi0tLS0tLU1lbnNhamUg
+b3JpZ2luYWwtLS0tLS0NCkRlOiBhcml4Y2FsZGVyb25AZ21haWwuY29tDQpQYXJhOiBpbmZvQGNv
+dXJpZXJwYWNrLmNvbS52ZQ0KUmVzcG9uZGVyIGE6IGFyaXhjYWxkZXJvbkBnbWFpbC5jb20NCkFz
+dW50bzogUmVxdWlzaWNpb24gZGVsIEVtYWlsIGRlc2RlIGVsIFdlYiBTaXRlDQpFbnZpYWRvOiA3
+IGRlIG9jdCBkZSAyMDEzIDY6MjcgUE0NCg0KQXJpYW5uYSBFc3Bpbm96YSBFc2NyaWJpbyA6DQog
+ICAgICAgIFNlbm9yZXMgZGUgQ291cmllciBQYWNrLCBzb24gdW5vcyBpcnJlc3BvbnNhYmxlcywg
+bm8gY29udGVzdGFuIG1pIG1haWwgLCB5IHNlIHF1ZWRhcm9uIGNvbiBtaSBtZXJjYW5jaWEuIFNv
+eSBjaXVkYWRhbmEgYW1lcmljYW5hIGF1bnF1ZSB2aXZvIGVuIHZlbmV6dWVsYSB5YSBxdWUgbmFj
+aSBhbGxhLCB5IHRlbmdvIHVuIHZpYWplIGVzdGltYWRvIHBhcmEgZXN0ZSBtZXMuIFBvciBsbyBx
+dWUgbGVzIGluZm9ybW8gcXVlIHZveSBhIGlyIGEgcmV0aXJhciBtaSBtZXJjYW5jaWEgYSBsYSBk
+aXJlY2Npb24gcXVlIGFwYXJlY2UseWEgcXVlIGxhIG1lcmNhbmNpYSB5YSBsZXMgbGxlZ28gcGVy
+c29uYWxtZW50ZSB5IHNlIHF1ZWRhcm9uIGNvbiBtaXMgcGFxdWV0ZXMuIFNpIGVzIG5lY2VzYXJp
+byBpcmUgY29uIGxhIHBvbGljaWEgeSBjb24gcHJ1ZWJhcy4gVGVuZ28gdG9kYSBzdSBpbmZvcm1h
+Y2lvbiwgeSBsbyBkaWdvIHBvciBsYXMgYnVlbmFzLCB0ZW5nbyBsb3Mgc2NyZWVuc2hvdHMsbWlz
+IG1haWwgZW52aWFkb3MsIHkgZGVtYXMgcHJ1ZWJhcy4gYXNpIHF1ZSBsZXMgc3VnaWVybyBxdWUg
+Y29udGVzdGVuLCBhdW5xdWUgaWd1YWwgdm95IGEgaXIgcGVyc29uYWxtZW50ZSBjb24gcXVpZW4g
+dGVuZ2EgcXVlIGlyLiANCg0KTWVuc2FqZSBFbnZpYWRvIGVsIERpYTogIDctMTAtMTMNCg0KRW52
+aWFkbyBkZXNkZSBtaSBCbGFja0JlcnJ5IGRlIE1vdmlzdGFy
+

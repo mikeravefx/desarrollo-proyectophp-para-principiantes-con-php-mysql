@@ -1,0 +1,120 @@
+Return-path: <olx-bounce@olx-inc.com>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Tue, 04 Jun 2013 20:30:18 -0430
+Received: from relay1.olx.com ([204.232.252.90]:35093)
+	by host.racksystem2.com with esmtp (Exim 4.80)
+	(envelope-from <olx-bounce@olx-inc.com>)
+	id 1Uk25K-002hMg-3E
+	for miguel.pita@courierpack.com.ve; Tue, 04 Jun 2013 20:30:18 -0430
+Received: from relay1.olx.com (localhost [127.0.0.1])
+	by relay1.olx.com (Postfix) with ESMTP id 2A76E7D5066
+	for <miguel.pita@courierpack.com.ve>; Tue,  4 Jun 2013 21:00:16 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=olx.com; h=date:to:from
+	:reply-to:subject:message-id:mime-version:content-type; s=
+	relay1; bh=ntPGmSETxLEK1z2bi5abOYTGk7s=; b=i30iwc44aoUHGgDSzrvp0
+	TDRxaa2BMl+HJ+rUM9MZ0SSuxbXOqJzhvaweYVqFycr4d8sOEGt7G4dCz06F4+/q
+	An9GHQtJlvlRRr0wg7+lZu+du57G/zQ2XOLZpJsogkInEgjYUXRdtzfeakp8rQz+
+	g0LAG+nPTtbKWoEjQStZKY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=olx.com; h=date:to:from
+	:reply-to:subject:message-id:mime-version:content-type; q=dns;
+	 s=relay1; b=lXyzyvoy5U9VM0P60bXvfzs9iGWQbwiYm4uuCtM+36IA5UVWWMI
+	3eOo3vG+Z2Bume+NhwtSXobt3MOqJKlJEKD4aBkHhtWlm4sK6sWgeUxDZOajSX32
+	odt/0Q/hVYzOeyyEdmX1y4kPeHh74WMOzkzlSPVEBR6NMEHyQJLdY3oo=
+Date: Tue, 4 Jun 2013 21:00:16 -0400
+To: miguel.pita@courierpack.com.ve
+From: OLX <support@olx.com>
+Reply-to: OLX <support@olx.com>
+Subject: OLX Maneja tus anuncios - Accede a tu cuenta
+Message-ID: <65a43fdaab84f073cc937ea1461a705f@relay1.olx.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+Bounces-To: olx-bounce@olx-inc.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_65a43fdaab84f073cc937ea1461a705f"
+
+
+--b1_65a43fdaab84f073cc937ea1461a705f
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+           =20
+              OLX  Clasificados Gratis
+POR FAVOR CONSERVA ESTE CORREO. No se lo reenv=C3=ADes a nadie.
+Puedes utilizar los enlaces de abajo para editar tu anuncio.=20
+
+GESTIONA TU ANUNCIO (ED=C3=8DTALO, B=C3=93RRALO, A=C3=91ADE =
+IM=C3=81GENES):
+http://www.olx.com.ve/myolx/index.php?hm=3D27GiDFyzqWE4%2F8SHTl5ttJNH9On9p=
+lS0NMl0niR7%2FRoQk7%2BiWbxUp9Fru3%2FhTEpywNTe%2BAtKJI7DQUum0E4%3D
+
+
+
+=C2=BFLeyendo este email en tu celular? Haz click aqu=C3=AD para manejar
+tu anuncio desde tu celular
+
+Gracias por usar OLX,
+
+
+
+
+El equipo de OLX
+
+
+
+
+
+Si necesita asistencia o tiene alg=C3=BAn comentario, p=C3=B3ngase en
+contacto con nosotros a trav=C3=A9s de nuestro equipo de atenci=C3=B3n
+al cliente
+
+
+--b1_65a43fdaab84f073cc937ea1461a705f
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title></title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /></head><body>
+            <div style=3D"font-family:arial,sans-serif;font-size:13px;">
+              <div id=3D"mailheader" =
+style=3D"font-size:20px;border-bottom: 1px solid rgb(182, 209, 16); =
+padding: 0pt 5px 5px;"><span =
+style=3D"color:rgb(114,27,134);">O</span><span =
+style=3D"color:rgb(182,209,16);">L</span><span =
+style=3D"color:rgb(255,137,0);">X</span> <span =
+style=3D"color:rgb(51,51,51);"> Clasificados =
+Gratis</span></div><br><p><span style=3D"color:#ff1e00"><strong>POR FAVOR =
+CONSERVA ESTE CORREO. No se lo reenv=C3=ADes a =
+nadie.</strong></span><br>Puedes utilizar los enlaces de abajo para editar =
+tu anuncio. <br><br></p><div style=3D"background-color:#edf3c4;border-top: =
+1px solid #d5dab0;"><div style=3D"border:10px solid =
+#edf3c4"><strong>GESTIONA TU ANUNCIO (ED=C3=8DTALO, B=C3=93RRALO, =
+A=C3=91ADE IM=C3=81GENES):</strong><br><a class=3D"CommonMail" =
+href=3D"http://www.olx.com.ve/myolx/index.php?hm=3D27GiDFyzqWE4%2F8SHTl5tt=
+JNH9On9plS0NMl0niR7%2FRoQk7%2BiWbxUp9Fru3%2FhTEpywNTe%2BAtKJI7DQUum0E4%3D"=
+>http://www.olx.com.ve/myolx/index.php?hm=3D27GiDFyzqWE4%2F8SHTl5ttJNH9On9=
+plS0NMl0niR7%2FRoQk7%2BiWbxUp9Fru3%2FhTEpywNTe%2BAtKJI7DQUum0E4%3D</a><br>=
+<br></div></div><br><br><p>=C2=BFLeyendo este email en tu celular? <a =
+class=3D"CommonMail" href=3D"http://m.olx.com/auth/login_token?hm=3D27GiDF=
+yzqWE4%2F8SHTl5ttJNH9On9plS0NMl0niR7%2FRoQk7%2BiWbxUp9Fru3%2FhTEpywNTe%2BA=
+tKJI7DQUum0E4%3D">Haz click aqu=C3=AD para manejar tu anuncio desde tu =
+celular</a></p><br><br><div style=3D"padding: 0pt 5px;">Gracias por usar =
+OLX,
+
+<br /><strong>
+
+El equipo de OLX
+
+</strong><br /><br />
+
+Si necesita asistencia o tiene alg=C3=BAn comentario, p=C3=B3ngase en =
+contacto con nosotros a trav=C3=A9s de nuestro <a =
+href=3D"http://www.olx.com.ve/contacts.php">equipo de atenci=C3=B3n al =
+cliente</a></div></div></body></html>
+
+
+
+--b1_65a43fdaab84f073cc937ea1461a705f--
+
+

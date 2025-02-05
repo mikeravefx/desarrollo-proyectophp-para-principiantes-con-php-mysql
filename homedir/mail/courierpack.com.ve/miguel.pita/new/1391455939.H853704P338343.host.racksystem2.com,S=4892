@@ -1,0 +1,100 @@
+Return-path: <webfact@credicard.com.ve>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Mon, 03 Feb 2014 15:02:20 -0430
+Received: from credicorreo2.credicard.com.ve ([200.109.231.217]:12162 helo=smtpesa1.credicard.com.ve)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <webfact@credicard.com.ve>)
+	id 1WAPFa-001Q01-M9
+	for miguel.pita@courierpack.com.ve; Mon, 03 Feb 2014 15:02:19 -0430
+Received-SPF: None (smtpesa1.credicard.com.ve: no sender
+  authenticity information available from domain of
+  webfact@credicard.com.ve) identity=mailfrom;
+  client-ip=10.136.0.6; receiver=smtpesa1.credicard.com.ve;
+  envelope-from="webfact@credicard.com.ve";
+  x-sender="webfact@credicard.com.ve"; x-conformance=spf_only
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhIDAP/t71IKiAA1/2dsb2JhbAANTINEg1iEaRW2Ch+BBYNDbwYlGQIJIkeIEpAamnt2oTETBI5VMAcaglmBSQSWWAGXPIFNJA
+X-IronPort-AV: E=Sophos;i="4.95,774,1384317000"; 
+   d="scan'208,217";a="16627867"
+Received: from srv-xccs-exc.credicard.com.ve (HELO credicorreo.credicard.com.ve) ([10.136.0.6])
+  by smtpesa1.credicard.com.ve with ESMTP/TLS/AES128-SHA; 03 Feb 2014 15:03:54 -0430
+Received: from srv-vccs-misfactweb (10.136.0.53) by
+ credicorreo.credicard.com.ve (10.136.0.7) with Microsoft SMTP Server id
+ 8.2.255.0; Mon, 3 Feb 2014 15:01:56 -0430
+Message-ID: <534543253.1391455915372.JavaMail.bgadmin@srv-vccs-misfactweb>
+From: <webfact@credicard.com.ve>
+To: miguel.pita@courierpack.com.ve
+Subject: =?UTF-8?Q?Recuperaci=C3=B3n_de_datos?=
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_Part_755_207663204.1391455915372"
+Date: Mon, 3 Feb 2014 15:01:56 -0430
+X-Spam-Status: No, score=0.5
+X-Spam-Score: 5
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Estimado usuario, para completar el proceso de recuperación
+    de datos, siga el siguiente enlace: Recuperacion de datos. Si no puede seguir
+    en enlace, copie el siguiente texto y peguelo en la barra de navegación
+   de su navegador favorito: https://www.mis-facturas.com/consorcio/ProOlvidoDatos?key=81c381e8090c4a06b7121bab296d6925dada5aaef1fc976c829cb2c9e882cab5&SC=200
+    [...] 
+ 
+ Content analysis details:   (0.5 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.6 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+X-Spam-Flag: NO
+
+------=_Part_755_207663204.1391455915372
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body>
+Estimado usuario, para completar el proceso de recuperaci=C3=B3n de datos, =
+siga el siguiente enlace:
+<a href=3D"https://www.mis-facturas.com/consorcio/ProOlvidoDatos?key=3D81c3=
+81e8090c4a06b7121bab296d6925dada5aaef1fc976c829cb2c9e882cab5&amp;SC=3D200">
+Recuperacion de datos</a>.<br>
+<br>
+Si no puede seguir en enlace, copie el siguiente texto y peguelo en la barr=
+a de navegaci=C3=B3n de su navegador favorito:<br>
+https://www.mis-facturas.com/consorcio/ProOlvidoDatos?key=3D81c381e8090c4a0=
+6b7121bab296d6925dada5aaef1fc976c829cb2c9e882cab5&amp;SC=3D200<br>
+<br>
+Si usted no ha solicitado modificaci=C3=B3n de sus datos, y/o considera que=
+ este correo le ha llegado por error, por favor notifiquelo a la brevedad p=
+osible a nuestras oficinas<br>
+<br>
+Este proceso de recuperaci=C3=B3n tiene una validez de 24 horas, si al cabo=
+ de ese tiempo no ha efectuado la actualizaci=C3=B3n, perdera efecto sin re=
+alizar cambios.<br>
+<hr>
+<font face=3D"Arial" color=3D"Gray" size=3D"1">=E2=80=9CEste correo y cualq=
+uier archivo transmitidos con =C3=A9l son confidenciales y previsto solamen=
+te para el uso del individuo o de la entidad a quienes se tratan. Si UD. ha=
+ recibido este correo por error por favor notificar
+ a abuso@credicard.com.ve. Por favor considere que cualquier opini=C3=B3n p=
+resentada en este correo es solamente la del autor y no representa necesari=
+amente la opini=C3=B3n de Consorcio Credicard, C.A. Finalmente, el receptor=
+ debe comprobar este correo y cualquier anexo
+ del mismo para identificar la presencia de virus. La compa=C3=B1=C3=ADa no=
+ acepta ninguna responsabilidad por ning=C3=BAn da=C3=B1o causado por alg=
+=C3=BAn virus transmitido en este correo=E2=80=9D.'<br>
+</font>
+</body>
+</html>
+
+------=_Part_755_207663204.1391455915372--

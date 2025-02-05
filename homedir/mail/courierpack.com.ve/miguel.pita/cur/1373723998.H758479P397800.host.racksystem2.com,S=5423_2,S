@@ -1,0 +1,76 @@
+Return-path: <millan_ruben@yahoo.com>
+Envelope-to: Miguel.pita@courierpack.com.ve
+Delivery-date: Sat, 13 Jul 2013 09:29:59 -0430
+Received: from nm37-vm0.bullet.mail.bf1.yahoo.com ([72.30.238.200]:43516)
+	by host.racksystem2.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80)
+	(envelope-from <millan_ruben@yahoo.com>)
+	id 1Uy0Mg-001fTR-AV
+	for Miguel.pita@courierpack.com.ve; Sat, 13 Jul 2013 09:29:58 -0430
+Received: from [98.139.215.141] by nm37.bullet.mail.bf1.yahoo.com with NNFMP; 13 Jul 2013 13:59:55 -0000
+Received: from [98.139.212.242] by tm12.bullet.mail.bf1.yahoo.com with NNFMP; 13 Jul 2013 13:59:55 -0000
+Received: from [127.0.0.1] by omp1051.mail.bf1.yahoo.com with NNFMP; 13 Jul 2013 13:59:55 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 867274.74769.bm@omp1051.mail.bf1.yahoo.com
+Received: (qmail 20600 invoked by uid 60001); 13 Jul 2013 13:59:55 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1373723995; bh=bLHX2hm5YUii8P+FXDVp1bAXyI/tKMeG/Z6WZT6jlIA=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=PNa6CWHlgU7xd9EyDD0Qt3WGj0BuxCBvl8MpBI812K/iMh1XbdKvLpMU9K0qbGI8wseaQ1f5HlTS9Q89I4MaqkxXUhzvnvdzZfkVarh3+2nHwE4Tgl/L7UAEeXEYcyNmoRQPUACnk6ZBTZjL5A9twYFVCWeMZiYSG7XhBQuAjb8=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=HJuBuV+MwVaxI7ip9HiEspYpPmOVXNlieVqptlFiJ6Ye9sG9K5KhIVPVZFZxcXkl+pXEbykLgeD1fhhZsJWALTyGdwsjdO/IPYHr4oSP91O1jm/x+Qop/a5CsZ032j1a8O4HCvtA5rBYo6C9UxzhQjMoScoRa3bv2E/gunUBrKo=  ;
+X-YMail-OSG: ZHxbELgVM1l92KEXrrs2ui5j9.rqpmL1ACC5QzdqnFT0.Pi
+ CHBsujw0YB3FIYgLYceMV4aBo8s0YL3ikiGmkc6AbJUxrU_5nivYIcCC4bBo
+ gnv6OcXdni_jyBykOMeN4WEiIcmIpZo6sAiZ7hea1nCIOQ7ep9StKUZPBc0H
+ eesZgJi2RM3YS3SqMmMaFCWQDTdi9IF4lOa1_8tgEZDf2tkyDOC8Tr7W78JP
+ 02CgsrW7v2TmEJqcRyNuKsPA1MlDFc8KajJJLEQ.hbkZcTbiIZNK6TVt_zWU
+ H2zbR7AllOTyNSGGKqIbac5fGMRV0CnpYbqAeCs7rEaTellfMcEPaQBa7j1s
+ QhuNIv7qi4x.BTHrgs.VHPw.kjZrln8BfmZPyxKQZBiu_QPgeoCBKFgf2TEL
+ U8WhrRjDDPH_u7sOWgHv_pNHdThdd4dt9bS2.SIVVJRhdthgUtl__NDCDiuA
+ RJy0G3DS4LrhbZaDPMEOlLXwx6Rzwwx2wTEfao820nrIFeuwSAJfLwqE0DPl
+ bwZHXooZxtq6ta8BiRyIy5ZFb6Qb8NiRojLjQAQNhbVlmtKaBsOgQGTD1K3u
+ v4g--
+Received: from [190.203.104.248] by web140903.mail.bf1.yahoo.com via HTTP; Sat, 13 Jul 2013 06:59:55 PDT
+X-Rocket-MIMEInfo: 002.001,CgpOb21icmUgZGVsIGNsaWVudGUgcmVnaXN0cmFkbyBfUnViZW4gTWlsbGFuClByb2R1Y3RvKHMpIENhbmNlbGFkb3MgX19fX19fX19fX19fX19fCkZlY2hhIGRlIERlcG9zaXRvIF8xMi8wNy8yMDEzCk1vbnRvIERlcG9zaXRhZG8gXzEuNDQwLDAwCkVudmlvIEluY2x1aWRvIGVuIGVsIFBhZ28gKFNpL05vKV9fX19fX18KQmFuY28gZW4gZG9uZGUgc2UgZGVwb3NpdMOzX0JhbmVzY28gUGFycXVlIENyaXN0YWwKVGlwbyBkZSBEZXBvc2l0byBfQ29uIENoZXF1ZSBkZWwgQmFuY28gZGUgVmVuZXp1ZWxhCk5ybyABMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.148.557
+Message-ID: <1373723995.17283.YahooMailNeo@web140903.mail.bf1.yahoo.com>
+Date: Sat, 13 Jul 2013 06:59:55 -0700 (PDT)
+From: Ruben Millan Millan <millan_ruben@yahoo.com>
+Reply-To: Ruben Millan Millan <millan_ruben@yahoo.com>
+Subject: Informacion de pago
+To: "Gabrielagarcia@courierpack.com" <Gabrielagarcia@courierpack.com>,
+  "Miguel.pita@courierpack.com.ve" <Miguel.pita@courierpack.com.ve>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="2048499531-2131701779-1373723995=:17283"
+
+--2048499531-2131701779-1373723995=:17283
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+=0A=0ANombre del cliente registrado _Ruben Millan=0AProducto(s) Cancelados =
+_______________=0AFecha de Deposito _12/07/2013=0AMonto Depositado _1.440,0=
+0=0AEnvio Incluido en el Pago (Si/No)_______=0ABanco en donde se deposit=F3=
+_Banesco Parque Cristal=0ATipo de Deposito _Con Cheque del Banco de Venezue=
+la=0ANro de Referencia/Comprobante _1/09283081=0A=0ADatos para el Envio=0A=
+=0ADireccion de Envio Envio: _Calle Quebrada a Pte. Nuevo, Edif. Torre San =
+Pablo, Piso 4, Apto. 4-C=0ACiudad y Estado__Caracas=0AMunicipio _Libertador=
+=A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 Parroquia _San Juan=0ACodigo Postal ___=
+________=0APersona que Recibe _Ruben Millan o Ana Alfonzo=0ATelefono de Con=
+tacto _0412-2086189 y 0212-4810986=0A=0A=0ARuben Millan
+--2048499531-2131701779-1373723995=:17283
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ar=
+ial, helvetica, sans-serif;font-size:24pt"><div><span><br></span></div><div=
+>Nombre del cliente registrado _Ruben Millan<br>Producto(s) Cancelados ____=
+___________<br>Fecha de Deposito _12/07/2013<br>Monto Depositado _1.440,00<=
+br>Envio Incluido en el Pago (Si/No)_______<br>Banco en donde se deposit=F3=
+_Banesco Parque Cristal<br>Tipo de Deposito _Con Cheque del Banco de Venezu=
+ela<br>Nro de Referencia/Comprobante _1/09283081<br><br>Datos para el Envio=
+<br><br>Direccion de Envio Envio: _Calle Quebrada a Pte. Nuevo, Edif. Torre=
+ San Pablo, Piso 4, Apto. 4-C<br>Ciudad y Estado__Caracas<br>Municipio _Lib=
+ertador&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Parro=
+quia _San Juan<br>Codigo Postal ___________<br>Persona que Recibe _Ruben Mi=
+llan o Ana Alfonzo<br>Telefono de Contacto _0412-2086189 y 0212-4810986<br>=
+<br></div><div>Ruben Millan</div></div></body></html>
+--2048499531-2131701779-1373723995=:17283--

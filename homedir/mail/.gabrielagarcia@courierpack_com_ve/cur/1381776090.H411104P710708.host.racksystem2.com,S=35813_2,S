@@ -1,0 +1,746 @@
+Return-path: <dytovar@gmail.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Mon, 14 Oct 2013 14:11:30 -0430
+Received: from mail-la0-f43.google.com ([209.85.215.43]:57065)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <dytovar@gmail.com>)
+	id 1VVn57-002ysb-OH
+	for gabrielagarcia@courierpack.com.ve; Mon, 14 Oct 2013 14:11:30 -0430
+Received: by mail-la0-f43.google.com with SMTP id ep20so6126926lab.30
+        for <gabrielagarcia@courierpack.com.ve>; Mon, 14 Oct 2013 11:41:28 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=HThtuT9uNTe+a2Vhi5S1bSrLhIdMbE5kccdVF2w1Mw0=;
+        b=nnqYAQ3AZ5GywpzrUzuPHdtuvfx2pvGea+AIyleU8MI4GWtlLqynYzohzLxdPxpZzN
+         J5rNyNxLsN9qNKpSK4v0ABCsbuMVOSFVWX7avAjfhdUtnmmbAldPdP1Q3mn3qRGV+vR5
+         u1bwSA6CT5TdS0Gg2Txda2GL464ozq0JEIEQeysES6ClV2VL1ANMFb1ow6UQLY2gxlHr
+         AOLBMY+SYSrBTySLK+CxUhv3tg1pbIPCy3cE/TZoor3FyFfYQOkqeT1Zj2uqNqdc6VxZ
+         1Da4xA+1i0uT38MW4gnLOtCFQGl9JVnzhH4b3lQ6gQj0C+JafruayQh//eITlVrwYKp1
+         EL5w==
+MIME-Version: 1.0
+X-Received: by 10.152.18.131 with SMTP id w3mr2413944lad.47.1381776087645;
+ Mon, 14 Oct 2013 11:41:27 -0700 (PDT)
+Received: by 10.112.180.166 with HTTP; Mon, 14 Oct 2013 11:41:27 -0700 (PDT)
+Received: by 10.112.180.166 with HTTP; Mon, 14 Oct 2013 11:41:27 -0700 (PDT)
+In-Reply-To: <CAE-Zhx3j8QndmFzx=Nfm3AyD_gkX2z1KQcOoG_Kkmno7qm2kQw@mail.gmail.com>
+References: <1512957448-1375808001-cardhu_decombobulator_blackberry.rim.net-1470164058-@b12.c4.bise6.blackberry>
+	<CAE-Zhx1Rr1HhpbztwqBLaWPTRPgf0w6yQ_R0gzZ8tPzy_VLqEg@mail.gmail.com>
+	<CAE-Zhx1rWMeM8UVP1u26Z1=BrP0Q3uhLhM9hVH_u9efE1xUBwg@mail.gmail.com>
+	<CAE-Zhx1uUNzdrLUEYmrQNmBUnjzMLbRgfhgYdZXK2=XD_ODJvA@mail.gmail.com>
+	<CAE-Zhx3ZxA1umEHhPLBHvt8agMVm7t2FQBP5FcaDsnDLcrJ5tQ@mail.gmail.com>
+	<1637695871-1376918475-cardhu_decombobulator_blackberry.rim.net-656440081-@b12.c4.bise6.blackberry>
+	<CAE-Zhx0Y6ZVoOAQaPFN+NjvqBxKBR9f7uUHpZFyBOWviFS4Cpw@mail.gmail.com>
+	<2094070524-1377285016-cardhu_decombobulator_blackberry.rim.net-698598853-@b12.c4.bise6.blackberry>
+	<CAE-Zhx1T-w8=S=63Zh+nnhwyUJw60OpRC=oDAC8EinFP2Rhn1w@mail.gmail.com>
+	<1609036547-1378321181-cardhu_decombobulator_blackberry.rim.net-771276482-@b12.c4.bise6.blackberry>
+	<CAE-Zhx3Fj-0tttWmKqcc8VQLtXW3VHD_bEQHBTiH+b3JW8JV_w@mail.gmail.com>
+	<952452870-1379465166-cardhu_decombobulator_blackberry.rim.net-1955406120-@b12.c4.bise6.blackberry>
+	<CAE-Zhx3_ZFJHL3-YnLndab4gL95wE=_rO2zGbhaOtZGyGt9qiA@mail.gmail.com>
+	<CAE-Zhx3_oVWWy9v6dkzaF+kvW5YDMn1yJaurMEBLDDJ5TCDszg@mail.gmail.com>
+	<CAE-Zhx3DNbKMxp+S+Gnt7pWDBMZM0dEU8ys5cZN69e9EiZb4yA@mail.gmail.com>
+	<1696022252-1380390626-cardhu_decombobulator_blackberry.rim.net-142501638-@b12.c4.bise6.blackberry>
+	<CAE-Zhx39yLcgkwN2dcBXzU33C7xRzuBnqsQ6uA+1qLtYxvtaAQ@mail.gmail.com>
+	<CAE-Zhx2__h6wOY+i8-Lf3cNry7cq972RddwkBgC00jrZKtCR6g@mail.gmail.com>
+	<1997302561-1380930105-cardhu_decombobulator_blackberry.rim.net-967915372-@b12.c4.bise6.blackberry>
+	<CAE-Zhx3fFMKFX739+u-KjRC6i0NDKYDx_A-Mv6mxnO4f2KRYiw@mail.gmail.com>
+	<207021135-1380931416-cardhu_decombobulator_blackberry.rim.net-1437002064-@b12.c4.bise6.blackberry>
+	<CAE-Zhx1yWg2BBUziN7s+aJw0J8kQTtH-pbxUMC2vXxHpUgng+A@mail.gmail.com>
+	<1276479347-1380933159-cardhu_decombobulator_blackberry.rim.net-786359787-@b12.c4.bise6.blackberry>
+	<CAE-Zhx3KQy+wuDuCVL5HKh69h83R3XzvTSO60KctwS8z5W+HHg@mail.gmail.com>
+	<1409250769-1380935050-cardhu_decombobulator_blackberry.rim.net-1901579881-@b12.c4.bise6.blackberry>
+	<CAE-Zhx1+PBb894Mkbo8naKtA3AvcwWyFrNxjOOSAVJwiJEJd5g@mail.gmail.com>
+	<CAE-Zhx37U7qcRd03HGmU-kuAZve4FLCPOO0_7KZfuaOv0GYFSg@mail.gmail.com>
+	<CAE-Zhx0P9U8Obt+PQ2WgqmyDRymU7i1gDw8hURGbrZx6CsPHCA@mail.gmail.com>
+	<CAE-Zhx3f3zPG4RNKx-P2_PmsYkcN5s5idu3NLozd+xuf6gU0Ww@mail.gmail.com>
+	<CAE-Zhx2Cx5jzxi4YGtQHUz5DjkW8Lpd2EGQXLSR3zL7jgUiBgA@mail.gmail.com>
+	<CAE-Zhx3j8QndmFzx=Nfm3AyD_gkX2z1KQcOoG_Kkmno7qm2kQw@mail.gmail.com>
+Date: Mon, 14 Oct 2013 14:11:27 -0430
+Message-ID: <CAE-Zhx2L=qA3S5ZTfgDDRyFUpDk-5YARgROJ1GCvfE10F40PDg@mail.gmail.com>
+Subject: Re: CPK
+From: Dubraskha Tovar <dytovar@gmail.com>
+To: gabrielagarcia@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=089e014942eedd00c804e8b7d004
+
+--089e014942eedd00c804e8b7d004
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Buenas tardes! Por favor requiero de su respuesta..
+El 14/10/2013 08:13, "Dubraskha Tovar" <dytovar@gmail.com> escribi=F3:
+
+> Buenos dias!! Por favor indiquenme que estatus tiene mi mercancia, si es
+> de yo irla a buscar donde sea me dicen donde igual les pago no hay
+> problema..
+> El 13/10/2013 14:21, "Dubraskha Tovar" <dytovar@gmail.com> escribi=F3:
+>
+>> Buenos dias!! Que ha pasado con la entrega de la mercancia?
+>> El 11/10/2013 22:47, "Dubraskha Tovar" <dytovar@gmail.com> escribi=F3:
+>>
+>>> Buenos dias!! Que ha pasado con la entrega de la mercancia?
+>>> El 11/10/2013 07:47, "Dubraskha Tovar" <dytovar@gmail.com> escribi=F3:
+>>>
+>>>> Buenos dias!! Que ha pasado con la entrega de la mercancia?
+>>>> El 09/10/2013 16:27, "Dubraskha Tovar" <dytovar@gmail.com> escribi=F3:
+>>>>
+>>>>> Buenas tardes. Que ha pasado con la entrega de la mercancia
+>>>>> El 04/10/2013 21:10, "Dubraskha Tovar" <dytovar@gmail.com> escribi=F3=
+:
+>>>>> >
+>>>>> > Ah ok buenisimo!!! La direccion donde estoy quedandome es en san
+>>>>> martin calle sevilla con calle cordoba casa teresa queda a una cuadra
+>>>>> bajando por el hospital militar, la calle esta cerrada por un porton =
+negro..
+>>>>> >
+>>>>> > El 04/10/2013 20:34, <gabrielagarcia@courierpack.com.ve> escribi=F3=
+:
+>>>>> >
+>>>>> >> Si estas en ccs nosotros te lo llevamos
+>>>>> >> Enviado desde mi BlackBerry de Movistar
+>>>>> >> ________________________________
+>>>>> >> From: Dubraskha Tovar <dytovar@gmail.com>
+>>>>> >> Date: Fri, 4 Oct 2013 20:08:29 -0430
+>>>>> >> To: <gabrielagarcia@courierpack.com.ve>
+>>>>> >> Subject: Re: CPK
+>>>>> >>
+>>>>> >> Bueno que cosas!! Te iba a comentar que yo les dije a ustedes que
+>>>>> me entregara en guarenas pero voy a estar viviendo un tiempo en carac=
+as
+>>>>> entonces si tienen algun lugar donde yo pueda retirar personalmente m=
+e
+>>>>> avisas si no te envio una direccion nueva
+>>>>> >>
+>>>>> >> El 04/10/2013 20:02, <gabrielagarcia@courierpack.com.ve> escribi=
+=F3:
+>>>>> >>>
+>>>>> >>> Ay noo me han amenazado hasta de denuncias. pero no puedo hacer
+>>>>> otra cosa :(
+>>>>> >>> Enviado desde mi BlackBerry de Movistar
+>>>>> >>> ________________________________
+>>>>> >>> From: Dubraskha Tovar <dytovar@gmail.com>
+>>>>> >>> Date: Fri, 4 Oct 2013 19:46:30 -0430
+>>>>> >>> To: <gabrielagarcia@courierpack.com.ve>
+>>>>> >>> Subject: Re: CPK
+>>>>> >>>
+>>>>> >>> Bueno es que horita es un problema para todo!! Lo bueno es que
+>>>>> tarde o temprano han podido solucionar porque supongo que tienen clie=
+ntes
+>>>>> igual o mas fastidiosos que yo jaja.
+>>>>> >>> El 04/10/2013 19:33, <gabrielagarcia@courierpack.com.ve> escribi=
+=F3:
+>>>>> >>> >
+>>>>> >>> > Pero el seniat esta demasiiiado tedioso. No con nosotros sino
+>>>>> los q estan adelante d nosotros
+>>>>> >>> > Enviado desde mi BlackBerry de Movistar
+>>>>> >>> > ________________________________
+>>>>> >>> > From: Dubraskha Tovar <dytovar@gmail.com>
+>>>>> >>> > Date: Fri, 4 Oct 2013 19:26:03 -0430
+>>>>> >>> > To: <gabrielagarcia@courierpack.com.ve>
+>>>>> >>> > Subject: Re: CPK
+>>>>> >>> >
+>>>>> >>> > Que bueno!! Bueno chevere espero su llamada!! Buena noche!!
+>>>>> >>> > El 04/10/2013 19:11, <gabrielagarcia@courierpack.com.ve>
+>>>>> escribi=F3:
+>>>>> >>> > >
+>>>>> >>> > > Buenas noches. Claro que si, el lunes deberiamos estarla
+>>>>> llamando para hacerle entrega d la mercancia
+>>>>> >>> > > Enviado desde mi BlackBerry de Movistar
+>>>>> >>> > > ________________________________
+>>>>> >>> > > From: Dubraskha Tovar <dytovar@gmail.com>
+>>>>> >>> > > Date: Fri, 4 Oct 2013 16:08:27 -0430
+>>>>> >>> > > To: <gabrielagarcia@courierpack.com.ve>
+>>>>> >>> > > Subject: Re: CPK
+>>>>> >>> > >
+>>>>> >>> > > Buenas tardes. Que ha pasado con la carga han podido
+>>>>> solucionar sus inconvenientes
+>>>>> >>> > > El 28/09/2013 21:41, "Dubraskha Tovar" <dytovar@gmail.com>
+>>>>> escribi=F3:
+>>>>> >>> > > >
+>>>>> >>> > > > Ok chevere! Estare al pendiente. Gracias.
+>>>>> >>> > > > El 28/09/2013 13:20, <gabrielagarcia@courierpack.com.ve>
+>>>>> escribi=F3:
+>>>>> >>> > > >
+>>>>> >>> > > > >
+>>>>> >>> > > > > Hola Dubraskha disculpanos el descuido a tus mensajes.. L=
+a
+>>>>> guia con celulares viene a venezuela el lunes no hemos querido arries=
+garnos
+>>>>> con objetos de valor.
+>>>>> >>> > > > > Enviado desde mi BlackBerry de Movistar
+>>>>> >>> > > > > ________________________________
+>>>>> >>> > > > > From: Dubraskha Tovar <dytovar@gmail.com>
+>>>>> >>> > > > > Date: Sat, 28 Sep 2013 07:47:32 -0430
+>>>>> >>> > > > > To: <gabrielagarcia@courierpack.com.ve>
+>>>>> >>> > > > > Subject: Re: CPK
+>>>>> >>> > > > >
+>>>>> >>> > > > > Buenas tardes. Como va el proceso de nacionalizacion de m=
+i
+>>>>> producto. Gracias
+>>>>> >>> > > > >
+>>>>> >>> > > > > El 27/09/2013 13:20, "Dubraskha Tovar" <dytovar@gmail.com=
+>
+>>>>> escribi=F3:
+>>>>> >>> > > > >>
+>>>>> >>> > > > >> Buenas tardes. Como va el proceso de nacionalizacion de
+>>>>> mi producto. Gracias
+>>>>> >>> > > > >>
+>>>>> >>> > > > >> El 23/09/2013 15:45, "Dubraskha Tovar" <dytovar@gmail.co=
+m>
+>>>>> escribi=F3:
+>>>>> >>> > > > >>>
+>>>>> >>> > > > >>> Buenas tardes.  Como va el proceso de nacionalizacion d=
+e
+>>>>> mi producto. Gracias
+>>>>> >>> > > > >>> El 17/09/2013 20:16, <gabrielagarcia@courierpack.com.ve=
+>
+>>>>> escribi=F3:
+>>>>> >>> > > > >>> >
+>>>>> >>> > > > >>> > Buenas Noches se=F1ora Dubraska ya estamos en proceso=
+ de
+>>>>> nacionalizacion mas temprano que tarde gracias a Dios todos tendremos
+>>>>> nuestras compras en nuestras manos. Disculpe todas las molestias caus=
+adas
+>>>>> >>> > > > >>> > Enviado desde mi BlackBerry de Movistar
+>>>>> >>> > > > >>> > ________________________________
+>>>>> >>> > > > >>> > From: Dubraskha Tovar <dytovar@gmail.com>
+>>>>> >>> > > > >>> > Date: Mon, 16 Sep 2013 14:37:06 -0430
+>>>>> >>> > > > >>> > To: <gabrielagarcia@courierpack.com.ve>
+>>>>> >>> > > > >>> > Subject: Re: CPK
+>>>>> >>> > > > >>> >
+>>>>> >>> > > > >>> > Buenas tardes, que han podido resolver con el problem=
+a
+>>>>> de aduana, la mercancia ha pdido ingresar al pais. Yo envie mi factur=
+a como
+>>>>> m lo pidieron pero no he recibido respuesta. Gracias buenas tardes.
+>>>>> >>> > > > >>> > El 04/09/2013 14:29, <
+>>>>> gabrielagarcia@courierpack.com.ve> escribi=F3:
+>>>>> >>> > > > >>> > >
+>>>>> >>> > > > >>> > > Buen dia se=F1ora Tovar, por favor faciliteme su
+>>>>> numero telefonico.
+>>>>> >>> > > > >>> > > Enviado desde mi BlackBerry de Movistar
+>>>>> >>> > > > >>> > > ________________________________
+>>>>> >>> > > > >>> > > From: Dubraskha Tovar <dytovar@gmail.com>
+>>>>> >>> > > > >>> > > Date: Wed, 28 Aug 2013 19:32:09 -0430
+>>>>> >>> > > > >>> > > To: <gabrielagarcia@courierpack.com.ve>
+>>>>> >>> > > > >>> > > Subject: Re: CPK
+>>>>> >>> > > > >>> > >
+>>>>> >>> > > > >>> > > Buenas noches! ok gracias.
+>>>>> >>> > > > >>> > >
+>>>>> >>> > > > >>> > >
+>>>>> >>> > > > >>> > > El 23 de agosto de 2013 14:37, <
+>>>>> gabrielagarcia@courierpack.com.ve> escribi=F3:
+>>>>> >>> > > > >>> > >>
+>>>>> >>> > > > >>> > >> Todos se=F1ora Tovar necesitamos la mercancia con
+>>>>> urgencia ayer nos dijeron que se tardarian 30 dias mas
+>>>>> >>> > > > >>> > >> Enviado desde mi BlackBerry de Movistar
+>>>>> >>> > > > >>> > >> ________________________________
+>>>>> >>> > > > >>> > >> From: Dubraskha Tovar <dytovar@gmail.com>
+>>>>> >>> > > > >>> > >> Date: Fri, 23 Aug 2013 13:58:08 -0430
+>>>>> >>> > > > >>> > >> To: <gabrielagarcia@courierpack.com.ve>
+>>>>> >>> > > > >>> > >> Subject: Re: CPK
+>>>>> >>> > > > >>> > >>
+>>>>> >>> > > > >>> > >> Buen dia! Ok gracias. Es que necesito esa mercanci=
+a
+>>>>> con urgencia. En cuanto tiempo estiman llegue a sus almacenes.
+>>>>> >>> > > > >>> > >> El 19/08/2013 08:51, <
+>>>>> gabrielagarcia@courierpack.com.ve> escribi=F3:
+>>>>> >>> > > > >>> > >> >
+>>>>> >>> > > > >>> > >> > Buenos dias.. Las actividades aduaneras estaban
+>>>>> paralizadas nos estamos normalizando. Al esta la mercancia en almacen=
+ ccs
+>>>>> la contactamos.
+>>>>> >>> > > > >>> > >> > Enviado desde mi BlackBerry de Movistar
+>>>>> >>> > > > >>> > >> > ________________________________
+>>>>> >>> > > > >>> > >> > From: Dubraskha Tovar <dytovar@gmail.com>
+>>>>> >>> > > > >>> > >> > Date: Mon, 19 Aug 2013 08:30:10 -0430
+>>>>> >>> > > > >>> > >> > To: <gabrielagarcia@courierpack.com.ve>
+>>>>> >>> > > > >>> > >> > Subject: Re: CPK
+>>>>> >>> > > > >>> > >> >
+>>>>> >>> > > > >>> > >> > Buenos dias! Por favor me pueden informar el
+>>>>> estatus de mi carga? Gracias.
+>>>>> >>> > > > >>> > >> > El 12/08/2013 16:16, "Dubraskha Tovar" <
+>>>>> dytovar@gmail.com> escribi=F3:
+>>>>> >>> > > > >>> > >> > >
+>>>>> >>> > > > >>> > >> > > Buenas tardes.
+>>>>> >>> > > > >>> > >> > >       Ya mi pedido se encuentra en
+>>>>> la direcci=F3n en Florida, por favor enviarme la informaci=F3n.
+>>>>> >>> > > > >>> > >> > > saludos.
+>>>>> >>> > > > >>> > >> > >
+>>>>> >>> > > > >>> > >> > >
+>>>>> >>> > > > >>> > >> > >
+>>>>> >>> > > > >>> > >> > > El 11 de agosto de 2013 09:34, Dubraskha Tovar=
+ <
+>>>>> dytovar@gmail.com> escribi=F3:
+>>>>> >>> > > > >>> > >> > >
+>>>>> >>> > > > >>> > >> > >> Buenos dias! Quiero saber informacion sobre m=
+i
+>>>>> producto en que status se encuentra. Gracias
+>>>>> >>> > > > >>> > >> > >> El 06/08/2013 15:45, "Dubraskha Tovar" <
+>>>>> dytovar@gmail.com> escribi=F3:
+>>>>> >>> > > > >>> > >> > >>
+>>>>> >>> > > > >>> > >> > >>
+>>>>> >>> > > > >>> > >> > >> >
+>>>>> >>> > > > >>> > >> > >> > Ok muchas gracias ppr la informacion. Buena=
+s
+>>>>> tardes!
+>>>>> >>> > > > >>> > >> > >> >
+>>>>> >>> > > > >>> > >> > >> > El 06/08/2013 12:23, <
+>>>>> gabrielagarcia@courierpack.com.ve> escribi=F3:
+>>>>> >>> > > > >>> > >> > >> >
+>>>>> >>> > > > >>> > >> > >> >> Hola feliz dia. Si al momento que nuestros
+>>>>> agentes te notifican la permanencia de tu mercancia en los almacenes =
+te
+>>>>> notifican el precio de tu flete depende de su peso O medicion de las =
+cajas.
+>>>>> >>> > > > >>> > >> > >> >> ------Mensaje original------
+>>>>> >>> > > > >>> > >> > >> >> De: Dubraskha Tovar
+>>>>> >>> > > > >>> > >> > >> >> Para: gabrielagarcia@courierpack.com.ve
+>>>>> >>> > > > >>> > >> > >> >> Asunto: Re: CPK
+>>>>> >>> > > > >>> > >> > >> >> Enviado: 5 de ago de 2013 6:05 PM
+>>>>> >>> > > > >>> > >> > >> >>
+>>>>> >>> > > > >>> > >> > >> >> Por favor por este medio me puedes explica=
+r
+>>>>> si debo cancelar algo al momento de recibir la compra.
+>>>>> >>> > > > >>> > >> > >> >>
+>>>>> >>> > > > >>> > >> > >> >> El 2 de agosto de 2013 11:31, Dubraskha
+>>>>> Tovar <dytovar@gmail.com> escribi=F3:
+>>>>> >>> > > > >>> > >> > >> >> Buenos d=EDas adjunto factura.    El art=
+=EDculo
+>>>>> comprado es un tel=E9fono BlackBerry modelo 9360  saludos.   por favo=
+r por
+>>>>> este medio me puedes explicar si debo cancelar algo al momento de rec=
+ibir
+>>>>> la compra.
+>>>>> >>> > > > >>> > >> > >> >>
+>>>>> >>> > > > >>> > >> > >> >> El 2 de agosto de 2013 01:44, <
+>>>>> gabrielagarcia@courierpack.com.ve> escribi=F3:
+>>>>> >>> > > > >>> > >> > >> >> Recibidos Dubraska pero necesitamos la
+>>>>> factura en espa=F1ol en $ y la utilidad de tu articulo comprado como =
+bien se
+>>>>> env=EDo en el correo anterior. Todo eso es para el nuevo metodo de
+>>>>> nacionalizacion de Bolipuertos.
+>>>>> >>> > > > >>> > >> > >> >> Enviado desde mi BlackBerry de Movistar
+>>>>> >>> > > > >>> > >> > >> >>
+>>>>> >>> > > > >>> > >> > >> >>
+>>>>> >>> > > > >>> > >> > >> >> Enviado desde mi BlackBerry de Movistar
+>>>>> >>> > > > >>> > >> > >
+>>>>> >>> > > > >>> > >> > >
+>>>>> >>> > > > >>> > >
+>>>>> >>> > > > >>> > >
+>>>>>
+>>>>
+
+--089e014942eedd00c804e8b7d004
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<p>Buenas tardes! Por favor requiero de su respuesta..</p>
+<div class=3D"gmail_quote">El 14/10/2013 08:13, &quot;Dubraskha Tovar&quot;=
+ &lt;<a href=3D"mailto:dytovar@gmail.com">dytovar@gmail.com</a>&gt; escribi=
+=F3:<br type=3D"attribution"><blockquote class=3D"gmail_quote" style=3D"mar=
+gin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+<p>Buenos dias!! Por favor indiquenme que estatus tiene mi mercancia, si es=
+ de yo irla a buscar donde sea me dicen donde igual les pago no hay problem=
+a..</p>
+<div class=3D"gmail_quote">El 13/10/2013 14:21, &quot;Dubraskha Tovar&quot;=
+ &lt;<a href=3D"mailto:dytovar@gmail.com" target=3D"_blank">dytovar@gmail.c=
+om</a>&gt; escribi=F3:<br type=3D"attribution"><blockquote class=3D"gmail_q=
+uote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1e=
+x">
+
+<p>Buenos dias!! Que ha pasado con la entrega de la mercancia?</p>
+<div class=3D"gmail_quote">El 11/10/2013 22:47, &quot;Dubraskha Tovar&quot;=
+ &lt;<a href=3D"mailto:dytovar@gmail.com" target=3D"_blank">dytovar@gmail.c=
+om</a>&gt; escribi=F3:<br type=3D"attribution"><blockquote class=3D"gmail_q=
+uote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1e=
+x">
+
+
+<p>Buenos dias!! Que ha pasado con la entrega de la mercancia?</p>
+<div class=3D"gmail_quote">El 11/10/2013 07:47, &quot;Dubraskha Tovar&quot;=
+ &lt;<a href=3D"mailto:dytovar@gmail.com" target=3D"_blank">dytovar@gmail.c=
+om</a>&gt; escribi=F3:<br type=3D"attribution"><blockquote class=3D"gmail_q=
+uote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1e=
+x">
+
+
+
+<p>Buenos dias!! Que ha pasado con la entrega de la mercancia?</p>
+<div class=3D"gmail_quote">El 09/10/2013 16:27, &quot;Dubraskha Tovar&quot;=
+ &lt;<a href=3D"mailto:dytovar@gmail.com" target=3D"_blank">dytovar@gmail.c=
+om</a>&gt; escribi=F3:<br type=3D"attribution"><blockquote class=3D"gmail_q=
+uote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1e=
+x">
+
+
+
+
+<p>Buenas tardes. Que ha pasado con la entrega de la mercancia<br>
+El 04/10/2013 21:10, &quot;Dubraskha Tovar&quot; &lt;<a href=3D"mailto:dyto=
+var@gmail.com" target=3D"_blank">dytovar@gmail.com</a>&gt; escribi=F3:<br>
+&gt;<br>
+&gt; Ah ok buenisimo!!! La direccion donde estoy quedandome es en san marti=
+n calle sevilla con calle cordoba casa teresa queda a una cuadra bajando po=
+r el hospital militar, la calle esta cerrada por un porton negro..<br>
+
+
+
+
+
+
+&gt;<br>
+&gt; El 04/10/2013 20:34, &lt;<a href=3D"mailto:gabrielagarcia@courierpack.=
+com.ve" target=3D"_blank">gabrielagarcia@courierpack.com.ve</a>&gt; escribi=
+=F3:<br>
+&gt;<br>
+&gt;&gt; Si estas en ccs nosotros te lo llevamos<br>
+&gt;&gt; Enviado desde mi BlackBerry de Movistar<br>
+&gt;&gt; ________________________________<br>
+&gt;&gt; From: Dubraskha Tovar &lt;<a href=3D"mailto:dytovar@gmail.com" tar=
+get=3D"_blank">dytovar@gmail.com</a>&gt;<br>
+&gt;&gt; Date: Fri, 4 Oct 2013 20:08:29 -0430<br>
+&gt;&gt; To: &lt;<a href=3D"mailto:gabrielagarcia@courierpack.com.ve" targe=
+t=3D"_blank">gabrielagarcia@courierpack.com.ve</a>&gt;<br>
+&gt;&gt; Subject: Re: CPK<br>
+&gt;&gt;<br>
+&gt;&gt; Bueno que cosas!! Te iba a comentar que yo les dije a ustedes que =
+me entregara en guarenas pero voy a estar viviendo un tiempo en caracas ent=
+onces si tienen algun lugar donde yo pueda retirar personalmente me avisas =
+si no te envio una direccion nueva<br>
+
+
+
+
+
+
+&gt;&gt;<br>
+&gt;&gt; El 04/10/2013 20:02, &lt;<a href=3D"mailto:gabrielagarcia@courierp=
+ack.com.ve" target=3D"_blank">gabrielagarcia@courierpack.com.ve</a>&gt; esc=
+ribi=F3:<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; Ay noo me han amenazado hasta de denuncias. pero no puedo hace=
+r otra cosa :(<br>
+&gt;&gt;&gt; Enviado desde mi BlackBerry de Movistar<br>
+&gt;&gt;&gt; ________________________________<br>
+&gt;&gt;&gt; From: Dubraskha Tovar &lt;<a href=3D"mailto:dytovar@gmail.com"=
+ target=3D"_blank">dytovar@gmail.com</a>&gt;<br>
+&gt;&gt;&gt; Date: Fri, 4 Oct 2013 19:46:30 -0430<br>
+&gt;&gt;&gt; To: &lt;<a href=3D"mailto:gabrielagarcia@courierpack.com.ve" t=
+arget=3D"_blank">gabrielagarcia@courierpack.com.ve</a>&gt;<br>
+&gt;&gt;&gt; Subject: Re: CPK<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; Bueno es que horita es un problema para todo!! Lo bueno es que=
+ tarde o temprano han podido solucionar porque supongo que tienen clientes =
+igual o mas fastidiosos que yo jaja.<br>
+&gt;&gt;&gt; El 04/10/2013 19:33, &lt;<a href=3D"mailto:gabrielagarcia@cour=
+ierpack.com.ve" target=3D"_blank">gabrielagarcia@courierpack.com.ve</a>&gt;=
+ escribi=F3:<br>
+&gt;&gt;&gt; &gt;<br>
+&gt;&gt;&gt; &gt; Pero el seniat esta demasiiiado tedioso. No con nosotros =
+sino los q estan adelante d nosotros<br>
+&gt;&gt;&gt; &gt; Enviado desde mi BlackBerry de Movistar<br>
+&gt;&gt;&gt; &gt; ________________________________<br>
+&gt;&gt;&gt; &gt; From: Dubraskha Tovar &lt;<a href=3D"mailto:dytovar@gmail=
+.com" target=3D"_blank">dytovar@gmail.com</a>&gt;<br>
+&gt;&gt;&gt; &gt; Date: Fri, 4 Oct 2013 19:26:03 -0430<br>
+&gt;&gt;&gt; &gt; To: &lt;<a href=3D"mailto:gabrielagarcia@courierpack.com.=
+ve" target=3D"_blank">gabrielagarcia@courierpack.com.ve</a>&gt;<br>
+&gt;&gt;&gt; &gt; Subject: Re: CPK<br>
+&gt;&gt;&gt; &gt;<br>
+&gt;&gt;&gt; &gt; Que bueno!! Bueno chevere espero su llamada!! Buena noche=
+!!<br>
+&gt;&gt;&gt; &gt; El 04/10/2013 19:11, &lt;<a href=3D"mailto:gabrielagarcia=
+@courierpack.com.ve" target=3D"_blank">gabrielagarcia@courierpack.com.ve</a=
+>&gt; escribi=F3:<br>
+&gt;&gt;&gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; Buenas noches. Claro que si, el lunes deberiamos est=
+arla llamando para hacerle entrega d la mercancia<br>
+&gt;&gt;&gt; &gt; &gt; Enviado desde mi BlackBerry de Movistar<br>
+&gt;&gt;&gt; &gt; &gt; ________________________________<br>
+&gt;&gt;&gt; &gt; &gt; From: Dubraskha Tovar &lt;<a href=3D"mailto:dytovar@=
+gmail.com" target=3D"_blank">dytovar@gmail.com</a>&gt;<br>
+&gt;&gt;&gt; &gt; &gt; Date: Fri, 4 Oct 2013 16:08:27 -0430<br>
+&gt;&gt;&gt; &gt; &gt; To: &lt;<a href=3D"mailto:gabrielagarcia@courierpack=
+.com.ve" target=3D"_blank">gabrielagarcia@courierpack.com.ve</a>&gt;<br>
+&gt;&gt;&gt; &gt; &gt; Subject: Re: CPK<br>
+&gt;&gt;&gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; Buenas tardes. Que ha pasado con la carga han podido=
+ solucionar sus inconvenientes<br>
+&gt;&gt;&gt; &gt; &gt; El 28/09/2013 21:41, &quot;Dubraskha Tovar&quot; &lt=
+;<a href=3D"mailto:dytovar@gmail.com" target=3D"_blank">dytovar@gmail.com</=
+a>&gt; escribi=F3:<br>
+&gt;&gt;&gt; &gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; Ok chevere! Estare al pendiente. Gracias.<br>
+&gt;&gt;&gt; &gt; &gt; &gt; El 28/09/2013 13:20, &lt;<a href=3D"mailto:gabr=
+ielagarcia@courierpack.com.ve" target=3D"_blank">gabrielagarcia@courierpack=
+.com.ve</a>&gt; escribi=F3:<br>
+&gt;&gt;&gt; &gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt; Hola Dubraskha disculpanos el descuido a t=
+us mensajes.. La guia con celulares viene a venezuela el lunes no hemos que=
+rido arriesgarnos con objetos de valor.<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt; Enviado desde mi BlackBerry de Movistar<br=
+>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt; ________________________________<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt; From: Dubraskha Tovar &lt;<a href=3D"mailt=
+o:dytovar@gmail.com" target=3D"_blank">dytovar@gmail.com</a>&gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt; Date: Sat, 28 Sep 2013 07:47:32 -0430<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt; To: &lt;<a href=3D"mailto:gabrielagarcia@c=
+ourierpack.com.ve" target=3D"_blank">gabrielagarcia@courierpack.com.ve</a>&=
+gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt; Subject: Re: CPK<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt; Buenas tardes. Como va el proceso de nacio=
+nalizacion de mi producto. Gracias<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt; El 27/09/2013 13:20, &quot;Dubraskha Tovar=
+&quot; &lt;<a href=3D"mailto:dytovar@gmail.com" target=3D"_blank">dytovar@g=
+mail.com</a>&gt; escribi=F3:<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt; Buenas tardes. Como va el proceso de n=
+acionalizacion de mi producto. Gracias<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt; El 23/09/2013 15:45, &quot;Dubraskha T=
+ovar&quot; &lt;<a href=3D"mailto:dytovar@gmail.com" target=3D"_blank">dytov=
+ar@gmail.com</a>&gt; escribi=F3:<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; Buenas tardes.=A0 Como va el proce=
+so de nacionalizacion de mi producto. Gracias<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; El 17/09/2013 20:16, &lt;<a href=
+=3D"mailto:gabrielagarcia@courierpack.com.ve" target=3D"_blank">gabrielagar=
+cia@courierpack.com.ve</a>&gt; escribi=F3:<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; Buenas Noches se=F1ora Dubras=
+ka ya estamos en proceso de nacionalizacion mas temprano que tarde gracias =
+a Dios todos tendremos nuestras compras en nuestras manos. Disculpe todas l=
+as molestias causadas<br>
+
+
+
+
+
+
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; Enviado desde mi BlackBerry d=
+e Movistar<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; _____________________________=
+___<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; From: Dubraskha Tovar &lt;<a =
+href=3D"mailto:dytovar@gmail.com" target=3D"_blank">dytovar@gmail.com</a>&g=
+t;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; Date: Mon, 16 Sep 2013 14:37:=
+06 -0430<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; To: &lt;<a href=3D"mailto:gab=
+rielagarcia@courierpack.com.ve" target=3D"_blank">gabrielagarcia@courierpac=
+k.com.ve</a>&gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; Subject: Re: CPK<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; Buenas tardes, que han podido=
+ resolver con el problema de aduana, la mercancia ha pdido ingresar al pais=
+. Yo envie mi factura como m lo pidieron pero no he recibido respuesta. Gra=
+cias buenas tardes.<br>
+
+
+
+
+
+
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; El 04/09/2013 14:29, &lt;<a h=
+ref=3D"mailto:gabrielagarcia@courierpack.com.ve" target=3D"_blank">gabriela=
+garcia@courierpack.com.ve</a>&gt; escribi=F3:<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt; Buen dia se=F1ora Tovar,=
+ por favor faciliteme su numero telefonico.<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt; Enviado desde mi BlackBe=
+rry de Movistar<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt; ________________________=
+________<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt; From: Dubraskha Tovar &l=
+t;<a href=3D"mailto:dytovar@gmail.com" target=3D"_blank">dytovar@gmail.com<=
+/a>&gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt; Date: Wed, 28 Aug 2013 1=
+9:32:09 -0430<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt; To: &lt;<a href=3D"mailt=
+o:gabrielagarcia@courierpack.com.ve" target=3D"_blank">gabrielagarcia@couri=
+erpack.com.ve</a>&gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt; Subject: Re: CPK<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt; Buenas noches! ok gracia=
+s.<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt; El 23 de agosto de 2013 =
+14:37, &lt;<a href=3D"mailto:gabrielagarcia@courierpack.com.ve" target=3D"_=
+blank">gabrielagarcia@courierpack.com.ve</a>&gt; escribi=F3:<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; Todos se=F1ora Tovar=
+ necesitamos la mercancia con urgencia ayer nos dijeron que se tardarian 30=
+ dias mas<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; Enviado desde mi Bla=
+ckBerry de Movistar<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; ____________________=
+____________<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; From: Dubraskha Tova=
+r &lt;<a href=3D"mailto:dytovar@gmail.com" target=3D"_blank">dytovar@gmail.=
+com</a>&gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; Date: Fri, 23 Aug 20=
+13 13:58:08 -0430<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; To: &lt;<a href=3D"m=
+ailto:gabrielagarcia@courierpack.com.ve" target=3D"_blank">gabrielagarcia@c=
+ourierpack.com.ve</a>&gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; Subject: Re: CPK<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; Buen dia! Ok gracias=
+. Es que necesito esa mercancia con urgencia. En cuanto tiempo estiman lleg=
+ue a sus almacenes.<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; El 19/08/2013 08:51,=
+ &lt;<a href=3D"mailto:gabrielagarcia@courierpack.com.ve" target=3D"_blank"=
+>gabrielagarcia@courierpack.com.ve</a>&gt; escribi=F3:<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; Buenos dias.. L=
+as actividades aduaneras estaban paralizadas nos estamos normalizando. Al e=
+sta la mercancia en almacen ccs la contactamos.<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; Enviado desde m=
+i BlackBerry de Movistar<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; _______________=
+_________________<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; From: Dubraskha=
+ Tovar &lt;<a href=3D"mailto:dytovar@gmail.com" target=3D"_blank">dytovar@g=
+mail.com</a>&gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; Date: Mon, 19 A=
+ug 2013 08:30:10 -0430<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; To: &lt;<a href=
+=3D"mailto:gabrielagarcia@courierpack.com.ve" target=3D"_blank">gabrielagar=
+cia@courierpack.com.ve</a>&gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; Subject: Re: CP=
+K<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; Buenos dias! Po=
+r favor me pueden informar el estatus de mi carga? Gracias.<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; El 12/08/2013 1=
+6:16, &quot;Dubraskha Tovar&quot; &lt;<a href=3D"mailto:dytovar@gmail.com" =
+target=3D"_blank">dytovar@gmail.com</a>&gt; escribi=F3:<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt; Buenas tar=
+des.<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt; =A0 =A0 =
+=A0 Ya mi pedido se encuentra en la=A0direcci=F3n=A0en Florida, por favor e=
+nviarme la informaci=F3n.<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt; saludos.<b=
+r>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt; El 11 de a=
+gosto de 2013 09:34, Dubraskha Tovar &lt;<a href=3D"mailto:dytovar@gmail.co=
+m" target=3D"_blank">dytovar@gmail.com</a>&gt; escribi=F3:<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; Buenos=
+ dias! Quiero saber informacion sobre mi producto en que status se encuentr=
+a. Gracias<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; El 06/=
+08/2013 15:45, &quot;Dubraskha Tovar&quot; &lt;<a href=3D"mailto:dytovar@gm=
+ail.com" target=3D"_blank">dytovar@gmail.com</a>&gt; escribi=F3:<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;<b=
+r>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt; O=
+k muchas gracias ppr la informacion. Buenas tardes!<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;<b=
+r>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt; E=
+l 06/08/2013 12:23, &lt;<a href=3D"mailto:gabrielagarcia@courierpack.com.ve=
+" target=3D"_blank">gabrielagarcia@courierpack.com.ve</a>&gt; escribi=F3:<b=
+r>
+
+
+
+
+
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;<b=
+r>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t; Hola feliz dia. Si al momento que nuestros agentes te notifican la perma=
+nencia de tu mercancia en los almacenes te notifican el precio de tu flete =
+depende de su peso O medicion de las cajas.<br>
+
+
+
+
+
+
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t; ------Mensaje original------<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t; De: Dubraskha Tovar<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t; Para: <a href=3D"mailto:gabrielagarcia@courierpack.com.ve" target=3D"_bl=
+ank">gabrielagarcia@courierpack.com.ve</a><br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t; Asunto: Re: CPK<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t; Enviado: 5 de ago de 2013 6:05 PM<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t; Por favor por este medio me puedes explicar si debo cancelar algo=A0al m=
+omento=A0de recibir la compra.<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t; El 2 de agosto de 2013 11:31, Dubraskha Tovar &lt;<a href=3D"mailto:dyto=
+var@gmail.com" target=3D"_blank">dytovar@gmail.com</a>&gt; escribi=F3:<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t; Buenos d=EDas adjunto factura. =A0=A0=A0El art=EDculo comprado es un tel=
+=E9fono BlackBerry modelo 9360 =A0saludos. =A0 por favor por este medio me =
+puedes explicar si debo cancelar algo=A0al momento=A0de recibir la compra.<=
+br>
+
+
+
+
+
+
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t; El 2 de agosto de 2013 01:44, &lt;<a href=3D"mailto:gabrielagarcia@couri=
+erpack.com.ve" target=3D"_blank">gabrielagarcia@courierpack.com.ve</a>&gt; =
+escribi=F3:<br>
+
+
+
+
+
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t; Recibidos Dubraska pero necesitamos la factura en espa=F1ol en $ y la ut=
+ilidad de tu articulo comprado como bien se env=EDo en el correo anterior. =
+Todo eso es para el nuevo metodo de nacionalizacion de Bolipuertos.<br>
+
+
+
+
+
+
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t; Enviado desde mi BlackBerry de Movistar<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;&gt; &gt;&g=
+t; Enviado desde mi BlackBerry de Movistar<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;&gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;<br>
+&gt;&gt;&gt; &gt; &gt; &gt; &gt;&gt;&gt; &gt; &gt;<br>
+</p>
+</blockquote></div>
+</blockquote></div>
+</blockquote></div>
+</blockquote></div>
+</blockquote></div>
+
+--089e014942eedd00c804e8b7d004--

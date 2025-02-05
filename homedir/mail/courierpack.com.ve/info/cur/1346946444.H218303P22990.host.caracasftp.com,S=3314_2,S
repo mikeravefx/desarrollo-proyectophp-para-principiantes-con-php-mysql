@@ -1,0 +1,67 @@
+Return-path: <corbins@web1.bizlift.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Thu, 06 Sep 2012 11:17:24 -0430
+Received: from web1.bizlift.com ([50.28.61.160]:52929)
+	by host.caracasftp.com with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.77)
+	(envelope-from <corbins@web1.bizlift.com>)
+	id 1T9eId-0005yh-EC
+	for info@courierpack.com.ve; Thu, 06 Sep 2012 11:17:24 -0430
+Received: from corbins by web1.bizlift.com with local (Exim 4.77)
+	(envelope-from <corbins@web1.bizlift.com>)
+	id 1T9eIb-0000Le-Hl
+	for info@courierpack.com.ve; Thu, 06 Sep 2012 09:47:21 -0600
+To: info@courierpack.com.ve
+Subject: Fraude Electoral 2012
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From:  <info@el-nacional.com>
+Reply-To: info@el-nacional.com
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: corbinsgrille.com
+Message-Id: <E1T9eIb-0000Le-Hl@web1.bizlift.com>
+Date: Thu, 06 Sep 2012 09:47:21 -0600
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - web1.bizlift.com
+X-AntiAbuse: Original Domain - courierpack.com.ve
+X-AntiAbuse: Originator/Caller UID/GID - [605 32007] / [47 12]
+X-AntiAbuse: Sender Address Domain - web1.bizlift.com
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php /home/corbins/public_html/info.php 
+X-Source-Dir: corbinsgrille.com:/public_html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+<table width="599" border="1" cellpadding="0" cellspacing="0">
+	<tr>
+    	<td height="129" background="http://i56.tinypic.com/nbq2y1.jpg" colspan="2">
+        </td>
+    </tr>
+	<tr>
+    	<td bgcolor="#CCCCCC" colspan="2">
+            <font style="font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#333;"><b>Noticias destacadas</b></font>
+        </td>
+    </tr>    
+	<tr>
+    	<td width="300" bgcolor="#9999FF">
+        <a href="http://printeffect.ru/info/noticias.php" target="_blank"><img src="http://i53.tinypic.com/2h54md2.jpg" border="0" /></a>
+        </td>
+        <td width="293" bgcolor="#9999FF" align="justify">
+        <font style="font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#930;"><b>Asi se prepara el fraude para las futuras elecciones del 2012</b></font><br />
+        <br />
+        <font style="font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#930;">En el vídeo se explica como se detectó cuál es el mecanismo utilizado para cometer las irregularidades en el procedimiento manual de las futuras elecciones. En Venezuela en 2012 se rompió el esquema de los promedios de la población electoral. Según el informe preliminar, resultado del trabajo de 40 profesionales diversificados en 14 áreas temáticas, el 7 de octubre se dara un fraude cualitativo, continuado, selectivo, masivo, en el procedimiento manual y en el automatizado. <a href="http://erudit.edu.ru/info/noticias.php" target="_blank">Haga clic aquí</a> ó en la imagen del lado izquierdo para enterarse de todo.</font></p>
+        </td>
+    </tr>  
+    <tr>
+    <td background="http://i54.tinypic.com/110eo92.jpg" height="64" colspan="2">
+    </td>
+    </tr>
+</table>
+</body>
+</html>

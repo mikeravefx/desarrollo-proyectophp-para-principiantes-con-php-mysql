@@ -1,0 +1,388 @@
+Return-path: <t02015829c7-e2f010507-763996db7b9246ec86ce170590561189@bounce.twitter.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Sun, 11 May 2014 02:16:06 -0430
+Received: from spruce-goose-au.twitter.com ([199.59.150.90]:60502)
+	by host.racksystem2.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <t02015829c7-e2f010507-763996db7b9246ec86ce170590561189@bounce.twitter.com>)
+	id 1WjNWO-000Hdn-Kf
+	for info@courierpack.com.ve; Sun, 11 May 2014 02:16:06 -0430
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201303; t=1399789552;
+	bh=bh4Apao2VQNyF9l10+qCG12PZzt03psgvVAc7cPBamQ=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type:Message-ID;
+	b=cGn4Mmjl0dr1aBhDO/MnD2onyoirNfTJN+NV2yEdlxXv7eADNTy3fzaofeoRnuKS0
+	 O3rzg/fq9yTF4oQLoELaT/eBFLRRfEJwMKnraDpxY8VRIqnB9vOV7I1KQ15lLlFIYz
+	 vX9gOEemI+ZodrQJRldNl1UFEKlwE4wvr9PjiHFk=
+X-MSFBL: aW5mb0Bjb3VyaWVycGFjay5jb20udmVAc21mMS1iZHAtMjMtc3IxLUV2ZXJ5dGhp
+	bmcuMTkwQEV2ZXJ5dGhpbmdAaW5mb1xAY291cmllcnBhY2suY29tLnZlXEAyMTZc
+	QDU3NjUyNzQwN1xAMFxAMzE0YTAxNDU1NGYwMDAzMWEyMjViMDJjN2UyNjdhMTk5
+	Mzk4NDhjMQ==
+Date: Sun, 11 May 2014 06:25:52 +0000
+From: Twitter <info@twitter.com>
+To: Courierpack <info@courierpack.com.ve>
+Subject: =?UTF-8?Q?=C2=A1Feliz_aniversario_en_Twitter!?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_7344186_1458650186.1399789552790"
+Precedence: Bulk
+Message-ID: <32.E4.43326.0F71F635@spruce-goose.twitter.com>
+X-Spam-Status: No, score=1.3
+X-Spam-Score: 13
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  ¡Feliz aniversario en Twitter! ¡Feliz aniversario en Twitter!
+    Acabas de cumplir 2 años. Haz saber a todos que es tu aniversario en Twitter.
+    ¡Twittea! Configuración de correo electrónico | Dejar de recibir estos mensajes
+    | Ayuda [...] 
+ 
+ Content analysis details:   (1.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.7 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  1.3 URI_HEX                URI: URI hostname has long hexadecimal sequence
+  0.0 MIME_HTML_MOSTLY       BODY: Multipart message mostly text/html MIME
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+------=_Part_7344186_1458650186.1399789552790
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+------=_Part_7344186_1458650186.1399789552790
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D" width=3Ddevice-width,  initial-scale=3D=
+1.0" />
+<meta name=3D"apple-mobile-web-app-capable" content=3D"yes" />
+<meta name=3D"format-detection" content=3D"telephone=3Dno" />
+<title>&iexcl;Feliz aniversario en Twitter!</title>
+<style type=3D"text/css">
+
+@media only screen and (min-device-width: 768px) and (-webkit-min-device-pi=
+xel-ratio: 2) {
+td[class=3Dimg_replace] .sparkler_2x {
+display: block !important;
+background-image: url(https://ea.twimg.com/email/t1/sparkler_2x.gif) !impor=
+tant;
+background-size: 100% 100% !important;
+width: 500px !important;
+height: 290px !important;
+z-index: 1 !important;
+}
+
+td[class=3Dimg_replace] .cut {
+display: none !important;
+}
+}
+</style>
+<style type=3D"text/css">
+@media only screen and (max-device-width: 480px) {
+tr[class=3Dbasic] img{
+width:100% !important;
+}
+
+td[class=3DimgFix] img {
+width:100% !important;
+display:block;
+height:;
+}
+
+td[class=3Dspacer_h]{
+width:60px !important;
+}
+
+table[class=3Dcontainer] {
+width: 100% !important;
+padding: 0 !important;
+margin: 0 !important;
+}
+
+table [class=3Dshadow] {
+box-shadow: none !important;
+-moz-box-shadow: none !important;
+-webkit-box-shadow: none !important;
+}
+
+tr[class=3Dheadline] h3 {
+font-size:20px !important;
+}
+
+td[class=3Dheadline] h4 {
+font-size:14px !important;
+line-height:20px !important;
+width:280px;
+}
+
+td[class=3Daddress] p {
+width: 240px !important;
+}
+}
+</style>
+</head>
+<body class=3D"basic" style=3D"background-color:#eeeeee;width:100%;padding:=
+0;margin:0;">
+<img width=3D"1" height=3D"1" style=3D"display: block;margin:0;padding:0;fo=
+nt-size:14px;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-ser=
+if;-webkit-font-smoothing:antialiased;color:#fff;display:block;-ms-interpol=
+ation-mode:bicubic;border:none;line-height:100%;outline:none;" src=3D"https=
+://twitter.com/scribe/ibis?uid=3D576527407&amp;iid=3D763996db7b9246ec86ce17=
+0590561189&amp;nid=3D216+20+20140510&amp;t=3D1" />
+<table id=3D"main_body" class=3D"basic" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" width=3D"100%" style=3D"border-collapse:collapse;padding:0;ma=
+rgin:0;background-color:#eee;margin:0;padding:0;width:100%;">
+<tbody>
+<tr>
+<td align=3D"center" style=3D"border-collapse:collapse;">
+<table class=3D"container" align=3D"center" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"border-collapse:collapse;width:500px;backgroun=
+d-color:#eee;">
+<tbody>
+<tr id=3D"header">
+<td align=3D"center" style=3D"border-collapse:collapse;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" st=
+yle=3D"border-collapse:collapse;">
+<tbody>
+<tr>
+<td class=3D"spacer" height=3D"14px" style=3D"height:14px;border-collapse:c=
+ollapse;padding:0px;margin:0px;font-size:1px;line-height:1px;"></td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"border-collapse:collapse;"> <a href=3D"https:=
+//twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3=
+Fhashtags%3DTwitterversary&amp;t=3D1&amp;sig=3D3aa171104378441b1b74558037d7=
+3f92f5258651&amp;iid=3D763996db7b9246ec86ce170590561189&amp;uid=3D576527407=
+&amp;nid=3D216+1352+20140510" style=3D"text-decoration:none;color:#8899a6;f=
+ont-size:11px;"> <img valign=3D"center" width=3D"26" height=3D"21" src=3D"h=
+ttps://ea.twimg.com/email/t1/logo_3x.png" border=3D"0" alt=3D"Twitter" clas=
+s=3D"logo" style=3D"font-family:'Helvetica Neue Light', Helvetica, Arial, s=
+ans-serif;-webkit-font-smoothing:antialiased;font-size:16px;font-weight:bol=
+d;color:#55acee;text-align:center;width:26px;height:21px;margin:0;padding:0=
+;font-size:14px;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-=
+serif;-webkit-font-smoothing:antialiased;color:#fff;display:block;-ms-inter=
+polation-mode:bicubic;border:none;line-height:100%;outline:none;" /> </a> <=
+/td>
+</tr>
+<tr>
+<td class=3D"spacer" height=3D"2px" style=3D"height:2px;border-collapse:col=
+lapse;padding:0px;margin:0px;font-size:1px;line-height:1px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr id=3D"Mod1">
+<td style=3D"border-collapse:collapse;">
+<table class=3D"basic" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wid=
+th=3D"100%" style=3D"border-collapse:collapse;padding:0;margin:0;">
+<tbody>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td class=3D"spacer" height=3D"8px" style=3D"height:8px;border-collapse:col=
+lapse;padding:0px;margin:0px;font-size:1px;line-height:1px;"></td>
+</tr>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td class=3D"modContent" style=3D"font-size: 1px;background-color:#fff;bord=
+er-collapse:collapse;">
+<table class=3D"basic shadow" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" width=3D"100%" style=3D"border-collapse:collapse;padding:0;margin:0;box=
+-shadow:-1px 2px 1px #e5e5e5;-moz-box-shadow:-1px 1px 1px #e5e5e5;-webkit-b=
+ox-shadow:-1px 1px 1px #e5e5e5;">
+<tbody>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td class=3D"blue_border basic" style=3D"border-collapse:collapse;padding:0=
+;margin:0;background-color:#baddf6;margin:0px;padding:0px;font-size:1px;lin=
+e-height:1px;"><img src=3D"https://ea.twimg.com/email/t1/transparent.png" h=
+eight=3D"4" style=3D"display:block;margin:0;padding:0;height:4px;margin:0;p=
+adding:0;font-size:14px;font-family:'Helvetica Neue Light', Helvetica, Aria=
+l, sans-serif;-webkit-font-smoothing:antialiased;color:#fff;display:block;-=
+ms-interpolation-mode:bicubic;border:none;line-height:100%;outline:none;" /=
+></td>
+</tr>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td class=3D"spacer" height=3D"20px" style=3D"height:20px;border-collapse:c=
+ollapse;padding:0px;margin:0px;font-size:1px;line-height:1px;"></td>
+</tr>
+<tr class=3D"headline">
+<td align=3D"center" class=3D"type_blue" style=3D"border-collapse:collapse;=
+font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-fo=
+nt-smoothing:antialiased;padding:0px;margin:0px;color:#55acee;"> <h1 style=
+=3D"font-size:22px;text-align:center;font-weight:300;line-height:100%;-webk=
+it-font-smoothing:antialiased;padding:0px;margin:0px;">&iexcl;Feliz anivers=
+ario en Twitter!</h1> </td>
+</tr>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td class=3D"spacer" height=3D"12px" style=3D"height:12px;border-collapse:c=
+ollapse;padding:0px;margin:0px;font-size:1px;line-height:1px;"></td>
+</tr>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td align=3D"center" class=3D"headline type_basic" style=3D"border-collapse=
+:collapse;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif;=
+-webkit-font-smoothing:antialiased;color:#292f33;padding:0px;margin:0px;fon=
+t-weight:300;line-height:100%;"> <h2 style=3D"font-size:16px;line-height:10=
+0%;text-align:center;padding:0px;margin:0px;font-weight:300;">Acabas de cum=
+plir 2 a&ntilde;os.</h2> </td>
+</tr>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td class=3D"spacer basic" height=3D"20px" style=3D"height:20px;border-coll=
+apse:collapse;padding:0;margin:0;padding:0px;margin:0px;font-size:1px;line-=
+height:1px;"></td>
+</tr>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td class=3D"img_replace" style=3D"border-collapse:collapse;"><img class=3D=
+"main_image cut" src=3D"https://ea.twimg.com/email/t1/sparkler.gif" alt=3D"=
+&iexcl;Toma un poco de pastel!" style=3D"margin:0;padding:0;font-size:14px;=
+font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-fo=
+nt-smoothing:antialiased;color:#fff;display:block;-ms-interpolation-mode:bi=
+cubic;border:none;line-height:100%;outline:none;background-color:#55acee;fo=
+nt-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font=
+-smoothing:antialiased;font-size:16px;font-weight:bold;text-align:center;co=
+lor:#ffffff;width:500px;" /> <span class=3D"sparkler_2x"></span> </td>
+</tr>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td class=3D"spacer basic" height=3D"22px" style=3D"height:22px;border-coll=
+apse:collapse;padding:0;margin:0;padding:0px;margin:0px;font-size:1px;line-=
+height:1px;"></td>
+</tr>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td style=3D"border-collapse:collapse;">
+<table style=3D"border-collapse:collapse;">
+<tbody>
+<tr>
+<td width=3D"145" style=3D"width:145px;border-collapse:collapse;" class=3D"=
+spacer_h"></td>
+<td align=3D"center" class=3D"headline type_basic cta_text" style=3D"border=
+-collapse:collapse;font-family:'Helvetica Neue Light', Helvetica, Arial, sa=
+ns-serif;-webkit-font-smoothing:antialiased;color:#292f33;padding:0px;margi=
+n:0px;font-weight:300;line-height:100%;font-size:18px;line-height:140%;text=
+-align:center;"> Haz saber a todos que es tu aniversario en Twitter. </td>
+<td width=3D"145" style=3D"width:145px;border-collapse:collapse;" class=3D"=
+spacer_h"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td class=3D"spacer basic" height=3D"22px" style=3D"height:22px;border-coll=
+apse:collapse;padding:0;margin:0;padding:0px;margin:0px;font-size:1px;line-=
+height:1px;"></td>
+</tr>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td align=3D"center" class=3D"button" style=3D"border-collapse:collapse;">
+<table bgcolor=3D"#55acee" height=3D"40" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" align=3D"center" style=3D"white-space:nowrap;border-radius:5=
+px;border-style:none;text-align:center;cursor:pointer;border-collapse:colla=
+pse;">
+<tbody>
+<tr>
+<td class=3D"spacer" width=3D"30" style=3D"font-size:1px;font-size:1px;line=
+-height:1px;font-size:1px;border-collapse:collapse;padding:0px;margin:0px;f=
+ont-size:1px;line-height:1px;">&nbsp;</td>
+<td height=3D"40" align=3D"center" style=3D"border-collapse:collapse;"> <a =
+href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fin=
+tent%2Ftweet%3Fhashtags%3DTwitterversary&amp;t=3D1&amp;sig=3D3aa17110437844=
+1b1b74558037d73f92f5258651&amp;iid=3D763996db7b9246ec86ce170590561189&amp;u=
+id=3D576527407&amp;nid=3D216+1352+20140510" class=3D"tweet_button" style=3D=
+"text-decoration:none;color:#8899a6;font-size:11px;border-style:none;text-d=
+ecoration:none;color:#ffffff;-webkit-font-smoothing:antialiased;font-size:1=
+4px;letter-spacing:0.02em;font-weight:bold;white-space:nowrap;overflow:hidd=
+en;padding:0px;margin:0px;font-family:'Helvetica Neue', Helvetica, Arial, s=
+ans-serif;"> <span class=3D"" style=3D"border-style:none;text-decoration:no=
+ne;color:#ffffff;">&iexcl;Twittea!</span> </a> </td>
+<td class=3D"spacer" width=3D"30" style=3D"font-size:1px;font-size:1px;line=
+-height:1px;font-size:1px;border-collapse:collapse;padding:0px;margin:0px;f=
+ont-size:1px;line-height:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td class=3D"spacer" height=3D"50px" style=3D"height:50px;border-collapse:c=
+ollapse;padding:0px;margin:0px;font-size:1px;line-height:1px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr id=3D"footer">
+<td style=3D"border-collapse:collapse;">
+<table class=3D"basic" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wid=
+th=3D"100%" style=3D"border-collapse:collapse;padding:0;margin:0;">
+<tbody>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td class=3D"spacer" height=3D"20" style=3D"height:20px;border-collapse:col=
+lapse;padding:0px;margin:0px;font-size:1px;line-height:1px;"></td>
+</tr>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td class=3D"type_basic" style=3D"border-collapse:collapse;font-family:'Hel=
+vetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font-smoothing:ant=
+ialiased;color:#292f33;padding:0px;margin:0px;font-weight:300;line-height:1=
+00%;"> <p class=3D"type_footer" style=3D"margin:0;padding:0;font-size:13px;=
+text-align:center;color:#8899a6;font-weight:300;"> <a href=3D"https://twitt=
+er.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fsettings%2Fnotification=
+s&amp;t=3D1&amp;sig=3D10e80df5af008ee12a5bfb959972d5f2b81847f3&amp;iid=3D76=
+3996db7b9246ec86ce170590561189&amp;uid=3D576527407&amp;nid=3D216+27+2014051=
+0" style=3D"text-decoration:none;color:#8899a6;font-size:11px;text-decorati=
+on:none;color:#55acee;font-weight:bold;font-size:13px;-webkit-text-size-adj=
+ust:none;"> Configuraci&oacute;n de correo electr&oacute;nico </a> &nbsp;|&=
+nbsp; <a href=3D"https://twitter.com/i/u?t=3D1&amp;sig=3Db7d13f2f6af61a860a=
+ed1e6ac9475a6c358b2754&amp;iid=3D763996db7b9246ec86ce170590561189&amp;uid=
+=3D576527407&amp;nid=3D216+26+20140510" style=3D"text-decoration:none;color=
+:#8899a6;font-size:11px;text-decoration:none;color:#55acee;font-weight:bold=
+;font-size:13px;-webkit-text-size-adjust:none;"> Dejar de recibir estos men=
+sajes </a> &nbsp;|&nbsp; <a href=3D"https://twitter.com/i/redirect?url=3Dht=
+tps%3A%2F%2Fsupport.twitter.com&amp;t=3D1&amp;sig=3Dc296ce45a05a35779bd26e0=
+9c692fdfde0ff03c5&amp;iid=3D763996db7b9246ec86ce170590561189&amp;uid=3D5765=
+27407&amp;nid=3D216+97+20140510" style=3D"text-decoration:none;color:#8899a=
+6;font-size:11px;text-decoration:none;color:#55acee;font-weight:bold;font-s=
+ize:13px;-webkit-text-size-adjust:none;"> Ayuda </a> </p> </td>
+</tr>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td class=3D"spacer" height=3D"10" style=3D"height:10px;border-collapse:col=
+lapse;padding:0px;margin:0px;font-size:1px;line-height:1px;"></td>
+</tr>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td class=3D"address" align=3D"center" style=3D"border-collapse:collapse;">=
+ <p class=3D"type_basic" style=3D"font-family:'Helvetica Neue Light', Helve=
+tica, Arial, sans-serif;-webkit-font-smoothing:antialiased;color:#292f33;pa=
+dding:0px;margin:0px;font-weight:300;line-height:100%;margin:0;padding:0;fo=
+nt-size:12px;text-align:center;color:#8899a6;line-height:16px;text-align:ce=
+nter;-webkit-text-size-adjust:none;"> <a href=3D"#" style=3D"text-decoratio=
+n:none;color:#8899a6;font-size:11px;">Twitter, Inc. 1355 Market Street, Sui=
+te 900 San Francisco, CA 94103</a> </p> </td>
+</tr>
+<tr class=3D"basic" style=3D"padding:0;margin:0;">
+<td class=3D"spacer" height=3D"20" style=3D"height:20px;border-collapse:col=
+lapse;padding:0px;margin:0px;font-size:1px;line-height:1px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+
+------=_Part_7344186_1458650186.1399789552790--

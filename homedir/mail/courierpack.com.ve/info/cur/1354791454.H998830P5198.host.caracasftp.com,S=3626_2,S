@@ -1,0 +1,83 @@
+Return-path: <>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Thu, 06 Dec 2012 06:27:34 -0430
+Received: from smtp07.bis6.us.blackberry.com ([74.82.85.7]:4401)
+	by host.caracasftp.com with esmtp (Exim 4.77)
+	id 1TgZ93-0001Lh-N5
+	for info@courierpack.com.ve; Thu, 06 Dec 2012 06:27:34 -0430
+Received: from antispam2.c0.bise5.blackberry ([192.168.0.17])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id qB6AvTPN009178
+	for <SRS0=wnghsv=KA=courierpack.com.ve=info@srs.bis6.us.blackberry.com>; Thu, 6 Dec 2012 10:57:29 GMT
+X-SBRS: 5.6
+Received: from smtp11.bis6.us.blackberry.com ([74.82.85.11])
+  by antispam2.c0.bise5.blackberry with ESMTP; 06 Dec 2012 10:57:28 +0000
+Received: from localhost by smtp11.bis6.us.blackberry.com;
+  06 Dec 2012 10:57:29 +0000
+Message-Id: <742224$obmv4v@smtp11.c0.bise6.blackberry>
+Date: 06 Dec 2012 10:57:29 +0000
+To: SRS0=wnghsv=KA=courierpack.com.ve=info@srs.bis6.us.blackberry.com
+From: "Mail Delivery System" <MAILER-DAEMON@smtp11.c0.bise6.blackberry>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="mktoJ.4q2pt4M2z.1mbppp.DPd0gBL"
+
+--mktoJ.4q2pt4M2z.1mbppp.DPd0gBL
+content-type: text/plain;
+    charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <gabriela.garcia@courierpack.com.ve> was undeliver=
+able.
+The reason for the problem:
+5.1.0 - Unknown address error 550-'No such person at this address'
+
+--mktoJ.4q2pt4M2z.1mbppp.DPd0gBL
+content-type: message/delivery-status
+
+Reporting-MTA: dns; smtp11.bis6.us.blackberry.com
+
+Final-Recipient: rfc822;gabriela.garcia@courierpack.com.ve
+Action: failed
+Status: 5.0.0 (permanent failure)
+Remote-MTA: dns; [82.98.131.174]
+Diagnostic-Code: smtp; 5.1.0 - Unknown address error 550-'No such person at this address' (delivery attempts: 0)
+
+--mktoJ.4q2pt4M2z.1mbppp.DPd0gBL
+content-type: message/rfc822
+
+Received: from unknown (HELO srs.bis6.us.blackberry.com) ([172.29.231.135])
+  by smtp11.bis6.us.blackberry.com with ESMTP; 06 Dec 2012 10:57:26 +0000
+Received: from b11.c10.bise6.blackberry ([192.168.0.111])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id qB6AvQ3D018240;
+	Thu, 6 Dec 2012 10:57:26 GMT
+Received: from 172.29.203.173 (cmp3.c10.bise6.blackberry [172.29.203.173])
+	by b11.c10.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id qB6AvMmO002784;
+	Thu, 6 Dec 2012 10:57:22 GMT
+X-rim-org-msg-ref-id: 1337203286
+Message-ID: <1337203286-1354791441-cardhu_decombobulator_blackberry.rim.net-1364557879-@b26.c10.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: info@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: Flete hasta Valencia!
+To: odasprino@gmail.com, gabriela.garcia@courierpack.com.ve
+From: "Atencion al cliente!" <info@courierpack.com.ve>
+Date: Thu, 6 Dec 2012 10:56:46 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+
+DQpNdXkgYnVlbm9zIGRpYXMgb21hciB0ZSBoYWJsYSBtaWd1ZWwgYW5nZWwgcGl0YSwgbm8gdGUg
+cHJlb2N1cGVzIHRlIGxsZXZhcmVtb3MgbGEgbWVyY2FuY+1hIGhhc3RhIHZhbGVuY2lhLCBlbiBs
+YSBkaXJlY2Np824gcXVlIHR1IGluZGlxdWVzLCBjb21vIGxvIGhhYu1hbW9zIGFjb3JkYWRvLg0K
+DQpFc3BlcmFtb3MgbGEgY29uZmlybWFjafNuIGRlbCBkZXBvc2l0byB5IGVsIGRvbWluZ28gc2ln
+dWllbnRlIGRlbCBkZXBvc2l0byBlbnRyZSBsYXMgMiB5IGxhcyA2IHBtIGhhcmVtb3MgbGEgZW50
+cmVnYSBlbiBlbCBsdWdhciBkZSB0dSBwcmVmZXJlbmNpYS4NCg0KU2luIG1hcyBuYWRhIGEgcXVl
+IGhhY2VyIHJlZmVyZW5jaWEgc2UgZGVzcGlkZSBkZSB1c3RlZCANCg0KTWlndWVsIFBpdGEuDQoN
+CkdyYWNpYXMgZGUgYW50ZW1hbm8uDQpFbnZpYWRvIGRlc2RlIG1pIEJsYWNrQmVycnkgZGUgTW92
+aXN0YXI=
+
+
+--mktoJ.4q2pt4M2z.1mbppp.DPd0gBL--
+
+

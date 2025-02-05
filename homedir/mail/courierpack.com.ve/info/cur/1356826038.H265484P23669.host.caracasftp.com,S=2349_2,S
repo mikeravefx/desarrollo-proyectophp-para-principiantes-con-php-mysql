@@ -1,0 +1,49 @@
+Return-path: <titerestinmarin@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Sat, 29 Dec 2012 19:37:18 -0430
+Received: from mail-ie0-f177.google.com ([209.85.223.177]:46037)
+	by host.caracasftp.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <titerestinmarin@gmail.com>)
+	id 1Tp6Qv-00069f-In
+	for info@courierpack.com.ve; Sat, 29 Dec 2012 19:37:18 -0430
+Received: by mail-ie0-f177.google.com with SMTP id k13so13638517iea.8
+        for <info@courierpack.com.ve>; Sat, 29 Dec 2012 16:07:14 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=9Yi9JyGCVI/tC7uPR6mO6X5lUvdji1dwihyPfA6FSMI=;
+        b=lowUI+5m38XzvjtO2qX9GfHOyk42MJth4ybyB+NlGNnQl6/W6+s0CYcvmjQr+SrLOC
+         ZTxGwY/725CGawJ0oB9j0aaJtDRbRCyi0zycL1m3GZ+dEfRGR1v0q+iqJt09IEKfeY57
+         NHIYeeQbLibeGonPulmI9fpouGCKqRMrdsVPfpRsPFxrVLbb7iuJ8ZA2SEJ6A70NywU/
+         bBPKSSnHsaZ7rYs2Unsc3SCsFQ8aVhGv+gDbeXXCgju6916ckFT8ZC7bbnAhJ+x6N9Pd
+         GwZYOSoKi72+Zoe3vOfcPztzsVHuEGmyvjRq6zR5V9djtsv33zxGbZ9wr+kn80YownxS
+         AQUQ==
+MIME-Version: 1.0
+Received: by 10.50.194.167 with SMTP id hx7mr27838868igc.99.1356826034652;
+ Sat, 29 Dec 2012 16:07:14 -0800 (PST)
+Received: by 10.64.34.39 with HTTP; Sat, 29 Dec 2012 16:07:14 -0800 (PST)
+In-Reply-To: <1520606407-1356824719-cardhu_decombobulator_blackberry.rim.net-1398546973-@b17.c10.bise6.blackberry>
+References: <1520606407-1356824719-cardhu_decombobulator_blackberry.rim.net-1398546973-@b17.c10.bise6.blackberry>
+Date: Sat, 29 Dec 2012 19:37:14 -0430
+Message-ID: <CAE9zZVVmwPanUyqS+NN17k78+S=cmzQr_5JSPsHJfnMj1TWdBw@mail.gmail.com>
+Subject: Re: Requisicion del Email desde el Web Site
+From: Omar Galbiati <titerestinmarin@gmail.com>
+To: info@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=14dae9399c2fd146e704d206ad4a
+
+--14dae9399c2fd146e704d206ad4a
+Content-Type: text/plain; charset=ISO-8859-1
+
+Colocando en ciudad DORAL o MIAMI rechaza el zip code, indica que no
+corresponde.
+
+--14dae9399c2fd146e704d206ad4a
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Colocando en ciudad DORAL o MIAMI rechaza el zip code, indica que no corres=
+ponde.=A0<br>
+
+--14dae9399c2fd146e704d206ad4a--

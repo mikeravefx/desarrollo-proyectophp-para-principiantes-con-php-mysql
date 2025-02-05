@@ -1,0 +1,44 @@
+Return-path: <>
+Envelope-to: courierp@host.racksystem2.com
+Delivery-date: Thu, 31 Oct 2013 13:49:20 -0430
+Received: from mailnull by host.racksystem2.com with local (Exim 4.80)
+	id 1Vbwpz-000YlQ-Tw
+	for courierp@host.racksystem2.com; Thu, 31 Oct 2013 13:49:19 -0430
+X-Failed-Recipients: info@courierpack.com.ve
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@host.racksystem2.com>
+To: courierp@host.racksystem2.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Vbwpz-000YlQ-Tw@host.racksystem2.com>
+Date: Thu, 31 Oct 2013 13:49:19 -0430
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@courierpack.com.ve
+    No such person at this address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <courierp@host.racksystem2.com>
+Received: from courierp by host.racksystem2.com with local (Exim 4.80)
+	(envelope-from <courierp@host.racksystem2.com>)
+	id 1Vbwpz-000YlG-H3
+	for info@courierpack.com.ve; Thu, 31 Oct 2013 13:49:19 -0430
+To: info@courierpack.com.ve
+Subject: Requisicion del Email desde el Web Site
+X-PHP-Script: www.courierpack.com.ve/contacto.php for 190.38.244.250
+From:  rosadelmarboutique@hotmail.com
+Reply-To:rosadelmarboutique@hotmail.com
+X-Mailer:PHP/5.2.17
+Mime-Version: 1.0
+Content-Type: text/plain
+Message-Id: <E1Vbwpz-000YlG-H3@host.racksystem2.com>
+Date: Thu, 31 Oct 2013 13:49:19 -0430
+
+ROSA GUZMAN Escribio :
+ se?ores courrier pack la presente con el motivo decomunicarles que compre mercancia en amazon en principio de septiembre y llego a caracas hace un  mes y no he recibido ninguna comunicacion de parte de ustedes y necesito me la hagan llegar lo antes posible, gracias
+
+Mensaje Enviado el Dia:  31-10-13

@@ -1,0 +1,76 @@
+Return-path: <pellingomez@yahoo.es>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Mon, 10 Dec 2012 11:11:57 -0430
+Received: from nm33-vm2.bullet.mail.bf1.yahoo.com ([72.30.239.202]:24088)
+	by host.caracasftp.com with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.77)
+	(envelope-from <pellingomez@yahoo.es>)
+	id 1Ti5UT-0000si-I5
+	for info@courierpack.com.ve; Mon, 10 Dec 2012 11:11:57 -0430
+Received: from [98.139.215.142] by nm33.bullet.mail.bf1.yahoo.com with NNFMP; 10 Dec 2012 15:41:54 -0000
+Received: from [98.139.173.190] by tm13.bullet.mail.bf1.yahoo.com with NNFMP; 10 Dec 2012 15:41:54 -0000
+Received: from [127.0.0.1] by smtp117-mob.biz.mail.bf1.yahoo.com with NNFMP; 10 Dec 2012 15:41:54 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1355154114; bh=Zv3A5Q/MNKvWKNEbcy3kXq+X07tkGXdY2w0c5wbkRTI=; h=X-Yahoo-Newman-Id:X-Yahoo-Newman-Property:X-YMail-OSG:X-Yahoo-SMTP:Received:X-rim-org-msg-ref-id:Message-ID:Content-Transfer-Encoding:Reply-To:X-Priority:References:In-Reply-To:Sensitivity:Importance:Subject:To:From:Date:Content-Type:MIME-Version; b=ZIXnUk26aEkgh7QmmbHuWdsTyuy5H/Jn3wcKKiLgeEr126I9w4mS4akIkazmDBGCU4+FRmI0Zu3nA+5oaXG9f+FopVZRZyaV3I2ER61NlXiB9oGSYBaGKxnIKxvwOEMfyyGkEGiXeX4zIKkXvyi/cdyAiYutnM9YWjnE3KqxX/Q=
+X-Yahoo-Newman-Id: 517071.81919.bm@smtp117-mob.biz.mail.bf1.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: iMUydzUVM1kCypyTkMaU7ZBRBqQ1EVRZRWrWfKIJyhWQnYv
+ kFnXn69vnWy2EeRdyjvO0nLWMy5wt3qreSOcT7z3KKZZ8ftOkN6.YIQ7usIq
+ QFbfcItvF4obWuSpp7ptK5kDyTLzv3HA_gjiIeaUOw8Y8ACRGB1zfxCPVDjs
+ YxtcrBr.F0I19feH4GmNdtnsienENViKolPySmckxBNjTWGOSRyRRTKI1zFB
+ LP8RaPqx.yz4V0fMky4Kn72ayKk4HUczm4WBrwIs20pzOsVU11vhCSSHjbuP
+ cwuFn57gaBJuzhX6oRztAW.2dpPZNfw3TN_X8e75NbK6_BOgrg8UoRNc4EDS
+ .7Z1GsLcpteaSbtOOkOXzh.qnhfWn4WD3LVM4rlh7M6v0bPv5E3sU0ZI5WIy
+ _fTaYdllxJl.2P0n8W6Zx.5.yZiuWz5H62amFKBuGKwmguEpgErIAA1oG_Ja
+ LiynIsYPxDCUO
+X-Yahoo-SMTP: L27s.byswBBYLduNT0EvzB_0D2ySTAyk
+Received: from b15.c9.bise6.blackberry (pellingomez@74.82.82.194 with xymcookie)
+        by smtp117-mob.biz.mail.bf1.yahoo.com with SMTP; 10 Dec 2012 07:41:54 -0800 PST
+X-rim-org-msg-ref-id:805535585
+Message-ID:<805535585-1355154112-cardhu_decombobulator_blackberry.rim.net-669433072-@b15.c9.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: pellingomez@yahoo.es
+X-Priority: Normal
+References: <283168547-1355057701-cardhu_decombobulator_blackberry.rim.net-117202369-@b26.c10.bise6.blackberry>
+In-Reply-To: <283168547-1355057701-cardhu_decombobulator_blackberry.rim.net-117202369-@b26.c10.bise6.blackberry>
+Sensitivity: Normal
+Importance: Normal
+Subject: Re: Requisicion del Email desde el Web Site
+To: info@courierpack.com.ve
+From: pellingomez@yahoo.es
+Date: Mon, 10 Dec 2012 15:44:27 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+
+QnVlbm9zIGTtYXMsIGVsIGRlcG9zaXRvIHNlIHJlYWxpem86IG51bWVybyBkZSBsYSBvcGVyYWNp
+824gMDA0MzAyLCBmZWNoYSAxMC0xMi0yMDEyLCBob3JhIDExOjI4LCBtb250byBicyA4MjAuDQpQ
+b3IgZmF2b3IgZW52aWFyIGVsIHBhcXVldGUgYSBsYSBvZmljaW5hIGRlIHpvb20gdWJpY2FkYSBl
+biBiYXJxdWlzaW1ldG8gY2FycmVyYSAyNCBlbnRyZSBjYWxsZXMgMjMgeSAyNC4gRXN0YWRvIExh
+cmEsIGEgbm9tYnJlIGRlIFBlbGxpbiBHb21leiBj6WR1bGEgNzQzMzUyMiBjZWx1bGFyIDA0MjY1
+NTA2NTM1IA0KRW52aWFkbyBkZXNkZSBtaSBkaXNwb3NpdGl2byBtb3ZpbCBCbGFja0JlcnJ5riBk
+ZSBEaWdpdGVsLg0KDQotLS0tLU9yaWdpbmFsIE1lc3NhZ2UtLS0tLQ0KRnJvbTogIkF0ZW5jaW9u
+IGFsIGNsaWVudGUhIiA8aW5mb0Bjb3VyaWVycGFjay5jb20udmU+DQpEYXRlOiBTdW4sIDkgRGVj
+IDIwMTIgMTI6NTQ6MzIgDQpUbzogPHBlbGxpbmdvbWV6QHlhaG9vLmVzPg0KUmVwbHktVG86IGlu
+Zm9AY291cmllcnBhY2suY29tLnZlDQpTdWJqZWN0OiBSZTogUmVxdWlzaWNpb24gZGVsIEVtYWls
+IGRlc2RlIGVsIFdlYiBTaXRlDQoNCkJ1ZW5vcyBkaWFzIHNl8W9yIEdvbWV6LCB0dSBnde1hIHlh
+IHNlIGVuY3VlbnRyYSBlbiBhbG1hY+luIGNjcywgNDUkIGFsIGNhbWJpbyBkZSBkb2xhciBwYXJh
+bGVsby4gQ29tdW5pY2Fyc2UgY29uIEdhYnJpZWxhIEdhcmNpYSBqZWZhIGVuIGVudHJlZ2FzIHBh
+cmEgY29vcmRpbmFyIGVsIHBhZ28geSBlbnRyZWdhIDA0MjQxMDgyNzU3LiBTZSBsZSByZWN1ZXJk
+YSBxdWUgdGllbmUgMTAgZGlhcyBjb250aW51b3MsIGx1ZWdvIGRlIGxhIG5vdGlmaWNhY2nzbiBw
+YXJhIGV2aXRhciBhYmFuZG9ubyB2b2x1bnRhcmlvLiBTaW4gbWFzIG5hZGEgYSBxdWUgaGFjZXIg
+cmVmZXJlbmNpYSBtZSBkZXNwaWRvLiANCi0tLS0tLU1lbnNhamUgb3JpZ2luYWwtLS0tLS0NCkRl
+OiBwZWxsaW5nb21lekB5YWhvby5lcw0KUGFyYTogaW5mb0Bjb3VyaWVycGFjay5jb20udmUgaW5m
+b0Bjb3VyaWVycGFjay5jb20udmUNClJlc3BvbmRlciBhOiBwZWxsaW5nb21lekB5YWhvby5lcw0K
+QXN1bnRvOiBSZXF1aXNpY2lvbiBkZWwgRW1haWwgZGVzZGUgZWwgV2ViIFNpdGUNCkVudmlhZG86
+IDI4IGRlIG5vdiBkZSAyMDEyIDU6NDggUE0NCg0KUGVsbGluIEdvbWV6IEVzY3JpYmlvIDoNCkRl
+dGFsbGVzIGRlIFN1IE9yZGVuDQoNCkZlY2hhIGRlIExsZWdhZGEgYSBtaWFtaTo4LTExLTEyDQpS
+ZW1pdGVudGU6UGVsbGluIEdvbWV6DQpBcnRpY3VsbyhzKToJQmxhY2tiZXJyeSA5NjUwIEJvbGQg
+VW5sb2NrZWQgR1NNIFNtYXJ0cGhvbmUgd2l0aCAzIE1QIENhbWVyYSwgQmx1ZXRvb3RoLCAzRywg
+V2ktRmksIGFuZCBNaWNyb1NkIFNsb3QgKGNoYXJjb2FsKQ0KRW1wcmVzYSBkZSBlbnY/byBpbnRl
+cm5vOk90cm9zDQpOdW1lcm8gdHJhbmNraW5nOglMQTI2NjgwNzMxDQpHdWlhIGRlIFN1IENhcmdh
+OgkxMjE3MTM5YWEgDQpTdGF0dXMgZGUgQ2FyZ2E6CWFsbWFjZW4gbWlhbWkNCkZlY2hhIEVzdGlt
+YWRhIGRlIGxsZWdhZGEgYSBWZW5lenVlbGE6CTI4LTExLTEyDQoNCkNvbW8gc2Ugb2JzZXJ2YSBh
+dW4gc2UgZW5jdWVudHJhIGVuIG1pYW1pIHkgaG95IGRlYmVyaWEgbGxlZ2FyLiBQb3IgZmF2b3Ig
+ZXNwZXJvIHJlc3B1ZXN0YQ0KCQ0KICAgICAgICANCg0KTWVuc2FqZSBFbnZpYWRvIGVsIERpYTog
+IDI4LTExLTEyDQoNCkVudmlhZG8gZGVzZGUgbWkgQmxhY2tCZXJyeSBkZSBNb3Zpc3Rhcg==
+
+

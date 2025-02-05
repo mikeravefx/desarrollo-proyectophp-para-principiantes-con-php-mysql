@@ -1,0 +1,113 @@
+Return-path: <olx-bounce@olx-inc.com>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Tue, 29 May 2012 16:53:14 -0430
+Received: from relay1.olx.com ([204.232.252.90]:35410)
+	by host.caracasftp.com with esmtp (Exim 4.77)
+	(envelope-from <olx-bounce@olx-inc.com>)
+	id 1SZTsn-0001BG-BI
+	for miguel.pita@courierpack.com.ve; Tue, 29 May 2012 16:53:14 -0430
+Received: from relay1.olx.com (localhost [127.0.0.1])
+	by relay1.olx.com (Postfix) with ESMTP id 89B3E7D2FF9
+	for <miguel.pita@courierpack.com.ve>; Tue, 29 May 2012 17:23:12 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=olx.com; h=date:to:from
+	:reply-to:subject:message-id:sender:mime-version:content-type;
+	 s=relay1; bh=9O+pTcXQXjIsMB+IioDLNMUGfMo=; b=FN/45HvcZ0kYPmQB0Q
+	owie2m+ez0QqAFB9hvdI2Edm89DaQoRG68dmWlZreqbvzQsq2m/1UjC5CoQPUfRM
+	X7cg2ES1HZeJdRLpqUJcdvrUlLDaYqtpGRas2Jb3230av8dw+iTv+Y+cP4EUJELV
+	SKmSKGuPxgu2wJsEf6+hZUZOQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=olx.com; h=date:to:from
+	:reply-to:subject:message-id:sender:mime-version:content-type;
+	 q=dns; s=relay1; b=SkvHA5WPilxnFXFPJDLWjUi6eHivVmN3zYgEY8KDBI3R
+	Sk0/MuedhRcrMTr3dGbL4afsU8u9mkR/5G6eeqHNYulW5fN7cRgWrWqApgQaDbht
+	ylsAVyY1M99b0jC6U7uQANjUqSupZiRfigP137l3fPVapUS5f5FSn4JxqUME/+M=
+Date: Tue, 29 May 2012 17:23:12 -0400
+To: courierpack <miguel.pita@courierpack.com.ve>
+From: carlos <support@olx.com>
+Reply-to: carlos <carlos10guzman@hotmail.com>
+Subject: Courierpack, courier internacional puerta a puerta - compra por intenet con tu cupo cadivi
+Message-ID: <e2b31b5c6969962b233401e2338269ef@relay1.olx.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+Bounces-To: olx-bounce@olx-inc.com
+Sender: noreply@olx.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_e2b31b5c6969962b233401e2338269ef"
+
+
+--b1_e2b31b5c6969962b233401e2338269ef
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+                       =20
+                           =20
+                           =20
+                       =20
+                       =20
+                            De: carlos
+(carlos10guzman@hotmail.com)
+Tel=C3=A9fono: 04127184109=20
+=20
+estoy haciendo unas compra en amazon y quisiera que ustedes me
+las enviaran cual es el prosedimientoEste mensaje es acerca de:
+http://caracas.olx.com.ve/courierpack-courier-internacional-puerta-a-puert=
+a-compra-por-intenet-con-tu-cupo-cadivi-iid-44232719
+
+Gracias por usar OLX,
+
+
+
+
+El equipo de OLX
+
+
+
+
+
+Si necesita asistencia o tiene alg=C3=BAn comentario, p=C3=B3ngase en
+contacto con nosotros a trav=C3=A9s de nuestro equipo de atenci=C3=B3n
+al cliente
+
+
+--b1_e2b31b5c6969962b233401e2338269ef
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+                        <head>
+                            <title></title>
+                            <meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" />
+                        </head>
+                        <body>
+                            <div =
+style=3D"font-family:arial,sans-serif;font-size:13px;width:620px;"><p =
+style=3D"padding: 0pt 5px;"><strong>De: </strong>carlos =
+(carlos10guzman@hotmail.com)<br /><strong>Tel=C3=A9fono:</strong> =
+04127184109 <br /> <br />estoy haciendo unas compra en amazon y quisiera =
+que ustedes me las enviaran cual es el prosedimiento</p><p =
+style=3D"border-top:1px solid #D8D8D8; margin:0; padding:5px; =
+background-color:#F0F0F0;">Este mensaje es acerca de:<br /><a =
+class=3D"maillink" href=3D"http://caracas.olx.com.ve/courierpack-courier-i=
+nternacional-puerta-a-puerta-compra-por-intenet-con-tu-cupo-cadivi-iid-442=
+32719">http://caracas.olx.com.ve/courierpack-courier-internacional-puerta-=
+a-puerta-compra-por-intenet-con-tu-cupo-cadivi-iid-44232719</a><br =
+/></p><br /><div style=3D"padding: 0pt 5px;">Gracias por usar OLX,
+
+<br /><strong>
+
+El equipo de OLX
+
+</strong><br /><br />
+
+Si necesita asistencia o tiene alg=C3=BAn comentario, p=C3=B3ngase en =
+contacto con nosotros a trav=C3=A9s de nuestro <a =
+href=3D"http://www.olx.com.ve/contacts.php">equipo de atenci=C3=B3n al =
+cliente</a></div></div></body></html>
+
+
+
+--b1_e2b31b5c6969962b233401e2338269ef--
+
+

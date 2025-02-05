@@ -1,0 +1,145 @@
+Return-path: <ymhr25@gmail.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Fri, 25 Jan 2013 13:00:37 -0430
+Received: from mail-ia0-f176.google.com ([209.85.210.176]:40395)
+	by host.caracasftp.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <ymhr25@gmail.com>)
+	id 1Tyn6r-0000ZI-Ah
+	for gabrielagarcia@courierpack.com.ve; Fri, 25 Jan 2013 13:00:37 -0430
+Received: by mail-ia0-f176.google.com with SMTP id i18so960775iac.21
+        for <gabrielagarcia@courierpack.com.ve>; Fri, 25 Jan 2013 09:30:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=x-received:x-rim-org-msg-ref-id:message-id:reply-to:x-priority
+         :references:in-reply-to:sensitivity:importance:subject:to:from:date
+         :content-type:mime-version;
+        bh=DwuxKZmW+xMZ2xOf+Y9JqMiUQ4BNpfIR1TSyVUUe94E=;
+        b=JBGfcFBn/3Y5Ghwrc2jf/Af11ao/gKc91gor4jl65WRZjsxA/0zXMN8+L6k0HUsGa8
+         Bh5UiCBbhaclloWCSZ1EDN961VOnai4YDbKbilyXJ60jb9Mw/+BZw6CL3jNxve+MV7kY
+         ID7R3dR3OiLMnWZNOkT6YEyd9hUOtUghh5mfypg6AAUz3uX3eB6KR382NO5gmhDoF/bq
+         3JQSR8xY8VPj7RLEZxbHjZT1iurDOzzXrWv2pP1UFnCDj0BM0Avffd03h6nmxl7C0erL
+         P7vkYg083KxtUGZKeoLF4KJIcWkRU6GwWKKJEAcgpcjW99F17+BsLyih98GV9Y3GaFRd
+         u24Q==
+X-Received: by 10.50.7.135 with SMTP id j7mr4724674iga.82.1359135034489;
+        Fri, 25 Jan 2013 09:30:34 -0800 (PST)
+Received: from 172.29.217.206 (bda-74-82-85-143.bis6.us.blackberry.com. [74.82.85.143])
+        by mx.google.com with ESMTPS id gs6sm1166582igc.11.2013.01.25.09.30.33
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Fri, 25 Jan 2013 09:30:33 -0800 (PST)
+X-rim-org-msg-ref-id:201295421
+Message-ID:<201295421-1359135031-cardhu_decombobulator_blackberry.rim.net-1186986421-@b14.c24.bise6.blackberry>
+Reply-To: ymhr25@gmail.com
+X-Priority: Normal
+References: <CAG8hTmOiPip5oMrHkfajNfDCJoJDv0aNRrf3a3A7m1Rzfoi3Jg@mail.gmail.com>
+  <2099087253-1359055993-cardhu_decombobulator_blackberry.rim.net-907175318-@b26.c4.bise6.blackberry>
+  <CAG8hTmP2O70EOkfrcTNWAvC96wes-_dbMCHUshx8nSDFJ7FrHg@mail.gmail.com>
+  <CAG8hTmPSrT9bONsyNe0LQPV_UohTzvp8U10edBATYW2y1hHahQ@mail.gmail.com>
+  <521725912-1359134907-cardhu_decombobulator_blackberry.rim.net-948154936-@b26.c4.bise6.blackberry>
+In-Reply-To: <521725912-1359134907-cardhu_decombobulator_blackberry.rim.net-948154936-@b26.c4.bise6.blackberry>
+Sensitivity: Normal
+Importance: Normal
+Subject: Re: Deposito
+To: gabrielagarcia@courierpack.com.ve
+From: ymhr25@gmail.com
+Date: Fri, 25 Jan 2013 17:24:56 +0000
+Content-Type: multipart/alternative; boundary="part2531-boundary-83897242-1855906622"
+MIME-Version: 1.0
+
+
+--part2531-boundary-83897242-1855906622
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset="Windows-1252"
+
+T2ssIGRpc2N1bHBhIGVzdGFy7WEgbGxlZ2FuZG8gY3VhbmRvPw0KR3JhY2lhcw0KIA0KRW52aWFk
+byBkZXNkZSBtaSBkaXNwb3NpdGl2byBtb3ZpbCBCbGFja0JlcnJ5riBkZSBEaWdpdGVsLg0KDQot
+LS0tLU9yaWdpbmFsIE1lc3NhZ2UtLS0tLQ0KRnJvbTogZ2FicmllbGFnYXJjaWFAY291cmllcnBh
+Y2suY29tLnZlDQpEYXRlOiBGcmksIDI1IEphbiAyMDEzIDE3OjI4OjI1IA0KVG86IFl1ZGVya3lz
+IEhlcmVkaWE8eW1ocjI1QGdtYWlsLmNvbT4NClJlcGx5LVRvOiBnYWJyaWVsYWdhcmNpYUBjb3Vy
+aWVycGFjay5jb20udmUNClN1YmplY3Q6IFJlOiBEZXBvc2l0bw0KDQpIb2xhIFl1ZGVya2lzIGZl
+bGl6IGRpYS4gVHUgbnVtZXJvIGRlIGd1aWEgZGUgem9vbSBlcyBlbCBzaWd1aWVudGUuIDE3ODMz
+MDMzNiANCkVudmlhZG8gZGVzZGUgbWkgQmxhY2tCZXJyeSBkZSBNb3Zpc3Rhcg0KDQotLS0tLU9y
+aWdpbmFsIE1lc3NhZ2UtLS0tLQ0KRnJvbTogWXVkZXJreXMgSGVyZWRpYSA8eW1ocjI1QGdtYWls
+LmNvbT4NCkRhdGU6IFRodSwgMjQgSmFuIDIwMTMgMTU6MDg6NTkgDQpUbzogPGdhYnJpZWxhZ2Fy
+Y2lhQGNvdXJpZXJwYWNrLmNvbS52ZT4NClN1YmplY3Q6IFJlOiBEZXBvc2l0bw0KDQpDb24gYXRl
+bmNpb24gYSBZdWRlcmt5cyBIZXJlZGlhIDA0MTItNDc2MjkwMyB5IDAyNDItMzYxODU4NCAtIDAy
+NDItMzYxMTk2Ng0KU2FsdWRvcw0KDQpFbCAyNCBkZSBlbmVybyBkZSAyMDEzIDE1OjA3LCBZdWRl
+cmt5cyBIZXJlZGlhIDx5bWhyMjVAZ21haWwuY29tPiBlc2NyaWJp8zoNCg0KPiBIb2xhIEdhYnJp
+ZWxhLCBsYSBkaXJlY2Np824gZXMgbGEgU2lndWllbnRlOi4NCj4NCj4gQ2VudHJvIENvbWVyY2lh
+bCBQcm9mZXNpb25hbCBQbGF6YSwgUGlzbyAwMiBPZmljaW5hIDAzLCBDYWxsZQ0KPiBSZWdlbmVy
+YWNpb24sIFNlY3RvciBMYSBTdWx0YW5hLCBQdWVydG8gQ2FiZWxsbyxQYXJyb3F1aWEgRnJhdGVy
+bmlkYWQsIFpvbmENCj4gUG9zdGFsIDIwNTAsIEVzdGFkbyBDYXJhYm9ibywgQ2l1ZGFkIG8gTXVu
+aWNpcGlvIFB1ZXJ0byBDYWJlbGxvDQo+DQo+IFNhbHVkb3MNCj4gWXVkZXJreXMNCj4NCj4gRWwg
+MjQgZGUgZW5lcm8gZGUgMjAxMyAxNTowMywgPGdhYnJpZWxhZ2FyY2lhQGNvdXJpZXJwYWNrLmNv
+bS52ZT5lc2NyaWJp8zoNCj4NCj4gKioNCj4+IEFtaWdhLCBtYW5kYW1lIGxhIGRpcmVjY2lvbiBl
+eGFjdGEgZGUgZW527W8gbyBvZmljaW5BIHJlY2VwdG9yYSBkZSB6b29tIQ0KPj4gUGVyc29uYSBx
+dWllbiByZWNpYmUgc3UgbnVtZXJvIHRlbGVmb25pY28geSBjZWR1bGENCj4+IEVudmlhZG8gZGVz
+ZGUgbWkgQmxhY2tCZXJyeSBkZSBNb3Zpc3Rhcg0KPj4gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tDQo+PiAqRnJvbTogKll1ZGVya3lzIEhlcmVkaWEgPHltaHIyNUBnbWFpbC5jb20+DQo+
+PiAqRGF0ZTogKlRodSwgMjQgSmFuIDIwMTMgMTU6MDA6MTQgLTA0MzANCj4+ICpUbzogKjxnYWJy
+aWVsYWdhcmNpYUBjb3VyaWVycGFjay5jb20udmU+DQo+PiAqU3ViamVjdDogKkRlcG9zaXRvDQo+
+Pg0KPj4gQnVlbmFzIHRhcmRlcyBHYWJyaWVsYQ0KPj4gQWRqdW50byB0ZSBlbnZpbyBjb3BpYSBk
+ZWwgZGVwb3NpdG8NCj4+IE11Y2hvIHRlIGFncmFkZWNlcmlhIHF1ZSBtaWVudHJhcyBtYXMgcmFw
+aWRvIG1lIGxvIGVudmllcyBtdWNobyBtZWpvciwgeWENCj4+IHF1ZSBlcyB1biByZWdhbG8gcGFy
+YSB1biBhaGlqYWRvLg0KPj4gU2FsdWRvcywNCj4+IFl1ZGVya3lzDQo+Pg0KPj4NCj4NCg0K
+
+--part2531-boundary-83897242-1855906622
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset="Windows-1252"
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj48aHRtbD48aGVhZD48bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgi
+IGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSI+PC9oZWFkPjxib2R5Pk9rLCBkaXNjdWxwYSBlc3Rh
+cu1hIGxsZWdhbmRvIGN1YW5kbz88YnIvPkdyYWNpYXM8YnIvPiA8ZGl2PkVudmlhZG8gZGVzZGUg
+bWkgZGlzcG9zaXRpdm8gbW92aWwgQmxhY2tCZXJyea4gZGUgRGlnaXRlbC48L2Rpdj48aHIvPjxk
+aXY+PGI+RnJvbTogPC9iPiBnYWJyaWVsYWdhcmNpYUBjb3VyaWVycGFjay5jb20udmUNCjwvZGl2
+PjxkaXY+PGI+RGF0ZTogPC9iPkZyaSwgMjUgSmFuIDIwMTMgMTc6Mjg6MjUgKzAwMDA8L2Rpdj48
+ZGl2PjxiPlRvOiA8L2I+WXVkZXJreXMgSGVyZWRpYSZsdDt5bWhyMjVAZ21haWwuY29tJmd0Ozwv
+ZGl2PjxkaXY+PGI+UmVwbHlUbzogPC9iPiBnYWJyaWVsYWdhcmNpYUBjb3VyaWVycGFjay5jb20u
+dmUNCjwvZGl2PjxkaXY+PGI+U3ViamVjdDogPC9iPlJlOiBEZXBvc2l0bzwvZGl2PjxkaXY+PGJy
+Lz48L2Rpdj5Ib2xhIFl1ZGVya2lzIGZlbGl6IGRpYS4gVHUgbnVtZXJvIGRlIGd1aWEgZGUgem9v
+bSBlcyBlbCBzaWd1aWVudGUuIDE3ODMzMDMzNiA8ZGl2PkVudmlhZG8gZGVzZGUgbWkgQmxhY2tC
+ZXJyeSBkZSBNb3Zpc3RhcjwvZGl2Pjxoci8+PGRpdj48Yj5Gcm9tOiA8L2I+IFl1ZGVya3lzIEhl
+cmVkaWEgJmx0O3ltaHIyNUBnbWFpbC5jb20mZ3Q7DQo8L2Rpdj48ZGl2PjxiPkRhdGU6IDwvYj5U
+aHUsIDI0IEphbiAyMDEzIDE1OjA4OjU5IC0wNDMwPC9kaXY+PGRpdj48Yj5UbzogPC9iPiZsdDtn
+YWJyaWVsYWdhcmNpYUBjb3VyaWVycGFjay5jb20udmUmZ3Q7PC9kaXY+PGRpdj48Yj5TdWJqZWN0
+OiA8L2I+UmU6IERlcG9zaXRvPC9kaXY+PGRpdj48YnIvPjwvZGl2PjxkaXY+Q29uIGF0ZW5jaW9u
+IGEgWXVkZXJreXMgSGVyZWRpYSAwNDEyLTQ3NjI5MDMgeSAwMjQyLTM2MTg1ODQgLSAwMjQyLTM2
+MTE5NjY8L2Rpdj4NCjxkaXY+U2FsdWRvczxicj48YnI+PC9kaXY+DQo8ZGl2IGNsYXNzPSJnbWFp
+bF9xdW90ZSI+RWwgMjQgZGUgZW5lcm8gZGUgMjAxMyAxNTowNywgWXVkZXJreXMgSGVyZWRpYSA8
+c3BhbiBkaXI9Imx0ciI+Jmx0OzxhIGhyZWY9Im1haWx0bzp5bWhyMjVAZ21haWwuY29tIiB0YXJn
+ZXQ9Il9ibGFuayI+eW1ocjI1QGdtYWlsLmNvbTwvYT4mZ3Q7PC9zcGFuPiBlc2NyaWJp8zo8YnI+
+DQo8YmxvY2txdW90ZSBzdHlsZT0iQk9SREVSLUxFRlQ6I2NjYyAxcHggc29saWQ7TUFSR0lOOjBw
+eCAwcHggMHB4IDAuOGV4O1BBRERJTkctTEVGVDoxZXgiIGNsYXNzPSJnbWFpbF9xdW90ZSI+DQo8
+ZGl2PkhvbGEgR2FicmllbGEsIGxhIGRpcmVjY2nzbiBlcyBsYSBTaWd1aWVudGU6LjwvZGl2Pg0K
+PGRpdj6gPC9kaXY+DQo8ZGl2PkNlbnRybyBDb21lcmNpYWwgUHJvZmVzaW9uYWwgUGxhemEsIFBp
+c28gMDIgT2ZpY2luYSAwMywgQ2FsbGUgUmVnZW5lcmFjaW9uLCBTZWN0b3IgTGEgU3VsdGFuYSwg
+UHVlcnRvIENhYmVsbG8sUGFycm9xdWlhIEZyYXRlcm5pZGFkLCBab25hIFBvc3RhbCAyMDUwLCBF
+c3RhZG8gQ2FyYWJvYm8sIENpdWRhZCBvIE11bmljaXBpbyBQdWVydG8gQ2FiZWxsbzwvZGl2Pg0K
+PGRpdj6gPC9kaXY+DQo8ZGl2PlNhbHVkb3M8L2Rpdj4NCjxkaXY+WXVkZXJreXM8YnI+PGJyPjwv
+ZGl2Pg0KPGRpdiBjbGFzcz0iZ21haWxfcXVvdGUiPkVsIDI0IGRlIGVuZXJvIGRlIDIwMTMgMTU6
+MDMsIDxzcGFuIGRpcj0ibHRyIj4mbHQ7PGEgaHJlZj0ibWFpbHRvOmdhYnJpZWxhZ2FyY2lhQGNv
+dXJpZXJwYWNrLmNvbS52ZSIgdGFyZ2V0PSJfYmxhbmsiPmdhYnJpZWxhZ2FyY2lhQGNvdXJpZXJw
+YWNrLmNvbS52ZTwvYT4mZ3Q7PC9zcGFuPiBlc2NyaWJp8zogDQo8ZGl2Pg0KPGRpdiBjbGFzcz0i
+aDUiPjxicj4NCjxibG9ja3F1b3RlIHN0eWxlPSJCT1JERVItTEVGVDojY2NjIDFweCBzb2xpZDtN
+QVJHSU46MHB4IDBweCAwcHggMC44ZXg7UEFERElORy1MRUZUOjFleCIgY2xhc3M9ImdtYWlsX3F1
+b3RlIj48dT48L3U+DQo8ZGl2PkFtaWdhLCBtYW5kYW1lIGxhIGRpcmVjY2lvbiBleGFjdGEgZGUg
+ZW527W8gbyBvZmljaW5BIHJlY2VwdG9yYSBkZSB6b29tISBQZXJzb25hIHF1aWVuIHJlY2liZSBz
+dSBudW1lcm8gdGVsZWZvbmljbyB5IGNlZHVsYSANCjxkaXY+RW52aWFkbyBkZXNkZSBtaSBCbGFj
+a0JlcnJ5IGRlIE1vdmlzdGFyPC9kaXY+DQo8aHI+DQoNCjxkaXY+PGI+RnJvbTogPC9iPll1ZGVy
+a3lzIEhlcmVkaWEgJmx0OzxhIGhyZWY9Im1haWx0bzp5bWhyMjVAZ21haWwuY29tIiB0YXJnZXQ9
+Il9ibGFuayI+eW1ocjI1QGdtYWlsLmNvbTwvYT4mZ3Q7IDwvZGl2Pg0KPGRpdj48Yj5EYXRlOiA8
+L2I+VGh1LCAyNCBKYW4gMjAxMyAxNTowMDoxNCAtMDQzMDwvZGl2Pg0KPGRpdj48Yj5UbzogPC9i
+PiZsdDs8YSBocmVmPSJtYWlsdG86Z2FicmllbGFnYXJjaWFAY291cmllcnBhY2suY29tLnZlIiB0
+YXJnZXQ9Il9ibGFuayI+Z2FicmllbGFnYXJjaWFAY291cmllcnBhY2suY29tLnZlPC9hPiZndDs8
+L2Rpdj4NCjxkaXY+PGI+U3ViamVjdDogPC9iPkRlcG9zaXRvPC9kaXY+DQo8ZGl2Pg0KPGRpdj4N
+CjxkaXY+PGJyPjwvZGl2Pg0KPGRpdj5CdWVuYXMgdGFyZGVzIEdhYnJpZWxhPC9kaXY+DQo8ZGl2
+PkFkanVudG8gdGUgZW52aW8gY29waWEgZGVsIGRlcG9zaXRvPC9kaXY+DQo8ZGl2Pk11Y2hvIHRl
+IGFncmFkZWNlcmlhIHF1ZSBtaWVudHJhcyBtYXMgcmFwaWRvIG1lIGxvIGVudmllcyBtdWNobyBt
+ZWpvciwgeWEgcXVlIGVzIHVuIHJlZ2FsbyBwYXJhIHVuIGFoaWphZG8uPC9kaXY+DQo8ZGl2PlNh
+bHVkb3MsPC9kaXY+DQo8ZGl2Pll1ZGVya3lzPGJyPjxicj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rp
+dj48L2Jsb2NrcXVvdGU+PC9kaXY+PC9kaXY+PC9kaXY+PGJyPjwvYmxvY2txdW90ZT48L2Rpdj48
+YnI+DQoNCjwvYm9keT48L2h0bWw+
+
+--part2531-boundary-83897242-1855906622--
+

@@ -1,0 +1,144 @@
+Return-path: <gabyalexa23@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Thu, 05 Jun 2014 02:13:26 -0430
+Received: from mail-wi0-f179.google.com ([209.85.212.179]:46864)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <gabyalexa23@gmail.com>)
+	id 1WsROV-0011aM-PH
+	for info@courierpack.com.ve; Thu, 05 Jun 2014 02:13:26 -0430
+Received: by mail-wi0-f179.google.com with SMTP id bs8so2786620wib.0
+        for <info@courierpack.com.ve>; Wed, 04 Jun 2014 23:43:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=kH7roZaQi1Xo28lSLPdqMDxYlFpL7Xis+0bEpK/SJIA=;
+        b=nMNe5RuWFU8AuUhDOfYh2YLB836lMHOFH/vkyXuqK9ucoyYcmd64bdIBeCToN7WUhK
+         2Gz0oKFuEs3jU+nINCtb+aa6tjRbMTtcDvquDkO996E48i5jPo3RCT5i4JsrpIFKBnoA
+         64wq7ID43GzHL2zifOnFjQs3tf4GHkoy7YeWE0fkUhFyggz0Cf/ivpdIAIIPYb0bSVoK
+         F4cOXqeyAC8MEZTVtZfBYl8LYYiy5DaYgwQxWIR1VmqxgvBr/S0Drwi0WrhwItoEINEN
+         F4sjvxmD9oh5SFZYi5a/rtd0j2GgEfP0ckX6xA8KkGgdmxrHOWkwSwcqjFW0tHlWt1qr
+         dvPQ==
+MIME-Version: 1.0
+X-Received: by 10.180.126.98 with SMTP id mx2mr12424604wib.55.1401950601975;
+ Wed, 04 Jun 2014 23:43:21 -0700 (PDT)
+Received: by 10.194.124.12 with HTTP; Wed, 4 Jun 2014 23:43:21 -0700 (PDT)
+X-Goomoji-Body: true
+Date: Thu, 5 Jun 2014 02:13:21 -0430
+Message-ID: <CAGYt5dRdKL3eJS9OCAWfAJ8qepskn6x2ruJ+Vn8=8icZgbcPeA@mail.gmail.com>
+Subject: CPK
+From: Gabriela A Garcia P <gabyalexa23@gmail.com>
+To: Aduanair Atencion Cliente <info@aduanaircargo.com>, info@courierpack.com.ve
+Content-Type: multipart/related; boundary=e89a8f8389959f9c2c04fb110f7c
+X-Spam-Status: No, score=1.2
+X-Spam-Score: 12
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hola Anamar antes que nada te envio el deseo de un dia bendecido
+    e iluminado gusto saludarte. Anamar el siguiente es porque tengo aun la duda
+    de los numeros antes hablados como quedamos por fin? tengo la firme conviccion
+    que hay un error en calculo porque no tengo deudas tan morosas con Gilberto
+    y unas guias puntualizadas ya estaban canceladas, mira que no tengo el mismo
+    trafico de guia de ustedes y tengo un control mas corto. [...] 
+ 
+ Content analysis details:   (1.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (gabyalexa23[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (gabyalexa23[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.0 HTML_IMAGE_ONLY_16     BODY: HTML: images with 1200-1600 bytes of words
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--e89a8f8389959f9c2c04fb110f7c
+Content-Type: multipart/alternative; boundary=e89a8f8389959f9c2a04fb110f7b
+
+--e89a8f8389959f9c2a04fb110f7b
+Content-Type: text/plain; charset=UTF-8
+
+Hola Anamar antes que nada te envio el deseo de un dia bendecido e
+iluminado gusto saludarte.
+
+Anamar el siguiente es porque tengo aun la duda de los numeros antes
+hablados como quedamos por fin? tengo la firme conviccion que hay un error
+en calculo porque no tengo deudas tan morosas con Gilberto y unas guias
+puntualizadas ya estaban canceladas, mira que no tengo el mismo trafico de
+guia de ustedes y tengo un control mas corto.
+
+Por otra parte, revisando los recibos que me envian de tu central observo
+algunas cositas lo que me generan cierta duda, y es que, algunas guias se
+repiten con el mismo articulo generando mas libraje. se cobra la ultima
+anulando la primera? POR EJEMPLO las sigueintes:
+
+16908 5 IB -16923 10 IB
+10488 6 IB -10487 6 IB
+16924 8 IB - 16925 10 IB
+17005 7 IB - 17007 7 IB
+Son guias con la misma descripcion de contenido, solo varia el numero de
+recibo y su libraje siendo mas alto.
+
+Seguidamente tengo en duda la guia 16922 de 18 IB la cual no tiene la
+descipcion del contenido.
+
+
+
+Espero tu respuesta Anamar, MUY AGRADECIDA me despido.
+
+Saludos
+Gabriela Garcia / CPK
+  [?]
+
+--e89a8f8389959f9c2a04fb110f7b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hola Anamar antes que nada te envio el deseo de un dia ben=
+decido e iluminado gusto saludarte.<div><br></div><div>Anamar el siguiente =
+es porque tengo aun la duda de los numeros antes hablados como quedamos por=
+ fin? tengo la firme conviccion que hay un error en calculo porque no tengo=
+ deudas tan morosas con Gilberto y unas guias puntualizadas ya estaban canc=
+eladas, mira que no tengo el mismo trafico de guia de ustedes y tengo un co=
+ntrol mas corto.=C2=A0</div>
+<div><br></div><div>Por otra parte, revisando los recibos que me envian de =
+tu central observo algunas cositas lo que me generan cierta duda, y es que,=
+ algunas guias se repiten con el mismo articulo generando mas libraje. se c=
+obra la ultima anulando la primera? POR EJEMPLO las sigueintes:</div>
+<div><br></div><div>16908 5 IB -16923 10 IB</div><div>10488 6 IB -10487 6 I=
+B</div><div>16924 8 IB - 16925 10 IB</div><div>17005 7 IB - 17007 7 IB</div=
+><div>Son guias con la misma descripcion de contenido, solo varia el numero=
+ de recibo y su libraje siendo mas alto.</div>
+<div><br></div><div>Seguidamente tengo en duda la guia 16922 de 18 IB la cu=
+al no tiene la descipcion del contenido.<br></div><div><br></div><div><br><=
+/div><div><br></div><div>Espero tu respuesta Anamar, MUY AGRADECIDA me desp=
+ido.</div>
+<div><br></div><div>Saludos=C2=A0</div><div>Gabriela Garcia / CPK</div><div=
+>=C2=A0=C2=A0<img src=3D"cid:347@goomoji.gmail" goomoji=3D"347" style=3D"ma=
+rgin: 0px 0.2ex; vertical-align: middle;"></div><div><br></div><div><br></d=
+iv><div><br></div>
+</div>
+
+--e89a8f8389959f9c2a04fb110f7b--
+--e89a8f8389959f9c2c04fb110f7c
+Content-Type: image/gif; name="347.gif"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: 347@goomoji.gmail
+Content-ID: <347@goomoji.gmail>
+
+R0lGODlhDAAMAKIGAAqdCgBbAPX/9QAAAETIR8j/yP///wAAACH/C05FVFNDQVBFMi4wAwEAAAAh
++QQFZAAGACwAAAAADAAMAAADJmi03CowyiWKvZeWMSy32rd1hYZh5gkSVRFY79q6saxm7A0qTW8k
+ACH5BAUUAAYALAMAAgAGAAcAAAMOOFOlyo/JKYMN7GIGAEsAIfkEBcgABgAsAgACAAcABwAAAw5Y
+ujU8DirJVqjlWhX6TQA7
+--e89a8f8389959f9c2c04fb110f7c--

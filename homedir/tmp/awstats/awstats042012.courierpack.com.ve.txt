@@ -1,0 +1,1932 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201204 will be lost/reset.
+# Last config file used to build this data file was /home/courierp/tmp/awstats/awstats.courierpack.com.ve.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2012                
+POS_TIME 2703                
+POS_VISITOR 33488               
+POS_DAY 62324               
+POS_DOMAIN 3651                
+POS_LOGIN 4423                
+POS_ROBOT 4578                
+POS_WORMS 5219                
+POS_EMAILSENDER 5350                
+POS_EMAILRECEIVER 5493                
+POS_SESSION 63226               
+POS_SIDER 63439               
+POS_FILETYPES 5628                
+POS_DOWNLOADS 5872                
+POS_OS 5943                
+POS_BROWSER 6184                
+POS_SCREENSIZE 7856                
+POS_UNKNOWNREFERER 7930                
+POS_UNKNOWNREFERERBROWSER 9294                
+POS_ORIGIN 9985                
+POS_SEREFERRALS 10135               
+POS_PAGEREFS 10334               
+POS_SEARCHWORDS 11994               
+POS_KEYWORDS 22678               
+POS_MISC 2367                
+POS_ERRORS 25563               
+POS_CLUSTER 4279                
+POS_SIDER_404 25688               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120501003146 434792 112460598 100007711174
+FirstTime 20120401003123
+LastTime 20120430235013
+LastUpdate 20120430210832 5184 0 552 4631 0
+TotalVisits 948                 
+TotalUnique 617                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 752                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 203 773 19109576 231 449 4918436
+1 76 453 10280919 49 141 1326600
+2 75 437 10592023 70 156 1534564
+3 44 367 9566131 42 106 790903
+4 110 486 9228681 125 245 3470317
+5 122 495 11830973 122 255 2630988
+6 148 456 12320228 89 195 1859952
+7 89 328 10385259 44 108 1066052
+8 41 274 7197146 32 96 397472
+9 89 485 13543991 32 111 224574
+10 221 621 16468821 31 116 1032520
+11 142 663 15139834 186 346 3580411
+12 100 625 13118555 65 151 875025
+13 118 716 14358777 121 237 2116296
+14 147 837 19788114 92 283 1629746
+15 152 913 20810296 109 325 2419742
+16 137 986 23875805 47 223 1021280
+17 156 997 23252831 27 190 509187
+18 175 899 19605232 82 293 1645879
+19 122 925 24114181 68 213 1481472
+20 173 995 24164708 165 409 4162234
+21 209 1111 28622441 73 303 1882543
+22 112 702 16746930 27 177 175676
+23 113 697 14708957 72 226 961062
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 36
+ve 2274 12568 273521873
+us 485 2106 78523553
+eu 53 69 2699239
+ca 47 210 3348082
+no 30 194 5671781
+ru 30 30 598265
+de 28 31 982064
+nl 25 25 0
+ar 13 188 3650824
+co 11 90 3414307
+hk 10 35 497190
+cn 8 23 929221
+es 8 111 2228005
+fr 8 47 1132426
+ec 6 53 2087635
+do 5 34 799103
+mx 5 63 1866742
+it 4 34 1520071
+gb 3 3 117777
+pe 3 67 973045
+au 2 2 63427
+dk 2 17 693667
+cy 2 40 598464
+ua 1 1 39259
+tr 1 27 396072
+lv 1 1 39259
+cr 1 27 326080
+cz 1 1 39259
+pr 1 27 326080
+jp 1 1 39259
+cl 0 3 149154
+pa 1 7 278885
+ch 1 26 319408
+ni 1 27 385343
+bw 1 25 246540
+uy 1 28 329050
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+msnbot 605 11328329 20120429112243 40
+bot[\s_+:,\.\;\/\\-] 444 6407714 20120430071947 113
+crawl 247 4864955 20120428093851 10
+googlebot 218 2289037 20120430081143 40
+no_user_agent 150 3093019 20120428134927 12
+robot 108 1460228 20120429072926 24
+spider 45 876263 20120430231743 22
+[\s_+:,\.\;\/\\-]bot 27 415821 20120426061305 13
+ia_archiver 23 112048 20120426031731 9
+unknown 18 432 20120420180858 18
+msnbot\-media 14 518254 20120421105147 5
+slurp 3 72 20120421203436 3
+webcollage 1 113804 20120411025404 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 638 5146717 0 0
+png 72 24752 0 0
+swf 376 139252386 0 0
+php 1077 18997780 0 0
+html 1618 48548183 0 0
+xml 3 22677 0 0
+jpg 12212 176219811 0 0
+js 27 341766 0 0
+gif 218 276337 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 308 0 7392
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 18
+linuxsuse 37
+blackberry 260
+linuxandroid 210
+winlong 915
+winxp 7750
+win2000 5
+symbian 47
+j2me 1
+win2003 27
+linuxdebian 1
+java 1
+winnt 4
+linuxubuntu 9
+linux 206
+win7 5900
+winme 1
+macosx 421
+Unknown 446
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 97
+safari7.0.0.579 31
+firefox3.6.24 4
+msie6.0 203
+firefox3.6 26
+firefox10.0 41
+firefox4.0 27
+safari5.0 35
+safari5.0.6 24
+chrome7.0.517.41 1
+safari5.0.2 4
+firefox2.0.0.13 6
+msie8.0 3057
+firefox6.0.1 17
+chrome13.0.782.1 27
+msie7.0 251
+firefox9.0.1 20
+chrome18.0.1025.151 750
+docomo 4
+w3c_validator 1
+safari5.1.1 18
+safari6.0.0.285 41
+msie5.01 1
+firefox2.0.0.20 16
+safari6.0.0.668 2
+firefox13.0 48
+firefox10.0.1 25
+safari6.0.0.246 5
+firefox7.0.1 127
+firefox12.0 119
+firefox3.5.10 96
+firefox3.6.23 4
+chrome18.0.1025.142 493
+mozilla 1552
+chrome16.0.912.77 32
+netscape5.0 3
+chrome6.0.472.53 5
+firefox2.0.0.4 1
+firefox3.6.3 35
+firefox8.0.1 92
+firefox10.0.2 196
+chrome6.0.458.1 19
+chrome15.0.874.106 37
+safari 67
+safari7.0.0.353 3
+chrome18.0.1025.152 488
+firefox5.0 5
+chrome18.0.1025.162 1540
+firefox4.0.1 46
+android 210
+firefox3.6.11 95
+firefox3.6.6 200
+chrome11.0.696.77 4
+firefox8.0 17
+safari7.0.0.261 27
+safari6.0.0.448 1
+chrome17.0.963.79 27
+firefox3.5.3 70
+opera9.80 212
+chrome15.0.874.121 25
+iphone 3
+safari7.0.0.254 2
+firefox0.10.1 2
+firefox6.0.2 29
+chrome13.0.782.112 4
+chrome12.0.723.0 20
+safari5.1.5 50
+safari6.0.0.526 4
+chrome10.0.648.204 17
+chrome17.0.963.83 332
+firefox3.6.10 41
+msie9.0 1230
+Unknown 224
+firefox11.0 2311
+safari5.1.3 60
+chrome9.0.597.107 1
+blackberry 127
+chrome17.0.963.56 27
+firefox3.5.1 1
+firefox3.5.16 19
+chrome12.0.742 18
+chrome17.0.963.66 38
+firefox3.6.17 26
+firefox3.0.11 3
+chrome9.0.597 16
+msie5.5 1
+chrome18.0.966.0 28
+safari4.0 17
+firefox1.5.0.6 2
+safari5.1.2 14
+firefox3.0.6 2
+firefox5.0.1 61
+firefox3.6.28 127
+safari5.1 177
+firefox3.5.9 27
+firefox3.0.19 26
+firefox3.5.7 585
+firefox3.6.13 36
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 21
+Zend_Http_Client 20120416002513
+informes_latino 20120417182541
+DoCoMo/2.0_P900i(c100;TB;W24H11)_(compatible;_ichiro/mobile_goo;__http://help.goo.ne.jp/help/article/1142/) 20120401234917
+Opera/9.80_(Android;_Opera_Mini/7.29473/27.1407;_U;_es)_Presto/2.8.119_Version/11.10 20120410082817
+Mozilla/5.0_(YahooYSMcm/3.0.0;_http://help.yahoo.com) 20120421203436
+Mediapartners-Google 20120423055407
+Opera/9.80_(Android;_Opera_Mini/7.29530/27.1486;_U;_es)_Presto/2.8.119_Version/11.10 20120414142556
+Python-urllib/2.6 20120427082814
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20120428001517
+Mail.RU/2.0 20120410011235
+Snoopy_v1.2.4 20120415053957
+GSLFbot 20120405065834
+facebookplatform/1.0_(_http://developers.facebook.com) 20120426160801
+PHP/5.2.17 20120405052956
+Opera/9.80_(Android;_Opera_Mini/7.29530/27.1530;_U;_es)_Presto/2.8.119_Version/11.10 20120424040816
+W3C_Validator/1.3 20120405015224
+Mozilla/5.0_(en-us)_AppleWebKit/534.14_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Chrome/9.0.597_Safari/534.14 20120420163106
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20120426160801
+PHP 20120406191557
+Mozilla/4.0_(compatible;) 20120417164954
+WordPress.com_mShots;_http://support.wordpress.com/contact/ 20120402015755
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 14
+GSLFbot 20120405065834
+Zend_Http_Client 20120416002513
+informes_latino 20120417182541
+facebookplatform/1.0_(_http://developers.facebook.com) 20120426160801
+PHP/5.2.17 20120405052956
+Java/1.6.0_27 20120418182458
+Mediapartners-Google 20120423055407
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20120426160801
+Python-urllib/2.6 20120427082814
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20120428001517
+Snoopy_v1.2.4 20120415053957
+PHP 20120406191557
+Mail.RU/2.0 20120410011235
+WordPress.com_mShots;_http://support.wordpress.com/contact/ 20120402015755
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 705 898
+From1 33 33
+From2 455 497
+From3 24 136
+From4 1857 14677
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 447 468
+search 1 1
+bing 3 3
+live 3 24
+yahoo 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 21
+http://int.search-results.com/web 7 7
+https://www.intl-alliance.com/store 4 4
+http://micupo.mforos.com/1921056/9587559-courier-internacional-casillero-internacional/ 2 2
+http://host.caracasftp.com:2082/tmp/courierp/webalizer//usage_201204.html 2 2
+http://www.facebook.com/l.php 1 1
+http://domaincoleta.com/whois/courierpack.com.ve 1 1
+http://www.teamhardwarevzla.com/foros/viewtopic.php 1 1
+http://www.siteslikeit.com/similar/courierpack 1 1
+http://www.search-results.com/web 1 1
+http://www.whorush.com/search/ 1 1
+http://www.semrush.com/info/courierpack.com.ve 1 1
+http://www.semrush.com/uk/info/courierpack.com.ve 1 1
+http://ru.typo-errors.com/www.courierpack.com.ve/%D1%81%D1%89%D0%B3%D0%BA%D1%88%D1%83%D0%BA%D0%B7%D1%84%D1%81%D0%BB%D1%8E%D1%81%D1%89%D1%8C%D1%8E%D0%BC%D1%83 1 1
+http://foros.cantv.net/forum_posts.asp 0 14
+http://www.taringa.net/comunidades/dealextreme/2617852/%25C2%25BFQue+les+parece+un+concurso+en+la+comunidad%253F.html 0 1
+http://caracas.olx.com.ve/courierpack-courier-internacional-puerta-a-puerta-compra-por-intenet-con-tu-cupo-cadivi-iid-44232719 0 16
+http://forosbeta.cantv.net/forum_posts.asp 0 1
+http://translate.googleusercontent.com/translate_c 0 4
+http://host.caracasftp.com:2082/frontend/x3/stats/lastvisit.html 0 2
+http://36ohk6dgmcd1n-c.c.yom.mail.yahoo.net/om/api/1.0/openmail.app.invoke/36ohk6dgmcd1n/10/1.0.35/es/es-ES/controller.html/0 0 2
+http://caracas.olx.com.ve/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com-iid-44316114 0 72
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 257
+courier+pack 36
+courierpack 33
+comprar+con+cupo+cadivi 7
+courierpark 6
+compras+por+internet 5
+compra+por+internet 5
+cual+es+el+courier+mas+economico+para+compras+por+internet 4
+como+comprar+por+internet+con+cupo+cadivi 3
+eshop 3
+courier+puerta+a+puerta 2
+transporte+maritimo+cadivi 2
+riesgos+del+uso+de+compras+electronicas+por+cadivi 2
+cual+es+el+mejor+courier+en+venezuela 2
+compras+con+dolares 2
+como+comprar+en+usa+desde+venezuela+por+internet+mas+de+400+%24 2
+curierpack 2
+compra+de+dolares 2
+como+realizar+compras+a+traves+cadivi 2
+consejos+para+comprar+por+internet+desde+venezuela 2
+cupo+cadivi+exterior 2
+como+comprar+productos+en+amazon+de+mas+de+400+usd 2
+http+//www.courierpack.com.ve/ 2
+courier+internacional 2
+como+utilizar+cadivi+internet 1
+en+amazon+dolar+paralelo 1
+empresa+para+hacer+envios+a+venezuela+por+comprar+en+el+exterior 1
+compras+con+dolares+cadivi 1
+como+comprar+con+el+cupo+de+cadivi+de+los+400%24+por+internet 1
+gift+card+compras+mas+de+400 1
+blackberrys+cupos+cadivi 1
+precio+dolar+paralelo+cupo+electronico 1
+como+aprovechar+los+cupos+cadivi 1
+tips+para+hacer+entrgas+puerta+a+puerta 1
+pagina+para+compras+electronicas+en+dolares+de+cadivi+en+china 1
+como+comprar+con+los+cupos+de+internet+no+es+necesario 1
+dolar+paralelo+compras+por+internet+precio 1
+monto+maximo+para+importaciones+en+venezuela 1
+courier+calculo 1
+gestionar+cupos+cadivi+despues+de+viajar 1
+para+utilizar+gift+card+amazon+debo+tener+tarjeta+de+credito 1
+como+adquirir+mas+de+400+para+compra+electronica 1
+se+puede+comprar+con+dolares+de+tarjeta+de+credito+por+internet+que+no+sea+el+cupo+de+400+dolares 1
+cupo+cadivi+para+viajes+al+exterior 1
+como+hacer+cuando+una+compra+electronica+pasa+de+los+400%24 1
+pagar+en+dolares+en+venezuela+por+articulos 1
+paginas+web+compras+por+internet+cadivi+amazon 1
+como+comprar+mas+de+400+dolares+por+internet 1
+cadivi+devoluci%c3%b3n+de+compras+en+amazon 1
+mejor+courier+venezuela 1
+comprar+a+traves+de+internet+regalo+15+a%c3%b1os+pago+tarjeta+de+credito 1
+las+compras+en+amazon+incluye+el+transporte 1
+quien+regula+el+servicio+puerta+a+puerta 1
+asesorias+para+comprar+en+amazon 1
+norma+cadivi+viajes+al+exterior 1
+como+hacer+una+tarjeta+electronica+para+comprar+en+amazon 1
+comprar+por+internet+con+dolares 1
+como+pagar+con+dos+tarjetas+de+credito+en+linea%3f 1
+como+hacer+una+compra+en+amazon+cuando+la+compra+los+400+%24 1
+paga+con+tu+cupo+cadivi 1
+cupo+cadivi+a+usa 1
+preguntas+generadas+de+cadivi 1
+devolucion+de+dolares+de+cadivi 1
+compra+cupos+cadivi 1
+monto+en+bolivares+de+400+dolares+para+compras+en+internet+con+tarjeta+de+credito 1
+dolar+paralelo+para+la+compra+por+internet 1
+comprar+en+internet+con+los+cupos+sin+tarjetas 1
+corre+riesgo+al+revisar+mi+solicitud+de+cadivi 1
+compra+de+black+berry+en+amazon+con+cupos+cadivi 1
+cadivi+para+la+tercera+edad 1
+compras+cupo+cadivi 1
+cadivi+compras+en+el+exterior 1
+se+puede+comprar+por+amazon+con+tarjeta+de+credito+prepagada 1
+a+que+refiere+las+importaciones+puerta+a+puerta 1
+hacer+compras+en+amazon+desde+venezuela+mas+de+400+dolares 1
+como+hacer+para+comprar+en+amazon+sin+los+puntos+cadivi 1
+como+sale+el+precio+de+flete+mercancia+en+dolares 1
+quien+regula+el+transporte+aereo+en+venezuela 1
+donde+comprar+blacbberry+con+cupo+cadivi 1
+asignan+dolares+para+compras+por+internet 1
+comprar+con+cupo+cadivi+en+venezuela 1
+cadivi+limitado+a+saldo+en+tarjetas 1
+comprar+por+internet+con+cadivi 1
+compra+galaxy+note+con+cupo+cadivi 1
+requisitos+para+el+cupo+de+dolares+de+internet 1
+donde+comprar+con+los+400%24 1
+donde+compro+dolares+cadivi 1
+compra+con+cupo+cadivi 1
+cadivi+compras+por+internet 1
+como+realizar+una+compra+electr%c3%b3nica 1
+comprar+con+el+cupo+de+cadivi+con+400%24 1
+tiendas+para+usar+cupos+en+usa 1
+con+el+cupo+de+viajero+compre+por+internet 1
+como+comprar+en+amazon+desde+venezuela+y+pagar+en+bolivares+bpor+mas+de+400+dolares 1
+como+comprar+por+internet+con+cupo+cadivi+viajero 1
+cu%c3%a1l+es+el+mejor+servicio+para+comprar+por+internet 1
+mayor+de+courier+puerta+a+puerta 1
+comprar+en+amazon+mas+de+400+dolares 1
+logros+de+cadivi 1
+como+comprar+con+mas+de+400+dolares 1
+compra+por+internet+con+cupo+cadivi+internet 1
+cadivi 1
+como+conseguir+mas+de+400+dolares+cadivi 1
+limites+de+cupo+cadivi 1
+compra+con+cupos+cadivi 1
+http+//www.webstatsdomain.com/domains/www.courierpack.com.ve/ 1
+cual+es+el+mejor+courier 1
+para+que+se+usan+los+cupos+de+internet 1
+como+obtener+cupos+cadivi+de+internet 1
+compro+blacberrys+con+cupo+cadivi 1
+33178-2708 1
+pasas+a+seguir+para+comprar+por+internet+con+los+dolares+preferenciales 1
+comprar+en+amazon+solo+400+dolares 1
+comprar+blackberry+por+amazon+con+cupos+de+cadivi 1
+cadivi+donde+comprar 1
+cadivi+comprar+mas+de+400+internet 1
+costo+que+genera+un+courrier+internacional 1
+mi+cupo+impuestos+de+nacionalizacion 1
+preguntas+cupo+internet+cadivi 1
+compra+con+dolar+electroniconico 1
+tu+cupo+cadivi 1
+cupo+cadivi+internet+devoluciones 1
+como+hacer+compras+de+venezuela+a+estados+unidos 1
+dolares+de+cadivi+por+internet 1
+compras+por+interneten+usa+desde+venezuela 1
+calcular+el+envio+de+un+%c2%b4producto+hacia+venezuela 1
+como+comprar+al+mayor+por+amazon 1
+tiendas+para+comprar+con+cupo+de+internet+en+caracas 1
+cadivi+cupo+internet 1
+como+comprar+con+transporte+maritimo 1
+que+puedo+comprar+con+dolares+cadivi+online 1
+compras+por+internet+con+cupo+cadivi 1
+tarifa+cadivi+para+viajes 1
+cupo+de+compra 1
+comprar+con+dolar 1
+procesos+para+realizar+compras+por+internet 1
+comprar+en+el+exterior+con+los+cupos+cadivi 1
+pa+calcular+envio+en+de+puerta+en+puerta 1
+cuales+son+los+montos+de+dolares+asignados+por+cadivi 1
+puedo+comprar+por+internet+con+tarjeta+prepago+cadivi 1
+compras+con+cupos+cadivi 1
+requisitos+para+cupo+electronico+cadivi 1
+cupo+cadivi+para+empresas 1
+que+son+los+cupos+cadivi+para+compras+en+el+exterior 1
+como+comprar+en+amazon+si+el+producto+es+mas+de+400+dolares 1
+como+calcular+mi+compra+de+internet 1
+courrier+international+puerta+a+puerta 1
+como+usar+el+cupo+de+internet 1
+compras+con+dolares+preferenciales 1
+procedimiento+para+comprar+por+internet+por+amazon+desde+venezuela 1
+empresas+para+realizar+una+devoluci%c3%b3n+de+compra+por+amaz%c3%b3n 1
+cuando+se+paga+flete+por+compras+en+internet 1
+es+posible+conseguir+mas+de+400+dolares+de+cupo+de+internet%3f 1
+dolar+cupo+internet+paralelo 1
+viaje+al+exterior+con+limitacion+del+limite+a+la+tarjeta+de+credito 1
+tiendas+x+internet+para+comprar+con+dolares+cadivi 1
+courier+venezuela 1
+donde+comprar+en+uuss+con+cupo+cadivi 1
+como+pagar+compras+por+internet+con+d%c3%b3lares+en+efectivo 1
+compras+por+internet+con+cadivi 1
+en+cuanto+compran+los+cupos+de+internet 1
+como+comprar+desde+amazon+con+mas+de+400+dolares 1
+comprare+cupo+cadivi+venezuela 1
+entrega+internacional+de+compras+por+internet 1
+mejor+courier+para+traer+libros+a+venezuela 1
+como+tener+mas+de+400+dolares+en+vzela 1
+compras+con+cupo+cadivi 1
+afiliacion+en+cadivi+para+cupo+electronico 1
+como+obtener+el+cupo+cadivi+de+compras+online 1
+es+obligatorio+tener+tarjeta+de+credito+para+comprar+por+amazon%3f 1
+recomendaciones+para+courier+entrega+a+venezuela 1
+como+obtener+dolares+electronicos+en+venezuela 1
+compras+por+internet+cupos+cadivi 1
+normativa+de+cadivi+para+viajes+al+exterior 1
+mejores+courier+en+venezuela 1
+pagina+china+para+compras+electronicas+en+dolares+de+cadivi 1
+providencia+de+cadivi+para+la+tercera+edad 1
+compra+desde+tu+casa+por+internet 1
+compras+electronicas+cadivi 1
+descuento+cuenta+dolares+cadivi+viajero 1
+requisitos+para+dolares+cadivi+internet 1
+cupo+cadivi+para+tercera+edad 1
+compras+electronicas+en+usa 1
+compro+tu+cupo+cadivi+electronico 1
+se+pueden+acumular+los+cupos+de+dolares+de+cadivi 1
+se+puede+tener+el+cupo+de+cadivi+electronico+y+de+viejes+en+dos+tarjetas+de+distintos+bancos 1
+como+se+calcula+el+impuesto+por+nacionalizar+la+mercancia 1
+como+comprar+con+el+cupo+cadivi 1
+el+mejor+courier+para+venezuela+compra+en+eeuu 1
+courier+puerta+puerta+venezuela 1
+compra+de+cupo+por 1
+compras+por+internet+sin+cupos+cadivi 1
+compras+por+internet+con+los+cupos+cadivi 1
+compra+con+el+cupo+cadivi 1
+vender+cupo+cadivi 1
+courierpack.com.ve 1
+direccion+fisica+de+estados+unidos 1
+carga+pies+cubico+y+no+pagas+impuestos+en+venezuela 1
+cuanto+es+la+libra+en+cadivi 1
+tu+courier 1
+recomendaciones+para+comprar+con+los+cupos+electonicos 1
+cual+es+el+numero+de+guia+en+amazon 1
+como+comprar+n+dolares+cadivi+inteernet 1
+comercio+electronico+en+empresas+de+transporte+maritimo 1
+tener+muchos+cupos+cadivi+para+amazon 1
+comprar+en+el+exteriuor+por+cadivi 1
+como+realizar+compras+por+internet 1
+maximo+cupo+cadivi+por+dia 1
+compro+cupos+de+internet 1
+requisitos+para+adquirir+cupo+de+dolares+para+comprar+por+internet 1
+comprar+con+cupos+de+cadivi 1
+en+cuanto+se+compra+un+cupo+cadivi%3f 1
+blackberry+comprar+con+cupos+electronicos 1
+wwww.cadivi.con 1
+cuanto+es+el+cupo+cadivi+para+estados+unidps 1
+como+obtener+mas+de+400+dolares+en+cadivi 1
+que+comprar+con+el+cupo+cadivi 1
+compra+con+dolares+de+cadivi 1
+compra+co+dolar+cadivi 1
+dolar+paralelo+compra+venezuela 1
+compras+por+web 1
+cupos+cadivi+consejos 1
+tarifas+de+cadivi+para+viajes+al+exterior 1
+como+hacer+para+otener+los+cupo+de+cadivi+electronicos 1
+courier+venezuela+monto+maximo 1
+como+comprar+algo+de+mas+de+400+dolares 1
+cadivi+va+aumentar+el+cupo+de+dolares+para+compras+electronicas 1
+como+comprar+un+producto+de+amazon+mayor+a+los+400+dolare 1
+y+que+datos+coloco+de+la+tarejeta+de+credito+cuando+compro+400 1
+devolucion+dolares+compras+internet 1
+cif+dolares+por+libra 1
+compra+con+dolares+cadivi 1
+que+puedo+compara+con+los+cupo+de+cadivi 1
+cadivi.com.ve 1
+pagar+courier+cuenta+amazon 1
+compras+online+con+cadivi 1
+courier+internacional+puerta+puerta 1
+cuantos+es+el+maximo+de+los+cupos+cadivi+por+tarjeta+de+credito 1
+pagina+para+comprar+por+cadivi 1
+compres+por+internet+cupo+cadivi 1
+courier+en+venezuela 1
+impuesto+compras+con+cadivi+por+internet 1
+courier+internacional+puerta+a+puerta 1
+numero+de+guia+amazon 1
+precio+de+dolar+cadivi+compras+electronicas 1
+requisito+para+cupos+viajeros 1
+los+cupos+de+cadivi+no+cubren+el+precio+el+producto+que+quiero+comprar 1
+como+calcular+una+compra+en+amazon.com 1
+comprar+dolares+viajeros+en+cadivi 1
+cupo+de+dolares+para+compras+por+internet+en+venezuela 1
+como+sacar+el+calculo+de+alto+ancho+y+profundidad+para+envios 1
+como+se+usa+el+cupo+de+internet+en+dolares%3f 1
+comprar+en+amazon+con+cupo+cadivi 1
+numero+de+guia+en+amazon 1
+puerta+internacional+courier 1
+paga+en+dolaras+con+tu+cupo+cadivi 1
+como+hacer+una+compra+electronica+con+los+cupos+cadivi 1
+puedo+comprar+seguro+internacional+cupo+cadivi 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 281
+cadivi 128
+de 109
+internet 77
+por 74
+con 71
+comprar 71
+cupo 69
+en 68
+courier 63
+para 56
+compras 55
+como 50
+dolares 49
+el 40
+pack 36
+compra 34
+courierpack 33
+venezuela 31
+cupos 30
+amazon 29
+400 25
+puerta 23
+mas 23
+los 23
+a 21
+puede 3
+traer 1
+revisar 1
+asignan 1
+400%24 4
+uso 2
+impuesto 2
+curierpack 2
+co 1
+devolucion 2
+cuanto 4
+viajar 1
+mejores 1
+costo 1
+interneten 1
+dolar 10
+refiere 1
+maritimo 4
+tarifa 1
+libros 1
+necesario 1
+mi 3
+cual 8
+credito 10
+15 1
+tarjeta 10
+se 9
+asesorias 1
+viajes 5
+son 2
+debo 1
+no 4
+precio 5
+http 3
+electonicos 1
+amaz%c3%b3n 1
+una 7
+electroniconico 1
+despues 1
+mejor 7
+si 1
+puedo 4
+preguntas 2
+electronico 6
+33178-2708 1
+entrgas 1
+que 10
+galaxy 1
+hacer 10
+blackberry 2
+viajero 3
+a%c3%b1os 1
+quiero 1
+courrier 2
+genera 1
+providencia 1
+usd 2
+envio 2
+pa 1
+comprare 1
+seguro 1
+seguir 1
+realizar 6
+note 1
+aereo 1
+montos 1
+limitacion 1
+international 1
+edad 3
+nacionalizacion 1
+bolivares 2
+paginas 1
+norma 1
+electronica 4
+electr%c3%b3nica 1
+numero 3
+cubico 1
+pagas 1
+al 7
+prepago 1
+unidps 1
+black 1
+impuestos 2
+limites 1
+exteriuor 1
+procedimiento 1
+servicio 2
+recomendaciones 2
+conseguir 2
+solo 1
+del 3
+coloco 1
+pies 1
+calculo 2
+articulos 1
+electronicos 3
+cu%c3%a1l 1
+china 2
+guia 3
+requisito 1
+es 16
+asignados 1
+empresa 1
+devoluci%c3%b3n 2
+%24 3
+wwww.cadivi.con 1
+amazon.com 1
+cuales 1
+compran 1
+entrega 2
+un 4
+flete 2
+caracas 1
+incluye 1
+pasa 1
+sale 1
+preferenciales 2
+viejes 1
+dolares%3f 1
+profundidad 1
+regalo 1
+n 1
+sacar 1
+paga 3
+carga 1
+uuss 1
+producto 3
+paralelo 6
+tarejeta 1
+regula 2
+pagar 5
+riesgos 2
+y 5
+calcular 4
+cif 1
+solicitud 1
+cadivi%3f 1
+saldo 1
+hacia 1
+calcula 1
+vender 1
+productos 2
+compre 1
+distintos 1
+va 1
+monto 3
+la 8
+compres 1
+dia 1
+blacberrys 1
+viajeros 2
+cuenta 2
+limitado 1
+online 3
+tips 1
+dos 2
+exterior 11
+cuando 4
+courierpark 6
+berry 1
+nacionalizar 1
+tu 6
+transporte 6
+pueden 1
+electronicas 8
+vzela 1
+cubren 1
+prepagada 1
+generadas 1
+tarjetas 4
+corre 1
+adquirir 2
+sin 3
+usar 2
+inteernet 1
+card 2
+obligatorio 1
+blackberrys 1
+logros 1
+direccion 1
+casa 1
+mayor 3
+traves 3
+eeuu 1
+las 2
+amazon%3f 1
+normativa 1
+usan 1
+procesos 1
+tercera 3
+libra 2
+puntos 1
+maximo 4
+internet%3f 1
+afiliacion 1
+importaciones 2
+posible 1
+tiendas 3
+aprovechar 1
+quien 2
+descuento 1
+dolare 1
+d%c3%b3lares 1
+eshop 3
+viaje 1
+alto 1
+gift 2
+limite 1
+riesgo 1
+blacbberry 1
+ancho 1
+tarifas 1
+linea%3f 1
+otener 1
+web 2
+datos 1
+bancos 1
+bpor 1
+tener 5
+desde 10
+gestionar 1
+courierpack.com.ve 1
+sea 1
+dolaras 1
+aumentar 1
+muchos 1
+efectivo 1
+cuantos 1
+donde 5
+fisica 1
+utilizar 2
+usa 7
+economico 4
+estados 3
+algo 1
+compro 5
+obtener 4
+devoluciones 1
+compara 1
+%c2%b4producto 1
+consejos 3
+unidos 2
+pasas 1
+pago 1
+pagina 3
+cadivi.com.ve 1
+x 1
+envios 2
+//www.webstatsdomain.com/domains/www.courierpack.com.ve/ 1
+mercancia 2
+empresas 3
+requisitos 4
+//www.courierpack.com.ve/ 2
+comercio 1
+internacional 8
+acumular 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 257 364
+206 133 10231826
+301 3 765
+404 2051 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 93
+/sitemap.xml 3 -
+/gobierno-desmiente-eliminacion-de-divisas-para-internet-eliminacion-de-cupo-cadivi-para-compras-electronicas-por-internet.html/nosotros.html 1 -
+/ 1 -
+/robots.txt 3 -
+/administartivo/index,php 4 -
+/sabes-como-realizar-compras-por-internet-de-mas-de-400$-con-tu-cupo-cadivi-para-compras.. 1 -
+/h 1 -
+/cadivi-estudia-aumento-de-cupo-para-viajeros.html/preguntas.html 1 -
+/si-no-vas-a-usar-tu-cupo-de-cadivi-te-lo-compro.html/ 1 -
+/nueva_providencia_para_el_cupo_cadivi_para_viajes_al_exterior_entrara_en_vigencia_en_enero_del_2010.html/index.html 2 -
+/cambios-en-el-cupo-cadivi-para-el-2010.html/preguntas.html 1 -
+/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com.html/preguntas.html 1 -
+/%23FFFFCC 3 http://www.courierpack.com.ve/
+/economistas-estiman-que-el-gobierno-recortara-el-cupo-en-dolares-para-2009.html/nosotros.html 2 -
+/eshop.html/index.html 1 -
+/si-no-vas-a-usar-tu-cupo-de-cadivi-te-lo-compro.html/servicios.html 1 -
+//phpMyAdmin-3.0.1.0-english/scripts/setup.php 1 -
+/cadivi-estudia-aumento-de-cupo-para-viajeros.html/nosotros.html 2 -
+/servicios.html/ 1 -
+/En-riesgo-uso-de-tarjetas-de-credito-por-retrasos-de-Cadivi.html/ 1 -
+/f 1 -
+/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com.html/nosotros.html 2 -
+/nueva_providencia_para_el_cupo_cadivi_para_viajes_al_exterior_entrara_en_vigencia_en_enero_del_2010.html/ 1 -
+/si-no-vas-a-usar-tu-cupo-de-cadivi-te-lo-compro.html/nosotros.html 1 -
+/cadivi-estudia-aumento-de-cupo-para-viajeros.html/servicios.html 2 -
+/www.cadivi.gob.ve 9 -
+/gobierno-desmiente-eliminacion-de-divisas-para-internet-eliminacion-de-cupo-cadivi-para-compras-electronicas-por-internet.html/preguntas.html 2 -
+/supuesta-eliminacion-del-cupo-cadivi-para-compras-por-internet.html/preguntas.html 1 -
+/economistas-estiman-que-el-gobierno-recortara-el-cupo-en-dolares-para-2009.html/servicios.html 2 -
+/administartivo 1 -
+/nueva_providencia_para_el_cupo_cadivi_para_viajes_al_exterior_entrara_en_vigencia_en_enero_del_2010.html/servicios.html 2 -
+/nueva_providencia_para_el_cupo_cadivi_para_viajes_al_exterior_entrara_en_vigencia_en_enero_del_2010.html/preguntas.html 1 -
+/a9fex.3-8703-44f7-9d38-5tbe74e5320f&Operation=NoScript 1 -
+/supuesta-eliminacion-del-cupo-cadivi-para-compras-por-internet.html/contacto.html 1 -
+/contacto.html/nosotros.html 1 -
+/administartivo/ 2 -
+/economistas-estiman-que-el-gobierno-recortara-el-cupo-en-dolares-para-2009.html/preguntas.html 2 -
+/administartivo/validar.php 3 -
+/blackberry-vs-nokia.html/preguntas.html 1 -
+/nueva_providencia_para_el_cupo_cadivi_para_viajes_al_exterior_entrara_en_vigencia_en_enero_del_2010.html/nosotros.html 2 -
+/nuevos-cambios-para-regular-cupo-cadivi-para-compras-en-el-exterior-entrara-en-vigencia-a-partir-del-1-enero-2010.html/contacto.html 1 -
+/seran-sancionados-bancos-que-limiten-uso-de-tarjetas-para-fines-de-ano-modificaran-cupo-para-los-viajes-al-exterior.html/servicios.html 2 -
+/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com.html/servicios.html 2 -
+/supuesta-eliminacion-del-cupo-cadivi-para-compras-por-internet.html/ 1 -
+/nuevos-cambios-para-regular-cupo-cadivi-para-compras-en-el-exterior-entrara-en-vigencia-a-partir-del-1-enero-2010.html/preguntas.html 1 -
+/contacto.html/preguntas.html 2 -
+/seran-sancionados-bancos-que-limiten-uso-de-tarjetas-para-fines-de-ano-modificaran-cupo-para-los-viajes-al-exterior.html/ 2 -
+/nueva_providencia_para_el_cupo_cadivi_para_viajes_al_exterior_entrara_en_vigencia_en_enero_del_2010.html/tarifas.html 2 -
+/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com.html/ 2 -
+/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com.html/contacto.html 2 -
+/administrativo/guias/eliminar_guia.php 1 http://www.courierpack.com.ve/administrativo/guias/guias.php
+/contacto.html/contacto.html 1 -
+/administrativo/administrativo/bizama.png 63 http://www.courierpack.com.ve/administrativo/guias/actualizado.php
+/si-no-vas-a-usar-tu-cupo-de-cadivi-te-lo-compro.html/index.html 1 -
+/gobierno-desmiente-eliminacion-de-divisas-para-internet-eliminacion-de-cupo-cadivi-para-compras-electronicas-por-internet.html/tarifas.html 2 -
+/economistas-estiman-que-el-gobierno-recortara-el-cupo-en-dolares-para-2009.html/index.html 2 -
+/seran-sancionados-bancos-que-limiten-uso-de-tarjetas-para-fines-de-ano-modificaran-cupo-para-los-viajes-al-exterior.html/contacto.html 2 -
+/Complicaciones-tecnologicas-retardan-modificaciones-del-cupo-de-Cadivi.html/tarifas.html 1 -
+/economistas-estiman-que-el-gobierno-recortara-el-cupo-en-dolares-para-2009.html/ 1 -
+/images/img01.gif 1752 http://www.courierpack.com.ve/index.html
+/eshop.html/servicios.html 1 -
+/cadivi-estudia-aumento-de-cupo-para-viajeros.html/tarifas.html 2 -
+/.tdl 1 -
+/sabes-como-realiz 1 -
+/economistas-estiman-que-el-gobierno-recortara-el-cupo-en-dolares-para-2009.html/tarifas.html 2 -
+/En-riesgo-uso-de-tarjetas-de-credito-por-retrasos-de-Cadivi.html/contacto.html 1 -
+/gobierno-desmiente-eliminacion-de-divisas-para-internet-eliminacion-de-cupo-cadivi-para-compras-electronicas-por-internet.html/ 2 -
+/Cached 1 -
+/contacto.html/ 1 -
+/contacto.html/tarifas.html 1 -
+/seran-sancionados-bancos-que-limiten-uso-de-tarjetas-para-fines-de-ano-modificaran-cupo-para-los-viajes-al-exterior.html/tarifas.html 2 -
+/cadivi-estudia-aumento-de-cupo-para-viajeros.html/ 3 -
+/seran-sancionados-bancos-que-limiten-uso-de-tarjetas-para-fines-de-ano-modificaran-cupo-para-los-viajes-al-exterior.html/nosotros.html 2 -
+/crossdomain.xml 6 http://s.nsdsvc.com/App/DddWrapper.swf
+/cadivi-estudia-aumento-de-cupo-para-viajeros.html/contacto.html 1 -
+/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com.html/index.html 2 -
+/economistas-estiman-que-el-gobierno-recortara-el-cupo-en-dolares-para-2009.html/contacto.html 2 -
+/seran-sancionados-bancos-que-limiten-uso-de-tarjetas-para-fines-de-ano-modificaran-cupo-para-los-viajes-al-exterior.html/index.html 1 -
+/blank_clip_image001_0002.gif 89 http://www.courierpack.com.ve/preguntas.html
+/gobierno-desmiente-eliminacion-de-divisas-para-internet-eliminacion-de-cupo-cadivi-para-compras-electronicas-por-internet.html/servicios.html 2 -
+/contacto.html/servicios.html 1 -
+/seran-sancionados-bancos-que-limiten-uso-de-tarjetas-para-fines-de-ano-modificaran-cupo-para-los-viajes-al-exterior.html/preguntas.html 1 -
+/hacifas.hrylit-contractor/a.co.uk/category/interior-stone-tiles/ 1 -
+/blackberry-vs-nokia.html/nosotros.html 1 -
+/gobierno-desmiente-eliminacion-de-divisas-para-internet-eliminacion-de-cupo-cadivi-para-compras-electronicas-por-internet.html/index.html 1 -
+/gobierno-desmiente-eliminacion-de-divisas-para-internet-eliminacion-de-cupo-cadivi-para-compras-electronicas-por-internet.html/contacto.html 1 -
+/cadivi-estudia-aumento-de-cupo-para-viajeros.html/index.html 2 -
+/En-riesgo-uso-de-tarjetas-de-credito-por-retrasos-de-Cadivi.html/servicios.html 1 -
+/nueva_providencia_para_el_cupo_cadivi_para_viajes_al_exterior_entrara_en_vigencia_en_enero_del_2010.html/contacto.html 1 -
+/contacto.html/index.html 1 -
+/nuevos-cambios-para-regular-cupo-cadivi-para-compras-en-el-exterior-entrara-en-vigencia-a-partir-del-1-enero-2010.html/servicios.html 1 -
+/agdivi-cupo-en-dolares-para-compras-por-internet-no-sera-aumentado-en-2009.html 1 -
+/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com.html/tarifas.html 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 752
+190.72.149.205 261 292 7304309 20120418195655
+201.209.254.42 259 692 17563385 20120430080058
+190.77.120.189 209 510 8817425 20120430231743
+190.203.70.48 76 317 4118074 20120427180052
+190.205.87.244 64 395 10093715 20120424190103
+190.72.177.185 54 108 2603559 20120410142740
+201.209.55.50 50 192 2448745 20120430235013
+109.74.197.228 48 48 1884432 20120427043231
+190.73.136.55 42 134 2790039 20120416053018
+190.198.147.54 35 119 3035270 20120404184219
+186.24.19.1 32 80 1836813 20120427180743
+190.72.124.109 32 94 2435555 20120423154136
+107.20.10.145 31 31 612355 20120405065834
+217.69.133.29 30 30 598265 20120410011235
+186.24.20.1 28 201 3637930 20120416151810
+190.142.87.162 27 125 1905539 20120423002151
+200.44.218.163 26 26 658735 20120413105620
+141.138.145.67 25 25 0 20120422215913
+190.201.243.28 24 72 1071419 20120422203015
+207.46.199.146 18 107 4389013 20120408182522
+186.24.16.1 17 28 233200 20120430184813
+190.74.180.54 15 15 152658 20120415201729
+186.94.80.108 15 16 222437 20120406160417
+190.198.86.148 15 15 160806 20120420160355
+207.46.193.57 15 90 3664630 20120408222633
+190.36.215.114 0 1 76664 
+65.52.111.27 9 54 2198778 20120407185900
+190.39.128.10 1 27 326080 20120417093824
+74.125.156.92 0 1 111038 
+65.52.108.21 1 2 51702 20120412213840
+190.39.68.245 1 6 41407 20120419182551
+190.121.239.155 6 37 793301 20120406124800
+207.46.194.245 12 71 2923161 20120409154711
+190.38.85.166 0 2 6103 
+186.24.23.1 1 1 39259 20120411111506
+190.37.11.60 2 17 693667 20120402143714
+201.249.81.177 6 39 868553 20120415182001
+208.80.194.32 1 1 39259 20120416132246
+60.241.4.103 1 1 39259 20120411082216
+190.72.50.22 2 31 410067 20120405021715
+207.46.12.252 9 54 2198778 20120403191206
+190.78.179.166 3 34 764064 20120414160528
+201.248.64.11 2 17 693667 20120413105023
+190.38.132.51 4 34 848835 20120420045347
+190.75.195.144 2 20 705034 20120408144624
+66.249.71.36 1 1 39259 20120423055407
+66.220.146.249 2 5 97997 20120419102928
+74.125.64.87 0 1 76664 
+201.210.6.152 0 4 260192 
+131.107.0.70 1 1 39259 20120421111437
+74.125.158.83 0 2 116725 
+186.93.55.80 3 19 736289 20120411204444
+200.109.143.83 0 1 27926 
+190.202.94.238 1 24 274506 20120417174322
+207.46.12.245 3 18 732926 20120403104950
+201.202.15.105 1 27 326080 20120404215701
+190.199.66.216 7 39 926379 20120420193511
+69.171.234.6 2 4 66341 20120421202928
+76.18.12.174 1 8 494412 20120429222637
+190.205.156.171 3 18 732926 20120402220404
+201.211.229.81 2 18 696984 20120416222919
+186.188.29.110 3 35 889963 20120406142212
+65.52.111.26 3 18 732926 20120406133004
+200.84.31.7 1 27 326080 20120401111732
+190.38.152.71 2 17 693667 20120420000003
+186.186.245.134 3 18 732926 20120405150307
+190.202.109.162 1 24 274506 20120416230948
+207.46.199.139 3 18 732926 20120402220708
+200.8.226.203 2 18 698576 20120412190405
+190.75.79.102 3 30 436903 20120423010935
+190.199.175.173 1 27 326080 20120404101324
+200.35.82.238 0 4 254054 
+206.53.144.165 1 17 321739 20120420215537
+190.204.230.97 1 1 15593 20120429191025
+186.90.70.90 1 24 274506 20120402190810
+190.72.184.10 2 18 698576 20120406214808
+190.38.57.123 0 2 11409 
+65.49.14.89 1 2 27109 20120402114719
+190.79.102.4 2 17 693667 20120410160242
+190.73.129.133 2 17 693667 20120412162440
+190.199.10.167 4 57 1045105 20120414152749
+186.14.32.43 0 4 260192 
+190.73.141.199 7 21 82794 20120401200812
+186.93.227.242 4 23 744258 20120406203222
+200.109.188.235 1 27 326080 20120409172749
+190.207.0.93 6 59 494281 20120416211306
+207.46.194.246 3 18 732926 20120404081850
+181.17.75.24 1 27 385343 20120401193008
+190.37.138.150 1 27 326080 20120409211510
+186.14.246.10 8 40 959605 20120421222356
+201.208.252.213 6 35 856412 20120420151302
+186.14.168.58 1 25 246540 20120422002016
+207.46.199.144 3 18 732926 20120407150954
+201.242.196.221 1 4 146615 20120426203746
+200.35.73.106 1 1 43159 20120424193930
+186.26.155.232 2 17 693667 20120419190435
+209.105.242.146 2 2 78518 20120405052956
+66.249.71.23 1 1 39259 20120405131019
+207.46.12.251 2 17 693667 20120401033900
+190.121.238.175 1 14 203630 20120416050511
+190.203.179.101 1 1 24168 20120411122344
+201.242.18.6 2 4 416341 20120424175224
+68.171.235.163 1 12 234154 20120404204203
+201.243.163.87 1 27 326080 20120420234548
+190.121.239.180 3 19 706051 20120420172005
+186.89.151.16 1 5 170794 20120426215430
+190.73.248.60 1 16 313196 20120405000525
+190.74.177.137 3 3 28049 20120409224645
+186.188.87.155 1 25 246302 20120406214018
+65.52.111.18 12 71 2923161 20120408064201
+190.74.224.246 1 27 326080 20120410215616
+69.171.228.246 3 8 125165 20120409101929
+190.198.221.206 1 27 326080 20120423005925
+190.39.225.76 2 29 421310 20120416165833
+190.76.25.68 0 4 260192 
+186.184.168.237 3 28 385251 20120420091314
+190.207.102.101 2 28 428502 20120418032438
+186.89.244.74 1 4 122192 20120426050446
+69.171.229.244 1 2 19625 20120426160757
+190.206.83.121 0 2 35350 
+200.8.200.99 1 24 274506 20120412142304
+64.71.26.218 1 1 39259 20120411153703
+190.74.68.101 0 1 76664 
+205.178.145.70 1 1 39259 20120413183522
+190.38.85.192 5 31 437433 20120413175814
+66.249.71.121 1 1 39259 20120404131801
+190.203.64.142 12 72 1822368 20120404161121
+186.94.4.84 0 1 7151 
+186.59.132.123 0 2 192489 
+186.14.3.170 3 41 968173 20120422202144
+190.72.251.248 0 1 4909 
+186.92.34.216 0 3 192750 
+184.107.233.130 4 4 157036 20120417043404
+190.37.211.213 0 2 115947 
+190.73.26.162 7 41 941981 20120422040500
+69.171.234.5 1 2 29216 20120417141518
+66.220.146.251 2 2 35860 20120419102931
+186.14.218.55 1 27 326080 20120422170517
+190.199.44.144 1 27 326080 20120406181201
+190.36.57.203 4 60 1095684 20120420151106
+121.202.8.198 6 31 428375 20120423214519
+150.70.172.201 1 1 39259 20120412202817
+190.39.77.101 3 32 772753 20120419033926
+201.208.13.100 0 1 2970 
+74.125.156.94 0 1 5048 
+186.92.93.48 1 15 285728 20120409001117
+207.46.199.145 12 72 2931704 20120410170747
+190.170.132.11 2 28 369239 20120418171822
+190.204.142.202 2 17 693667 20120420030459
+190.200.28.108 1 27 326080 20120405221639
+178.32.226.1 1 1 39259 20120405015209
+186.92.240.173 0 3 192750 
+190.207.199.155 2 21 708351 20120405090325
+200.125.188.226 2 17 693667 20120409131455
+186.93.238.179 2 4 531585 20120428215537
+190.205.131.95 2 27 341770 20120406201258
+201.211.44.42 3 31 561904 20120416082207
+190.36.209.91 2 17 693667 20120416230253
+207.46.204.209 1 1 52788 20120401151918
+186.91.47.31 3 39 790463 20120401203139
+190.204.13.147 2 17 693667 20120413095034
+190.79.111.132 4 34 1151466 20120412111128
+190.77.113.96 5 35 819792 20120404143658
+190.36.49.135 1 24 274506 20120415203016
+186.88.41.63 2 29 480573 20120410200728
+176.9.105.104 1 1 39259 20120430230334
+190.204.213.150 2 17 693667 20120422205132
+69.171.234.7 2 3 83566 20120423112042
+201.248.216.97 1 24 243120 20120415224032
+186.88.38.87 2 17 693667 20120407125448
+190.39.172.186 2 18 697087 20120409150612
+200.125.187.222 3 56 699582 20120411111924
+66.220.146.248 4 4 73481 20120419102935
+190.36.230.35 1 27 326080 20120404084318
+69.171.242.245 0 1 38172 
+190.204.40.153 0 4 260192 
+186.26.243.141 3 40 795892 20120414210841
+186.188.96.15 2 29 480573 20120416233728
+190.79.167.210 2 17 693667 20120416011107
+69.171.234.3 4 5 111570 20120417064343
+190.77.145.245 1 27 326080 20120410220705
+173.0.62.133 1 1 39259 20120403151709
+186.93.78.185 2 17 693667 20120421203432
+186.88.50.229 3 41 968173 20120406170040
+190.75.161.225 8 43 926282 20120406114705
+207.46.199.141 8 53 2159519 20120410044527
+69.63.189.249 0 1 30302 
+186.184.23.130 1 1 9727 20120426183130
+195.31.240.122 2 13 568287 20120416152047
+159.90.17.27 1 25 246540 20120413153858
+200.44.240.155 0 3 11009 
+178.63.51.142 4 6 174122 20120423055401
+141.0.9.91 6 40 1581637 20120414142556
+190.142.68.132 1 1 7661 20120429215512
+201.210.199.71 3 34 933137 20120417194801
+68.171.231.21 0 8 224658 
+201.209.215.243 1 27 326080 20120419021101
+65.52.111.17 6 36 1465852 20120406232417
+38.100.21.13 10 10 255457 20120415132717
+68.171.231.81 3 37 575081 20120420235948
+190.203.209.179 1 27 326080 20120402164049
+190.200.220.190 7 37 919857 20120423142120
+190.153.70.21 2 10 560005 20120430201616
+201.211.172.252 0 1 27926 
+190.207.159.125 3 19 736243 20120404174926
+190.121.234.106 5 10 213853 20120423151656
+201.209.202.105 1 26 323107 20120403183301
+186.89.53.47 8 40 937190 20120413211718
+208.80.194.33 2 2 78518 20120420115730
+74.125.158.94 0 1 2866 
+65.55.85.174 0 2 127027 
+76.218.104.153 3 3 117777 20120402050508
+190.95.196.220 2 17 693667 20120419191217
+69.171.228.245 1 7 121278 20120409101915
+206.53.144.132 3 3 30395 20120417161623
+186.94.83.114 9 9 88941 20120424144657
+186.184.49.216 3 34 873874 20120415063203
+88.214.193.166 3 3 117777 20120423055305
+190.198.83.200 7 8 104339 20120408074748
+186.14.50.12 3 32 767504 20120414193937
+200.35.75.5 2 14 235338 20120417222056
+190.146.96.132 0 1 27926 
+208.80.194.77 1 1 39259 20120414134540
+141.0.10.11 2 17 693667 20120415053909
+218.213.130.131 4 4 68815 20120401234917
+190.78.139.149 4 33 1147975 20120420064047
+201.243.201.193 2 17 693667 20120410113250
+23.20.158.31 1 1 39259 20120404005944
+187.131.34.146 0 1 76664 
+201.210.182.15 4 34 776221 20120423015533
+186.141.144.239 0 1 27926 
+190.94.237.96 0 1 27926 
+190.32.110.193 0 4 260192 
+208.80.194.30 9 9 353331 20120429084113
+200.74.192.131 1 24 274506 20120413125630
+201.209.177.40 2 17 693667 20120412212923
+200.74.216.66 2 16 692850 20120411163029
+68.171.231.83 3 7 143833 20120425214747
+186.184.153.87 2 17 693667 20120427090626
+186.24.161.58 3 30 415236 20120418055826
+190.121.239.152 2 11 562366 20120419163417
+190.206.81.192 0 3 82887 
+186.14.56.181 1 4 98486 20120427170331
+190.201.207.191 1 4 52065 20120424201417
+207.46.194.247 3 18 732926 20120408024454
+186.93.71.77 2 17 693667 20120422170643
+190.77.60.101 1 27 326080 20120419065358
+69.171.228.248 2 5 72471 20120409101922
+190.39.168.180 1 24 274506 20120414013729
+201.165.237.131 2 17 693667 20120414165517
+190.142.69.169 2 2 16869 20120425184958
+190.201.206.210 2 17 693667 20120422215754
+190.42.52.63 1 24 274506 20120413132050
+190.36.114.170 3 18 701226 20120419154554
+200.90.99.112 5 51 1064725 20120409122640
+201.210.35.67 1 2 46412 20120427235726
+201.242.29.208 2 18 698576 20120412153348
+206.53.144.134 1 1 14587 20120417161341
+134.58.253.55 2 18 697030 20120404131757
+65.52.111.19 12 71 2923161 20120410002813
+186.164.27.82 3 3 32620 20120420172715
+168.101.129.53 0 3 123853 
+157.55.43.27 0 2 127027 
+208.80.194.27 1 1 39259 20120412163409
+190.219.174.203 1 3 18693 20120425124240
+201.249.91.243 0 1 5048 
+69.170.134.169 7 37 1124640 20120402015802
+190.73.202.199 1 27 326080 20120407145011
+201.208.113.202 0 4 260192 
+99.45.20.114 2 17 693667 20120401070405
+186.14.65.91 4 4 116577 20120424000557
+186.89.82.184 1 1 39259 20120427211627
+200.8.74.84 2 17 693667 20120426061446
+186.14.213.199 1 27 326080 20120422015428
+186.3.69.66 2 17 693667 20120411154539
+190.206.147.223 1 7 78365 20120430162503
+190.199.128.105 7 37 1588381 20120402144354
+190.152.208.204 2 19 700301 20120411212054
+74.125.158.85 0 1 3317 
+201.208.235.178 1 24 274506 20120411155341
+68.171.231.16 1 13 204318 20120420171420
+201.211.161.173 1 24 274506 20120409123606
+190.203.74.2 0 4 12292 
+69.171.224.2 0 1 30302 
+69.171.228.250 2 4 44542 20120409101928
+213.60.26.169 2 17 693667 20120412164105
+186.92.190.56 0 3 17827 
+62.43.199.72 1 27 326080 20120423122211
+200.62.70.90 1 27 385343 20120413232055
+186.89.250.23 0 3 9277 
+201.209.78.65 1 10 97044 20120426211735
+186.6.10.20 5 34 799103 20120420231022
+190.37.41.79 1 25 246540 20120430064450
+186.187.255.102 1 27 326080 20120415073202
+190.198.100.141 0 4 118084 
+141.0.10.21 4 22 776932 20120421012338
+200.28.131.29 0 3 149154 
+190.78.55.240 1 24 274506 20120410113411
+186.91.191.239 0 4 260192 
+201.211.206.41 3 18 693667 20120420202955
+190.206.147.42 1 1 16431 20120429003858
+87.225.253.173 1 1 14219 20120421234546
+201.248.66.138 5 23 821054 20120421171923
+201.209.55.63 5 9 126032 20120430234618
+168.167.161.143 1 25 246540 20120412164916
+190.199.94.105 1 16 313196 20120405131016
+186.94.48.86 4 4 40158 20120411111935
+201.209.187.201 2 17 693667 20120421195450
+201.234.237.2 4 34 875202 20120417185226
+190.199.10.5 1 6 175016 20120424161449
+190.79.171.67 1 27 326080 20120408124256
+184.82.156.212 3 18 732926 20120403093942
+69.171.229.249 0 1 52945 
+186.88.133.99 0 2 127027 
+157.93.242.51 1 27 326080 20120417164954
+78.46.72.56 2 3 87061 20120414062320
+190.74.186.101 1 25 246302 20120401171251
+200.84.241.208 1 25 246847 20120405094730
+190.75.195.215 2 17 693667 20120407021633
+74.125.158.91 0 2 6146 
+90.20.121.62 1 24 274506 20120405164334
+66.220.149.244 0 1 2684 
+190.121.238.156 10 12 143379 20120421055011
+201.211.79.179 0 2 41565 
+190.79.129.104 2 17 693667 20120417225742
+186.80.3.58 4 20 1224435 20120413211417
+141.0.10.229 7 47 842252 20120421205340
+186.90.76.28 2 19 699957 20120406073818
+205.178.145.66 1 1 39259 20120415053957
+200.8.141.30 2 29 421310 20120422060751
+190.198.5.129 2 19 701939 20120411160825
+190.207.228.135 2 17 693667 20120414030942
+200.31.67.194 3 33 767932 20120402161855
+190.203.19.115 0 2 55852 
+186.24.22.1 8 66 1363179 20120402201738
+190.121.239.147 0 4 254054 
+186.88.166.85 2 17 693667 20120410193120
+92.154.77.118 2 18 696984 20120405111825
+174.34.147.87 4 19 1113397 20120405215932
+74.125.64.81 0 1 2866 
+190.202.124.226 2 24 718107 20120420214839
+190.121.238.133 4 40 787440 20120421192915
+190.205.181.82 3 36 842032 20120422144026
+190.36.226.217 1 24 274506 20120408112925
+68.171.234.27 1 4 50797 20120428151621
+200.90.100.221 4 23 774768 20120401170532
+69.171.228.247 2 3 61248 20120409101916
+68.171.231.82 2 13 190840 20120424231625
+190.205.53.97 1 10 210024 20120420211550
+190.206.121.137 2 4 42942 20120421015720
+208.80.194.28 2 2 78518 20120422054802
+186.93.129.91 8 38 921815 20120406183752
+65.52.111.25 6 35 1457309 20120408122258
+186.14.41.244 1 27 326080 20120411133608
+186.14.59.124 0 4 260192 
+190.200.18.36 3 32 767504 20120420074204
+66.249.72.247 4 4 157036 20120420000004
+207.46.199.27 1 2 22762 20120408124853
+190.79.24.22 0 4 260192 
+201.248.252.91 0 1 27926 
+62.116.174.188 1 1 39259 20120425124404
+200.84.3.79 3 31 764583 20120402092027
+186.90.156.42 0 3 192750 
+190.198.38.70 1 27 326080 20120420223935
+186.93.130.37 2 32 432235 20120412220542
+186.90.184.140 2 20 702830 20120418021811
+103.246.38.196 1 1 24168 20120417164955
+50.17.65.178 3 3 117777 20120419232733
+186.92.115.128 7 21 618322 20120422025715
+200.84.239.55 2 17 693667 20120411141726
+65.55.40.142 0 8 508108 
+190.78.244.1 2 17 693667 20120402184324
+200.41.51.168 3 34 769094 20120414084556
+190.78.148.141 0 3 9566 
+186.184.42.209 1 24 274506 20120417061131
+186.93.133.46 3 19 713291 20120412194255
+201.242.200.221 0 4 39740 
+206.53.144.133 3 3 30643 20120417161649
+201.209.161.155 1 1 13199 20120423214156
+200.82.204.98 2 17 693667 20120406123905
+190.201.28.20 2 27 327924 20120415223329
+66.220.147.249 0 1 3237 
+201.99.13.13 1 27 326080 20120420234948
+190.202.82.98 6 91 1785909 20120412135651
+190.199.55.220 3 18 732926 20120402212934
+200.125.187.69 1 24 243489 20120418155924
+186.91.161.5 3 32 794387 20120407172558
+173.203.60.237 2 2 78518 20120406191557
+46.36.195.196 2 2 78518 20120411223908
+159.148.240.23 1 1 39259 20120401134003
+190.206.103.43 1 27 326080 20120412194419
+186.94.28.225 7 40 931681 20120414085204
+200.82.147.99 3 5 100276 20120430180606
+201.210.254.192 1 27 326080 20120422023937
+207.46.199.147 8 53 2159519 20120407024920
+186.92.249.31 0 1 27926 
+128.30.52.70 1 1 39259 20120405015224
+174.252.35.40 3 5 119641 20120428052421
+24.54.255.221 1 27 326080 20120404191254
+190.142.131.147 0 1 27926 
+23.20.249.136 1 1 39259 20120404005946
+87.106.129.180 1 1 39259 20120411034705
+141.0.11.25 6 36 834626 20120413121054
+190.78.155.152 3 33 768012 20120409110704
+68.171.231.20 0 3 25530 
+186.188.1.19 1 27 326080 20120403191021
+200.8.93.192 2 18 696762 20120419052819
+207.46.12.249 3 18 732926 20120403160550
+208.43.33.98 1 1 39259 20120418182458
+186.89.193.50 6 25 783943 20120402003636
+190.121.238.140 3 34 327852 20120407232802
+74.125.158.95 0 1 3253 
+190.199.143.245 2 17 693667 20120418214353
+186.52.67.30 1 28 329050 20120403162132
+190.199.50.25 0 1 27926 
+74.125.78.91 0 1 3095 
+201.210.62.235 0 2 7914 
+74.125.158.80 0 1 2684 
+190.78.80.162 3 36 844849 20120402212835
+50.116.5.57 1 1 39259 20120410015739
+190.79.225.30 1 24 274506 20120416184549
+190.206.23.27 2 21 707961 20120401203417
+190.121.238.182 1 1 7734 20120425175300
+190.207.24.131 1 24 274506 20120413144739
+190.77.139.212 1 16 313196 20120415172024
+188.138.113.146 3 3 117777 20120418014057
+190.204.192.221 4 45 801067 20120421172443
+69.171.229.248 2 5 73726 20120426160801
+190.37.200.46 0 1 15989 
+190.198.145.27 3 3 28049 20120408132716
+190.200.126.35 2 27 374784 20120421030249
+200.8.105.208 1 25 246540 20120421045242
+50.97.41.98 3 3 117777 20120405015223
+190.204.231.248 2 17 693667 20120421005259
+190.78.229.65 3 43 790538 20120419002148
+218.241.105.31 4 4 157036 20120420185929
+157.93.242.50 1 27 326080 20120416224242
+190.38.94.37 1 12 234154 20120420032302
+46.4.121.230 1 1 39259 20120406111720
+200.44.122.90 1 27 385343 20120404151252
+65.52.111.233 1 2 51702 20120412093400
+69.171.234.2 0 2 32986 
+207.46.194.249 9 53 2190235 20120404054910
+207.46.204.205 2 4 51245 20120407225211
+200.84.77.147 1 27 326080 20120412193008
+186.90.244.31 2 17 693667 20120404195847
+147.108.253.254 3 32 765074 20120418192552
+190.206.49.119 2 17 693667 20120411190923
+190.75.244.205 1 25 246540 20120412173118
+186.92.50.190 0 1 27926 
+190.204.70.140 1 24 274506 20120423162404
+190.72.158.45 2 17 693667 20120410171824
+207.46.12.253 3 18 732926 20120401162353
+186.165.25.16 2 18 702210 20120422214412
+65.55.237.93 0 2 127027 
+200.44.56.178 6 36 1097478 20120423144756
+190.38.254.203 1 27 326080 20120418180329
+190.19.39.143 1 27 385343 20120402130607
+200.8.0.200 1 27 326080 20120416005717
+190.37.249.223 4 23 741221 20120417143808
+190.235.69.114 1 27 385343 20120401182159
+186.88.67.158 0 4 260192 
+69.171.229.251 3 3 75342 20120401123258
+190.73.0.190 1 2 47802 20120411215538
+186.188.79.154 2 17 352455 20120413115036
+190.74.85.123 2 28 401349 20120415161054
+186.92.125.187 4 32 798475 20120409210531
+186.57.36.248 0 1 27926 
+190.121.239.159 0 1 111038 
+190.78.92.172 0 1 27926 
+72.30.161.221 2 2 78518 20120421203436
+186.90.223.191 1 2 13562 20120426145847
+107.21.199.112 1 1 39259 20120401141300
+178.63.51.216 4 4 117777 20120414061901
+200.8.176.226 1 24 274506 20120407030401
+199.41.197.24 0 1 0 
+207.46.199.149 12 72 2931704 20120409070847
+209.85.224.85 1 1 39259 20120428004836
+181.1.163.124 0 3 53533 
+200.8.201.222 4 35 773794 20120416170136
+190.202.91.6 1 16 313196 20120409152450
+141.0.10.131 0 1 27926 
+69.171.229.247 2 5 42594 20120426160759
+74.125.78.94 0 1 2821 
+190.37.192.58 1 1 24168 20120427035241
+186.24.0.26 2 18 696984 20120413114125
+190.78.254.45 0 1 27926 
+65.52.111.20 6 36 1465852 20120409021618
+74.125.64.93 1 1 39259 20120420163103
+207.46.12.248 3 3 458989 20120403022204
+201.242.127.121 0 1 3237 
+190.216.248.250 1 24 274506 20120402165500
+200.84.58.163 6 35 812365 20120422001456
+220.181.141.69 1 1 39259 20120409094418
+201.208.152.139 3 28 390377 20120418011450
+65.55.255.29 0 2 127027 
+178.63.63.5 4 4 117777 20120405061904
+69.171.228.251 6 8 116308 20120409101934
+190.77.149.144 1 25 246540 20120419230403
+68.171.231.80 2 22 297893 20120428170319
+190.77.219.248 2 2 20315 20120405165651
+186.185.47.160 5 36 943604 20120418220458
+193.164.202.172 1 1 43159 20120418015804
+208.80.194.36 3 3 117777 20120412154958
+69.171.234.0 3 6 89801 20120414001213
+186.187.224.170 0 1 8543 
+201.243.169.180 3 34 1010226 20120404164644
+207.46.193.59 12 71 2923161 20120410074657
+190.199.8.30 3 23 858648 20120403201311
+190.202.83.203 1 25 244956 20120402134052
+201.248.199.160 2 17 693667 20120413212932
+201.209.165.238 4 33 806131 20120404105237
+190.121.233.146 0 2 114291 
+67.195.115.61 1 1 39259 20120416043640
+190.205.61.33 7 35 980824 20120418000721
+200.8.150.148 0 1 27926 
+69.171.229.250 0 2 76344 
+190.201.195.98 1 25 246540 20120418183623
+190.201.91.50 1 27 326080 20120422212825
+200.82.204.230 3 33 774401 20120420010553
+190.202.84.206 6 24 598588 20120417222048
+190.36.208.251 2 18 696762 20120406195044
+69.171.228.244 2 5 50306 20120409101907
+201.210.159.76 8 39 980537 20120416054156
+212.73.62.48 1 25 218043 20120419224644
+74.117.177.166 3 5 123880 20120416002513
+173.225.17.50 2 2 78518 20120420155429
+190.207.239.23 1 7 65301 20120429175821
+190.142.242.184 0 2 115947 
+190.204.141.201 0 6 18962 
+190.200.49.191 6 36 812665 20120420213411
+201.211.134.28 0 5 23380 
+46.36.201.190 1 1 39259 20120429211229
+190.121.239.161 0 2 127027 
+201.243.146.176 1 27 326080 20120413195929
+190.199.81.124 1 4 49417 20120425025839
+200.82.251.69 1 24 274506 20120408100110
+74.125.78.103 0 1 3051 
+190.72.80.201 1 27 326080 20120401174429
+190.73.121.224 0 4 260192 
+200.84.72.121 1 25 293453 20120402145656
+201.211.132.252 1 27 385343 20120409143928
+206.53.144.164 0 3 82601 
+98.194.182.10 0 4 260192 
+74.125.158.88 0 3 11602 
+186.14.231.228 2 17 693667 20120401211913
+66.220.146.245 1 4 32085 20120412001154
+200.82.247.84 1 27 326080 20120407215903
+190.207.155.251 1 25 246540 20120423034353
+74.125.158.82 0 5 122654 
+62.83.232.77 1 16 313196 20120420172807
+74.125.64.84 0 1 8543 
+190.121.239.160 0 1 27926 
+68.171.231.19 1 14 92054 20120401091453
+74.125.158.93 0 3 25837 
+109.206.179.180 1 1 39259 20120421150632
+186.24.185.247 4 36 1005063 20120407200238
+201.242.29.133 2 29 421310 20120405164548
+190.199.42.107 2 17 693667 20120405114744
+66.220.146.247 0 3 15144 
+69.171.228.249 5 11 142137 20120409101931
+190.205.59.201 1 27 470752 20120411184457
+190.121.238.153 1 27 326080 20120409143409
+190.199.67.10 3 26 337761 20120409180937
+173.254.28.14 2 2 78518 20120405015254
+186.92.51.239 2 18 702210 20120409091020
+201.209.231.92 1 24 274506 20120421154756
+222.240.85.122 3 18 732926 20120403045036
+207.46.12.250 3 18 732926 20120402005126
+69.171.234.4 1 4 125959 20120419082903
+168.101.48.1 1 24 261490 20120416205349
+190.79.224.207 2 18 696984 20120421202254
+186.93.78.144 0 3 131702 
+186.14.44.70 1 27 385343 20120417023100
+76.182.221.249 3 33 907508 20120410152449
+207.46.195.210 4 6 491668 20120401181148
+190.77.250.200 1 1 39259 20120429190835
+190.121.238.160 1 14 315230 20120416195245
+190.204.226.122 1 1 0 20120408152936
+178.33.191.86 2 2 39259 20120403093514
+68.171.233.252 1 13 192798 20120428170251
+190.142.76.147 1 2 47802 20120409114313
+190.198.149.177 4 7 71169 20120430220514
+176.9.245.132 1 1 39259 20120412163222
+190.206.103.107 9 40 983952 20120417055836
+201.208.80.163 2 18 696984 20120413104248
+200.26.166.70 1 25 246593 20120408044639
+190.121.239.143 10 42 824203 20120420025900
+186.90.213.31 1 27 326080 20120413111634
+186.93.200.64 2 17 693667 20120408161255
+65.55.72.30 0 1 15989 
+190.200.133.41 1 27 326080 20120416051322
+186.92.38.157 7 38 926574 20120403174634
+68.171.231.17 0 2 41142 
+184.72.147.68 1 1 39259 20120404005947
+208.80.194.34 2 2 78518 20120422051603
+190.198.188.27 2 17 693667 20120404221806
+201.210.9.21 2 18 696762 20120407115513
+186.94.114.92 1 27 326080 20120423150914
+74.125.64.91 0 1 3253 
+186.93.137.220 4 35 845858 20120406105700
+200.8.62.236 3 18 1074138 20120404193322
+141.0.10.53 5 24 796742 20120410082817
+186.93.12.190 1 24 274506 20120403222510
+186.89.165.217 2 18 702210 20120410153837
+190.121.238.137 8 8 116827 20120422062012
+200.41.119.75 2 29 480573 20120412133007
+65.52.111.16 6 35 1457309 20120406200635
+190.200.163.44 2 19 700003 20120401003126
+206.53.144.128 5 5 77224 20120419145255
+190.200.208.106 0 4 14311 
+190.73.108.5 1 27 326080 20120417054912
+188.56.154.35 1 27 396072 20120401062908
+190.73.160.68 1 27 326080 20120412204206
+80.26.83.142 2 11 332028 20120404103528
+74.125.158.81 0 1 2821 
+188.165.136.20 1 1 39259 20120422183245
+200.11.214.94 0 4 260192 
+201.209.169.157 7 38 899171 20120402140615
+190.78.138.110 1 27 385343 20120417035717
+201.248.138.66 1 27 326080 20120415175655
+186.93.163.134 0 2 4243 
+190.74.180.21 14 14 139678 20120413203903
+186.14.151.93 1 27 326080 20120412211331
+206.53.144.131 3 3 32579 20120410151119
+66.220.146.244 1 2 22638 20120419102934
+186.186.185.236 0 1 3299 
+186.24.21.1 8 141 1756063 20120419193116
+190.121.239.139 5 40 1108205 20120418215356
+74.125.64.80 0 2 11953 
+190.200.103.133 1 27 326080 20120412235020
+195.249.180.212 2 17 693667 20120410205551
+69.28.58.42 10 20 419430 20120420180858
+190.74.27.166 3 32 767504 20120409215619
+190.78.47.42 4 36 878874 20120418154755
+190.39.181.126 1 24 274506 20120416043632
+190.79.65.174 0 1 3363 
+189.144.32.159 2 18 770331 20120418032642
+8.28.16.254 2 2 67327 20120416224242
+190.79.152.90 2 27 374784 20120406085637
+69.171.229.246 2 5 111695 20120401123254
+186.92.176.139 7 38 955782 20120405002202
+178.59.134.128 1 14 279056 20120401063242
+186.165.130.187 2 17 693667 20120409224321
+186.88.35.160 12 41 1158561 20120424015043
+201.208.217.81 1 27 326080 20120404173026
+76.222.219.110 2 2 47206 20120423225514
+190.79.43.191 1 27 326080 20120416181013
+200.84.9.65 1 1 24168 20120426060313
+66.249.72.182 2 2 78518 20120419180444
+190.37.231.254 5 49 1120133 20120414184636
+201.243.65.15 4 33 1148474 20120407205438
+74.125.158.84 0 2 8208 
+66.220.153.247 0 1 30302 
+186.184.78.13 1 5 42694 20120428141410
+190.206.88.235 1 27 326080 20120404121949
+200.71.191.37 1 27 326080 20120412124804
+186.164.36.198 1 1 10467 20120430183254
+186.14.2.158 4 35 815120 20120405220152
+190.75.240.231 1 31 340388 20120410041446
+200.109.39.213 0 1 5048 
+74.125.64.83 0 1 2970 
+186.14.127.51 2 17 693667 20120413233959
+200.11.208.125 1 16 311243 20120402141121
+190.207.206.232 0 1 3237 
+206.53.144.162 1 12 222052 20120405144401
+186.90.82.191 0 5 128937 
+190.36.236.40 0 3 192750 
+50.112.107.16 1 1 39259 20120406005541
+190.199.20.172 1 2 51702 20120429033028
+186.164.20.58 1 24 274506 20120404004245
+190.38.121.101 0 2 5836 
+65.52.111.42 1 2 30370 20120409085249
+190.75.175.119 5 62 1020112 20120419010250
+200.109.249.138 1 17 300699 20120420165135
+186.90.150.115 5 61 889262 20120416161103
+74.125.158.87 0 3 57154 
+190.137.143.2 0 1 27926 
+190.200.102.52 2 19 701671 20120401011911
+200.84.243.81 1 3 21712 20120425055014
+190.0.44.14 2 17 693667 20120403101857
+201.208.219.129 0 2 10450 
+190.201.37.126 2 18 696984 20120422161740
+85.238.123.158 1 1 39259 20120413102810
+200.90.102.206 1 27 326080 20120423144821
+174.34.147.85 3 18 732926 20120405215934
+207.46.199.143 12 72 2931704 20120410132058
+144.85.137.233 1 26 319408 20120414124239
+190.205.211.251 2 17 693667 20120421013037
+66.220.146.250 0 2 7732 
+167.232.252.15 0 5 123147 
+190.181.77.57 0 1 27926 
+67.23.20.81 1 1 39259 20120417182541
+201.210.66.197 4 22 758930 20120409124332
+186.89.183.129 2 17 693667 20120423040700
+178.63.42.215 4 4 117777 20120423054914
+186.24.17.1 9 129 1954979 20120418204821
+206.53.144.129 5 5 29368 20120419144900
+190.204.108.106 4 19 772185 20120410194400
+207.46.199.148 12 71 2923161 20120410003254
+186.90.62.222 11 47 1026305 20120409221325
+213.7.126.193 1 26 319408 20120403034338
+201.208.0.13 1 27 326080 20120404152521
+186.92.6.197 12 32 799076 20120428035639
+186.89.220.36 0 1 76664 
+141.0.8.35 0 7 117999 
+190.207.194.51 1 15 285728 20120414175237
+186.14.200.57 2 19 700450 20120421232159
+186.25.94.209 3 23 750022 20120404164346
+190.121.238.162 2 16 686516 20120423064532
+190.75.84.7 2 18 697087 20120403174204
+190.201.0.22 2 17 693667 20120409231549
+186.91.231.233 1 1 16006 20120426002026
+181.10.97.181 0 3 83778 
+200.5.198.86 1 1 39259 20120423163304
+93.44.58.175 2 21 951784 20120405091708
+69.171.234.1 2 3 36857 20120417141521
+200.8.52.48 2 17 693667 20120416164313
+186.87.255.117 2 19 700347 20120414073046
+66.220.149.245 1 1 39259 20120408165301
+65.52.111.21 12 71 2923161 20120410145539
+201.248.236.102 3 33 907508 20120407033326
+190.39.164.86 12 13 481893 20120412163813
+208.80.194.35 2 2 78518 20120409094315
+186.93.206.162 1 27 326080 20120404150624
+66.220.146.246 3 4 77620 20120419102922
+200.75.124.122 1 27 326080 20120404133654
+190.121.238.159 1 1 10245 20120424052656
+69.171.229.245 2 4 82073 20120426160758
+190.36.218.82 2 22 711324 20120402005836
+90.174.169.67 1 15 344991 20120415201301
+190.43.61.197 1 16 313196 20120413095059
+200.84.199.187 2 23 822079 20120401134035
+186.93.201.179 1 23 39105 20120425025009
+78.47.195.154 1 1 39259 20120427082814
+190.73.64.191 0 1 27926 
+186.90.48.173 5 35 864592 20120418060320
+200.84.2.189 9 98 1982160 20120408204851
+201.242.240.2 0 2 6515 
+190.142.28.21 1 27 326080 20120416180242
+207.46.194.250 12 72 2931704 20120405200635
+190.73.222.95 1 27 326080 20120412145435
+190.79.1.76 9 27 319358 20120402235834
+190.38.146.137 2 18 696640 20120405232219
+190.203.4.3 4 20 755656 20120412093037
+200.82.168.111 1 25 246540 20120411100954
+200.35.202.252 0 4 260192 
+186.188.43.26 7 44 1211504 20120416060006
+186.25.85.153 1 10 160750 20120419164755
+190.142.188.83 2 17 693667 20120403215655
+186.88.85.70 1 27 326080 20120407175149
+206.53.144.130 6 6 76760 20120419145150
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20120401 77 589 15423711 39
+20120402 177 876 22990096 42
+20120403 127 642 18307550 32
+20120404 240 958 23938111 52
+20120405 147 714 21088153 46
+20120406 128 708 19872902 38
+20120407 141 742 20399938 33
+20120408 66 426 11913441 30
+20120409 149 1052 24432122 55
+20120410 156 700 20358437 39
+20120411 144 449 11003977 27
+20120412 138 790 17109870 41
+20120413 113 627 15409093 36
+20120414 67 498 12086904 26
+20120415 47 321 6179693 18
+20120416 116 886 18493940 43
+20120417 76 493 11792788 33
+20120418 149 751 15557677 39
+20120419 104 594 12441699 42
+20120420 215 999 20712724 45
+20120421 146 698 15325358 36
+20120422 103 593 12674539 30
+20120423 111 545 9815015 37
+20120424 20 80 1445809 16
+20120425 21 113 1188675 13
+20120426 36 105 2357450 17
+20120427 12 34 1130591 10
+20120428 12 76 1707462 9
+20120429 10 56 1040338 10
+20120430 26 126 2632346 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 4
+5mn-15mn 51
+15mn-30mn 23
+30s-2mn 101
+2mn-5mn 54
+0s-30s 698
+30mn-1h 17
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 56
+/ 1004 35450877 544 249
+/animacion.swf 376 139252386 7 201
+/administrativo/guias/guias.php 208 8143020 23 20
+/zona_usuarios.php 201 2060304 47 27
+/guias_actuales.php 172 3136982 11 68
+/sabes-como-realizar-compras-por-internet-de-mas-de-400$-con-tu-cupo-cadivi-para-compras-electronicas-en-usa-en-un-sitio-seruro.html 106 2537640 95 81
+/preguntas.html 90 3841151 53 53
+/tarifas.html 84 1540978 8 36
+/consulta_estatus_por_guia.php 80 680780 10 21
+/administrativo/guias/actualizado.php 69 311397 1 0
+/cargar_ordenes.php 61 882425 1 2
+/administrativo/guias/parametro_guia.php 58 378563 0 1
+/servicios.html 54 810836 6 16
+/administrativo/usuarios/usuarios.php 47 532102 14 11
+/contacto.html 43 408213 8 8
+/eshop.html 38 526103 15 24
+/track.php 36 296852 0 1
+/consejos-para-utilizar-un-courier-internacional-puerta-a-puerta-y-saber-calcular-los-costos-de-envio-hasta-Venezuela-en-sus-compras-por-internet-con-su-CUPO-CADIVI.html 34 739926 25 17
+/nosotros.html 33 496186 3 10
+/identificarse.php 30 291480 5 5
+/autentificar.php 29 220634 0 1
+/registro_clientes.php 23 1214124 3 9
+/nueva_providencia_para_el_cupo_cadivi_para_viajes_al_exterior_entrara_en_vigencia_en_enero_del_2010.html 20 360300 17 14
+/contacto.php 14 99763 4 8
+/nuevos-cambios-para-regular-cupo-cadivi-para-compras-en-el-exterior-entrara-en-vigencia-a-partir-del-1-enero-2010.html 10 180680 4 4
+/sitemap.xml 3 22677 3 2
+/gobierno-desmiente-eliminacion-de-divisas-para-internet-eliminacion-de-cupo-cadivi-para-compras-electronicas-por-internet.html 2 31660 0 0
+/si-no-vas-a-usar-tu-cupo-de-cadivi-te-lo-compro.html 5 109135 1 2
+/actualizado.php 3 25179 0 1
+/administrativo/guias/detalles_guia.php 3 11472 0 1
+/administrativo/realizar_factura.php 1 4150 0 0
+/administrativo/usuarios/detalles_usuario.php 9 34806 2 3
+/cadivi-disena-cambios-radicales-en-el-cupo-cadivi-que-beneficiaran-a-los-viajeros-en-sus-compras-en-USA-e-Internet.html 3 54966 1 1
+/blackberry-vs-nokia.html 9 147879 5 5
+/blank.html 8 105592 1 6
+/administrativo/validar.php 2 14020 0 0
+/cambios-en-el-cupo-cadivi-para-el-2010.html 8 135528 4 4
+/economistas-socialistas-descartan-devaluacion-del-bolivar.html 3 46020 3 3
+/consulta.php 10 96915 2 2
+/En-riesgo-uso-de-tarjetas-de-credito-por-retrasos-de-Cadivi.html 4 65968 0 0
+/registrado.php 10 444216 2 0
+/reenviar_clave.php 6 52644 0 0
+/Cadivi-debe-$-14-millardos-a-la-banca-BCV-no-liquida.html 3 50553 0 2
+/cadivi-estudia-mecanismos-para-ajustar-cupo-cadivi-para-compras-por-internet.html 9 160128 3 5
+/administrativo/ 4 23477 0 0
+/Complicaciones-tecnologicas-retardan-modificaciones-del-cupo-de-Cadivi.html 9 158310 2 5
+/4-consejos-utiles-para-realizar-compras-por-internet-con-tu-cupo-cadivi-en-amazon-com.html 9 156465 4 6
+/administrativo/guias/ 1 529 0 0
+/seran-sancionados-bancos-que-limiten-uso-de-tarjetas-para-fines-de-ano-modificaran-cupo-para-los-viajes-al-exterior.html 8 142216 5 5
+/cadivi-estudia-aumento-de-cupo-para-viajeros.html 6 93216 3 3
+/economistas-estiman-que-el-gobierno-recortara-el-cupo-en-dolares-para-2009.html 2 36004 0 0
+/actualizar.php 4 61496 0 1
+/supuesta-eliminacion-del-cupo-cadivi-para-compras-por-internet.html 5 76940 2 1
+/Contacto.html 1 9776 0 1
+/administrativo/usuarios/eliminar_usuario.php 1 4456 0 1
+/cadivi-cupo-en-dolares-para-compras-por-internet-no-sera-aumentado-en-2009.html 3 50931 1 1
+END_SIDER

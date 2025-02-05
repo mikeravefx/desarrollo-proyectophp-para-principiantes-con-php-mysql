@@ -1,0 +1,97 @@
+Return-path: <>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Sat, 09 Nov 2013 17:12:00 -0430
+Received: from smtp10.bis6.us.blackberry.com ([74.82.85.10]:54055)
+	by host.racksystem2.com with esmtp (Exim 4.80.1)
+	id 1VfGI4-0012dy-3k
+	for info@courierpack.com.ve; Sat, 09 Nov 2013 17:12:00 -0430
+Received: from antispam5.c0.bise5.blackberry ([192.168.0.20])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id rA9Lfw48013409
+	for <SRS0=+125cT=US=courierpack.com.ve=info@srs.bis6.us.blackberry.com>; Sat, 9 Nov 2013 21:41:58 GMT
+X-SBRS: 4.8
+Received: from blu0-omc2-s31.blu0.hotmail.com ([65.55.111.106])
+  by antispam5.c0.bise5.blackberry with ESMTP; 09 Nov 2013 21:41:58 +0000
+Received: from BAY0-MC2-F15.Bay0.hotmail.com ([65.55.111.72]) by blu0-omc2-s31.blu0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Sat, 9 Nov 2013 13:41:57 -0800
+From: postmaster@hotmail.com
+To: SRS0=+125cT=US=courierpack.com.ve=info@srs.bis6.us.blackberry.com
+Date: Sat, 9 Nov 2013 13:41:57 -0800
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01CEDB2FA709F6AD001EB9C9BAY0?MC2?F15.Bay"
+X-DSNContext: 335a7efd - 4480 - 00000001 - 80040546
+Message-ID: <tZfTdQZNX0006b51f@BAY0-MC2-F15.Bay0.hotmail.com>
+Subject: Delivery Status Notification (Failure)
+X-OriginalArrivalTime: 09 Nov 2013 21:41:57.0945 (UTC) FILETIME=[83FA7290:01CEDD94]
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01CEDB2FA709F6AD001EB9C9BAY0?MC2?F15.Bay
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+       a.sancez.r2@hotmail.com
+
+
+
+
+--9B095B5ADSN=_01CEDB2FA709F6AD001EB9C9BAY0?MC2?F15.Bay
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;BAY0-MC2-F15.Bay0.hotmail.com
+Received-From-MTA: dns;smtp10.bis6.us.blackberry.com
+Arrival-Date: Sat, 9 Nov 2013 13:41:57 -0800
+
+Final-Recipient: rfc822;a.sancez.r2@hotmail.com
+Action: failed
+Status: 5.5.0
+Diagnostic-Code: smtp;550 Requested action not taken: mailbox unavailable (2038705067:3902:-2147467259)
+
+--9B095B5ADSN=_01CEDB2FA709F6AD001EB9C9BAY0?MC2?F15.Bay
+Content-Type: message/rfc822
+
+Received: from smtp10.bis6.us.blackberry.com ([74.82.85.10]) by BAY0-MC2-F15.Bay0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4900);
+	 Sat, 9 Nov 2013 13:41:57 -0800
+Received: from b18.c4.bise6.blackberry ([192.168.0.118])
+	by srs.bis6.us.blackberry.com (8.13.7 TEAMON/8.13.7) with ESMTP id rA9Lfu3E003833
+	for <a.sancez.r2@hotmail.com>; Sat, 9 Nov 2013 21:41:56 GMT
+Received: from 172.29.197.204 (cmp34.c4.bise6.blackberry [172.29.197.204])
+	by b18.c4.bise6.blackberry (8.13.7 TEAMON/8.13.7) with ESMTP id rA9LfuJ2007028
+	for <a.sancez.r2@hotmail.com>; Sat, 9 Nov 2013 21:41:56 GMT
+X-rim-org-msg-ref-id: 1327264994
+Message-ID: <1327264994-1384033314-cardhu_decombobulator_blackberry.rim.net-787221766-@b2.c4.bise6.blackberry>
+Reply-To: info@courierpack.com.ve
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: Re: Requisicion del Email desde el Web Site
+To: a.sancez.r2@hotmail.com
+From: info@courierpack.com.ve
+Date: Sat, 9 Nov 2013 21:41:52 +0000
+Content-Type: text/plain
+MIME-Version: 1.0
+Return-Path: SRS0=+125cT=US=courierpack.com.ve=info@srs.bis6.us.blackberry.com
+X-OriginalArrivalTime: 09 Nov 2013 21:41:57.0163 (UTC) FILETIME=[83831FB0:01CEDD94]
+
+Buenas tardes. Que dimension tendria eso
+------Mensaje original------
+De: a.sancez.r2@hotmail.com
+Para: info@courierpack.com.ve
+Responder a: a.sancez.r2@hotmail.com
+Asunto: Requisicion del Email desde el Web Site
+Enviado: 9 de nov de 2013 12:58 PM
+
+alexander sanchez Escribio :
+        Buenas tardes he estado interesado en comprar un lcd y telefonos me gustaria conocer cuanto tendria que pagar por eso
+
+
+Mensaje Enviado el Dia:  9-11-13
+
+Enviado desde mi BlackBerry de Movistar
+
+
+--9B095B5ADSN=_01CEDB2FA709F6AD001EB9C9BAY0?MC2?F15.Bay--

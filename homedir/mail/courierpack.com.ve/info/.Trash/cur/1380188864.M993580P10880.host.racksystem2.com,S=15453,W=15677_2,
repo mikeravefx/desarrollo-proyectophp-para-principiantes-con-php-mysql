@@ -1,0 +1,224 @@
+Return-path: <info=courierpack.com.ve@bounces.wp.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Thu, 26 Sep 2013 03:33:23 -0430
+Received: from smtp2.luv.wordpress.com ([72.233.119.195]:53612)
+	by host.racksystem2.com with esmtp (Exim 4.80)
+	(envelope-from <info=courierpack.com.ve@bounces.wp.com>)
+	id 1VP6Xj-0040WE-10
+	for info@courierpack.com.ve; Thu, 26 Sep 2013 03:33:23 -0430
+Received: from smtp2.luv.wordpress.com (localhost.localdomain [127.0.0.1])
+	by smtp2.luv.wordpress.com (Postfix) with ESMTP id B59E372ABB
+	for <info@courierpack.com.ve>; Thu, 26 Sep 2013 08:03:21 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=wordpress.com; h=date:to
+	:from:subject:message-id:mime-version:content-type; s=my5; bh=OP
+	psGIRLL3b65lRtxv3y4BIL8TA=; b=AyrIYI7xwFjiV317MLU0nkVBaQheSlicFM
+	OkDIGIFRdpygYiM520FMfk22UlWzt2IjA8GjoSY2GwwrbaSvvZtIlxLdEok79qVh
+	pyDNIzhExnQ9v+Ri9hFSNap4xNc9eJ5FY0YuBjdBqUo5+l7RD9qerag1HFHgyBw8
+	g+lJ1Ok3U=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=wordpress.com; h=date:to:from
+	:subject:message-id:mime-version:content-type; q=dns; s=my5; b=E
+	LCjxrarct4xn3gvxYim0Tbh052xtu5yFy3ZOlO3akIAJ1alfVbob+Jy2CpJdypef
+	MT2HjJ4Wc4c9e84SWUoRBRkWr46idQ/q+L7H9ryV8iKm+hEqFy4dRrHwwbdkFkKm
+	cDerzMEXbMDb+ASudoWPd3pL6JQU9/qTT1c0r2C0BU=
+Received: from wordpress.com (122.104.233.72.static.reverse.ltdomains.com [72.233.104.122])
+	by smtp2.luv.wordpress.com (Postfix) with ESMTP id D2D2572AE4
+	for <info@courierpack.com.ve>; Thu, 26 Sep 2013 08:03:11 +0000 (UTC)
+Date: Thu, 26 Sep 2013 08:03:11 +0000
+To: info@courierpack.com.ve
+From: "Learn.WordPress.Com" <support@wordpress.com>
+Subject: Learn.WordPress.com: Ten Steps to Better Blogging
+Message-ID: <7487bffbedaf48da1a032d4f28d85f96@wordpress.com>
+X-Priority: 3
+X-Automattic-Destination: aW5mb0Bjb3VyaWVycGFjay5jb20udmU=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_7487bffbedaf48da1a032d4f28d85f96"
+
+--b1_7487bffbedaf48da1a032d4f28d85f96
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+#############################################################=0A#######Take=
+ your WordPress.com site to the next level!#######=0A######################=
+#######################################=0A=0AYou're all signed up for your =
+WordPress.com blog. Now learn =0Ahow to customize it, make it beautiful, an=
+d grow your audience=0Awith the Learn WordPress guide:=0A=0A*** LINK: http:=
+//learn.wordpress.com ***=0A=0A=0A{{{{{{{ Learn How To: }}}}}}}}=0A=0A=0A<<=
+<< Launch Your Blog >>>>=0A=0AIf you're not sure what one end of a dashboar=
+d looks like from=0Aanother, learn how to quickly (1) master the basics or =
+=0A(2) publish your first post:=0A=0A*** LINK (1): http://learn.wordpress.c=
+om/get-acquainted/ ****=0A=0A*** LINK (2): http://learn.wordpress.com/get-p=
+ublished/  ****=0A=0A=0A<<<< Focus Your Blog >>>>=0A=0AThe most popular Wor=
+dPress.com blogs have a strong focus that =0Apulls in a dedicated audience.=
+ Find out how you can do the same=0Ato grow your blog:=0A=0A*** LINK: http:=
+//learn.wordpress.com/get-focused/ ***=0A=0A=0A<<<< Customize Your Blog >>>=
+>=0A=0AWordPress.com offers a ton of customization features to make=0Ayour =
+blog stand out from the crowd. Find out how you can make=0Ayour site unique=
+ly yours:=0A=0A*** LINK: http://learn.wordpress.com/get-customized/ ***=0A=
+=0A=0A<<<< Mobilize Your Blog >>>>=0A=0AIf you'd rather blog while you're o=
+ut and about, WordPress.com=0Ahas you covered with some first-class mobile =
+blogging tools. =0ANever miss a blogging opportunity again: blog mobile!=0A=
+=0A*** LINK: http://learn.wordpress.com/get-mobile/ ***=0A=0A=0A=0A{{{{{{{ =
+Learn More: }}}}}}}}=0A=0AFor more great ways to make your blog beautiful, =
+unique and irresistible to readers: =0A=0A*** LINK: http://learn.wordpress.=
+com ***=0A=0A=0A
+
+--b1_7487bffbedaf48da1a032d4f28d85f96
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> =0A<html xmlns=3D"http://www=
+.w3.org/1999/xhtml"> =0A<head> =0A</head> =0A<body style=3D"background: #dd=
+dddd; text-align: center; margin: 0; padding:0; font-family: Helvetica, san=
+s-serif; font-size: 14px; line-height: 130%; color: #464646;">=0A<table wid=
+th=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#dd=
+dddd">=0A=09<tr>=0A=09=09<td style=3D"padding: 20px 0 20px 0;">=0A=09=09=09=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" bg=
+color=3D"#ffffff" style=3D"padding: 5px 5px 30px 5px;" width=3D"610">=0A=09=
+=09=09=09<tr>=0A                    <td align=3D"center">=0A               =
+         <!-- begin header -->=0A                        <table width=3D"52=
+2" style=3D"margin-top: 20px;">=0A                            <tr>=0A      =
+                          <td align=3D"left">=0A                           =
+ =09=09<h1 style=3D"font-family: Georgia, serif; line-height: 160%; font-si=
+ze: 21px; font-style: italic; font-weight: bold;">Take your <a style=3D"col=
+or: #21759b; text-decoration: none;" href=3D"http://wordpress.com/">WordPre=
+ss.com</a> site to the next level!</h1> =0A                            =09<=
+/td>=0A                            </tr>=0A                            <tr>=
+=0A                            =09<td align=3D"center"><img border=3D"0" st=
+yle=3D"margin-bottom: 20px;" src=3D"http://s.wordpress.com/i/emails/learn-1=
+/banner.png" alt=3D"Take your WordPress.com site to the next level!" /></td=
+>=0A                            </tr>=0A                            <tr>=0A=
+                            =09<td><p style=3D"text-align: left; font-size:=
+ 18px; color: #21759b; line-height: 140%; font-family: Georgia, serif; marg=
+in: 10px 0 20px 0;">You're all signed up for your <a style=3D"color: #21759=
+b; text-decoration: none;" href=3D"http://wordpress.com/">WordPress.com</a>=
+ blog. Now learn how to customize it, make it beautiful, and grow your audi=
+ence with <a style=3D"color: #d54e21; text-decoration: none;" href=3D"http:=
+//learn.wordpress.com">Learn.WordPress.Com</a>.</p></td>=0A                =
+            </tr>=0A                        </table>=0A                    =
+    <!-- end header -->=0A                        <!-- begin details -->=0A=
+                        <table width=3D"522">=0A                           =
+ <tr>=0A                                <td colspan=3D"2" style=3D"height: =
+5px; padding: 0; margin: 20px 0 10px 0; line-height: 0; border-bottom: 1px =
+solid #ddd;">&nbsp;</td>=0A                            </tr>=0A            =
+                <tr> =0A                                <td width=3D"33%" c=
+lass=3D"image" style=3D"margin-top: 5px; vertical-align: top; text-align: c=
+enter; padding: 10px 5px 5px 5px;">=09=0A                                  =
+  <img border=3D"0" src=3D"http://s.wordpress.com/i/emails/learn-1/liftoff.=
+png" alt=3D"launch Illustration"> =0A                                </td> =
+=0A                                <td width=3D"66%" style=3D"vertical-alig=
+n: top; padding: 10px 5px 5px 5px; text-align: left;"> =0A                 =
+                   <h3 style=3D"line-height: 100%; margin: 0; font-family: =
+Georgia, serif; color: #21759b;">Launch Your Blog</h3> =0A                 =
+                   <p style=3D"margin: 5px 0 4px 0;">If you're not sure wha=
+t one end of a dashboard looks like from another, learn how to quickly:</p>=
+=0A                                        <p style=3D"margin: 3px 0 3px 10=
+px;"><a style=3D"color: #d54e21; text-decoration: none;" href=3D"http://lea=
+rn.wordpress.com/get-acquainted/">&mdash;Master the basics</a></p>=0A      =
+                                  <p style=3D"margin: 3px 0 3px 10px;"><a s=
+tyle=3D"color: #d54e21; text-decoration: none;" href=3D"http://learn.wordpr=
+ess.com/get-published/">&mdash;Publish your first post</a></p>=0A          =
+                      </td> =0A                            </tr> =0A       =
+                     <tr>=0A                                <td colspan=3D"=
+2" style=3D"height: 5px; padding: 0; margin: 0; line-height: 0; border-bott=
+om: 1px solid #ddd;"><div style=3D"height: 20px;">&nbsp;</div></td>=0A     =
+                       </tr>=0A                            <tr> =0A        =
+                        <td width=3D"33%" class=3D"image" style=3D"margin-t=
+op: 5px; vertical-align: top; text-align: center; padding: 10px 5px 5px 5px=
+;">=09=0A                                    <img border=3D"0" src=3D"http:=
+//s.wordpress.com/i/emails/learn-1/focus.png" alt=3D"target Illustration"> =
+=0A                                </td> =0A                               =
+ <td width=3D"66%" style=3D"vertical-align: top; padding: 10px 5px 5px 5px;=
+ text-align: left;"> =0A                                    <h3 style=3D"li=
+ne-height: 100%; margin: 0; font-family: Georgia, serif; line-height: 160%;=
+ color: #21759b;">Focus Your Blog</h3> =0A                                 =
+   <p style=3D"margin: 5px 0 4px 0;">The most popular WordPress.com blogs h=
+ave a strong focus that pulls in a dedicated audience. Find out how you can=
+ do the same to:</p>=0A                                    <p style=3D"marg=
+in: 3px 0 3px 10px;"><a style=3D"color: #d54e21; text-decoration: none;" hr=
+ef=3D"http://learn.wordpress.com/get-focused/">&mdash;Grow your blog</a></p=
+> =0A                                </td> =0A                            <=
+/tr> =0A                            <tr>=0A                                =
+<td colspan=3D"2" style=3D"height: 5px; padding: 0; margin: 0; line-height:=
+ 0; border-bottom: 1px solid #ddd;"><div style=3D"height: 20px;">&nbsp;</di=
+v></td>=0A                            </tr>=0A                            <=
+tr> =0A                                <td width=3D"33%" class=3D"image" st=
+yle=3D"margin-top: 5px; vertical-align: top; text-align: center; padding: 1=
+0px 5px 5px 5px;">=09=0A                                    <img border=3D"=
+0" src=3D"http://s.wordpress.com/i/emails/learn-1/customize.png" alt=3D"Cus=
+tomize Illustration"> =0A                                </td> =0A         =
+                       <td width=3D"66%" style=3D"vertical-align: top; padd=
+ing: 10px 5px 5px 5px; text-align: left;"> =0A                             =
+       <h3 style=3D"line-height: 100%; margin: 0; font-family: Georgia, ser=
+if; line-height: 160%; color: #21759b;">Customize Your Blog</h3> =0A       =
+                             <p style=3D"margin: 5px 0 4px 0;">WordPress.co=
+m offers a ton of customization features to make your blog stand out from t=
+he crowd. Find out how you can:</p>=0A                                    <=
+p style=3D"margin: 3px 0 3px 10px;"><a style=3D"color: #d54e21; text-decora=
+tion: none;" href=3D"http://learn.wordpress.com/get-customized/">&mdash;Mak=
+e your site uniquely yours</a></p> =0A                                </td>=
+ =0A                            </tr> =0A                            <tr>=
+=0A                                <td colspan=3D"2" style=3D"height: 5px; =
+padding: 0; margin: 0; line-height: 0; border-bottom: 1px solid #ddd;"><div=
+ style=3D"height: 20px;">&nbsp;</div></td>=0A                            </=
+tr>=0A                            <tr> =0A                                <=
+td width=3D"33%" class=3D"image" style=3D"margin-top: 5px; vertical-align: =
+top; text-align: center; padding: 10px 5px 5px 5px;">=09=0A                =
+                    <img border=3D"0" src=3D"http://s.wordpress.com/i/email=
+s/learn-1/mobile.png" alt=3D"Mobile Illustration">=0A                      =
+          </td> =0A                                <td width=3D"66%" style=
+=3D"vertical-align: top; padding: 10px 5px 5px 5px; text-align: left;"> =0A=
+                                    <h3 style=3D"line-height: 100%; margin:=
+ 0; font-family: Georgia, serif; line-height: 160%; color: #21759b;">Bloggi=
+ng on the Run</h3> =0A                                    <p style=3D"margi=
+n: 5px 0 4px 0;">If you'd rather blog while you're out and about, WordPress=
+.com has you covered with some first-class mobile blogging tools. Never mis=
+s a blogging opportunity again:</p>=0A                                    <=
+p style=3D"margin: 3px 0 3px 10px;"><a style=3D"color: #d54e21; text-decora=
+tion: none;" href=3D"http://learn.wordpress.com/get-mobile/">&mdash;Blog mo=
+bile!</a></p> =0A                                </td> =0A                 =
+           </tr> =0A                            <tr>=0A                    =
+            <td colspan=3D"2" style=3D"height: 5px; padding: 0; margin: 0; =
+line-height: 0; border-bottom: 1px solid #ddd;"><div style=3D"height: 20px;=
+">&nbsp;</div></td>=0A                            </tr>=0A=0A              =
+          </table>=0A                        <!-- end details -->=0A       =
+                 <!-- begin footer -->=0A                        <table wid=
+th=3D"522">=0A                            <tr>=0A                          =
+      <td align=3D"left">=0A                                    <h2 style=
+=3D"margin-top: 18px; margin-bottom: 5px; font-weight: normal; font-family:=
+ Georgia, serif; line-height: 100%; font-size: 21px; color: #21759b;">Learn=
+ More!</h2> =0A                                    <p style=3D"margin-botto=
+m: 0;">For more great ways to make your blog beautiful, unique and irresist=
+ible to readers: <a style=3D" font-style: italic; font-weight: bold; color:=
+ #21759b; text-decoration: none;" href=3D"http://learn.wordpress.com">Learn=
+ WordPress.Com</a></p> =0A                                    <table style=
+=3D"width: 522px; padding: 0; border: 0; margin: 0;" class=3D"logo_footer">=
+ =0A                                        <tr>=0A                        =
+                    <td colspan=3D"2" style=3D"height: 5px; padding: 0; mar=
+gin: 0; line-height: 0; border-bottom: 1px solid #ddd;"><div style=3D"heigh=
+t: 20px;">&nbsp;</div></td>=0A                                        </tr>=
+=0A                                        <tr> =0A                        =
+                    <td width=3D"80"> =0A                                  =
+              <img border=3D"0" src=3D"http://s.wordpress.org/about/images/=
+logo-grey/grey-m.png" alt=3D"WordPress" width=3D"35" height=3D"35" style=3D=
+"margin-left: 40px; margin-top: 15px;" /> =0A                              =
+              </td> =0A                                            <td styl=
+e=3D"padding: 5px; text-align: left;"> =0A                                 =
+               <p style=3D"margin-top: 30px;"><a style=3D"color: #d54e21; t=
+ext-decoration: none;" href=3D"http://wordpress.com">WordPress.com</a> | Th=
+anks for flying with WordPress!</p> =0A                                    =
+        </td> =0A                                        </tr> =0A         =
+                           </table>                                    =0A =
+                               </td>=0A                            </tr>=0A=
+                        </table>=0A                        <!-- end footer =
+-->=0A                    </td>=0A                </tr>=0A            </tab=
+le>=0A=09=09</td>=0A=09</tr>=0A</table>=0A<div style=3D"width: 100%; text-a=
+lign: center;"><img border=3D"0" src=3D"http://stats.wordpress.com/g.gif?v=
+=3Dwpcom-no-pv&amp;x_nux_email=3Dlearn-1_opened" /></div>=0A</body> =0A</ht=
+ml>=0A
+
+
+--b1_7487bffbedaf48da1a032d4f28d85f96--
+
+

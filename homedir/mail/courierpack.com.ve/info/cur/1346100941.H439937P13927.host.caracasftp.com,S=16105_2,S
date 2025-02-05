@@ -1,0 +1,214 @@
+Return-path: <oorsini42@yahoo.es>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Mon, 27 Aug 2012 16:25:41 -0430
+Received: from nm14-vm0.bullet.mail.ird.yahoo.com ([77.238.189.193]:43690)
+	by host.caracasftp.com with smtp (Exim 4.77)
+	(envelope-from <oorsini42@yahoo.es>)
+	id 1T66LV-0003cT-23
+	for info@courierpack.com.ve; Mon, 27 Aug 2012 16:25:41 -0430
+Received: from [77.238.189.57] by nm14.bullet.mail.ird.yahoo.com with NNFMP; 27 Aug 2012 20:55:40 -0000
+Received: from [212.82.108.248] by tm10.bullet.mail.ird.yahoo.com with NNFMP; 27 Aug 2012 20:55:40 -0000
+Received: from [127.0.0.1] by omp1013.mail.ird.yahoo.com with NNFMP; 27 Aug 2012 20:55:40 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 288803.67581.bm@omp1013.mail.ird.yahoo.com
+Received: (qmail 54906 invoked by uid 60001); 27 Aug 2012 20:55:40 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1346100940; bh=SMkPI+M5n/uo3fiGQaIvsL7AX8wRt8PK3BntmRNC+PQ=; h=X-YMail-OSG:Received:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=ILJrGUqfPZZqnqijFu3mFl1MO+KTmjGGsHAoIYnZ70tuTwXequBMTtswBfuFS1JtjMmvPwFFHC2MRpbU2s/wys06rZwdxk+JojFrO+t0e5vuraY3ffVLoWdxouHYE3nwoTQ4HVbz5CK+c7yncUBbLEMzUcbW3gig1qqyBHKR53Q=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.es;
+  h=X-YMail-OSG:Received:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type;
+  b=W1m8Z/qZuixTowZrxf9AlDfaKOrVmXFV+ivtkXxaVlj/qI6vUvT5oIVdZ0ucFyC5W0tbPg8oISHmFUFAshK18SKA8ZeVpQR3QIH6lrJnBB6+WQviHnty5uJyGnfrLA94CFTyn3GDy1v9iOJrCVNotzXnKXwS7V8E/Vj8Dc1wrXE=;
+X-YMail-OSG: CmhbViMVM1m6YmhCOs6f0ssxKYpiI7aDumcKkgwOkfS485d
+ vXz47m9iTVCVPTfsKe3p0aL.TqpjKfvZczynxFbhBo5TblwnS6VqVtyEPXN5
+ azarwpNWFRTvOnrdNaQ19X.uFs8b8C_mwgmjsNeP4UIA69TmJ61rUvu8k1Oc
+ D37fao8DKP2yHl7ly.EoFXrhxpbN0mKuAIWxih7EvzqoRM4SaYxQaY7VFRLd
+ ZJJd7wQDweUP59CYyBnqtjCV1_kAgQBBgwUmnbHDNL72FKsbQNrCa7b639fR
+ ynit7FY1HZM3ovOQzLgjPXsX4Fpa2pKJY5NXJxTS6wSrfvPVGGe9KKnPEFIB
+ m8FDaDVGNf62a3RGXdKbqulc4US5uHOyqbQ5rIQ71mDbq0ItK.T4uK3zFnpS
+ wkUkPiom.hLQeseYveSKRLnc5htIwb2AqUJdsCDk7GXUTk00J1xAV
+Received: from [201.248.74.115] by web133105.mail.ir2.yahoo.com via HTTP; Mon, 27 Aug 2012 21:55:39 BST
+X-Mailer: YahooMailWebService/0.8.121.416
+References: <2056533735-1345831410-cardhu_decombobulator_blackberry.rim.net-331761001-@b27.c10.bise6.blackberry>    <1346070161.73943.YahooMailNeo@web133104.mail.ir2.yahoo.com>   <723352899-1346071317-cardhu_decombobulator_blackberry.rim.net-236353769-@b27.c10.bise6.blackberry>   <1346074493.71820.YahooMailNeo@web133104.mail.ir2.yahoo.com>  <1157369616-1346074991-cardhu_decombobulator_blackberry.rim.net-1296202747-@b27.c10.bise6.blackberry>  <1346099634.41746.YahooMailNeo@web133104.mail.ir2.yahoo.com> <1105356573-1346100265-cardhu_decombobulator_blackberry.rim.net-383432564-@b27.c10.bise6.blackberry>
+Message-ID: <1346100939.42532.YahooMailNeo@web133105.mail.ir2.yahoo.com>
+Date: Mon, 27 Aug 2012 21:55:39 +0100 (BST)
+From: orlando orsini <oorsini42@yahoo.es>
+Reply-To: orlando orsini <oorsini42@yahoo.es>
+Subject: Re: Notificacion de arribo de carga
+To: "info@courierpack.com.ve" <info@courierpack.com.ve>
+In-Reply-To: <1105356573-1346100265-cardhu_decombobulator_blackberry.rim.net-383432564-@b27.c10.bise6.blackberry>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-432612139-1741569934-1346100939=:42532"
+
+---432612139-1741569934-1346100939=:42532
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Transferencia Numero 133123302 Banesco=0A=0A=0A=0A=0A______________________=
+__________=0A De: Atencion al cliente! <info@courierpack.com.ve>=0APara: or=
+lando orsini <oorsini42@yahoo.es> =0AEnviado: Lunes 27 de agosto de 2012 23=
+:45=0AAsunto: Re: Notificacion de arribo de carga=0A =0A=0ASr orsini si es =
+tan amable por favor indique el numero de transferencia para confirmar depo=
+sito o transferencia.=0A=0AEn otro orden de ideas indique la oficina de zoo=
+m que desea a la cual le enviemos sus art=EDculos.=0A=0AUna vez confirmado =
+el deposito env=EDo rese=F1a fotogr=E1fica de sus art=EDculos.=0A=0AAdicion=
+almente indique el monto que desea que coloquemos como monto a asegurar.=0A=
+=0ASin otro particular.=0AAgradeciendo su colaboraci=F3n se despide de uste=
+d.=0A=0AMiguel Angel.=0AGracias de antemano=0AEnviado desde mi BlackBerry d=
+e Movistar=0A________________________________=0A=0AFrom:  orlando orsini <o=
+orsini42@yahoo.es> =0ADate: Mon, 27 Aug 2012 21:33:54 +0100 (BST)=0ATo: inf=
+o@courierpack.com.ve<info@courierpack.com.ve>=0AReplyTo:  orlando orsini <o=
+orsini42@yahoo.es> =0ASubject: Re: Notificacion de arribo de carga=0A=0AHol=
+a, Miguel ya esta listo el depositoes orsini okey =0A=0A=0A=0A=0A=0A_______=
+_________________________=0A De: Atencion al cliente! <info@courierpack.com=
+.ve>=0APara: orlando orsini <oorsini42@yahoo.es> =0AEnviado: Lunes 27 de ag=
+osto de 2012 16:43=0AAsunto: Re: Notificacion de arribo de carga=0A =0A=0AS=
+r orsini, =0A=0ALa idea de cambiar es para mejorar el=0A servicio tenemos c=
+asi 1 a=F1o con esta pol=EDtica de entrega de mercanc=EDa y la verdad, no h=
+emos tenido problemas=0A=0AZoom es una empresa seria que asegura los paquet=
+es por el monto que usted considere, para lo que le pedimos que nos notifiq=
+ue por que monto deseara asegurar sus paquetes.=0A=0AOtra cosa importante a=
+ que oficina de zoom deseara que le hagan llegar sus ordenes.=0A=0ADe su ca=
+rga solo faltan unos protectores de psp de pantalla que nunca llegaron a nu=
+estros almacenes para lo que usted debe ponerse en contacto con el mismo.=
+=0A=0APor lo dem=E1s. Esta toda la carga que esta detallada en el sistema.=
+=0A=0ASe encuentra disponible para la entrega.=0A=0AGracias =0A=0AEnviado d=
+esde mi BlackBerry de Movistar=0A________________________________=0A=0AFrom=
+:  orlando orsini <oorsini42@yahoo.es> =0ADate: Mon, 27 Aug 2012 14:34:53 +=
+0100 (BST)=0ATo: info@courierpack.com.ve<info@courierpack.com.ve>=0AReplyTo=
+:  orlando orsini <oorsini42@yahoo.es> =0ASubject: Re: Notificacion de arri=
+bo de carga=0A=0Aokey, pero tengo noticias de que esas dos empresas se extr=
+abian las cargas; ojo si ustedes se asen responsables por las cargas te dep=
+osito hoy y te solicito la descripcion de las cargas para estar seguro.okey=
+ y disculpa=A0 por la descofianza pero es que antes era diferente gracias. =
+=0A=0A=0A=0A________________________________=0A De: Atencion al cliente! <i=
+nfo@courierpack.com.ve>=0APara: orlando orsini <oorsini42@yahoo.es> =0AEnvi=
+ado: Lunes 27 de agosto de 2012 15:42=0AAsunto: Re: Notificacion de arribo =
+de carga=0A =0A=0AMuy buenos dias sr orsini pero no estamos haciendo entreg=
+as personalizadas enviamos a la oficina de zoom o mrw sin costo adicional d=
+e su preferencia sus articulos por motivos de seguridad.=0A=0AHermos sido l=
+amentablemente v=EDctimas de la delincuencia y por lo que hemos tomado esos=
+ correctivos.=0A=0AEsperamos de usted su colaboraci=F3n y receptividad.=0A=
+=0AGracias de Antemano.=0AEnviado desde mi BlackBerry de Movistar=0A_______=
+_________________________=0A=0AFrom:  orlando orsini <oorsini42@yahoo.es> =
+=0ADate: Mon, 27 Aug 2012 13:22:41 +0100 (BST)=0ATo: info@courierpack.com.v=
+e<info@courierpack.com.ve>=0AReplyTo:  orlando orsini <oorsini42@yahoo.es> =
+=0ASubject: Re: Notificacion de arribo de carga=0A=0AHOLA Miguel es orsini =
+podria ser en efectivo en el momento de la entrega, y si estan todas las ca=
+rgas completa dame el dia y la hora yo vivo en parque central okey gracias.=
+=0A=0A=0A=0A=0A=0A________________________________=0A De: Atencion al clien=
+te! <info@courierpack.com.ve>=0APara: orlando orsini <oorsini42@yahoo.es> =
+=0AEnviado: Viernes 24 de agosto de 2012 21:03=0AAsunto: Notificacion de ar=
+ribo de carga=0A =0ANotificaci=F3n arribo de carga=0A=0ABuenos dias, por es=
+ta v=EDa se indica que su carga se encuentra disponible para la entrega.=0A=
+=0AAprovechamos para indicar que el costo por el servicio de flete es de=A0=
+ Bs.F 1.000,00=0A=0AA continuacion se indica el detalle bancario.=0ABanco: =
+Banesco=0ACta. Num 01341020800002000659=0ATitular: Miguel Angel Pita Fernan=
+dez=0AC.I. 12159143=0A=0AGracias de antemano=0A=0A=0AEnviado desde mi Black=
+Berry de Movistar
+---432612139-1741569934-1346100939=:42532
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt">Transferencia Numero =
+133123302 Banesco<br><div><span></span></div><div><br></div>  <div style=3D=
+"font-family: times new roman, new york, times, serif; font-size: 12pt;"> <=
+div style=3D"font-family: times new roman, new york, times, serif; font-siz=
+e: 12pt;"> <div dir=3D"ltr"> <font size=3D"2" face=3D"Arial"> <hr size=3D"1=
+">  <b><span style=3D"font-weight:bold;">De:</span></b> Atencion al cliente=
+! &lt;info@courierpack.com.ve&gt;<br> <b><span style=3D"font-weight: bold;"=
+>Para:</span></b> orlando orsini &lt;oorsini42@yahoo.es&gt; <br> <b><span s=
+tyle=3D"font-weight: bold;">Enviado:</span></b> Lunes 27 de agosto de 2012 =
+23:45<br> <b><span style=3D"font-weight: bold;">Asunto:</span></b> Re: Noti=
+ficacion de arribo de carga<br> </font> </div> <br><div id=3D"yiv1743015657=
+"><div>Sr orsini si es tan amable por favor indique el numero de transferen=
+cia para
+ confirmar deposito o transferencia.<br><br>En otro orden de ideas indique =
+la oficina de zoom que desea a la cual le enviemos sus art=EDculos.<br><br>=
+Una vez confirmado el deposito env=EDo rese=F1a fotogr=E1fica de sus art=ED=
+culos.<br><br>Adicionalmente indique el monto que desea que coloquemos como=
+ monto a asegurar.<br><br>Sin otro particular.<br>Agradeciendo su colaborac=
+i=F3n se despide de usted.<br><br>Miguel Angel.<br>Gracias de antemano<div>=
+Enviado desde mi BlackBerry de Movistar</div><hr><div><b>From: </b> orlando=
+ orsini &lt;oorsini42@yahoo.es&gt;=0A</div><div><b>Date: </b>Mon, 27 Aug 20=
+12 21:33:54 +0100 (BST)</div><div><b>To: </b>info@courierpack.com.ve&lt;inf=
+o@courierpack.com.ve&gt;</div><div><b>ReplyTo: </b> orlando orsini &lt;oors=
+ini42@yahoo.es&gt;=0A</div><div><b>Subject: </b>Re: Notificacion de arribo =
+de carga</div><div><br></div><div style=3D"color:#000;background-color:#fff=
+;font-family:times new roman, new york, times, serif;font-size:12pt;">Hola,=
+ Miguel ya esta listo el depositoes orsini okey <br><br><div><span><br></sp=
+an></div><div><br></div>  <div style=3D"font-family:times new roman, new yo=
+rk, times, serif;font-size:12pt;"> <div style=3D"font-family:times new roma=
+n, new york, times, serif;font-size:12pt;"> <div dir=3D"ltr"> <font size=3D=
+"2" face=3D"Arial"> <hr size=3D"1">  <b><span style=3D"font-weight:bold;">D=
+e:</span></b> Atencion al cliente! &lt;info@courierpack.com.ve&gt;<br> <b><=
+span style=3D"font-weight:bold;">Para:</span></b> orlando orsini &lt;oorsin=
+i42@yahoo.es&gt; <br> <b><span style=3D"font-weight:bold;">Enviado:</span><=
+/b> Lunes 27 de agosto de 2012 16:43<br> <b><span style=3D"font-weight:bold=
+;">Asunto:</span></b> Re: Notificacion de arribo de carga<br> </font> </div=
+> <br><div
+ id=3D"yiv1743015657"><div>Sr orsini, <br><br>La idea de cambiar es para me=
+jorar el=0A servicio tenemos casi 1 a=F1o con esta pol=EDtica de entrega de=
+ mercanc=EDa y la verdad, no hemos tenido problemas<br><br>Zoom es una empr=
+esa seria que asegura los paquetes por el monto que usted considere, para l=
+o que le pedimos que nos notifique por que monto deseara asegurar sus paque=
+tes.<br><br>Otra cosa importante a que oficina de zoom deseara que le hagan=
+ llegar sus ordenes.<br><br>De su carga solo faltan unos protectores de psp=
+ de pantalla que nunca llegaron a nuestros almacenes para lo que usted debe=
+ ponerse en contacto con el mismo.<br><br>Por lo dem=E1s. Esta toda la carg=
+a que esta detallada en el sistema.<br><br>Se encuentra disponible para la =
+entrega.<br><br>Gracias <br><div>Enviado desde mi BlackBerry de Movistar</d=
+iv><hr><div><b>From: </b> orlando orsini &lt;oorsini42@yahoo.es&gt;=0A</div=
+><div><b>Date: </b>Mon, 27 Aug 2012 14:34:53 +0100 (BST)</div><div><b>To: <=
+/b>info@courierpack.com.ve&lt;info@courierpack.com.ve&gt;</div><div><b>Repl=
+yTo: </b> orlando orsini &lt;oorsini42@yahoo.es&gt;=0A</div><div><b>Subject=
+: </b>Re: Notificacion de arribo de carga</div><div><br></div><div style=3D=
+"color:#000;background-color:#fff;font-family:times new roman, new york, ti=
+mes, serif;font-size:12pt;"><div><span>okey, pero tengo noticias de que esa=
+s dos empresas se extrabian las cargas; ojo si ustedes se asen responsables=
+ por las cargas te deposito hoy y te solicito la descripcion de las cargas =
+para estar seguro.okey y disculpa&nbsp; por la descofianza pero es que ante=
+s era diferente gracias. <br></span></div><div><br></div>  <div style=3D"fo=
+nt-family:times new roman, new york, times, serif;font-size:12pt;"> <div st=
+yle=3D"font-family:times new roman, new york, times, serif;font-size:12pt;"=
+> <div dir=3D"ltr"> <font size=3D"2" face=3D"Arial"> <hr size=3D"1">  <b><s=
+pan style=3D"font-weight:bold;">De:</span></b> Atencion al cliente! &lt;inf=
+o@courierpack.com.ve&gt;<br> <b><span style=3D"font-weight:bold;">Para:</sp=
+an></b> orlando orsini &lt;oorsini42@yahoo.es&gt; <br> <b><span
+ style=3D"font-weight:bold;">Enviado:</span></b> Lunes 27 de=0A agosto de 2=
+012 15:42<br> <b><span style=3D"font-weight:bold;">Asunto:</span></b> Re: N=
+otificacion de arribo de carga<br> </font> </div> <br><div id=3D"yiv1743015=
+657"><div>Muy buenos dias sr orsini pero no estamos haciendo entregas perso=
+nalizadas enviamos a la oficina de zoom o mrw sin costo adicional de su pre=
+ferencia sus articulos por motivos de seguridad.<br><br>Hermos sido lamenta=
+blemente v=EDctimas de la delincuencia y por lo que hemos tomado esos corre=
+ctivos.<br><br>Esperamos de usted su colaboraci=F3n y receptividad.<br><br>=
+Gracias de Antemano.<div>Enviado desde mi BlackBerry de Movistar</div><hr><=
+div><b>From: </b> orlando orsini &lt;oorsini42@yahoo.es&gt;=0A</div><div><b=
+>Date: </b>Mon, 27 Aug 2012 13:22:41 +0100 (BST)</div><div><b>To: </b>info@=
+courierpack.com.ve&lt;info@courierpack.com.ve&gt;</div><div><b>ReplyTo: </b=
+> orlando orsini &lt;oorsini42@yahoo.es&gt;=0A</div><div><b>Subject: </b>Re=
+: Notificacion de arribo de carga</div><div><br></div><div style=3D"color:#=
+000;background-color:#fff;font-family:times new roman, new york, times, ser=
+if;font-size:12pt;">HOLA Miguel es orsini podria ser en efectivo en el mome=
+nto de la entrega, y si estan todas las cargas completa dame el dia y la ho=
+ra yo vivo en parque central okey gracias.<br><br><div><span><br></span></d=
+iv><div><br></div>  <div style=3D"font-family:times new roman, new york, ti=
+mes, serif;font-size:12pt;"> <div style=3D"font-family:times new roman, new=
+ york, times, serif;font-size:12pt;"> <div dir=3D"ltr"> <font size=3D"2" fa=
+ce=3D"Arial"> <hr size=3D"1">  <b><span style=3D"font-weight:bold;">De:</sp=
+an></b> Atencion al cliente! &lt;info@courierpack.com.ve&gt;<br> <b><span s=
+tyle=3D"font-weight:bold;">Para:</span></b> orlando orsini &lt;oorsini42@ya=
+hoo.es&gt; <br> <b><span style=3D"font-weight:bold;">Enviado:</span></b> Vi=
+ernes 24 de agosto de 2012 21:03<br> <b><span
+ style=3D"font-weight:bold;">Asunto:</span></b> Notificacion de arribo de=
+=0A carga<br> </font> </div> <br>Notificaci=F3n arribo de carga<br><br>Buen=
+os dias, por esta v=EDa se indica que su carga se encuentra disponible para=
+ la entrega.<br><br>Aprovechamos para indicar que el costo por el servicio =
+de flete es de&nbsp; Bs.F 1.000,00<br><br>A continuacion se indica el detal=
+le bancario.<br>Banco: Banesco<br>Cta. Num 01341020800002000659<br>Titular:=
+ Miguel Angel Pita Fernandez<br>C.I. 12159143<br><br>Gracias de antemano<br=
+><br><br>Enviado desde mi BlackBerry de Movistar<br><br> </div> </div>  </d=
+iv></div>=0A</div><br><br> </div> </div>  </div></div>=0A</div><br><br> </d=
+iv> </div>  </div></div>=0A</div><br><br> </div> </div>  </div></body></htm=
+l>
+---432612139-1741569934-1346100939=:42532--

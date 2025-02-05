@@ -1,0 +1,88 @@
+Return-path: <gustavofranco1983@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Mon, 14 Apr 2014 18:17:02 -0430
+Received: from mail-vc0-f181.google.com ([209.85.220.181]:35352)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <gustavofranco1983@gmail.com>)
+	id 1WZpeW-001wxS-7A
+	for info@courierpack.com.ve; Mon, 14 Apr 2014 18:17:02 -0430
+Received: by mail-vc0-f181.google.com with SMTP id id10so8084505vcb.40
+        for <info@courierpack.com.ve>; Mon, 14 Apr 2014 15:46:58 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=d4SUSlRYM+rrqWPonXX1GD6hsU0MBT398iE0sCWlBBY=;
+        b=oBmvewD1hBFxWi/mZVzLlgeo9nJRZhGFKCimIqF+wHiZBWQ2t12fJwjZsNs+KD5T5r
+         jdzDrSzGoJXsjiyfBLe0rcofyx7bJ4YPRNCxqnN8DqqaXDRPcS8finunjKSXmGIO4m6n
+         GjWhfFEpZ67lerRZAVvUDK19PT0byazFPaHx57xhfEuzWitKlwjgsTVZyMK3Cq8UAQRW
+         b7i49ngCPctsPadzSxNCKeJl+6rl0bE5KvmY1oYHzzGkmSYatb9dG0d+SBbyXPzGUq7n
+         hTrhfeabddRENv5gk78SKFDOrjTVxMiXPLNbGRBtV8hBQx1zuRq65XwfZZ/bGtSFGgCi
+         F94g==
+MIME-Version: 1.0
+X-Received: by 10.58.122.164 with SMTP id lt4mr39496132veb.2.1397515617990;
+ Mon, 14 Apr 2014 15:46:57 -0700 (PDT)
+Received: by 10.52.0.179 with HTTP; Mon, 14 Apr 2014 15:46:57 -0700 (PDT)
+Date: Mon, 14 Apr 2014 18:46:57 -0400
+Message-ID: <CAPFCho+4nSS11TYd5tYxZi58T0LkG9sphXDCApyPcHDYuM1kYg@mail.gmail.com>
+Subject: saludos
+From: Gustavo Franco <gustavofranco1983@gmail.com>
+To: info@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=047d7b2ed255fa7efb04f7087520
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Buenas tardes sres, les escribo para saber como estan sus
+   entregas en estos momentos si estan llegando rapido y cuanto esta el cobro
+    de los envios si ya estan aceptando el cupo cadivi para la recepcion o no
+    ? y saber si ustedes hacen reempaque de la mercancia para traer varias cosas
+    , muchas gracias [...] 
+ 
+ Content analysis details:   (0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (gustavofranco1983[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (gustavofranco1983[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--047d7b2ed255fa7efb04f7087520
+Content-Type: text/plain; charset=UTF-8
+
+Buenas tardes sres, les escribo para saber como estan sus entregas en estos
+momentos si estan llegando rapido y cuanto esta el cobro de los envios si
+ya estan aceptando el cupo cadivi para la recepcion o no ? y saber si
+ustedes hacen reempaque de la mercancia para traer varias cosas , muchas
+gracias
+
+Gustavo Franco
+
+0426-400-48-74
+
+--047d7b2ed255fa7efb04f7087520
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Buenas tardes sres, les escribo para saber como estan sus =
+entregas en estos momentos si estan llegando rapido y cuanto esta el cobro =
+de los envios si ya estan aceptando el cupo cadivi para la recepcion o no ?=
+ y saber si ustedes hacen reempaque de la mercancia para traer varias cosas=
+ , muchas gracias<div>
+<br></div><div style>Gustavo Franco</div><div style><br></div><div style>04=
+26-400-48-74</div></div>
+
+--047d7b2ed255fa7efb04f7087520--

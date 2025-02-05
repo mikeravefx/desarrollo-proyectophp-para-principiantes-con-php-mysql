@@ -1,0 +1,83 @@
+Return-path: <>
+Envelope-to: courierp@host.racksystem2.com
+Delivery-date: Tue, 06 Aug 2013 15:26:48 -0430
+Received: from mailnull by host.racksystem2.com with local (Exim 4.80)
+	id 1V6nNA-000AHQ-74
+	for courierp@host.racksystem2.com; Tue, 06 Aug 2013 15:26:48 -0430
+X-Failed-Recipients: carlosjavi91@hortmaIL.COM
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@host.racksystem2.com>
+To: courierp@host.racksystem2.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1V6nNA-000AHQ-74@host.racksystem2.com>
+Date: Tue, 06 Aug 2013 15:26:48 -0430
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  carlosjavi91@hortmaIL.COM
+    retry timeout exceeded
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <courierp@host.racksystem2.com>
+Received: from courierp by host.racksystem2.com with local (Exim 4.80)
+	(envelope-from <courierp@host.racksystem2.com>)
+	id 1V5KM8-003QlM-4V
+	for carlosjavi91@hortmaIL.COM; Fri, 02 Aug 2013 14:15:40 -0430
+To: carlosjavi91@hortmaIL.COM
+Subject: Gracias por contactarnos
+X-PHP-Script: www.courierpack.com.ve/contacto.php for 186.89.145.183
+From: info@courierpack.com.ve
+Content-type: text/html
+Message-Id: <E1V5KM8-003QlM-4V@host.racksystem2.com>
+Date: Fri, 02 Aug 2013 14:15:40 -0430
+
+<html> <head>  <title> estatus de ordenes </title>  
+<style type='text/css'>
+<!--
+.style1 {
+	font-size: 9px;
+	font-weight: bold;
+}
+.style3 {color: #FFFFFF}
+-->
+</style>
+</head>  
+<body style='background:#FFFFFF;font-size:12px;font-family:Verdana, Arial, Helvetica, sans-serif;color:#333333;'> <p>&nbsp;</p>  
+<table width='754' border='0'>
+  <tr>
+    <td width='562' bgcolor='#FFFFFF'><div align='center'><img src='http://www.courierpack.com.ve/images/kubrickheader.jpg' alt='' width='380' height='138'></div></td>
+    <td width='182' bgcolor='#FFFFFF'><b>Caracas, 2-08-13</b></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFFFF'><div align='right'><span style='color:#333333;font-size:12pt;'>Estimado(a):</span></div></td>
+    <td bgcolor='#FFFFFF'><b>carlos pacheco</b></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFFFF'>&nbsp;</td>
+    <td bgcolor='#FFFFFF'>&nbsp;</td>
+  </tr>
+  <tr>
+    <td bordercolor='#AAD2FF' bgcolor='#AAD2FF'><p>En estos momentos estamos procesando  su solicitud. Su requerimiento ser&aacute; respondido a la brevedad posible.</p>
+      <p>Gracias por su paciencia y espera, para nosotros su tiempo es importante, si posee otra solicitud no dude en <a href='contacto.html'>contactarnos</a><br>
+        <a href='contacto.html'><br>
+</a></p></td>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'><div align='center'><img src='http://www.courierpack.com.ve/images/mundocourierpack.jpg' alt='courier internacional puerta a puerta' width='174' height='172'></div></td>
+  </tr>
+  <tr>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'><div align='center'>
+      <p class='style1'><a href='www.courierpack.com.ve'>Sencillamente marcamos la diferencia en transporte internacional de carga </a><br>     
+        Copyright &copy; 2006 - 2009. Todos los derechos reservados, CourierPack &reg; </span></p>
+    </div></td>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'>&nbsp;</td>
+  </tr>
+  <tr>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'><br>
+    <p align='justify' style='color:#333333;font-size:12pt;' >&nbsp;</p></td>
+    <td bordercolor='#AAD2FF' bgcolor='#FFFFFF'>&nbsp;</td>
+  </tr>
+</table>
+</body>  </html>

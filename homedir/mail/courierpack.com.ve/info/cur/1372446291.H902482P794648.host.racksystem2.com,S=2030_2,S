@@ -1,0 +1,45 @@
+Return-path: <smorikawa7x1@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Fri, 28 Jun 2013 14:34:51 -0430
+Received: from mail-ve0-f196.google.com ([209.85.128.196]:57477)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <smorikawa7x1@gmail.com>)
+	id 1UsdyV-003KRq-O8
+	for info@courierpack.com.ve; Fri, 28 Jun 2013 14:34:51 -0430
+Received: by mail-ve0-f196.google.com with SMTP id da11so969167veb.3
+        for <info@courierpack.com.ve>; Fri, 28 Jun 2013 12:04:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=CZJ98KtHLXB70oFFMkIJjBG9NbIRYMxw8UfkpvXk/RU=;
+        b=jysci5XnKq33qB8Jh7pa4YVFq6ZPBSu3IeV/kpaHlncXw9FApQ+9IVND6qXai76CPT
+         ZKubBPTvnDNf6Dh+jBEvVDP4iSZdjqS80DPVMM17ZGOgclFfGehxrHIkknMr5mVVFJov
+         yn/cgZsxYX70fpgPtJzfTeTp0IabJ203Bap6WqMtIc+x93bK95W8uvEl7qCiwlHIN+T8
+         R1E/ZOq2axShEsskOXrAi1UbmskgZGygjIXd+JgJWNETIB/Bpi0dT7dBj1FC7W85GEJi
+         UVL6z1nN7yymcZaRkpAXqpv5IpUZxAwszJUkjtdVsHNfyDgaGDekwCN5ptasc8Xslphr
+         hP+w==
+MIME-Version: 1.0
+X-Received: by 10.58.40.42 with SMTP id u10mr6049402vek.39.1372446289631; Fri,
+ 28 Jun 2013 12:04:49 -0700 (PDT)
+Received: by 10.58.191.40 with HTTP; Fri, 28 Jun 2013 12:04:49 -0700 (PDT)
+Date: Fri, 28 Jun 2013 14:34:49 -0430
+Message-ID: <CAE94JDfev8_hFMamLSkYj920_17WX9Zcp9GjeAe+XewgmctQ8Q@mail.gmail.com>
+Subject: compra
+From: shintaro morikawa <smorikawa7x1@gmail.com>
+To: info@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=089e0129420c91213304e03b8d63
+
+--089e0129420c91213304e03b8d63
+Content-Type: text/plain; charset=ISO-8859-1
+
+solicito asesoria para comprar celular en USA a traves de amazon
+
+--089e0129420c91213304e03b8d63
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">solicito asesoria para comprar celular en USA a traves de =
+amazon=A0</div>
+
+--089e0129420c91213304e03b8d63--

@@ -1,0 +1,59 @@
+Return-path: <ocmorenoh@yahoo.es>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Mon, 26 Nov 2012 18:29:24 -0430
+Received: from nm8.bullet.mail.ird.yahoo.com ([77.238.189.23]:24258)
+	by host.caracasftp.com with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.77)
+	(envelope-from <ocmorenoh@yahoo.es>)
+	id 1Td7e7-0006rt-Hs
+	for info@courierpack.com.ve; Mon, 26 Nov 2012 18:29:23 -0430
+Received: from [77.238.189.57] by nm8.bullet.mail.ird.yahoo.com with NNFMP; 26 Nov 2012 22:59:22 -0000
+Received: from [212.82.109.129] by tm10.bullet.mail.ird.yahoo.com with NNFMP; 26 Nov 2012 22:59:22 -0000
+Received: from [127.0.0.1] by omp1036.mail.ird.yahoo.com with NNFMP; 26 Nov 2012 22:59:22 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 108510.21165.bm@omp1036.mail.ird.yahoo.com
+Received: (qmail 39908 invoked by uid 60001); 26 Nov 2012 22:59:22 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s1024; t=1353970761; bh=1/qDsmnL8WRCO/b7FVFTAQY70QEHpkDqEDaj6G48B+Q=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Subject:To:MIME-Version:Content-Type; b=P3u/MA94PTNWSjze4R8buLPo7jx55Yto8EzrJZTp2Dioxio/WUVDpbOiBn37tJsR3IKte6g1HDQ6wWGKW93tW4QyV+YsE8XjOv9CyCBC+X1VIg9kcASpOMRwDG01Wumz73JY0D0lN7xxcd5lMUFH0nN5q8+j4dse7rwbJQ9oYE8=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.es;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Subject:To:MIME-Version:Content-Type;
+  b=mGyMnF+K7OsTe2MQACW+/aBcGwBkaYODVR5DWi/HOtDITFG1XNyNQrf7zOcajq1bngcagDcoYE6SUSrXhACLDOhUL1mpkEoi/ErN78uy1x2abWWSggzat30aEH9p8QIXpW595uS5SpWR6hlwthR4Us1ASzapXfOzc4MJpehsHK4=;
+X-YMail-OSG: ewWZYvcVM1nWRyZ.cjokxiuuIveuiL.cQ1CCkUOXLk2L_PX
+ _Ply3p9B1Y8ewCmPyfA1jyP8fJTLDGp72O91rkiMvQRQ3Cmz_Ea5Eqf8XU7i
+ k6_WqnmuH2Q4_Vb9.Sroib0biHmd0cEcSQJjjrZCSilDX1bQ5rInAY..fh9J
+ nSJ6GW76nZFFUumGQDd5CNkEAIR1PaI8.nleM0ECfFicr5lv6iyzWwA5pzYl
+ hQtU7CH964RJolz6kJ7MpvYoZpbCaZDvLgWbMvqXx3c43d.JUYtwS2k2Jmi7
+ hZPunokvIk6naV4TFowgsewzn0UOWxLeIYk56dIUQA9AwOefJ6Z3vyc.npDQ
+ 5ujSlyY4OzT1k3TFxqrjuXnFSyTMKpMfJoVai0uiexJp3Hq8ATrq.D3GSgjN
+ ZEJIRp.od0mIU37X6jBoD._NhhnvscrGwkyrO7Ri9RH78er3kt7S9XrWtHoN
+ bDwpAwjxg4vqFCiS7
+Received: from [190.36.6.116] by web29701.mail.ird.yahoo.com via HTTP; Mon, 26 Nov 2012 22:59:21 GMT
+X-Rocket-MIMEInfo: 001.001,SG9sYSwgc2FsdWRvcyENClBhcmEgcXVlIGZlY2hhIGFwcm94aW1hZGFtZW50ZSBsbGVnYXJhbiB0cmVzIHBhcXVldGVzOiA3MDlkZGEwNzI7IDM1MDJiNWY5YiB5IDc4NTM3MGRlNiDCoGVuIGxhIG1vZGFsaWRhZCBlc3RhbmRhcj8NCkF0ZW50YW1lbnRlLA0KT1NNQVJMWU4gTU9SRU5PMDQyNC05NzI0NzIyATABAQEB
+X-Mailer: YahooMailClassic/15.0.8 YahooMailWebService/0.8.123.460
+Message-ID: <1353970761.39753.YahooMailClassic@web29701.mail.ird.yahoo.com>
+Date: Mon, 26 Nov 2012 22:59:21 +0000 (GMT)
+From: osmarlyn moreno <ocmorenoh@yahoo.es>
+Subject: =?iso-8859-1?Q?Informaci=F3n?=
+To: info@courierpack.com.ve
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-122013977-601864369-1353970761=:39753"
+
+---122013977-601864369-1353970761=:39753
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hola, saludos!
+Para que fecha aproximadamente llegaran tres paquetes: 709dda072; 3502b5f9b=
+ y 785370de6 =A0en la modalidad estandar?
+Atentamente,
+OSMARLYN MORENO0424-9724722
+---122013977-601864369-1353970761=:39753
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ><tr><td valign=3D"=
+top" style=3D"font: inherit;"><p>Hola, saludos!</p><p><br></p><p>Para que f=
+echa aproximadamente llegaran tres paquetes: 709dda072; 3502b5f9b y 785370d=
+e6 &nbsp;en la modalidad estandar?</p><p><br></p><p>Atentamente,</p><p><br>=
+</p><p>OSMARLYN MORENO</p><p>0424-9724722</p></td></tr></table>
+---122013977-601864369-1353970761=:39753--

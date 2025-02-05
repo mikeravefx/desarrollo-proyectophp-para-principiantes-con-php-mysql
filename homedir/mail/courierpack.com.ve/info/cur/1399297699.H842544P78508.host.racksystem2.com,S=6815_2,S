@@ -1,0 +1,155 @@
+Return-path: <luisa.bonilla.28@gmail.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Mon, 05 May 2014 09:18:19 -0430
+Received: from mail-we0-f172.google.com ([74.125.82.172]:49570)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <luisa.bonilla.28@gmail.com>)
+	id 1WhJFh-000KQ8-FD
+	for info@courierpack.com.ve; Mon, 05 May 2014 09:18:19 -0430
+Received: by mail-we0-f172.google.com with SMTP id k48so1817833wev.17
+        for <info@courierpack.com.ve>; Mon, 05 May 2014 06:48:16 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=URGRzgngP5onTylmKG/sE9CA/oZ48mZ3cDabldtQbNc=;
+        b=KrJjMlqrGK0TR7tNPi9+QsqX1rOOOgHO5jd6fp3+Rf7OnWHyXDHzNpytMvj+13AC5D
+         Zo9pYPJhsk+paNq1luGyG9URXYmVb9Hbd2M8YfwfewOe9tkGapDbYccLheTzz9aflcr/
+         I3DZFReXzrnGE2Gip2KYyAQjFQ9SPl/gdXiICWOxOLbwQ0SK+MVrL2rMHAuHT4Kc8SKy
+         /mD6Q/lx5izWOMY0x/wy1Wg/70pYaWHR8rxx6XZpozmI080Bv5eZy/JdxjDwOVuQNYJf
+         EVkrpwgR5fYUp29O/RdYh15BFaM+viTXZipi+HpzRLiUfDTzgyfJS+P4yGnAhv1WCb27
+         xJ0A==
+MIME-Version: 1.0
+X-Received: by 10.180.211.239 with SMTP id nf15mr15958288wic.9.1399297696434;
+ Mon, 05 May 2014 06:48:16 -0700 (PDT)
+Received: by 10.216.165.194 with HTTP; Mon, 5 May 2014 06:48:16 -0700 (PDT)
+In-Reply-To: <358578343-1398094969-cardhu_decombobulator_blackberry.rim.net-1762314183-@b3.c4.bise6.blackberry>
+References: <358578343-1398094969-cardhu_decombobulator_blackberry.rim.net-1762314183-@b3.c4.bise6.blackberry>
+Date: Mon, 5 May 2014 09:18:16 -0430
+Message-ID: <CADeDWa4cG6X5i14HyeYSUcnkpEXW6YEZF5rLtYz09ZM1a0AqWA@mail.gmail.com>
+Subject: Re: Requisicion del Email desde el Web Site
+From: Luisa Bonilla <luisa.bonilla.28@gmail.com>
+To: info@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=001a11c264ec21908f04f8a76284
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "host.racksystem2.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hola buenos dias, Estoy manejando un orden con ustedes, la
+    entrega segun el tracking dice que fue el 28/04 y aun no tengo su confirmacion.
+    Podria por favor asistirme. [...] 
+ 
+ Content analysis details:   (0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (luisa.bonilla.28[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (luisa.bonilla.28[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--001a11c264ec21908f04f8a76284
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hola buenos dias,
+
+Estoy manejando un orden con ustedes, la entrega segun el tracking dice que
+fue el 28/04 y aun no tengo su confirmacion.
+
+Podria por favor asistirme.
+
+https://tools.usps.com/go/TrackConfirmAction.action?tRef=3Dfullpage&tLc=3D1=
+&text28777=3D&tLabels=3D9400115901110333425675
+
+
+Realice la compra por amazon, es ropa.
+
+Quedo a la espera de sus comentarios,
+
+--=20
+*Saludos Cordiales,*
+*Att. Luisa Bonilla.*
+
+El 21 de abril de 2014, 11:12, CourierPack <info@courierpack.com.ve>escribi=
+=C3=B3:
+
+> Buenas dias, es por libraje la libra 5,50$
+> ------Mensaje original------
+> De: luisa.bonilla.28@gmail.com
+> Para: info@courierpack.com.ve
+> Responder a: luisa.bonilla.28@gmail.com
+> Asunto: Requisicion del Email desde el Web Site
+> Enviado: 21 de abr de 2014 10:57 AM
+>
+> LUISA BONILLA Escribio :
+> Buenos Dias.
+>
+> Por favor informar sus tarifas en Bs. para envios de miami a caracas
+>
+> Mensaje Enviado el Dia:  21-04-14
+>
+> Central de informancion al Cliente.
+>
+
+--001a11c264ec21908f04f8a76284
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hola buenos dias,<div><br></div><div>Estoy manejando un or=
+den con ustedes, la entrega segun el tracking dice que fue el 28/04 y aun n=
+o tengo su confirmacion.</div><div><br></div><div>Podria por favor asistirm=
+e.=C2=A0<br>
+<div><br></div><div><a href=3D"https://tools.usps.com/go/TrackConfirmAction=
+.action?tRef=3Dfullpage&amp;tLc=3D1&amp;text28777=3D&amp;tLabels=3D94001159=
+01110333425675">https://tools.usps.com/go/TrackConfirmAction.action?tRef=3D=
+fullpage&amp;tLc=3D1&amp;text28777=3D&amp;tLabels=3D9400115901110333425675<=
+/a>=C2=A0<br>
+</div></div><div class=3D"gmail_extra"><br>Realice la compra por amazon, es=
+ ropa.=C2=A0</div><div class=3D"gmail_extra"><br></div><div class=3D"gmail_=
+extra">Quedo a la espera de sus comentarios,=C2=A0<br><br>--=C2=A0<br><div>=
+<b><font color=3D"#3333ff" face=3D"garamond, serif">Saludos Cordiales,</fon=
+t></b></div>
+<div><font color=3D"#3333ff" face=3D"garamond, serif"><b>Att. Luisa<span st=
+yle=3D"font-style:italic">=C2=A0</span>Bonilla.</b></font></div><br><div cl=
+ass=3D"gmail_quote">El 21 de abril de 2014, 11:12, CourierPack <span dir=3D=
+"ltr">&lt;<a href=3D"mailto:info@courierpack.com.ve" target=3D"_blank">info=
+@courierpack.com.ve</a>&gt;</span> escribi=C3=B3:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border-=
+left-width:1px;border-left-color:rgb(204,204,204);border-left-style:solid;p=
+adding-left:1ex">Buenas dias, es por libraje la libra 5,50$<br>
+------Mensaje original------<br>
+De: <a href=3D"mailto:luisa.bonilla.28@gmail.com">luisa.bonilla.28@gmail.co=
+m</a><br>
+Para: <a href=3D"mailto:info@courierpack.com.ve">info@courierpack.com.ve</a=
+><br>
+Responder a: <a href=3D"mailto:luisa.bonilla.28@gmail.com">luisa.bonilla.28=
+@gmail.com</a><br>
+Asunto: Requisicion del Email desde el Web Site<br>
+Enviado: 21 de abr de 2014 10:57 AM<br>
+<br>
+LUISA BONILLA Escribio :<br>
+Buenos Dias.<br>
+<br>
+Por favor informar sus tarifas en Bs. para envios de miami a caracas<br>
+<br>
+Mensaje Enviado el Dia: =C2=A021-04-14<br>
+<br>
+Central de informancion al Cliente.<br>
+</blockquote></div><br><br clear=3D"all"><div><br></div><br>
+</div></div>
+
+--001a11c264ec21908f04f8a76284--

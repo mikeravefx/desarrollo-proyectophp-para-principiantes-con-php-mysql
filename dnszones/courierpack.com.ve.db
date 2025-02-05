@@ -1,0 +1,33 @@
+; cPanel first:11.24.4-RELEASE_35075 (update_time):1384601290 Cpanel::ZoneFile::VERSION:1.3 hostname:host.racksystem2.com latest:11.38.2.12
+; Zone file for courierpack.com.ve
+$TTL 7200
+courierpack.com.ve.	3600	IN	SOA	dns1.caracasdns.com.	soporte.caracashosting.com.	(
+						2013111601 ;Serial Number
+						3600 ;refresh
+						7200 ;retry
+						1209600 ;expire
+						86400 ;minimum
+	)
+
+courierpack.com.ve.	86400	IN	NS	dns1.caracasdns.com.
+courierpack.com.ve.	86400	IN	NS	dns2.caracasdns.com.
+
+
+courierpack.com.ve.	7200	IN	A	82.98.147.48
+
+localhost	7200	IN	A	127.0.0.1
+
+courierpack.com.ve.	7200	IN	MX	0	courierpack.com.ve.
+
+mail	7200	IN	CNAME	courierpack.com.ve.
+www	7200	IN	CNAME	courierpack.com.ve.
+ftp	7200	IN	A	82.98.147.48
+cpanel	7200	IN	A	82.98.147.48
+whm	7200	IN	A	82.98.147.48
+webmail	7200	IN	A	82.98.147.48
+webdisk	7200	IN	A	82.98.147.48
+autoconfig IN A 82.98.147.48
+autodiscover IN A 82.98.147.48
+_autodiscover._tcp IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+default._domainkey IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC8vD3tXnyP8VXUdQu98KHuxfzqtv9joLyM+Y0sIWPwWTXI76juUM90HExcuSg/Zsmx1bXAbzyHffwS1LmJQKFVD/nLjWtY1U01b8XUDHeEOTHpoi5CKp1wNAB+xcsDV/mR4ASqgZXaRiXZmnWkCFP4r2MWgEmQCj0+6UBtBCIqTQIDAQAB;"
+courierpack.com.ve. IN TXT "v=spf1 +a +mx +ip4:82.98.147.48 ?all"

@@ -1,0 +1,66 @@
+Return-path: <odasprino@gmail.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Mon, 10 Dec 2012 08:49:46 -0430
+Received: from mail-ie0-f180.google.com ([209.85.223.180]:63796)
+	by host.caracasftp.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.77)
+	(envelope-from <odasprino@gmail.com>)
+	id 1Ti3Gs-0005Wf-7t
+	for gabrielagarcia@courierpack.com.ve; Mon, 10 Dec 2012 08:49:46 -0430
+Received: by mail-ie0-f180.google.com with SMTP id c10so11741509ieb.39
+        for <gabrielagarcia@courierpack.com.ve>; Mon, 10 Dec 2012 05:19:44 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=x-rim-org-msg-ref-id:message-id:content-transfer-encoding:reply-to
+         :x-priority:sensitivity:importance:subject:to:from:date:content-type
+         :mime-version;
+        bh=djivCkus50oZCFaaq/uCO2MduYncRQr3ByuBLX813Rg=;
+        b=A6ILbbqgmt/G4wnAaijQ5tBjuaXJlujnlsZU7Eg7iVZYi34bg0mRVG5aV1jWOhhoHl
+         v5fgcxY3ACvsHpMqZuyxSGWHFxDUMX+GP+vYm76UugjZT3c5W9WR7oArcbiJhUSh1aWw
+         s/tXcbXZqr7ITAxxMjc+XQpBrGvzcdwq/V2WFKvhJ1Ms8s9w6UBfwEgfK5wuc3KTsAe/
+         E0UgVCrSCns4V5tg13YLeY2S6hnbJlzz4RREp6+ZZ9Qbzi2xKAYqxxXSDDNSIH08g5o1
+         hnxNp8RYykjWzvNX9NpI+XAg3i8TqXcautepzjezIzTDZKgSNXoUCNDVBNUaWyeDQFt3
+         0naA==
+Received: by 10.43.9.131 with SMTP id ow3mr10951430icb.21.1355145583890;
+        Mon, 10 Dec 2012 05:19:43 -0800 (PST)
+Received: from 172.29.203.188 (bda-74-82-82-199.bis6.us.blackberry.com. [74.82.82.199])
+        by mx.google.com with ESMTPS id l8sm6473805igo.13.2012.12.10.05.19.43
+        (version=SSLv3 cipher=OTHER);
+        Mon, 10 Dec 2012 05:19:43 -0800 (PST)
+X-rim-org-msg-ref-id:1655314982
+Message-ID:<1655314982-1355145582-cardhu_decombobulator_blackberry.rim.net-1426889970-@b13.c10.bise6.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: odasprino@gmail.com
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: Re: Gastos por almacenaje
+To: gabrielagarcia@courierpack.com.ve
+From: odasprino@gmail.com
+Date: Mon, 10 Dec 2012 13:20:17 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+
+R2FicmllbGEgbWUgZGlqaXN0ZSBxdWUgdGVuaWEgMTAgZGlhcyBwYXJhIHBhZ2FyIGNvbnRhbmRv
+IGRlc2RlIGVsIGRpYSA1IHF1ZSBtZSBub3RpZmljYXJvbiBlbCBtb250by4uLg0KDQpEZSB0b2Rh
+cyBtYW5lcmFzIGdyYWNpYXMgcG9yIGVsIHJlY29yZGF0b3Jpby4gRW50cmUgbWFuYW5hIHkgZWwg
+bWllcmNvbGVzIHRlIGVzdG95IHRyYW5zZmlyaWVuZG8hIFVuIHNhbHVkbw0KLS0tLS0tTWVuc2Fq
+ZSBvcmlnaW5hbC0tLS0tLQ0KRGU6IEdhYnJpZWxhIEcNClBhcmE6T21hciBBc3ByaW5vDQpSZXNw
+b25kZXIgYTpnYWJyaWVsYWdhcmNpYUBjb3VyaWVycGFjay5jb20udmUNCkFzdW50bzogR2FzdG9z
+IHBvciBhbG1hY2VuYWplDQpFbnZpYWRvOiAxMCBEaWMsIDIwMTIgMDg6MjkNCg0KQnVlbmFzIETt
+YXOgIFNyIE9zbWFyIEFzcHJpbm8NClBvciBlc3RlIG1lZGlvIHNlIGxlIGluZm9ybWEgcXVlIHN1
+IGNhcmdhIHNlIGVuY3VlbnRyYSBlbiBudWVzdHJvcyBhbG1hY2VuZXMgZGVzZGUgZWwgZO1hIG1h
+cnRlcyA0IGRlIGRpY2llbWJyZSBkZWwgcHJlc2VudGUgYfFvIGxvIGN1YWwgbm9zIGVzdGEgZ2Vu
+ZXJhbmRvIGdhc3RvcyBkZSBhbG1hY2VuYWplLCBzZSBsZSByZWN1ZXJkYSBTZfFvciBBc3ByaW5v
+IHF1ZSB0cmFiYWphbW9zIGJham8gbGEgcG9s7XRpY2EgZGUgYWJhbmRvbm8gdm9sdW50YXJpbywg
+ZXZpdGFuZG8gZWwgbWlzbW8geSBjb25zaWRlcmFuZG8gc3UgY2FyZ2EgeS9vIGZsZXRlIHNlIGxl
+IGFuZXhhIGVsIGRldGFsbGUgYmFuY2FyaW8gYWdyYWRlY2llbmRvIHN1IGNhbmNlbGFjafNuIHBh
+cmEgcHJvY2VkZXIgYSBzdSBlbnbtbyBvIGVudHJlZ2EuIFNpbiBtYXMgbmFkYSBhIHF1ZSBoYWNl
+ciByZWZlcmVuY2lhIG1lIGRlc3BpZG8uIFRpdHVsYXI6IEdhYnJpZWxhIEEgR2FyY2lhIFAuICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIENvcnJpZW50ZTogMDEzNCAwMDY2IDEyIDA2NjMwNjk2
+MTMuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJh
+bmNvOiBCQU5FU0NPLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICBDLkkuIDE4LjUzOS4xMzguIA0KQ09VUklFUlBBQ0ssIG1hcmNhbmRvIGxhIGRp
+ZmVyZW5jaWEgZW4gZW52aW8gaW50ZXJuYWNpb25hbA0KDQpFc3RlIG1lbnNhamUgaGEgc2lkbyBl
+bnZpYWRvIGdyYWNpYXMgYWwgc2VydmljaW8gQmxhY2tCZXJyeSBkZSBNb3ZpbG5ldA==
+

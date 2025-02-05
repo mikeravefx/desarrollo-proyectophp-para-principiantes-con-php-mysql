@@ -1,0 +1,47 @@
+Return-path: <jhoabimalec@gmail.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Wed, 22 May 2013 07:48:19 -0430
+Received: from mail-bk0-f48.google.com ([209.85.214.48]:63092)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <jhoabimalec@gmail.com>)
+	id 1Uf7zn-003xfr-Do
+	for gabrielagarcia@courierpack.com.ve; Wed, 22 May 2013 07:48:19 -0430
+Received: by mail-bk0-f48.google.com with SMTP id jf3so1036250bkc.7
+        for <gabrielagarcia@courierpack.com.ve>; Wed, 22 May 2013 05:18:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=6LWMO45OMVdqUu7ErtDenEoLB+oE2JOogieUEug6568=;
+        b=wUsavXNosbcT+K5Carj0+FttkS09ht/n4rEBySi+srxYwVhaNGC+a34b+T2JoM9RkS
+         vWevB1vPQ4rzBMtl2WrHtXKEXaiGVFTmxsJD8I5/jpNz2qlwxTCyOPKp549Z8wcbFPao
+         GT0yoY6Q734U2oK1kQ1nwtR7MZUhwBs2UkwOFlBsagFIyCuuoBx0tRkMxEQhp5N2/9E/
+         qTkgHcbxkYmVu9UBpBScH7nJWALyIagrMTbAfGxQ5cylD1RBle5ZPVdNhQv44eRRbm5L
+         Tiq5gdKuNaw2KFCy+d4TSTlpdPfdSTd/4bT9aBfCawsrgbCFeixz2dvQ5C9zNOngpgOD
+         UfdQ==
+MIME-Version: 1.0
+X-Received: by 10.204.57.142 with SMTP id c14mr3546157bkh.7.1369225098340;
+ Wed, 22 May 2013 05:18:18 -0700 (PDT)
+Received: by 10.204.167.6 with HTTP; Wed, 22 May 2013 05:18:18 -0700 (PDT)
+Date: Wed, 22 May 2013 07:48:18 -0430
+Message-ID: <CABhuBLK5Lx5V02rxncCWc_8ysiy1L9rc_B25=Fxz5JDyoWhCLg@mail.gmail.com>
+Subject: Cuando puedas me llamas.. Elsi de Santana
+From: JHONNATAN SANTANA <jhoabimalec@gmail.com>
+To: gabrielagarcia@courierpack.com.ve
+Content-Type: multipart/alternative; boundary=001a11c375369adca004dd4d8f75
+
+--001a11c375369adca004dd4d8f75
+Content-Type: text/plain; charset=ISO-8859-1
+
+   Buen dia.. Gabi...
+
+    Cuando puedas me llamas...
+
+--001a11c375369adca004dd4d8f75
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><div style>=A0 =A0Buen dia.. Gabi...</div><div style><=
+br></div><div style>=A0 =A0 Cuando puedas me llamas... =A0</div></div>
+
+--001a11c375369adca004dd4d8f75--

@@ -1,0 +1,65 @@
+Return-path: <jhoabimalec@gmail.com>
+Envelope-to: gabrielagarcia@courierpack.com.ve
+Delivery-date: Wed, 30 Oct 2013 09:00:34 -0430
+Received: from mail-bk0-f67.google.com ([209.85.214.67]:64617)
+	by host.racksystem2.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <jhoabimalec@gmail.com>)
+	id 1VbVqz-000YiC-DS
+	for gabrielagarcia@courierpack.com.ve; Wed, 30 Oct 2013 09:00:34 -0430
+Received: by mail-bk0-f67.google.com with SMTP id na10so173263bkb.6
+        for <gabrielagarcia@courierpack.com.ve>; Wed, 30 Oct 2013 06:30:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=w8N8cZCPagpPu/2KoPsFdgEBfsOn/JtqHrtmvKpvV9U=;
+        b=BC/D2VK68qtRc7eyAVIBVFJESXFHNh3O5/eZdCzl3CNnildLNyvnzYD+3sEWEfxiN4
+         h2UlMpD7Lze0C+sQkb3lTBNDQLzTXywvnPKFtJNVedcsfiEeog6DxFWk4BEdPl28uft7
+         n9vufmFgvbXeRApQ1DrGj+d0FxJWpFPK6m9aTwRE2HsvUmTf6SzUda6n5z8dEcrIRZeU
+         a2+Tb8Olq38uR1T0HQoQsYmhqSbHOkGm+vREZZwiOydlokfwKEBR774ro64ihyPQgkWq
+         L/0wZbifiOQmXVxjGAemHAHWoUSe82ylZLFaoWDbMph2LKhRQDpAtiny+xaAvO0fMTXL
+         ycYg==
+MIME-Version: 1.0
+X-Received: by 10.205.34.208 with SMTP id st16mr473789bkb.55.1383139831715;
+ Wed, 30 Oct 2013 06:30:31 -0700 (PDT)
+Received: by 10.204.230.143 with HTTP; Wed, 30 Oct 2013 06:30:31 -0700 (PDT)
+In-Reply-To: <CABhuBLKHc=jM_xTjOg+V_goSGeHdOZ3mo98ZSUr6Ht5PAw5bow@mail.gmail.com>
+References: <CABhuBLKHc=jM_xTjOg+V_goSGeHdOZ3mo98ZSUr6Ht5PAw5bow@mail.gmail.com>
+Date: Wed, 30 Oct 2013 09:00:31 -0430
+Message-ID: <CABhuBLJGvg-Nbb268JaEczrb+CiAKazoDcOCbmGa5rFa1v3Ayw@mail.gmail.com>
+Subject: Fwd: Estatus del pedido e32238de9
+From: JHONNATAN SANTANA <jhoabimalec@gmail.com>
+To: gabrielagarcia@courierpack.com.ve, 
+	Gabriela A Garcia P <gabyalexa23@gmail.com>
+Content-Type: multipart/alternative; boundary=bcaec52c644f58431d04e9f55652
+
+--bcaec52c644f58431d04e9f55652
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+----------
+
+Buenas DIAS, Gabriela
+
+   Me gustar=EDa, saber cual es el estatus del pedido del tel=E9fono, en ca=
+so
+de que usted no me pueda responder o resolver, indicarme donde me puedo
+dirigir o a quien puede recurrir de CurierPack
+
+  Gracias... Jhonnatan Santana
+
+--bcaec52c644f58431d04e9f55652
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><br><div class=3D"gmail_quote">----------=A0<br><br><d=
+iv dir=3D"ltr">Buenas DIAS, Gabriela<div><br></div><div>=A0 =A0Me gustar=ED=
+a, saber cual es el estatus del pedido del tel=E9fono, en caso de que usted=
+ no me pueda responder o resolver, indicarme donde me puedo dirigir o a qui=
+en puede recurrir de CurierPack</div>
+
+<div><br></div><div>=A0 Gracias... Jhonnatan Santana</div></div>
+</div><br></div>
+
+--bcaec52c644f58431d04e9f55652--

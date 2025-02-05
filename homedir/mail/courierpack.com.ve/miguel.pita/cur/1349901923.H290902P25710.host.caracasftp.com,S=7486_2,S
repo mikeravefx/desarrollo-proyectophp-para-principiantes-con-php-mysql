@@ -1,0 +1,120 @@
+Return-path: <gabyalexa23@gmail.com>
+Envelope-to: miguel.pita@courierpack.com.ve
+Delivery-date: Wed, 10 Oct 2012 16:15:23 -0430
+Received: from mail-ia0-f180.google.com ([209.85.210.180]:34937)
+	by host.caracasftp.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.77)
+	(envelope-from <gabyalexa23@gmail.com>)
+	id 1TM39a-0006fy-Mb
+	for miguel.pita@courierpack.com.ve; Wed, 10 Oct 2012 16:15:21 -0430
+Received: by mail-ia0-f180.google.com with SMTP id f6so991808iag.39
+        for <miguel.pita@courierpack.com.ve>; Wed, 10 Oct 2012 13:45:13 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=x-rim-org-msg-ref-id:message-id:reply-to:x-priority:sensitivity
+         :importance:subject:to:from:date:content-type:mime-version;
+        bh=HaO5qVBUVs1/bnqLmbmGLdP+x5xvql/Tto9YRqKhFgU=;
+        b=rnZPcSEuA6kIjyeDvpnND4dgxM67lZxz4Fb2AX92AS+z5I4H0brzEuGhNIJEP/8z2F
+         bogfXg6eWCV5AXT+h7CKLjAL4gryDPl750LcOLnB/BOw0/mjLyBtJI5fNA4p/+1hVpx8
+         uh1au4wHqMszuLHEfhp4eZ07VU1InbOr3MLxpWqDh323zv3tnU+37lDlv5o0JCBm33Je
+         UeY7psPOh2lHV5bIgMEgMTxzlmllxd70OdBdrsQOT55M5sevhlq/ijku69haNu5LgUzN
+         oigJsU8DBaoLhvhRYhsCKPpaXUZ3O0SYBTI/jftqiOpBhG+kCOU34cIWZtQloFEsdF9E
+         h31Q==
+Received: by 10.50.182.230 with SMTP id eh6mr6611313igc.39.1349901913466;
+        Wed, 10 Oct 2012 13:45:13 -0700 (PDT)
+Received: from 172.29.195.205 (bda-74-82-80-84.bis6.us.blackberry.com. [74.82.80.84])
+        by mx.google.com with ESMTPS id bg2sm6811210igb.1.2012.10.10.13.45.12
+        (version=SSLv3 cipher=OTHER);
+        Wed, 10 Oct 2012 13:45:13 -0700 (PDT)
+X-rim-org-msg-ref-id:756565099
+Message-ID:<756565099-1349901911-cardhu_decombobulator_blackberry.rim.net-84016771-@b28.c2.bise6.blackberry>
+Reply-To: gabyalexa23@gmail.com
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: =?Windows-1252?B?UlY6IFJlc3BvbmRpZXJvbiB0dSBwcmVndW50YSBwb3IgZWwgYXJ07WN1bG8gRmFqYSBTb3BvcnRlIERlIEVtYmFyYXpv?=
+To: miguel.pita@courierpack.com.ve.
+From: gabyalexa23@gmail.com
+Date: Wed, 10 Oct 2012 20:45:09 +0000
+Content-Type: multipart/alternative; boundary="part5320-boundary-700583358-2108036552"
+MIME-Version: 1.0
+
+
+--part5320-boundary-700583358-2108036552
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset="Windows-1252"
+
+DQpFbnZpYWRvIGRlc2RlIG1pIEJsYWNrQmVycnkgZGUgTW92aXN0YXINCg0KLS0tLS1PcmlnaW5h
+bCBNZXNzYWdlLS0tLS0NCkZyb206IE1lcmNhZG9MaWJyZSA8bm8tcmVzcG9uZGVyQG1lcmNhZG9s
+aWJyZS5jb20+DQpEYXRlOiBXZWQsIDEwIE9jdCAyMDEyIDE2OjM1OjU5IC0wNDAwIChHTVQtMDQ6
+MDApDQpUbzogPGdhYnlhbGV4YTIzQGdtYWlsLmNvbT4NClN1YmplY3Q6IFJlc3BvbmRpZXJvbiB0
+dSBwcmVndW50YSBwb3IgZWwgYXJ07WN1bG8gRmFqYSBTb3BvcnRlIERlIEVtYmFyYXpvDQoNCiAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aHR0cDovL3d3dy5tZXJjYWRvbGlicmUuY29t
+LnZlPiAgICAgCiAgCkdhYnJpZWxhIEEsIApFbCB2ZW5kZWRvciBkZWwgYXJ07a1jdWxvICBGYWph
+IFNvcG9ydGUgRGUgRW1iYXJhem8gIDxodHRwczovL3d3dy5tZXJjYWRvbGlicmUuY29tL2ptcy9t
+bHYvbGd6L2xvZ2luP290cD0xZjdiM2RiNzIxMGEwZDA5NTBmMDU3MTgzOTUzMmY1OE5sY3RsaVIx
+MVMtLVJFU1RPXzMtUkVTVE9fMiZnbz1odHRwOi8vYXJ0aWN1bG8ubWVyY2Fkb2xpYnJlLmNvbS52
+ZS9NTFYtNDAyODU3MDA1LWZhamEtc29wb3J0ZS1kZS1lbWJhcmF6by1fSk0+ICAoY/NkaWdvIGRl
+IGFydO1jdWxvOiA0MDI4NTcwMDUpIHJlc3BvbmRp8yB0dSBwcmVndW50YS4gCiAKIAogCiBWZXIg
+cmVzcHVlc3RhIDxodHRwczovL3d3dy5tZXJjYWRvbGlicmUuY29tL2ptcy9tbHYvbGd6L2xvZ2lu
+P290cD0wYWE2NzAzNmM5MjJmNDY5YWMxZDlhNDE5MmFjN2UyZVdYVlZnVmZobVMtLVJFU1RPXzMt
+UkVTVE9fNCZnbz1odHRwczovL3F1ZXN0aW9ucy5tZXJjYWRvbGlicmUuY29tLnZlL2J1eWVyP2l0
+ZW09TUxWNDAyODU3MDA1JnF1ZXN0aW9uPTI0OTY3NTk2Njc+ICAKTWVyY2Fkb0xpYnJlICAgCiAg
+IDxodHRwOi8vd3d3Lm1lcmNhZG9saWJyZS5jb20vb3JnLWltZy9kbWFjL3RlbXBsYXRlcy9nZW5l
+cmljby9kbWFjX2Zvb3Rlci5naWY+ICAgIAogTm8gcmVzcG9uZGFzIGVzdGUgZS1tYWlsLiBBeXVk
+YSA8aHR0cDovL3d3dy5tZXJjYWRvbGlicmUuY29tLnZlL2F5dWRhX2hvbWU+IC4g
+
+--part5320-boundary-700583358-2108036552
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset="Windows-1252"
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj48aHRtbD48aGVhZD48bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgi
+IGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSI+PC9oZWFkPjxib2R5PjxkaXY+RW52aWFkbyBkZXNk
+ZSBtaSBCbGFja0JlcnJ5IGRlIE1vdmlzdGFyPC9kaXY+PGhyLz48ZGl2PjxiPkZyb206IDwvYj4g
+TWVyY2Fkb0xpYnJlICZsdDtuby1yZXNwb25kZXJAbWVyY2Fkb2xpYnJlLmNvbSZndDsNCjwvZGl2
+PjxkaXY+PGI+RGF0ZTogPC9iPldlZCwgMTAgT2N0IDIwMTIgMTY6MzU6NTkgLTA0MDAgKEdNVC0w
+NDowMCk8L2Rpdj48ZGl2PjxiPlRvOiA8L2I+Jmx0O2dhYnlhbGV4YTIzQGdtYWlsLmNvbSZndDs8
+L2Rpdj48ZGl2PjxiPlN1YmplY3Q6IDwvYj5SZXNwb25kaWVyb24gdHUgcHJlZ3VudGEgcG9yIGVs
+IGFydO1jdWxvIEZhamEgU29wb3J0ZSBEZSBFbWJhcmF6bzwvZGl2PjxkaXY+PGJyLz48L2Rpdj48
+dGFibGUgd2lkdGg9IjU1MCIgYm9yZGVyPSIwIiBhbGlnbj0iY2VudGVyIiBjZWxscGFkZGluZz0i
+MCIgY2VsbHNwYWNpbmc9IjAiIHN0eWxlPSJmb250LWZhbWlseTpBcmlhbCwgSGVsdmV0aWNhLCBz
+YW5zLXNlcmlmOyI+ICAgICA8dHI+ICAgICAgICAgPHRkIHdpZHRoPSIzIj48L3RkPiAgICAgICAg
+IDx0ZCB3aWR0aD0iMTc1Ij4gICAgICAgICAgICAgPGEgaHJlZj0iaHR0cDovL3d3dy5tZXJjYWRv
+bGlicmUuY29tLnZlIj4gICAgICAgICAgICAgPGltZyBzcmM9Imh0dHA6Ly93d3cubWVyY2Fkb2xp
+YnJlLmNvbS9vcmctaW1nL21haWxzYXV0b21hdGljb3MvbG9nb19tYWlsYXV0by5qcGciIHdpZHRo
+PSIxNzUiIGhlaWdodD0iNTUiIGJvcmRlcj0iMCIgLyBhbHQ9Ik1lcmNhZG9MaWJyZSI+ICAgICAg
+ICAgICAgPC9hPiAgICAgICAgPC90ZD4gICAgICAgICA8dGQgd2lkdGg9IjM3MiI+PC90ZD4gICA8
+L3RyPiAgICAgPHRyPiAgICAgICAgPHRkIGNvbHNwYW49IjMiIHN0eWxlPSJib3JkZXI6MXB4IHNv
+bGlkICNjMWMxYzE7IGJvcmRlci1ib3R0b206MHB4OyBwYWRkaW5nOjIwcHggMjBweCAxMHB4IDIw
+cHg7IGZvbnQtc2l6ZToxMnB4OyBjb2xvcjojMzMzMzMzOyBsaW5lLWhlaWdodDoxOHB4OyI+ICAg
+ICAgICAgICAgICAgICAgICAgPHA+R2FicmllbGEgQSw8L3A+ICAgICAgICAgICAgICA8cD5FbCB2
+ZW5kZWRvciBkZWwgYXJ07a1jdWxvIDxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSJodHRwczovL3d3
+dy5tZXJjYWRvbGlicmUuY29tL2ptcy9tbHYvbGd6L2xvZ2luP290cD0xZjdiM2RiNzIxMGEwZDA5
+NTBmMDU3MTgzOTUzMmY1OE5sY3RsaVIxMVMtLVJFU1RPXzMtUkVTVE9fMiZnbz1odHRwOi8vYXJ0
+aWN1bG8ubWVyY2Fkb2xpYnJlLmNvbS52ZS9NTFYtNDAyODU3MDA1LWZhamEtc29wb3J0ZS1kZS1l
+bWJhcmF6by1fSk0iPiBGYWphIFNvcG9ydGUgRGUgRW1iYXJhem8gPC9hPiAoY/NkaWdvIGRlIGFy
+dO1jdWxvOiA0MDI4NTcwMDUpIHJlc3BvbmRp8yB0dSBwcmVndW50YS4gIDxiciAvPiA8YnIgLz4g
+PGJyPiA8ZGl2IHN0eWxlPSJiYWNrZ3JvdW5kLWNvbG9yOiMwMDAwOTk7IGNvbG9yOiNGRkZGRkY7
+IHdpZHRoOjE4MHB4OyBtYXJnaW46YXV0bzsgcGFkZGluZzo1cHggOHB4IDsgbWFyZ2luLXRvcDoy
+MHB4OyBtYXJnaW4tbGVmdDo3MHB4OyBib3JkZXItYm90dG9tOjJweCBzb2xpZCAjMDAwMDAwOyBi
+b3JkZXItcmlnaHQ6MXB4IHNvbGlkICMwMDAwMDA7IHRleHQtYWxpZ246Y2VudGVyOyI+IDxhIGhy
+ZWY9Imh0dHBzOi8vd3d3Lm1lcmNhZG9saWJyZS5jb20vam1zL21sdi9sZ3ovbG9naW4/b3RwPTBh
+YTY3MDM2YzkyMmY0NjlhYzFkOWE0MTkyYWM3ZTJlV1hWVmdWZmhtUy0tUkVTVE9fMy1SRVNUT180
+JmdvPWh0dHBzOi8vcXVlc3Rpb25zLm1lcmNhZG9saWJyZS5jb20udmUvYnV5ZXI/aXRlbT1NTFY0
+MDI4NTcwMDUmcXVlc3Rpb249MjQ5Njc1OTY2NyIgc3R5bGU9ImNvbG9yOiNGRkZGRkY7IGZvbnQt
+c2l6ZToxNHB4OyBmb250LWZhbWlseTpBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOyBmb250
+LXdlaWdodDpib2xkOyB0ZXh0LWRlY29yYXRpb246bm9uZTsiPlZlciByZXNwdWVzdGE8L2E+PC9k
+aXY+PC9wPiAgICAgICAgICAgICAgICAgICAgPHA+TWVyY2Fkb0xpYnJlPC9wPiAgIDwvdGQ+ICAg
+ICA8L3RyPiAgICAgPHRyPiAgICAgPHRkIGhlaWdodD0iOSIgY29sc3Bhbj0iMyIgc3R5bGU9ImZv
+bnQtc2l6ZTowOzsgYm9yZGVyOjFweCBzb2xpZCAjYzFjMWMxOyBib3JkZXItdG9wOjA7Ij4gICAg
+ICAgICAgPGltZyBzcmM9Imh0dHA6Ly93d3cubWVyY2Fkb2xpYnJlLmNvbS9vcmctaW1nL2RtYWMv
+dGVtcGxhdGVzL2dlbmVyaWNvL2RtYWNfZm9vdGVyLmdpZiIgd2lkdGg9IjU1MCIgaGVpZ2h0PSI5
+IiAvPiAgICAgICA8L3RkPiAgICA8L3RyPiA8dHI+ICAgICA8dGQgY29sc3Bhbj0iMyIgc3R5bGU9
+ImZvbnQtc2l6ZToxMXB4OyBjb2xvcjojNjY2NjY2OyB0ZXh0LWFsaWduOmNlbnRlcjsgcGFkZGlu
+Zy10b3A6MTVweDsiPk5vIHJlc3BvbmRhcyBlc3RlIGUtbWFpbC4gPGEgaHJlZj0iaHR0cDovL3d3
+dy5tZXJjYWRvbGlicmUuY29tLnZlL2F5dWRhX2hvbWUiPkF5dWRhPC9hPi48L3RkPjwvdHI+IDwv
+dGFibGU+DQo8L2JvZHk+PC9odG1sPg==
+
+--part5320-boundary-700583358-2108036552--
+

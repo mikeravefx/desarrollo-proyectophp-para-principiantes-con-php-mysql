@@ -1,0 +1,62 @@
+Return-path: <courierp@courierpack.com.ve>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Thu, 10 May 2012 12:34:33 -0430
+Received: from localhost ([127.0.0.1]:48295)
+	by host.caracasftp.com with esmtpa (Exim 4.77)
+	(envelope-from <courierp@courierpack.com.ve>)
+	id 1SSWn1-00055U-Mk
+	for info@courierpack.com.ve; Thu, 10 May 2012 12:34:32 -0430
+Received: from 190.77.114.122 ([190.77.114.122]) by host.caracasftp.com
+ (Horde Framework) with HTTP; Thu, 10 May 2012 12:34:29 -0430
+Message-ID: <20120510123429.15743ep6z1j0v1gk@host.caracasftp.com>
+Date: Thu, 10 May 2012 12:34:29 -0430
+From: courierp@courierpack.com.ve
+To: info@courierpack.com.ve
+Subject: Fwd: Requisicion del Email desde el Web Site
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="=_5j84jv5vy"
+Content-Transfer-Encoding: 7bit
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.11)
+
+This message is in MIME format.
+
+--=_5j84jv5vy
+Content-Type: text/plain;
+ charset=ISO-8859-1;
+ DelSp="Yes";
+ format="flowed"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+
+
+--=_5j84jv5vy
+Content-Type: message/rfc822;
+ name="Mensaje reenviado: Requisicion del Email desde el Web Site"
+
+Return-path: <courierp@host.caracasftp.com>
+Envelope-to: info@courierpack.com.ve
+Delivery-date: Mon, 30 Apr 2012 12:07:53 -0430
+Received: from courierp by host.caracasftp.com with local (Exim 4.77)
+	(envelope-from <courierp@host.caracasftp.com>)
+	id 1SOtbk-0002W1-BK
+	for info@courierpack.com.ve; Mon, 30 Apr 2012 12:07:52 -0430
+To: info@courierpack.com.ve
+Subject: Requisicion del Email desde el Web Site
+X-PHP-Script: www.courierpack.com.ve/contacto.php for 186.164.36.198
+From:  yeceniaborrome@hotmail.com
+Reply-To:yeceniaborrome@hotmail.com
+X-Mailer:PHP/5.2.17
+Mime-Version: 1.0
+Content-Type: text/plain
+Message-Id: <E1SOtbk-0002W1-BK@host.caracasftp.com>
+Date: Mon, 30 Apr 2012 12:07:52 -0430
+
+Yecenia Marquez Escribio :
+Buenas tardes. Estoy interesada en usar sus servicios y quiero saber si pueden transportar perfumes. He intentado llamar a los numeros de contacto que tienen publicados pero ninguno cae.                 
+
+Mensaje Enviado el Dia:  30-04-12
+
+--=_5j84jv5vy--
+
